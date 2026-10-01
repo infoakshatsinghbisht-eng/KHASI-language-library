@@ -3,7 +3,7 @@
 [![PyPI Version](https://img.shields.io/pypi/v/khasi.svg)](https://pypi.org/project/khasi/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/khasi.svg)](https://pypi.org/project/khasi/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-khasi--language--library-blue.svg)](https://github.com/infoakshatsinghbisht-eng/khasi-language-library)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-KHASI--language--library-blue.svg)](https://github.com/infoakshatsinghbisht-eng/KHASI-language-library)
 [![Website](https://img.shields.io/badge/Website-akshatsinghbisht.com-orange.svg)](https://akshatsinghbisht.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat_Singh_Bisht-0077b5.svg)](https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Akshat_Bisht-00ccbb.svg)](https://www.researchgate.net/profile/Akshat-Bisht-8)
