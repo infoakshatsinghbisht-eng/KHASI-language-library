@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "khasi"
+version = "1.0.0"
+description = "Khasi (Ka Ktien Khasi) Language Library: 300,000+ Inflections, Multi-dialect Translation, NLP Toolkit, and Meghalaya Cultural Heritage"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Akshat Singh Bisht", email = "infoakshatsinghbisht@gmail.com" }
+]
+maintainers = [
+    { name = "Akshat Singh Bisht", email = "infoakshatsinghbisht@gmail.com" }
+]
+keywords = [
+    "khasi",
+    "meghalaya",
+    "shillong",
+    "cherrapunji",
+    "pnar",
+    "northeast-india",
+    "language-preservation",
+    "nlp",
+    "austroasiatic",
+    "mon-khmer",
+    "linguistics",
+    "indigenous-languages"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Text Processing :: Linguistic",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "flake8>=5.0.0",
+]
+
+[project.scripts]
+khasi = "khasi.cli:main"
+
+[tool.setuptools.package-data]
+"khasi.lexicon" = ["data/*.json"]

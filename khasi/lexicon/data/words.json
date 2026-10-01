@@ -1,0 +1,3043 @@
+[
+  {
+    "khasi": "mei",
+    "hindi": "माँ",
+    "english": "mother",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "mei",
+      "shillong": "mei",
+      "pnar": "bei",
+      "war": "me",
+      "bhoi": "mei"
+    }
+  },
+  {
+    "khasi": "pa",
+    "hindi": "पिताजी / पिता",
+    "english": "father",
+    "pos": "noun",
+    "gender": "u",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "pa",
+      "shillong": "pa",
+      "pnar": "pa",
+      "war": "pa",
+      "bhoi": "pa"
+    }
+  },
+  {
+    "khasi": "khadduh",
+    "hindi": "सबसे छोटी बेटी (उत्तराधिकारी)",
+    "english": "youngest daughter / matrilineal heiress",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "khadduh",
+      "shillong": "khadduh",
+      "pnar": "khatduh",
+      "war": "khadduh",
+      "bhoi": "khadduh"
+    }
+  },
+  {
+    "khasi": "kñi",
+    "hindi": "मामा / मातुल",
+    "english": "maternal uncle / family counselor",
+    "pos": "noun",
+    "gender": "u",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "kñi",
+      "shillong": "kñi",
+      "pnar": "kñi",
+      "war": "kñi",
+      "bhoi": "kñi"
+    }
+  },
+  {
+    "khasi": "kong",
+    "hindi": "दीदी / आदरणीय महिला",
+    "english": "elder sister / respectful address for woman",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "kong",
+      "shillong": "kong",
+      "pnar": "kong",
+      "war": "kong",
+      "bhoi": "kong"
+    }
+  },
+  {
+    "khasi": "bah",
+    "hindi": "भैया / आदरणीय पुरुष",
+    "english": "elder brother / respectful address for man",
+    "pos": "noun",
+    "gender": "u",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "bah",
+      "shillong": "bah",
+      "pnar": "waheh",
+      "war": "bah",
+      "bhoi": "bah"
+    }
+  },
+  {
+    "khasi": "hep",
+    "hindi": "छोटा भाई / बहन",
+    "english": "younger sibling",
+    "pos": "noun",
+    "gender": "i",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "hep",
+      "shillong": "hep",
+      "pnar": "hep",
+      "war": "hep",
+      "bhoi": "hep"
+    }
+  },
+  {
+    "khasi": "khun",
+    "hindi": "संतान / बच्चा",
+    "english": "child / son / daughter",
+    "pos": "noun",
+    "gender": "u / ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "khun",
+      "shillong": "khun",
+      "pnar": "khon",
+      "war": "khun",
+      "bhoi": "khun"
+    }
+  },
+  {
+    "khasi": "khunlung",
+    "hindi": "शिशु / नन्हा बच्चा",
+    "english": "infant / baby / small child",
+    "pos": "noun",
+    "gender": "i",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "khunlung",
+      "shillong": "khunlung",
+      "pnar": "khonlung",
+      "war": "khunlung",
+      "bhoi": "khunlung"
+    }
+  },
+  {
+    "khasi": "hynmen",
+    "hindi": "बड़ा भाई / बड़ी बहन",
+    "english": "elder sibling",
+    "pos": "noun",
+    "gender": "u / ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "hynmen",
+      "shillong": "hynmen",
+      "pnar": "hynmen",
+      "war": "hynmen",
+      "bhoi": "hynmen"
+    }
+  },
+  {
+    "khasi": "para",
+    "hindi": "छोटा भाई / छोटी बहन",
+    "english": "younger sibling",
+    "pos": "noun",
+    "gender": "u / ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "para",
+      "shillong": "para",
+      "pnar": "para",
+      "war": "para",
+      "bhoi": "para"
+    }
+  },
+  {
+    "khasi": "kmie-tymmen",
+    "hindi": "नानी / दादी",
+    "english": "grandmother",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "kmie-tymmen",
+      "shillong": "mei-rad",
+      "pnar": "bei-pun",
+      "war": "meirad",
+      "bhoi": "kmie-tymmen"
+    }
+  },
+  {
+    "khasi": "kpa-tymmen",
+    "hindi": "नाना / दादा",
+    "english": "grandfather",
+    "pos": "noun",
+    "gender": "u",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "kpa-tymmen",
+      "shillong": "pa-rad",
+      "pnar": "pa-pun",
+      "war": "parad",
+      "bhoi": "kpa-tymmen"
+    }
+  },
+  {
+    "khasi": "kur",
+    "hindi": "मातृकुल / मातृपक्षीय गोत्र",
+    "english": "maternal clan / lineage",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "kur",
+      "shillong": "kur",
+      "pnar": "kur",
+      "war": "kur",
+      "bhoi": "kur"
+    }
+  },
+  {
+    "khasi": "kha",
+    "hindi": "पितृकुल / पिता के संबंधी",
+    "english": "paternal clan / paternal relatives",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "kha",
+      "shillong": "kha",
+      "pnar": "kha",
+      "war": "kha",
+      "bhoi": "kha"
+    }
+  },
+  {
+    "khasi": "ïawbei",
+    "hindi": "मूल आदिमाता",
+    "english": "primal ancestral clan mother",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "ïawbei",
+      "shillong": "ïawbei",
+      "pnar": "ïawbei",
+      "war": "ïawbei",
+      "bhoi": "ïawbei"
+    }
+  },
+  {
+    "khasi": "thawlang",
+    "hindi": "मूल आदिपिता",
+    "english": "primal paternal ancestor",
+    "pos": "noun",
+    "gender": "u",
+    "category": "kinship",
+    "dialect_variants": {
+      "sohra": "thawlang",
+      "shillong": "thawlang",
+      "pnar": "thawlang",
+      "war": "thawlang",
+      "bhoi": "thawlang"
+    }
+  },
+  {
+    "khasi": "lok",
+    "hindi": "दोस्त / मित्र",
+    "english": "friend / companion",
+    "pos": "noun",
+    "gender": "u / ka",
+    "category": "society",
+    "dialect_variants": {
+      "sohra": "lok",
+      "shillong": "lok",
+      "pnar": "lok",
+      "war": "lok",
+      "bhoi": "lok"
+    }
+  },
+  {
+    "khasi": "khlieh",
+    "hindi": "सिर / मस्तक",
+    "english": "head",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "khlieh",
+      "shillong": "khlieh",
+      "pnar": "khlieh",
+      "war": "khlieh",
+      "bhoi": "khlieh"
+    }
+  },
+  {
+    "khasi": "khmat",
+    "hindi": "आँख",
+    "english": "eye",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "khmat",
+      "shillong": "khmat",
+      "pnar": "khmat",
+      "war": "khmat",
+      "bhoi": "khmat"
+    }
+  },
+  {
+    "khasi": "shkor",
+    "hindi": "कान",
+    "english": "ear",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "shkor",
+      "shillong": "shkor",
+      "pnar": "shkor",
+      "war": "shkor",
+      "bhoi": "shkor"
+    }
+  },
+  {
+    "khasi": "khmut",
+    "hindi": "नाक",
+    "english": "nose",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "khmut",
+      "shillong": "khmut",
+      "pnar": "khmut",
+      "war": "khmut",
+      "bhoi": "khmut"
+    }
+  },
+  {
+    "khasi": "shyntur",
+    "hindi": "मुँह / होंठ",
+    "english": "mouth / lips",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "shyntur",
+      "shillong": "shyntur",
+      "pnar": "shyntur",
+      "war": "shyntur",
+      "bhoi": "shyntur"
+    }
+  },
+  {
+    "khasi": "bniat",
+    "hindi": "दाँत",
+    "english": "tooth",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "bniat",
+      "shillong": "bniat",
+      "pnar": "bniat",
+      "war": "bniat",
+      "bhoi": "bniat"
+    }
+  },
+  {
+    "khasi": "thylliej",
+    "hindi": "जीभ",
+    "english": "tongue",
+    "pos": "noun",
+    "gender": "u",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "thylliej",
+      "shillong": "thylliej",
+      "pnar": "thylliej",
+      "war": "thylliej",
+      "bhoi": "thylliej"
+    }
+  },
+  {
+    "khasi": "kti",
+    "hindi": "हाथ",
+    "english": "hand / arm",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "kti",
+      "shillong": "kti",
+      "pnar": "kti",
+      "war": "kti",
+      "bhoi": "kti"
+    }
+  },
+  {
+    "khasi": "kjat",
+    "hindi": "पैर / पाँव",
+    "english": "foot / leg",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "kjat",
+      "shillong": "kjat",
+      "pnar": "kjat",
+      "war": "kjat",
+      "bhoi": "kjat"
+    }
+  },
+  {
+    "khasi": "kpoh",
+    "hindi": "पेट / कोख",
+    "english": "belly / womb / stomach",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "kpoh",
+      "shillong": "kpoh",
+      "pnar": "kpoh",
+      "war": "kpoh",
+      "bhoi": "kpoh"
+    }
+  },
+  {
+    "khasi": "klongsnam",
+    "hindi": "हृदय / दिल",
+    "english": "heart",
+    "pos": "noun",
+    "gender": "u",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "klongsnam",
+      "shillong": "klongsnam",
+      "pnar": "klongsnam",
+      "war": "klongsnam",
+      "bhoi": "klongsnam"
+    }
+  },
+  {
+    "khasi": "snam",
+    "hindi": "खून / रक्त",
+    "english": "blood",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "snam",
+      "shillong": "snam",
+      "pnar": "snam",
+      "war": "snam",
+      "bhoi": "snam"
+    }
+  },
+  {
+    "khasi": "shyieng",
+    "hindi": "हड्डी",
+    "english": "bone",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "shyieng",
+      "shillong": "shyieng",
+      "pnar": "shyieng",
+      "war": "shyieng",
+      "bhoi": "shyieng"
+    }
+  },
+  {
+    "khasi": "shñiuh",
+    "hindi": "बाल / केश",
+    "english": "hair",
+    "pos": "noun",
+    "gender": "u",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "shñiuh",
+      "shillong": "shñiuh",
+      "pnar": "shñiuh",
+      "war": "shñiuh",
+      "bhoi": "shñiuh"
+    }
+  },
+  {
+    "khasi": "sniehdoh",
+    "hindi": "त्वचा / चमड़ी",
+    "english": "skin",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "anatomy",
+    "dialect_variants": {
+      "sohra": "sniehdoh",
+      "shillong": "sniehdoh",
+      "pnar": "sniehdoh",
+      "war": "sniehdoh",
+      "bhoi": "sniehdoh"
+    }
+  },
+  {
+    "khasi": "lum",
+    "hindi": "पहाड़ / पर्वत",
+    "english": "mountain / hill",
+    "pos": "noun",
+    "gender": "u",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "lum",
+      "shillong": "lum",
+      "pnar": "lum",
+      "war": "lum",
+      "bhoi": "lum"
+    }
+  },
+  {
+    "khasi": "wah",
+    "hindi": "नदी",
+    "english": "river",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "wah",
+      "shillong": "wah",
+      "pnar": "wah",
+      "war": "wah",
+      "bhoi": "wah"
+    }
+  },
+  {
+    "khasi": "kshaid",
+    "hindi": "झरना / जलप्रपात",
+    "english": "waterfall",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "kshaid",
+      "shillong": "kshaid",
+      "pnar": "kshaid",
+      "war": "kshaid",
+      "bhoi": "kshaid"
+    }
+  },
+  {
+    "khasi": "um",
+    "hindi": "पानी / जल",
+    "english": "water",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "um",
+      "shillong": "um",
+      "pnar": "um",
+      "war": "um",
+      "bhoi": "um"
+    }
+  },
+  {
+    "khasi": "ding",
+    "hindi": "आग",
+    "english": "fire",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "ding",
+      "shillong": "ding",
+      "pnar": "ding",
+      "war": "ding",
+      "bhoi": "ding"
+    }
+  },
+  {
+    "khasi": "lyer",
+    "hindi": "हवा / वायु",
+    "english": "wind / air",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "lyer",
+      "shillong": "lyer",
+      "pnar": "lïer",
+      "war": "lyer",
+      "bhoi": "lyer"
+    }
+  },
+  {
+    "khasi": "khndew",
+    "hindi": "धरती / मिट्टी / भूमि",
+    "english": "earth / soil / ground",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "khndew",
+      "shillong": "khndew",
+      "pnar": "khndew",
+      "war": "khndew",
+      "bhoi": "khndew"
+    }
+  },
+  {
+    "khasi": "slap",
+    "hindi": "बारिश / वर्षा",
+    "english": "rain",
+    "pos": "noun",
+    "gender": "u",
+    "category": "weather",
+    "dialect_variants": {
+      "sohra": "slap",
+      "shillong": "slap",
+      "pnar": "slap",
+      "war": "slap",
+      "bhoi": "slap"
+    }
+  },
+  {
+    "khasi": "prai",
+    "hindi": "ओले / ओला-वृष्टि",
+    "english": "hail / hailstorm",
+    "pos": "noun",
+    "gender": "u",
+    "category": "weather",
+    "dialect_variants": {
+      "sohra": "prai",
+      "shillong": "prai",
+      "pnar": "prai",
+      "war": "prai",
+      "bhoi": "prai"
+    }
+  },
+  {
+    "khasi": "lyoh",
+    "hindi": "बादल / मेघ",
+    "english": "cloud",
+    "pos": "noun",
+    "gender": "u",
+    "category": "weather",
+    "dialect_variants": {
+      "sohra": "lyoh",
+      "shillong": "lyoh",
+      "pnar": "lyoh",
+      "war": "lyoh",
+      "bhoi": "lyoh"
+    }
+  },
+  {
+    "khasi": "sut",
+    "hindi": "कोहरा / धुंध",
+    "english": "fog / mist",
+    "pos": "noun",
+    "gender": "u",
+    "category": "weather",
+    "dialect_variants": {
+      "sohra": "sut",
+      "shillong": "sut",
+      "pnar": "sut",
+      "war": "sut",
+      "bhoi": "sut"
+    }
+  },
+  {
+    "khasi": "sngi",
+    "hindi": "सूरज / दिन",
+    "english": "sun / day",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "astronomy",
+    "dialect_variants": {
+      "sohra": "sngi",
+      "shillong": "sngi",
+      "pnar": "sngi",
+      "war": "sngi",
+      "bhoi": "sngi"
+    }
+  },
+  {
+    "khasi": "bnai",
+    "hindi": "चाँद / महीना",
+    "english": "moon / month",
+    "pos": "noun",
+    "gender": "u",
+    "category": "astronomy",
+    "dialect_variants": {
+      "sohra": "bnai",
+      "shillong": "bnai",
+      "pnar": "bnai",
+      "war": "bnai",
+      "bhoi": "bnai"
+    }
+  },
+  {
+    "khasi": "khlur",
+    "hindi": "तारा",
+    "english": "star",
+    "pos": "noun",
+    "gender": "u",
+    "category": "astronomy",
+    "dialect_variants": {
+      "sohra": "khlur",
+      "shillong": "khlur",
+      "pnar": "khlur",
+      "war": "khlur",
+      "bhoi": "khlur"
+    }
+  },
+  {
+    "khasi": "maw",
+    "hindi": "पत्थर / शिला",
+    "english": "stone / rock",
+    "pos": "noun",
+    "gender": "u",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "maw",
+      "shillong": "maw",
+      "pnar": "moo",
+      "war": "maw",
+      "bhoi": "maw"
+    }
+  },
+  {
+    "khasi": "mawbynna",
+    "hindi": "महापाषाण / स्मारक शिला (मेनहिर)",
+    "english": "megalith / memorial standing stone",
+    "pos": "noun",
+    "gender": "u",
+    "category": "culture",
+    "dialect_variants": {
+      "sohra": "mawbynna",
+      "shillong": "mawbynna",
+      "pnar": "moobynna",
+      "war": "mawbynna",
+      "bhoi": "mawbynna"
+    }
+  },
+  {
+    "khasi": "mawïong",
+    "hindi": "कोयला",
+    "english": "coal",
+    "pos": "noun",
+    "gender": "u",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "mawïong",
+      "shillong": "mawïong",
+      "pnar": "mooïong",
+      "war": "mawïong",
+      "bhoi": "mawïong"
+    }
+  },
+  {
+    "khasi": "khlaw",
+    "hindi": "जंगल / वन",
+    "english": "forest / jungle",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "khlaw",
+      "shillong": "khlaw",
+      "pnar": "khloo",
+      "war": "khlaw",
+      "bhoi": "khlaw"
+    }
+  },
+  {
+    "khasi": "them",
+    "hindi": "घाटी / तराई",
+    "english": "valley",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "nature",
+    "dialect_variants": {
+      "sohra": "them",
+      "shillong": "them",
+      "pnar": "them",
+      "war": "them",
+      "bhoi": "them"
+    }
+  },
+  {
+    "khasi": "pud",
+    "hindi": "सीमा / सरहद",
+    "english": "boundary / border",
+    "pos": "noun",
+    "gender": "u",
+    "category": "geography",
+    "dialect_variants": {
+      "sohra": "pud",
+      "shillong": "pud",
+      "pnar": "pud",
+      "war": "pud",
+      "bhoi": "pud"
+    }
+  },
+  {
+    "khasi": "dieng",
+    "hindi": "पेड़ / लकड़ी",
+    "english": "tree / wood",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "dieng",
+      "shillong": "dieng",
+      "pnar": "deing",
+      "war": "dieng",
+      "bhoi": "dieng"
+    }
+  },
+  {
+    "khasi": "tiew",
+    "hindi": "फूल / पुष्प",
+    "english": "flower",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "tiew",
+      "shillong": "tiew",
+      "pnar": "tiew",
+      "war": "tiew",
+      "bhoi": "tiew"
+    }
+  },
+  {
+    "khasi": "sla",
+    "hindi": "पत्ता / पत्ती",
+    "english": "leaf",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "sla",
+      "shillong": "sla",
+      "pnar": "sla",
+      "war": "sla",
+      "bhoi": "sla"
+    }
+  },
+  {
+    "khasi": "thied",
+    "hindi": "जड़",
+    "english": "root / vein",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "thied",
+      "shillong": "thied",
+      "pnar": "thied",
+      "war": "thied",
+      "bhoi": "thied"
+    }
+  },
+  {
+    "khasi": "phlang",
+    "hindi": "घास",
+    "english": "grass",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "phlang",
+      "shillong": "phlang",
+      "pnar": "phlang",
+      "war": "phlang",
+      "bhoi": "phlang"
+    }
+  },
+  {
+    "khasi": "kba",
+    "hindi": "धान / धान की फसल",
+    "english": "paddy / rice plant",
+    "pos": "noun",
+    "gender": "u",
+    "category": "agriculture",
+    "dialect_variants": {
+      "sohra": "kba",
+      "shillong": "kba",
+      "pnar": "kba",
+      "war": "kba",
+      "bhoi": "kba"
+    }
+  },
+  {
+    "khasi": "kper",
+    "hindi": "बगीचा / खेत",
+    "english": "garden / orchard / terrace",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "agriculture",
+    "dialect_variants": {
+      "sohra": "kper",
+      "shillong": "kper",
+      "pnar": "kper",
+      "war": "kper",
+      "bhoi": "kper"
+    }
+  },
+  {
+    "khasi": "soh",
+    "hindi": "फल",
+    "english": "fruit",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "soh",
+      "shillong": "soh",
+      "pnar": "soh",
+      "war": "soh",
+      "bhoi": "soh"
+    }
+  },
+  {
+    "khasi": "sohphlang",
+    "hindi": "सोहफ्लांग (पारंपरिक खासी कंद)",
+    "english": "Khasi tuber fruit (Flemingia vestita)",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "sohphlang",
+      "shillong": "sohphlang",
+      "pnar": "sohphlang",
+      "war": "sohphlang",
+      "bhoi": "sohphlang"
+    }
+  },
+  {
+    "khasi": "sohtrun",
+    "hindi": "अनानास",
+    "english": "pineapple",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "sohtrun",
+      "shillong": "sohtrun",
+      "pnar": "sohtrun",
+      "war": "sohtrun",
+      "bhoi": "sohtrun"
+    }
+  },
+  {
+    "khasi": "sohniamtra",
+    "hindi": "खासी संतरा",
+    "english": "Khasi mandarin orange",
+    "pos": "noun",
+    "gender": "u",
+    "category": "flora",
+    "dialect_variants": {
+      "sohra": "sohniamtra",
+      "shillong": "sohniamtra",
+      "pnar": "sohniamtra",
+      "war": "sohniamtra",
+      "bhoi": "sohniamtra"
+    }
+  },
+  {
+    "khasi": "masi",
+    "hindi": "गाय",
+    "english": "cow",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "masi",
+      "shillong": "masi",
+      "pnar": "masi",
+      "war": "masi",
+      "bhoi": "masi"
+    }
+  },
+  {
+    "khasi": "masi-dab",
+    "hindi": "बैल",
+    "english": "bull / ox",
+    "pos": "noun",
+    "gender": "u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "masi-dab",
+      "shillong": "masi-dab",
+      "pnar": "masi-dab",
+      "war": "masi-dab",
+      "bhoi": "masi-dab"
+    }
+  },
+  {
+    "khasi": "kulai",
+    "hindi": "घोड़ा",
+    "english": "horse",
+    "pos": "noun",
+    "gender": "u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "kulai",
+      "shillong": "kulai",
+      "pnar": "kulai",
+      "war": "kulai",
+      "bhoi": "kulai"
+    }
+  },
+  {
+    "khasi": "ksew",
+    "hindi": "कुत्ता",
+    "english": "dog",
+    "pos": "noun",
+    "gender": "u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "ksew",
+      "shillong": "ksew",
+      "pnar": "ksoo",
+      "war": "ksew",
+      "bhoi": "ksew"
+    }
+  },
+  {
+    "khasi": "miaw",
+    "hindi": "बिल्ली",
+    "english": "cat",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "miaw",
+      "shillong": "miaw",
+      "pnar": "miaw",
+      "war": "miaw",
+      "bhoi": "miaw"
+    }
+  },
+  {
+    "khasi": "sniang",
+    "hindi": "सूअर",
+    "english": "pig / swine",
+    "pos": "noun",
+    "gender": "u / ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "sniang",
+      "shillong": "sniang",
+      "pnar": "sniang",
+      "war": "sniang",
+      "bhoi": "sniang"
+    }
+  },
+  {
+    "khasi": "blang",
+    "hindi": "बकरी",
+    "english": "goat",
+    "pos": "noun",
+    "gender": "ka / u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "blang",
+      "shillong": "blang",
+      "pnar": "blang",
+      "war": "blang",
+      "bhoi": "blang"
+    }
+  },
+  {
+    "khasi": "sim",
+    "hindi": "चिड़िया / पक्षी",
+    "english": "bird",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "sim",
+      "shillong": "sim",
+      "pnar": "kreb",
+      "war": "sim",
+      "bhoi": "sim"
+    }
+  },
+  {
+    "khasi": "syiar",
+    "hindi": "मुर्गा / मुर्गी",
+    "english": "fowl / rooster / chicken",
+    "pos": "noun",
+    "gender": "u / ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "syiar",
+      "shillong": "syiar",
+      "pnar": "syiar",
+      "war": "syiar",
+      "bhoi": "syiar"
+    }
+  },
+  {
+    "khasi": "dohkha",
+    "hindi": "मछली",
+    "english": "fish",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "dohkha",
+      "shillong": "dohkha",
+      "pnar": "dakha",
+      "war": "dohkha",
+      "bhoi": "dohkha"
+    }
+  },
+  {
+    "khasi": "khla",
+    "hindi": "बाघ / शेर",
+    "english": "tiger",
+    "pos": "noun",
+    "gender": "u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "khla",
+      "shillong": "khla",
+      "pnar": "khla",
+      "war": "khla",
+      "bhoi": "khla"
+    }
+  },
+  {
+    "khasi": "hati",
+    "hindi": "हाथी",
+    "english": "elephant",
+    "pos": "noun",
+    "gender": "u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "hati",
+      "shillong": "hati",
+      "pnar": "hati",
+      "war": "hati",
+      "bhoi": "hati"
+    }
+  },
+  {
+    "khasi": "bsein",
+    "hindi": "साँप / सर्प",
+    "english": "snake / serpent",
+    "pos": "noun",
+    "gender": "u",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "bsein",
+      "shillong": "bsein",
+      "pnar": "bsein",
+      "war": "bsein",
+      "bhoi": "bsein"
+    }
+  },
+  {
+    "khasi": "thlen",
+    "hindi": "थ्लेन (पौराणिक असुर सर्प)",
+    "english": "mythical giant evil serpent / dragon",
+    "pos": "noun",
+    "gender": "u",
+    "category": "mythology",
+    "dialect_variants": {
+      "sohra": "thlen",
+      "shillong": "thlen",
+      "pnar": "thlen",
+      "war": "thlen",
+      "bhoi": "thlen"
+    }
+  },
+  {
+    "khasi": "ngap",
+    "hindi": "मधुमक्खी",
+    "english": "bee / honeybee",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "fauna",
+    "dialect_variants": {
+      "sohra": "ngap",
+      "shillong": "ngap",
+      "pnar": "ngap",
+      "war": "ngap",
+      "bhoi": "ngap"
+    }
+  },
+  {
+    "khasi": "ja",
+    "hindi": "चावल / भात / भोजन",
+    "english": "cooked rice / meal",
+    "pos": "noun",
+    "gender": "u",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "ja",
+      "shillong": "ja",
+      "pnar": "ja",
+      "war": "ja",
+      "bhoi": "ja"
+    }
+  },
+  {
+    "khasi": "jadoh",
+    "hindi": "जादोह (मांस-भात व्यंजन)",
+    "english": "Jadoh (traditional Khasi rice cooked with meat)",
+    "pos": "noun",
+    "gender": "u",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "jadoh",
+      "shillong": "jadoh",
+      "pnar": "jadoh",
+      "war": "jadoh",
+      "bhoi": "jadoh"
+    }
+  },
+  {
+    "khasi": "doh",
+    "hindi": "मांस / मीट",
+    "english": "meat",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "doh",
+      "shillong": "doh",
+      "pnar": "doh",
+      "war": "doh",
+      "bhoi": "doh"
+    }
+  },
+  {
+    "khasi": "dohsniang",
+    "hindi": "सूअर का मांस (पोर्क)",
+    "english": "pork",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "dohsniang",
+      "shillong": "dohsniang",
+      "pnar": "dohsniang",
+      "war": "dohsniang",
+      "bhoi": "dohsniang"
+    }
+  },
+  {
+    "khasi": "dohsyiar",
+    "hindi": "मुर्गे का मांस (चिकन)",
+    "english": "chicken meat",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "dohsyiar",
+      "shillong": "dohsyiar",
+      "pnar": "dohsyiar",
+      "war": "dohsyiar",
+      "bhoi": "dohsyiar"
+    }
+  },
+  {
+    "khasi": "jhur",
+    "hindi": "सब्जी",
+    "english": "vegetables",
+    "pos": "noun",
+    "gender": "u",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "jhur",
+      "shillong": "jhur",
+      "pnar": "jhur",
+      "war": "jhur",
+      "bhoi": "jhur"
+    }
+  },
+  {
+    "khasi": "phan",
+    "hindi": "आलू",
+    "english": "potato",
+    "pos": "noun",
+    "gender": "u",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "phan",
+      "shillong": "phan",
+      "pnar": "phan",
+      "war": "phan",
+      "bhoi": "phan"
+    }
+  },
+  {
+    "khasi": "kwai",
+    "hindi": "सुपारी (अतिथि सत्कार का प्रतीक)",
+    "english": "betel nut (symbol of Khasi hospitality)",
+    "pos": "noun",
+    "gender": "u",
+    "category": "culture",
+    "dialect_variants": {
+      "sohra": "kwai",
+      "shillong": "kwai",
+      "pnar": "kwai",
+      "war": "kwai",
+      "bhoi": "kwai"
+    }
+  },
+  {
+    "khasi": "tympew",
+    "hindi": "पान का पत्ता",
+    "english": "betel leaf",
+    "pos": "noun",
+    "gender": "u",
+    "category": "culture",
+    "dialect_variants": {
+      "sohra": "tympew",
+      "shillong": "tympew",
+      "pnar": "tympew",
+      "war": "tympew",
+      "bhoi": "tympew"
+    }
+  },
+  {
+    "khasi": "shuni",
+    "hindi": "चूना",
+    "english": "lime (edible, for betel)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "shuni",
+      "shillong": "shuni",
+      "pnar": "shuni",
+      "war": "shuni",
+      "bhoi": "shuni"
+    }
+  },
+  {
+    "khasi": "sha",
+    "hindi": "चाय",
+    "english": "tea",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "sha",
+      "shillong": "sha",
+      "pnar": "sha",
+      "war": "sha",
+      "bhoi": "sha"
+    }
+  },
+  {
+    "khasi": "shasaw",
+    "hindi": "लाल चाय (बिना दूध की खासी चाय)",
+    "english": "red tea / black tea without milk",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "shasaw",
+      "shillong": "shasaw",
+      "pnar": "shasaw",
+      "war": "shasaw",
+      "bhoi": "shasaw"
+    }
+  },
+  {
+    "khasi": "dud",
+    "hindi": "दूध",
+    "english": "milk",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "dud",
+      "shillong": "dud",
+      "pnar": "dud",
+      "war": "dud",
+      "bhoi": "dud"
+    }
+  },
+  {
+    "khasi": "mluh",
+    "hindi": "नमक",
+    "english": "salt",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "mluh",
+      "shillong": "mluh",
+      "pnar": "mluh",
+      "war": "mluh",
+      "bhoi": "mluh"
+    }
+  },
+  {
+    "khasi": "sohmynken",
+    "hindi": "मिर्च",
+    "english": "chili / pepper",
+    "pos": "noun",
+    "gender": "u",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "sohmynken",
+      "shillong": "sohmynken",
+      "pnar": "sohmynken",
+      "war": "sohmynken",
+      "bhoi": "sohmynken"
+    }
+  },
+  {
+    "khasi": "ngap-um",
+    "hindi": "शहद / मधु",
+    "english": "honey",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "food",
+    "dialect_variants": {
+      "sohra": "ngap-um",
+      "shillong": "ngap-um",
+      "pnar": "ngap-um",
+      "war": "ngap-um",
+      "bhoi": "ngap-um"
+    }
+  },
+  {
+    "khasi": "ïing",
+    "hindi": "घर / मकान",
+    "english": "house / home",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "material_culture",
+    "dialect_variants": {
+      "sohra": "ïing",
+      "shillong": "ïing",
+      "pnar": "ïung",
+      "war": "ïing",
+      "bhoi": "ïing"
+    }
+  },
+  {
+    "khasi": "ïing-sad",
+    "hindi": "मूल पैतृक मातृगृह",
+    "english": "ancestral house / seat of matrilineal rites",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "culture",
+    "dialect_variants": {
+      "sohra": "ïing-sad",
+      "shillong": "ïing-sad",
+      "pnar": "ïung-sad",
+      "war": "ïing-sad",
+      "bhoi": "ïing-sad"
+    }
+  },
+  {
+    "khasi": "jainsem",
+    "hindi": "जैनसेम (खासी महिला का पारंपरिक परिधान)",
+    "english": "Jainsem (traditional Khasi two-piece female attire)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "clothing",
+    "dialect_variants": {
+      "sohra": "jainsem",
+      "shillong": "jainsem",
+      "pnar": "jainsem",
+      "war": "jainsem",
+      "bhoi": "jainsem"
+    }
+  },
+  {
+    "khasi": "dhara",
+    "hindi": "धारा (रेशमी पारंपरिक परिधान)",
+    "english": "Dhara (ceremonial silk dress worn during festivals)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "clothing",
+    "dialect_variants": {
+      "sohra": "dhara",
+      "shillong": "dhara",
+      "pnar": "dhara",
+      "war": "dhara",
+      "bhoi": "dhara"
+    }
+  },
+  {
+    "khasi": "ryndia",
+    "hindi": "रिनडिया (अंडी रेशम)",
+    "english": "Ryndia (indigenous wild Eri silk fabric)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "clothing",
+    "dialect_variants": {
+      "sohra": "ryndia",
+      "shillong": "ryndia",
+      "pnar": "ryndia",
+      "war": "ryndia",
+      "bhoi": "ryndia"
+    }
+  },
+  {
+    "khasi": "spong",
+    "hindi": "पगड़ी",
+    "english": "turban / headdress",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "clothing",
+    "dialect_variants": {
+      "sohra": "spong",
+      "shillong": "spong",
+      "pnar": "spong",
+      "war": "spong",
+      "bhoi": "spong"
+    }
+  },
+  {
+    "khasi": "pansngiat",
+    "hindi": "मुकुट (स्वर्ण/रजत मुकुट)",
+    "english": "traditional crown worn by dancing maidens",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "clothing",
+    "dialect_variants": {
+      "sohra": "pansngiat",
+      "shillong": "pansngiat",
+      "pnar": "pansngiat",
+      "war": "pansngiat",
+      "bhoi": "pansngiat"
+    }
+  },
+  {
+    "khasi": "knup",
+    "hindi": "क्नुप (बांस व पत्तों से बनी पारंपरिक वर्षा छतरी)",
+    "english": "Knup (traditional rain shield made of woven bamboo and leaves)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "tools",
+    "dialect_variants": {
+      "sohra": "knup",
+      "shillong": "knup",
+      "pnar": "knup",
+      "war": "knup",
+      "bhoi": "knup"
+    }
+  },
+  {
+    "khasi": "khoh",
+    "hindi": "खोह (शंक्वाकार बाँस की टोकरी)",
+    "english": "conical bamboo basket carried with forehead strap",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "tools",
+    "dialect_variants": {
+      "sohra": "khoh",
+      "shillong": "khoh",
+      "pnar": "khoh",
+      "war": "khoh",
+      "bhoi": "khoh"
+    }
+  },
+  {
+    "khasi": "star",
+    "hindi": "टोकरी का ललाट पट्टा",
+    "english": "headband strap for carrying conical baskets",
+    "pos": "noun",
+    "gender": "u",
+    "category": "tools",
+    "dialect_variants": {
+      "sohra": "star",
+      "shillong": "star",
+      "pnar": "star",
+      "war": "star",
+      "bhoi": "star"
+    }
+  },
+  {
+    "khasi": "ksing",
+    "hindi": "पारंपरिक नगाड़ा / ढोल",
+    "english": "traditional festival drum",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "music",
+    "dialect_variants": {
+      "sohra": "ksing",
+      "shillong": "ksing",
+      "pnar": "ksing",
+      "war": "ksing",
+      "bhoi": "ksing"
+    }
+  },
+  {
+    "khasi": "tangmuri",
+    "hindi": "तांगमुरी (पारंपरिक शहनाई/बांसुरी)",
+    "english": "Tangmuri (traditional Khasi wooden wind instrument)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "music",
+    "dialect_variants": {
+      "sohra": "tangmuri",
+      "shillong": "tangmuri",
+      "pnar": "tangmuri",
+      "war": "tangmuri",
+      "bhoi": "tangmuri"
+    }
+  },
+  {
+    "khasi": "duitara",
+    "hindi": "दुइतारा (पारंपरिक तार वाद्य)",
+    "english": "Duitara (Khasi stringed folk instrument)",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "music",
+    "dialect_variants": {
+      "sohra": "duitara",
+      "shillong": "duitara",
+      "pnar": "duitara",
+      "war": "duitara",
+      "bhoi": "duitara"
+    }
+  },
+  {
+    "khasi": "rashi",
+    "hindi": "दरांती / हँसिया",
+    "english": "sickle",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "tools",
+    "dialect_variants": {
+      "sohra": "rashi",
+      "shillong": "rashi",
+      "pnar": "rashi",
+      "war": "rashi",
+      "bhoi": "rashi"
+    }
+  },
+  {
+    "khasi": "pliang",
+    "hindi": "थाली / प्लेट",
+    "english": "plate / dish",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "household",
+    "dialect_variants": {
+      "sohra": "pliang",
+      "shillong": "pliang",
+      "pnar": "pliang",
+      "war": "pliang",
+      "bhoi": "pliang"
+    }
+  },
+  {
+    "khasi": "kura",
+    "hindi": "कटोरा / प्याला",
+    "english": "bowl / cup",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "household",
+    "dialect_variants": {
+      "sohra": "kura",
+      "shillong": "kura",
+      "pnar": "kura",
+      "war": "kura",
+      "bhoi": "kura"
+    }
+  },
+  {
+    "khasi": "kot",
+    "hindi": "किताब / पुस्तक / कागज",
+    "english": "book / paper",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "education",
+    "dialect_variants": {
+      "sohra": "kot",
+      "shillong": "kot",
+      "pnar": "kot",
+      "war": "kot",
+      "bhoi": "kot"
+    }
+  },
+  {
+    "khasi": "shnong",
+    "hindi": "गाँव / बस्ती",
+    "english": "village / hometown",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "society",
+    "dialect_variants": {
+      "sohra": "shnong",
+      "shillong": "shnong",
+      "pnar": "chnong",
+      "war": "shnong",
+      "bhoi": "shnong"
+    }
+  },
+  {
+    "khasi": "sor",
+    "hindi": "शहर / नगर",
+    "english": "city / town",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "society",
+    "dialect_variants": {
+      "sohra": "sor",
+      "shillong": "sor",
+      "pnar": "sor",
+      "war": "sor",
+      "bhoi": "sor"
+    }
+  },
+  {
+    "khasi": "blei",
+    "hindi": "ईश्वर / भगवान / विधाता",
+    "english": "God / Creator / deity",
+    "pos": "noun",
+    "gender": "u",
+    "category": "religion",
+    "dialect_variants": {
+      "sohra": "blei",
+      "shillong": "blei",
+      "pnar": "blai",
+      "war": "blei",
+      "bhoi": "blei"
+    }
+  },
+  {
+    "khasi": "hok",
+    "hindi": "सत्य / धर्म / न्याय",
+    "english": "righteousness / truth / justice",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "philosophy",
+    "dialect_variants": {
+      "sohra": "hok",
+      "shillong": "hok",
+      "pnar": "hok",
+      "war": "hok",
+      "bhoi": "hok"
+    }
+  },
+  {
+    "khasi": "sang",
+    "hindi": "पाप / निषेध / धार्मिक वर्जना",
+    "english": "taboo / sacrilege / moral prohibition",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "religion",
+    "dialect_variants": {
+      "sohra": "sang",
+      "shillong": "sang",
+      "pnar": "sang",
+      "war": "sang",
+      "bhoi": "sang"
+    }
+  },
+  {
+    "khasi": "syiem",
+    "hindi": "राजा / शासक / प्रमुख",
+    "english": "king / chieftain of Khasi native state (Syiemship)",
+    "pos": "noun",
+    "gender": "u",
+    "category": "governance",
+    "dialect_variants": {
+      "sohra": "syiem",
+      "shillong": "syiem",
+      "pnar": "siem",
+      "war": "syiem",
+      "bhoi": "syiem"
+    }
+  },
+  {
+    "khasi": "lyngdoh",
+    "hindi": "पुजारी / पुरोहित",
+    "english": "priest / clan elder administering spiritual rites",
+    "pos": "noun",
+    "gender": "u",
+    "category": "religion",
+    "dialect_variants": {
+      "sohra": "lyngdoh",
+      "shillong": "lyngdoh",
+      "pnar": "lyngdoh",
+      "war": "lyngdoh",
+      "bhoi": "lyngdoh"
+    }
+  },
+  {
+    "khasi": "myntri",
+    "hindi": "मंत्री / सलाहकार",
+    "english": "minister / elder councilor in Syiemship",
+    "pos": "noun",
+    "gender": "u",
+    "category": "governance",
+    "dialect_variants": {
+      "sohra": "myntri",
+      "shillong": "myntri",
+      "pnar": "myntri",
+      "war": "myntri",
+      "bhoi": "myntri"
+    }
+  },
+  {
+    "khasi": "dorbar",
+    "hindi": "सभा / जन-पंचायत",
+    "english": "assembly / council / traditional parliament",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "governance",
+    "dialect_variants": {
+      "sohra": "dorbar",
+      "shillong": "dorbar",
+      "pnar": "dorbar",
+      "war": "dorbar",
+      "bhoi": "dorbar"
+    }
+  },
+  {
+    "khasi": "dorbar-shnong",
+    "hindi": "गाँव सभा / ग्राम पंचायत",
+    "english": "village council assembly",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "governance",
+    "dialect_variants": {
+      "sohra": "dorbar-shnong",
+      "shillong": "dorbar-shnong",
+      "pnar": "dorbar-chnong",
+      "war": "dorbar-shnong",
+      "bhoi": "dorbar-shnong"
+    }
+  },
+  {
+    "khasi": "riti",
+    "hindi": "पारंपरिक कानून / प्रथा",
+    "english": "customary law / unwritten indigenous constitution",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "governance",
+    "dialect_variants": {
+      "sohra": "riti",
+      "shillong": "riti",
+      "pnar": "riti",
+      "war": "riti",
+      "bhoi": "riti"
+    }
+  },
+  {
+    "khasi": "phawar",
+    "hindi": "फावार (पारंपरिक काव्यात्मक छंद)",
+    "english": "traditional rhyming chant / poetic proverb",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "culture",
+    "dialect_variants": {
+      "sohra": "phawar",
+      "shillong": "phawar",
+      "pnar": "phawar",
+      "war": "phawar",
+      "bhoi": "phawar"
+    }
+  },
+  {
+    "khasi": "shad",
+    "hindi": "नाच / नृत्य",
+    "english": "dance",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "culture",
+    "dialect_variants": {
+      "sohra": "shad",
+      "shillong": "shad",
+      "pnar": "chaat",
+      "war": "shad",
+      "bhoi": "shad"
+    }
+  },
+  {
+    "khasi": "niam",
+    "hindi": "धर्म / आस्था",
+    "english": "indigenous faith / religion",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "religion",
+    "dialect_variants": {
+      "sohra": "niam",
+      "shillong": "niam",
+      "pnar": "niam",
+      "war": "niam",
+      "bhoi": "niam"
+    }
+  },
+  {
+    "khasi": "jingim",
+    "hindi": "जीवन / जिंदगी",
+    "english": "life",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "philosophy",
+    "dialect_variants": {
+      "sohra": "jingim",
+      "shillong": "jingim",
+      "pnar": "jingim",
+      "war": "jingim",
+      "bhoi": "jingim"
+    }
+  },
+  {
+    "khasi": "jingieit",
+    "hindi": "प्रेम / प्यार",
+    "english": "love / affection",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "emotion",
+    "dialect_variants": {
+      "sohra": "jingieit",
+      "shillong": "jingieit",
+      "pnar": "jingmaya",
+      "war": "jingieit",
+      "bhoi": "jingieit"
+    }
+  },
+  {
+    "khasi": "jingstad",
+    "hindi": "बुद्धि / ज्ञान / प्रज्ञा",
+    "english": "wisdom / knowledge",
+    "pos": "noun",
+    "gender": "ka",
+    "category": "philosophy",
+    "dialect_variants": {
+      "sohra": "jingstad",
+      "shillong": "jingstad",
+      "pnar": "jingstad",
+      "war": "jingstad",
+      "bhoi": "jingstad"
+    }
+  },
+  {
+    "khasi": "wan",
+    "hindi": "आना",
+    "english": "come",
+    "pos": "verb",
+    "category": "motion",
+    "dialect_variants": {
+      "sohra": "wan",
+      "shillong": "wan",
+      "pnar": "wan",
+      "war": "wan",
+      "bhoi": "wan"
+    }
+  },
+  {
+    "khasi": "leit",
+    "hindi": "जाना",
+    "english": "go",
+    "pos": "verb",
+    "category": "motion",
+    "dialect_variants": {
+      "sohra": "leit",
+      "shillong": "leit",
+      "pnar": "lai",
+      "war": "leit",
+      "bhoi": "leit"
+    }
+  },
+  {
+    "khasi": "bam",
+    "hindi": "खाना",
+    "english": "eat",
+    "pos": "verb",
+    "category": "ingestion",
+    "dialect_variants": {
+      "sohra": "bam",
+      "shillong": "bam",
+      "pnar": "bam",
+      "war": "bam",
+      "bhoi": "bam"
+    }
+  },
+  {
+    "khasi": "dih",
+    "hindi": "पीना",
+    "english": "drink",
+    "pos": "verb",
+    "category": "ingestion",
+    "dialect_variants": {
+      "sohra": "dih",
+      "shillong": "dih",
+      "pnar": "dih",
+      "war": "dih",
+      "bhoi": "dih"
+    }
+  },
+  {
+    "khasi": "thoh",
+    "hindi": "लिखना",
+    "english": "write",
+    "pos": "verb",
+    "category": "communication",
+    "dialect_variants": {
+      "sohra": "thoh",
+      "shillong": "thoh",
+      "pnar": "thoh",
+      "war": "thoh",
+      "bhoi": "thoh"
+    }
+  },
+  {
+    "khasi": "pule",
+    "hindi": "पढ़ना / अध्ययन करना",
+    "english": "read / study",
+    "pos": "verb",
+    "category": "education",
+    "dialect_variants": {
+      "sohra": "pule",
+      "shillong": "pule",
+      "pnar": "purai",
+      "war": "pule",
+      "bhoi": "pule"
+    }
+  },
+  {
+    "khasi": "trei",
+    "hindi": "काम करना / परिश्रम",
+    "english": "work / labor",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "trei",
+      "shillong": "trei",
+      "pnar": "trei",
+      "war": "trei",
+      "bhoi": "trei"
+    }
+  },
+  {
+    "khasi": "thiah",
+    "hindi": "सोना / लेटना",
+    "english": "sleep / lie down",
+    "pos": "verb",
+    "category": "rest",
+    "dialect_variants": {
+      "sohra": "thiah",
+      "shillong": "thiah",
+      "pnar": "thiah",
+      "war": "thiah",
+      "bhoi": "thiah"
+    }
+  },
+  {
+    "khasi": "khie",
+    "hindi": "उठना / जागना",
+    "english": "wake up / rise",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "khie",
+      "shillong": "khie",
+      "pnar": "khie",
+      "war": "khie",
+      "bhoi": "khie"
+    }
+  },
+  {
+    "khasi": "ïaid",
+    "hindi": "चलना",
+    "english": "walk",
+    "pos": "verb",
+    "category": "motion",
+    "dialect_variants": {
+      "sohra": "ïaid",
+      "shillong": "ïaid",
+      "pnar": "ïaid",
+      "war": "ïaid",
+      "bhoi": "ïaid"
+    }
+  },
+  {
+    "khasi": "phet",
+    "hindi": "दौड़ना / भागना",
+    "english": "run / flee",
+    "pos": "verb",
+    "category": "motion",
+    "dialect_variants": {
+      "sohra": "phet",
+      "shillong": "phet",
+      "pnar": "phet",
+      "war": "phet",
+      "bhoi": "phet"
+    }
+  },
+  {
+    "khasi": "kren",
+    "hindi": "बोलना / बात करना",
+    "english": "speak / talk",
+    "pos": "verb",
+    "category": "communication",
+    "dialect_variants": {
+      "sohra": "kren",
+      "shillong": "kren",
+      "pnar": "klaw",
+      "war": "kren",
+      "bhoi": "kren"
+    }
+  },
+  {
+    "khasi": "ïoh",
+    "hindi": "पाना / मिलना",
+    "english": "receive / obtain",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "ïoh",
+      "shillong": "ïoh",
+      "pnar": "yoh",
+      "war": "ïoh",
+      "bhoi": "ïoh"
+    }
+  },
+  {
+    "khasi": "ïohi",
+    "hindi": "देखना",
+    "english": "see",
+    "pos": "verb",
+    "category": "perception",
+    "dialect_variants": {
+      "sohra": "ïohi",
+      "shillong": "ïohi",
+      "pnar": "yoo",
+      "war": "ïohi",
+      "bhoi": "ïohi"
+    }
+  },
+  {
+    "khasi": "sngap",
+    "hindi": "सुनना",
+    "english": "listen / hear",
+    "pos": "verb",
+    "category": "perception",
+    "dialect_variants": {
+      "sohra": "sngap",
+      "shillong": "sngap",
+      "pnar": "sñiaw",
+      "war": "sngap",
+      "bhoi": "sngap"
+    }
+  },
+  {
+    "khasi": "sngew",
+    "hindi": "महसूस करना / लगना",
+    "english": "feel / perceive",
+    "pos": "verb",
+    "category": "perception",
+    "dialect_variants": {
+      "sohra": "sngew",
+      "shillong": "sngew",
+      "pnar": "sñiaw",
+      "war": "sngew",
+      "bhoi": "sngew"
+    }
+  },
+  {
+    "khasi": "ieit",
+    "hindi": "प्यार करना / चाहना",
+    "english": "love",
+    "pos": "verb",
+    "category": "emotion",
+    "dialect_variants": {
+      "sohra": "ieit",
+      "shillong": "ieit",
+      "pnar": "maya",
+      "war": "ieit",
+      "bhoi": "ieit"
+    }
+  },
+  {
+    "khasi": "hikai",
+    "hindi": "सिखाना / पढ़ाना",
+    "english": "teach / learn",
+    "pos": "verb",
+    "category": "education",
+    "dialect_variants": {
+      "sohra": "hikai",
+      "shillong": "hikai",
+      "pnar": "hikai",
+      "war": "hikai",
+      "bhoi": "hikai"
+    }
+  },
+  {
+    "khasi": "ïap",
+    "hindi": "मरना",
+    "english": "die",
+    "pos": "verb",
+    "category": "condition",
+    "dialect_variants": {
+      "sohra": "ïap",
+      "shillong": "ïap",
+      "pnar": "yap",
+      "war": "ïap",
+      "bhoi": "ïap"
+    }
+  },
+  {
+    "khasi": "im",
+    "hindi": "जीना / जीवित रहना",
+    "english": "live / survive",
+    "pos": "verb",
+    "category": "condition",
+    "dialect_variants": {
+      "sohra": "im",
+      "shillong": "im",
+      "pnar": "im",
+      "war": "im",
+      "bhoi": "im"
+    }
+  },
+  {
+    "khasi": "bha",
+    "hindi": "अच्छा होना / ठीक होना",
+    "english": "be good / well",
+    "pos": "verb",
+    "category": "quality",
+    "dialect_variants": {
+      "sohra": "bha",
+      "shillong": "bha",
+      "pnar": "bha",
+      "war": "bha",
+      "bhoi": "bha"
+    }
+  },
+  {
+    "khasi": "shem",
+    "hindi": "खोजना / पाना",
+    "english": "find / discover",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "shem",
+      "shillong": "shem",
+      "pnar": "shem",
+      "war": "shem",
+      "bhoi": "shem"
+    }
+  },
+  {
+    "khasi": "ai",
+    "hindi": "देना",
+    "english": "give",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "ai",
+      "shillong": "ai",
+      "pnar": "e",
+      "war": "ai",
+      "bhoi": "ai"
+    }
+  },
+  {
+    "khasi": "shim",
+    "hindi": "लेना / ग्रहण करना",
+    "english": "take / receive",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "shim",
+      "shillong": "shim",
+      "pnar": "shim",
+      "war": "shim",
+      "bhoi": "shim"
+    }
+  },
+  {
+    "khasi": "buh",
+    "hindi": "रखना",
+    "english": "put / place / keep",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "buh",
+      "shillong": "buh",
+      "pnar": "buh",
+      "war": "buh",
+      "bhoi": "buh"
+    }
+  },
+  {
+    "khasi": "tei",
+    "hindi": "बनाना / निर्माण करना",
+    "english": "build / construct",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "tei",
+      "shillong": "tei",
+      "pnar": "tei",
+      "war": "tei",
+      "bhoi": "tei"
+    }
+  },
+  {
+    "khasi": "jop",
+    "hindi": "जीतना / विजयी होना",
+    "english": "win / conquer / succeed",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "jop",
+      "shillong": "jop",
+      "pnar": "jop",
+      "war": "jop",
+      "bhoi": "jop"
+    }
+  },
+  {
+    "khasi": "rem",
+    "hindi": "हारना / पराजित होना",
+    "english": "lose / fail / be defeated",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "rem",
+      "shillong": "rem",
+      "pnar": "rem",
+      "war": "rem",
+      "bhoi": "rem"
+    }
+  },
+  {
+    "khasi": "kiew",
+    "hindi": "चढ़ना / ऊपर जाना",
+    "english": "climb / ascend",
+    "pos": "verb",
+    "category": "motion",
+    "dialect_variants": {
+      "sohra": "kiew",
+      "shillong": "kiew",
+      "pnar": "kiew",
+      "war": "kiew",
+      "bhoi": "kiew"
+    }
+  },
+  {
+    "khasi": "hiar",
+    "hindi": "उतरना / नीचे आना",
+    "english": "descend / step down",
+    "pos": "verb",
+    "category": "motion",
+    "dialect_variants": {
+      "sohra": "hiar",
+      "shillong": "hiar",
+      "pnar": "hiar",
+      "war": "hiar",
+      "bhoi": "hiar"
+    }
+  },
+  {
+    "khasi": "tong",
+    "hindi": "पानी भरना / मछली पकड़ना",
+    "english": "draw water / catch fish",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "tong",
+      "shillong": "tong",
+      "pnar": "tong",
+      "war": "tong",
+      "bhoi": "tong"
+    }
+  },
+  {
+    "khasi": "thung",
+    "hindi": "रोपना / बोना",
+    "english": "plant / sow",
+    "pos": "verb",
+    "category": "agriculture",
+    "dialect_variants": {
+      "sohra": "thung",
+      "shillong": "thung",
+      "pnar": "thung",
+      "war": "thung",
+      "bhoi": "thung"
+    }
+  },
+  {
+    "khasi": "ot",
+    "hindi": "काटना / फसल काटना",
+    "english": "cut / reap / harvest",
+    "pos": "verb",
+    "category": "agriculture",
+    "dialect_variants": {
+      "sohra": "ot",
+      "shillong": "ot",
+      "pnar": "ot",
+      "war": "ot",
+      "bhoi": "ot"
+    }
+  },
+  {
+    "khasi": "ïarap",
+    "hindi": "मदद करना / सहायता",
+    "english": "help / assist",
+    "pos": "verb",
+    "category": "action",
+    "dialect_variants": {
+      "sohra": "ïarap",
+      "shillong": "ïarap",
+      "pnar": "ïarap",
+      "war": "ïarap",
+      "bhoi": "ïarap"
+    }
+  },
+  {
+    "khasi": "kwah",
+    "hindi": "चाहना / इच्छा करना",
+    "english": "want / desire",
+    "pos": "verb",
+    "category": "emotion",
+    "dialect_variants": {
+      "sohra": "kwah",
+      "shillong": "kwah",
+      "pnar": "kwah",
+      "war": "kwah",
+      "bhoi": "kwah"
+    }
+  },
+  {
+    "khasi": "sngewthuh",
+    "hindi": "समझना",
+    "english": "understand / comprehend",
+    "pos": "verb",
+    "category": "mind",
+    "dialect_variants": {
+      "sohra": "sngewthuh",
+      "shillong": "sngewthuh",
+      "pnar": "sñiawthooh",
+      "war": "sngewthuh",
+      "bhoi": "sngewthuh"
+    }
+  },
+  {
+    "khasi": "sniew",
+    "hindi": "बुरा / खराब",
+    "english": "bad / evil",
+    "pos": "adjective",
+    "category": "quality",
+    "dialect_variants": {
+      "sohra": "sniew",
+      "shillong": "sniew",
+      "pnar": "sñiaw",
+      "war": "sniew",
+      "bhoi": "sniew"
+    }
+  },
+  {
+    "khasi": "heh",
+    "hindi": "बड़ा / विशाल",
+    "english": "big / large",
+    "pos": "adjective",
+    "category": "size",
+    "dialect_variants": {
+      "sohra": "heh",
+      "shillong": "heh",
+      "pnar": "heh",
+      "war": "heh",
+      "bhoi": "heh"
+    }
+  },
+  {
+    "khasi": "rit",
+    "hindi": "छोटा",
+    "english": "small / little",
+    "pos": "adjective",
+    "category": "size",
+    "dialect_variants": {
+      "sohra": "rit",
+      "shillong": "rit",
+      "pnar": "khon",
+      "war": "rit",
+      "bhoi": "rit"
+    }
+  },
+  {
+    "khasi": "jngai",
+    "hindi": "दूर",
+    "english": "far / distant",
+    "pos": "adjective",
+    "category": "distance",
+    "dialect_variants": {
+      "sohra": "jngai",
+      "shillong": "jngai",
+      "pnar": "jngai",
+      "war": "jngai",
+      "bhoi": "jngai"
+    }
+  },
+  {
+    "khasi": "jan",
+    "hindi": "पास / निकट",
+    "english": "near / close",
+    "pos": "adjective",
+    "category": "distance",
+    "dialect_variants": {
+      "sohra": "jan",
+      "shillong": "jan",
+      "pnar": "jan",
+      "war": "jan",
+      "bhoi": "jan"
+    }
+  },
+  {
+    "khasi": "stad",
+    "hindi": "बुद्धिमान / ज्ञानी",
+    "english": "wise / intelligent",
+    "pos": "adjective",
+    "category": "mind",
+    "dialect_variants": {
+      "sohra": "stad",
+      "shillong": "stad",
+      "pnar": "stad",
+      "war": "stad",
+      "bhoi": "stad"
+    }
+  },
+  {
+    "khasi": "bieit",
+    "hindi": "मूर्ख / अज्ञानी",
+    "english": "foolish / ignorant",
+    "pos": "adjective",
+    "category": "mind",
+    "dialect_variants": {
+      "sohra": "bieit",
+      "shillong": "bieit",
+      "pnar": "bieit",
+      "war": "bieit",
+      "bhoi": "bieit"
+    }
+  },
+  {
+    "khasi": "khlain",
+    "hindi": "बलवान / शक्तिशाली",
+    "english": "strong / powerful",
+    "pos": "adjective",
+    "category": "physical",
+    "dialect_variants": {
+      "sohra": "khlain",
+      "shillong": "khlain",
+      "pnar": "khlain",
+      "war": "khlain",
+      "bhoi": "khlain"
+    }
+  },
+  {
+    "khasi": "tlot",
+    "hindi": "कमजोर",
+    "english": "weak / frail",
+    "pos": "adjective",
+    "category": "physical",
+    "dialect_variants": {
+      "sohra": "tlot",
+      "shillong": "tlot",
+      "pnar": "tlot",
+      "war": "tlot",
+      "bhoi": "tlot"
+    }
+  },
+  {
+    "khasi": "shlur",
+    "hindi": "साहसी / वीर",
+    "english": "brave / bold",
+    "pos": "adjective",
+    "category": "moral",
+    "dialect_variants": {
+      "sohra": "shlur",
+      "shillong": "shlur",
+      "pnar": "shlur",
+      "war": "shlur",
+      "bhoi": "shlur"
+    }
+  },
+  {
+    "khasi": "bhabriew",
+    "hindi": "सुंदर / रूपवान",
+    "english": "beautiful / handsome",
+    "pos": "adjective",
+    "category": "appearance",
+    "dialect_variants": {
+      "sohra": "bhabriew",
+      "shillong": "bhabriew",
+      "pnar": "bhabru",
+      "war": "bhabriew",
+      "bhoi": "bhabriew"
+    }
+  },
+  {
+    "khasi": "khriat",
+    "hindi": "ठंडा / शीतल",
+    "english": "cold / chilly",
+    "pos": "adjective",
+    "category": "temperature",
+    "dialect_variants": {
+      "sohra": "khriat",
+      "shillong": "khriat",
+      "pnar": "khriat",
+      "war": "khriat",
+      "bhoi": "khriat"
+    }
+  },
+  {
+    "khasi": "khluit",
+    "hindi": "गर्म / तपता",
+    "english": "hot / warm",
+    "pos": "adjective",
+    "category": "temperature",
+    "dialect_variants": {
+      "sohra": "khluit",
+      "shillong": "khluit",
+      "pnar": "khluit",
+      "war": "khluit",
+      "bhoi": "khluit"
+    }
+  },
+  {
+    "khasi": "thymmai",
+    "hindi": "नया",
+    "english": "new / fresh",
+    "pos": "adjective",
+    "category": "age",
+    "dialect_variants": {
+      "sohra": "thymmai",
+      "shillong": "thymmai",
+      "pnar": "thymmai",
+      "war": "thymmai",
+      "bhoi": "thymmai"
+    }
+  },
+  {
+    "khasi": "rim",
+    "hindi": "पुराना",
+    "english": "old / ancient",
+    "pos": "adjective",
+    "category": "age",
+    "dialect_variants": {
+      "sohra": "rim",
+      "shillong": "rim",
+      "pnar": "rim",
+      "war": "rim",
+      "bhoi": "rim"
+    }
+  },
+  {
+    "khasi": "suk",
+    "hindi": "शांत / सुखी",
+    "english": "peaceful / easy / untroubled",
+    "pos": "adjective",
+    "category": "state",
+    "dialect_variants": {
+      "sohra": "suk",
+      "shillong": "suk",
+      "pnar": "suk",
+      "war": "suk",
+      "bhoi": "suk"
+    }
+  },
+  {
+    "khasi": "shitom",
+    "hindi": "कठिन / कष्टपूर्ण",
+    "english": "hard / arduous / painful",
+    "pos": "adjective",
+    "category": "state",
+    "dialect_variants": {
+      "sohra": "shitom",
+      "shillong": "shitom",
+      "pnar": "shitom",
+      "war": "shitom",
+      "bhoi": "shitom"
+    }
+  },
+  {
+    "khasi": "lieh",
+    "hindi": "सफेद",
+    "english": "white",
+    "pos": "adjective",
+    "category": "color",
+    "dialect_variants": {
+      "sohra": "lieh",
+      "shillong": "lieh",
+      "pnar": "lieh",
+      "war": "lieh",
+      "bhoi": "lieh"
+    }
+  },
+  {
+    "khasi": "ïong",
+    "hindi": "काला",
+    "english": "black / dark",
+    "pos": "adjective",
+    "category": "color",
+    "dialect_variants": {
+      "sohra": "ïong",
+      "shillong": "ïong",
+      "pnar": "ïong",
+      "war": "ïong",
+      "bhoi": "ïong"
+    }
+  },
+  {
+    "khasi": "saw",
+    "hindi": "लाल",
+    "english": "red",
+    "pos": "adjective",
+    "category": "color",
+    "dialect_variants": {
+      "sohra": "saw",
+      "shillong": "saw",
+      "pnar": "saw",
+      "war": "saw",
+      "bhoi": "saw"
+    }
+  },
+  {
+    "khasi": "jyrngam",
+    "hindi": "हरा",
+    "english": "green",
+    "pos": "adjective",
+    "category": "color",
+    "dialect_variants": {
+      "sohra": "jyrngam",
+      "shillong": "jyrngam",
+      "pnar": "jyrngam",
+      "war": "jyrngam",
+      "bhoi": "jyrngam"
+    }
+  },
+  {
+    "khasi": "stem",
+    "hindi": "पीला",
+    "english": "yellow",
+    "pos": "adjective",
+    "category": "color",
+    "dialect_variants": {
+      "sohra": "stem",
+      "shillong": "stem",
+      "pnar": "stem",
+      "war": "stem",
+      "bhoi": "stem"
+    }
+  },
+  {
+    "khasi": "suki",
+    "hindi": "धीरे-धीरे",
+    "english": "slowly / gently",
+    "pos": "adverb",
+    "category": "manner",
+    "dialect_variants": {
+      "sohra": "suki",
+      "shillong": "suki",
+      "pnar": "suki",
+      "war": "suki",
+      "bhoi": "suki"
+    }
+  },
+  {
+    "khasi": "kloi",
+    "hindi": "जल्दी से",
+    "english": "quickly / promptly",
+    "pos": "adverb",
+    "category": "manner",
+    "dialect_variants": {
+      "sohra": "kloi",
+      "shillong": "kloi",
+      "pnar": "kloi",
+      "war": "kloi",
+      "bhoi": "kloi"
+    }
+  },
+  {
+    "khasi": "stet",
+    "hindi": "तेज़ी से",
+    "english": "fast / swiftly",
+    "pos": "adverb",
+    "category": "manner",
+    "dialect_variants": {
+      "sohra": "stet",
+      "shillong": "stet",
+      "pnar": "stet",
+      "war": "stet",
+      "bhoi": "stet"
+    }
+  },
+  {
+    "khasi": "shibun",
+    "hindi": "बहुत / अत्यधिक",
+    "english": "much / a lot / very",
+    "pos": "adverb",
+    "category": "degree",
+    "dialect_variants": {
+      "sohra": "shibun",
+      "shillong": "shibun",
+      "pnar": "shibun",
+      "war": "shibun",
+      "bhoi": "shibun"
+    }
+  },
+  {
+    "khasi": "eh",
+    "hindi": "अत्यंत / बहुत",
+    "english": "very / exceedingly",
+    "pos": "adverb",
+    "category": "degree",
+    "dialect_variants": {
+      "sohra": "eh",
+      "shillong": "eh",
+      "pnar": "eh",
+      "war": "eh",
+      "bhoi": "eh"
+    }
+  },
+  {
+    "khasi": "jar-jar",
+    "hindi": "शांत / चुपचाप",
+    "english": "silently / quietly",
+    "pos": "adverb",
+    "category": "manner",
+    "dialect_variants": {
+      "sohra": "jar-jar",
+      "shillong": "jar-jar",
+      "pnar": "jar-jar",
+      "war": "jar-jar",
+      "bhoi": "jar-jar"
+    }
+  },
+  {
+    "khasi": "kyndit",
+    "hindi": "अचानक / चौंककर",
+    "english": "suddenly / abruptly",
+    "pos": "adverb",
+    "category": "manner",
+    "dialect_variants": {
+      "sohra": "kyndit",
+      "shillong": "kyndit",
+      "pnar": "kyndit",
+      "war": "kyndit",
+      "bhoi": "kyndit"
+    }
+  },
+  {
+    "khasi": "mynta",
+    "hindi": "आज / अब",
+    "english": "now / today",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "mynta",
+      "shillong": "mynta",
+      "pnar": "katni",
+      "war": "mynta",
+      "bhoi": "mynta"
+    }
+  },
+  {
+    "khasi": "mynstep",
+    "hindi": "सुबह में",
+    "english": "in the morning",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "mynstep",
+      "shillong": "mynstep",
+      "pnar": "mynstep",
+      "war": "mynstep",
+      "bhoi": "mynstep"
+    }
+  },
+  {
+    "khasi": "mynmiet",
+    "hindi": "रात में",
+    "english": "at night",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "mynmiet",
+      "shillong": "mynmiet",
+      "pnar": "mynmiet",
+      "war": "mynmiet",
+      "bhoi": "mynmiet"
+    }
+  },
+  {
+    "khasi": "mynshai",
+    "hindi": "कल (आने वाला)",
+    "english": "tomorrow",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "mynshai",
+      "shillong": "lashai",
+      "pnar": "mynshai",
+      "war": "mynshai",
+      "bhoi": "mynshai"
+    }
+  },
+  {
+    "khasi": "mynnin",
+    "hindi": "कल (बीता हुआ)",
+    "english": "yesterday",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "mynnin",
+      "shillong": "mynnin",
+      "pnar": "mynnin",
+      "war": "mynnin",
+      "bhoi": "mynnin"
+    }
+  },
+  {
+    "khasi": "barabor",
+    "hindi": "हमेशा / सदैव",
+    "english": "always / ever",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "barabor",
+      "shillong": "barabor",
+      "pnar": "barabor",
+      "war": "barabor",
+      "bhoi": "barabor"
+    }
+  },
+  {
+    "khasi": "biang",
+    "hindi": "फिर से",
+    "english": "again / once more",
+    "pos": "adverb",
+    "category": "time",
+    "dialect_variants": {
+      "sohra": "biang",
+      "shillong": "biang",
+      "pnar": "biang",
+      "war": "biang",
+      "bhoi": "biang"
+    }
+  },
+  {
+    "khasi": "hangne",
+    "hindi": "यहाँ",
+    "english": "here",
+    "pos": "adverb",
+    "category": "place",
+    "dialect_variants": {
+      "sohra": "hangne",
+      "shillong": "shane",
+      "pnar": "heini",
+      "war": "hangne",
+      "bhoi": "hangne"
+    }
+  },
+  {
+    "khasi": "hangto",
+    "hindi": "वहाँ",
+    "english": "there",
+    "pos": "adverb",
+    "category": "place",
+    "dialect_variants": {
+      "sohra": "hangto",
+      "shillong": "shata",
+      "pnar": "heito",
+      "war": "hangto",
+      "bhoi": "hangto"
+    }
+  },
+  {
+    "khasi": "hangtai",
+    "hindi": "वहाँ दूर",
+    "english": "over there (distant)",
+    "pos": "adverb",
+    "category": "place",
+    "dialect_variants": {
+      "sohra": "hangtai",
+      "shillong": "shatai",
+      "pnar": "heitai",
+      "war": "hangtai",
+      "bhoi": "hangtai"
+    }
+  },
+  {
+    "khasi": "khublei",
+    "hindi": "नमस्ते / धन्यवाद / प्रणाम",
+    "english": "hello / thank you / greetings",
+    "pos": "interjection",
+    "category": "discourse",
+    "dialect_variants": {
+      "sohra": "khublei",
+      "shillong": "khublei",
+      "pnar": "khublei",
+      "war": "khublei",
+      "bhoi": "khublei"
+    }
+  },
+  {
+    "khasi": "sngewbha",
+    "hindi": "कृपया / प्रसन्नता",
+    "english": "please / to feel pleased",
+    "pos": "interjection",
+    "category": "discourse",
+    "dialect_variants": {
+      "sohra": "sngewbha",
+      "shillong": "sngewbha",
+      "pnar": "sñiawbha",
+      "war": "sngewbha",
+      "bhoi": "sngewbha"
+    }
+  },
+  {
+    "khasi": "hooid",
+    "hindi": "हाँ",
+    "english": "yes",
+    "pos": "adverb",
+    "category": "discourse",
+    "dialect_variants": {
+      "sohra": "hooid",
+      "shillong": "hooid",
+      "pnar": "hooid",
+      "war": "hooid",
+      "bhoi": "hooid"
+    }
+  },
+  {
+    "khasi": "em",
+    "hindi": "नहीं",
+    "english": "no",
+    "pos": "adverb",
+    "category": "discourse",
+    "dialect_variants": {
+      "sohra": "em",
+      "shillong": "em",
+      "pnar": "ym",
+      "war": "em",
+      "bhoi": "em"
+    }
+  }
+]
