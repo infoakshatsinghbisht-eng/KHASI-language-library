@@ -16,16 +16,16 @@ setup(
     description="Khasi (Ka Ktien Khasi) Language Library: 300,000+ Inflections, Multi-dialect Translation, NLP Toolkit, and Meghalaya Cultural Heritage",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/infoakshatsinghbisht-eng/khasi-language-library",
+    url="https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",
     project_urls={
         "Homepage": "https://akshatsinghbisht.com/",
-        "GitHub": "https://github.com/infoakshatsinghbisht-eng/khasi-language-library",
+        "GitHub": "https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",
         "LinkedIn": "https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/",
         "Amazon Author": "https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28",
         "ResearchGate": "https://www.researchgate.net/profile/Akshat-Bisht-8",
-        "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/khasi-language-library/issues",
+        "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/KHASI-language-library/issues",
     },
-    packages=find_packages(),
+    packages=find_packages(exclude=["tests*", "examples*"]),
     include_package_data=True,
     package_data={
         "khasi.lexicon": ["data/*.json"]
@@ -38,7 +38,6 @@ setup(
         "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3.12",
         "Programming Language :: Python :: 3.13",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Topic :: Text Processing :: Linguistic",
         "Intended Audience :: Developers",
