@@ -27,6 +27,24 @@ AUTHORS: List[Dict[str, Any]] = [
         "title": "Eminent Historian & Sociologist",
         "masterpiece": "Ka Niam Khasi (1937) & Ki Syiem Khasi bad Synteng (1938)",
         "biography": "Pioneering medical doctor and scholar who documented the detailed constitutional history of Khasi native states (Syiemships) and rituals."
+    },
+    {
+        "name": "U Mondon Bareh (1878 - 1932)",
+        "title": "Celebrated Dramatist, Educationist & Grammarian",
+        "masterpiece": "Ka Drama U Mihsngi (1929) & Khasi-English Course and Grammar",
+        "biography": "Distinguished scholar whose play 'Ka Drama U Mihsngi' stands as a milestone of original Khasi theatrical literature, alongside his foundational grammar and school texts."
+    },
+    {
+        "name": "U Sib Charan Roy (1862 - 1952)",
+        "title": "Nationalist Thinker, Editor & Cultural Philosopher",
+        "masterpiece": "Ka Niam Ki Khasi: Ka Niam Tip-Blei Tip-Briew (1919) & Kot Tohkit Tir Tir",
+        "biography": "Eldest son of Babu Jeebon Roy; fearless editor of the journal 'U Nongphira', who systematized indigenous Khasi ethical theology ('Tip Blei Tip Briew')."
+    },
+    {
+        "name": "U Rabon Singh (c. 1840 - 1910)",
+        "title": "Master Folklorist & Chronicler of Sacred Lore",
+        "masterpiece": "Ka Kitab Niam-khein Ki Khasi & Ki Parom Hyndai",
+        "biography": "One of the earliest and most authoritative recorders of ancient Khasi ceremonial rites, divination, folktales, and mythological traditions."
     }
 ]
 

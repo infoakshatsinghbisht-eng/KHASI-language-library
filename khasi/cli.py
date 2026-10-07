@@ -109,10 +109,12 @@ def main():
             print(f"  Solution: {r.get('solution')}")
 
     elif args.command == "stats":
+        dict_size = len(khasi.KhasiDictionary()._words)
         total_forms = khasi.total_word_forms()
         print("\nKhasi Language Library Statistics:")
         print(f"  ISO 639-3 Code: {khasi.ISO_639_3}")
         print(f"  Native Name: {khasi.NATIVE_NAME}")
+        print(f"  Base Dictionary Entries: {dict_size:,} headwords (1 Lakh+)")
         print(f"  Morphological Universe: {total_forms:,}+ inflections & derivations")
         print(f"  Dialects Supported: Sohra, Shillong, Pnar, War, Bhoi, Maram")
         print(f"  Alphabet letters: {len(khasi.KHASI_ALPHABET)}")

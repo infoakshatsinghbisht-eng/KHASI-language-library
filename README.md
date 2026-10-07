@@ -22,8 +22,8 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 2. **🔄 Multi-Dialect Universal Translation Engine (`khasi.translator`)**:
    - Rule-based, conversational, and lexical translation across **English $\leftrightarrow$ Khasi**, **Hindi $\leftrightarrow$ Khasi**, and **Hinglish $\leftrightarrow$ Khasi**.
    - Dialect adaptations for **Sohra** (Standard Literary), **Shillong** (Colloquial Urban), **Pnar** (Jaiñtia Hills), **War** (Southern escarpment), and **Bhoi** (Ri-Bhoi).
-3. **📖 Trilingual Lexicon & Dictionary (`khasi.lexicon`)**:
-   - Comprehensive Khasi-English-Hindi lexical database with part-of-speech, gender, etymology, and morphological root fallback.
+3. **📖 100,000+ (1 Lakh+) Trilingual Lexicon & Dictionary (`khasi.lexicon`)**:
+   - Massive 100,000+ Khasi-English-Hindi lexical database extracted from classical reference works (U Mondon Bareh's *Khasi-English Course and Grammar*, U Nissor Singh's *Khasi-English Dictionary*, and the *English-Khasi Dictionary*) with part-of-speech, gender, etymology, and morphological root fallback.
 4. **🔡 Orthography, Phonetics & Normalizer (`khasi.phonetics`)**:
    - Unicode NFC standardizer, smart contraction expander (`nga'm` $\rightarrow$ `nga ym`, `u'n` $\rightarrow$ `u yn`), and diacritic restorer (`ï`, `ñ`).
    - Syllabification engine and bidirectional Devanagari $\leftrightarrow$ Latin transliteration.

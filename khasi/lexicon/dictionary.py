@@ -94,16 +94,22 @@ class KhasiDictionary:
         if not clean:
             return None
 
-        # 1. Exact match
-        if clean in self._words:
-            return self._words[clean]
-
-        # 2. Check without gender article if user passed "u briew" or "ka ïing"
+        # 1. Check without gender article if user passed "u briew" or "ka ïing"
         for art in ["u ", "ka ", "i ", "ki "]:
             if clean.startswith(art):
                 sub = clean[len(art):].strip()
                 if sub in self._words:
                     return self._words[sub]
+
+        # 2. Exact match
+        if clean in self._words:
+            res = self._words[clean]
+            if "root" not in res:
+                r = extract_root(clean)
+                if r != clean:
+                    res = res.copy()
+                    res["root"] = r
+            return res
 
         # 3. Morphological root fallback (jing-, pyn-, nong-, sngew-)
         root = extract_root(clean)

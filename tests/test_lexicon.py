@@ -29,7 +29,7 @@ class TestKhasiLexicon(unittest.TestCase):
         self.assertTrue(any(r["khasi"] == "lum" for r in results))
 
     def test_all_collections(self):
-        self.assertTrue(len(self.d.all_words()) > 30)
+        self.assertGreaterEqual(len(self.d.all_words()), 100000)
         self.assertTrue(len(self.d.all_phrases()) >= 10)
         self.assertTrue(len(self.d.all_proverbs()) >= 5)
         self.assertTrue(len(self.d.all_riddles()) >= 4)

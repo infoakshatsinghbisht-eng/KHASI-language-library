@@ -84,7 +84,7 @@ Khasi uses prepositions rather than postpositions:
 
 ## 4. Lexicon & Morphological Universe (`khasi.lexicon`)
 
-- `KhasiDictionary`: Full bilingual and trilingual dictionary engine loaded from `words.json`, `phrases.json`, `proverbs.json`, `riddles.json`.
+- `KhasiDictionary`: Full bilingual and trilingual dictionary engine loaded with 100,000+ (1 Lakh+) entries from `words.json`, `phrases.json`, `proverbs.json`, `riddles.json`. Extracted from U Mondon Bareh's *Khasi-English Course and Grammar*, U Nissor Singh's *Khasi-English Dictionary*, and the *English-Khasi Dictionary*.
 - `KhasiMorphologyEngine`: Dynamically handles 300,000+ morphological forms with prefix stripping and affix analysis.
 - `MorphAnalysis`: Data container with `token`, `lemma`, `pos`, `gender`, `number`, `case`, `english_meaning`, `hindi_meaning`, `prefix_type`.
 
@@ -102,13 +102,17 @@ Khasi uses prepositions rather than postpositions:
 
 ---
 
-## 6. Culture, Calendar & Matrilineal Kinship (`khasi.culture`)
+## 6. Culture, Calendar, Literature & Matrilineal Kinship (`khasi.culture`)
 
 - `describe_matrilineal_system()`: Complete description of matrilineal kinship, clan exogamy rules (*Sang*), and ultimogeniture inheritance by *Ka Khadduh*.
 - `list_kinship_terms()`: Comprehensive dictionary of kinship roles (*Mei*, *Pa*, *Khadduh*, *Kñi*, *Kur*, *Kha*, *Kong*, *Bah*, *Hep*).
 - `MARKET_CYCLE`: The historic 8-day rotating market cycle of the Khasi Hills.
 - `KHASI_MONTHS`: 12 traditional lunar/solar months with cultural meanings.
 - `KHASI_FESTIVALS`: Detailed documentation of *Shad Suk Mynsiem*, *Ka Pomblang Nongkrem*, *Behdeinkhlam*, *Seng Kut Snem*, and *Shad Wangala*.
+- `authors()`: Documented classical literary luminaries (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh).
+- `epics()`: Traditional Khasi epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*).
+- `poems()`: Classical poetry with English translations.
+- `khasi.proverbs.all()`: Traditional moral proverbs (*Ki Ktien Tymmen* / *Phawar*).
 
 ---
 

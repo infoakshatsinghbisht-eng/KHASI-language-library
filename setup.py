@@ -13,7 +13,7 @@ setup(
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",
     maintainer_email="infoakshatsinghbisht@gmail.com",
-    description="Khasi (Ka Ktien Khasi) Language Library: 300,000+ Inflections, Multi-dialect Translation, NLP Toolkit, and Meghalaya Cultural Heritage",
+    description="Khasi (Ka Ktien Khasi) Language Library: 100,000+ Headwords, 300,000+ Inflections, Multi-dialect Translation, NLP Toolkit, and Meghalaya Cultural Heritage",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",
