@@ -165,7 +165,20 @@ KINSHIP = {
     "Hep": "Younger sibling / affectionate term for younger person",
     "Mei-rad": "Grandmother",
     "Kpa-tymmen": "Grandfather",
-    "Khun": "Child / offspring"
+    "Khun": "Child / offspring",
+    "Kmie-san": "Mother's elder sister (senior maternal aunt)",
+    "Kmie-nah": "Mother's younger sister (junior maternal aunt)",
+    "Kpa-san": "Father's elder brother (senior paternal uncle)",
+    "Kpa-nah": "Father's younger brother (junior paternal uncle)",
+    "Kñi-rangbah": "Senior maternal uncle (clan elder)",
+    "Khun-kha": "Children of one's father's sister / paternal cousins",
+    "Khun-ruit": "Sisters' children / maternal nephews and nieces",
+    "Shi-kur": "Kin belonging to the exact same maternal clan",
+    "Shi-kpoh": "Relatives descending from the same immediate maternal womb",
+    "Kynsi": "Brother-in-law",
+    "Konghei": "Sister-in-law",
+    "Kthaw": "Father-in-law",
+    "Kiaw": "Mother-in-law"
 }
 
 # Three Supreme Moral Pillars of Khasi Philosophy

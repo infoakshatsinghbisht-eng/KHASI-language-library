@@ -169,6 +169,9 @@ def build_dictionary():
         ("book_drama_mihsngi.txt", "Ka Drama U Mihsngi (Mondon Bareh)"),
         ("book_third_reader.txt", "Ka Kot Pule Ka Balai"),
         ("book_myntoi.txt", "Ka Myntoi"),
+        ("book_thymmei_parom.txt", "Ka Thymmei Pyrkhat Khasi"),
+        ("book_jymbriew_clans.txt", "Ka Jymbriew Longkur Longjait U Khasi"),
+        ("book_jingshai_history.txt", "Ka Jingshai Na La Ka Ri"),
     ]
     lit_added = 0
     for bf_name, src_name in new_lit_books:
