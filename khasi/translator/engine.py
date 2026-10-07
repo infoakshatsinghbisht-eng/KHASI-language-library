@@ -31,6 +31,23 @@ def _get_dict() -> KhasiDictionary:
         _DICT = KhasiDictionary()
     return _DICT
 
+def _clean_gloss(text: str, is_hindi: bool = False) -> str:
+    if not text:
+        return ""
+    # Strip editorial notes like [Imit ...], [Jmi. ...]
+    clean = re.sub(r"\[.*?\]", "", text)
+    # Split by primary separator
+    parts = re.split(r"[/;]", clean)
+    chosen = parts[0].strip()
+    # Remove numbering like 1., 2.
+    chosen = re.sub(r"^\d+\.\s*", "", chosen)
+    # Remove parentheses notes if they just describe POS or grammar
+    chosen = re.sub(r"\((masculine|feminine|plural|diminutive|direct|proper|noun|verb|adverb|adjective|particle|conjunction|preposition)[^\)]*\)", "", chosen, flags=re.I)
+    # Remove marker like (खासी शब्द)
+    chosen = chosen.replace("(खासी शब्द)", "").replace("(खासी साहित्यिक शब्द)", "")
+    chosen = chosen.strip(".,!?:\"' —-")
+    return chosen
+
 def translate(
     text: str,
     source: str = "auto",
@@ -66,11 +83,15 @@ def translate(
         translated_tokens = []
         found_count = 0
         for tok in tokens:
-            clean_tok = tok.strip(".,!?;:\"'")
+            clean_tok = tok.strip(".,!?;:\"'()[]{}«»")
             entry = d.lookup(clean_tok)
             if entry and entry.get("english"):
-                translated_tokens.append(entry["english"].split("/")[0].strip())
-                found_count += 1
+                gloss = _clean_gloss(entry["english"])
+                if gloss:
+                    translated_tokens.append(gloss)
+                    found_count += 1
+                else:
+                    translated_tokens.append(tok)
             else:
                 translated_tokens.append(tok)
         if found_count > 0:
@@ -90,11 +111,15 @@ def translate(
         translated_tokens = []
         found_count = 0
         for tok in tokens:
-            clean_tok = tok.strip(".,!?;:\"'")
+            clean_tok = tok.strip(".,!?;:\"'()[]{}«»")
             entry = d.lookup(clean_tok)
             if entry and entry.get("hindi"):
-                translated_tokens.append(entry["hindi"].split("/")[0].strip())
-                found_count += 1
+                gloss = _clean_gloss(entry["hindi"], is_hindi=True)
+                if gloss:
+                    translated_tokens.append(gloss)
+                    found_count += 1
+                else:
+                    translated_tokens.append(tok)
             else:
                 translated_tokens.append(tok)
         if found_count > 0:
