@@ -38,5 +38,11 @@ class TestKhasiLexicon(unittest.TestCase):
         engine = get_morphology_engine()
         self.assertGreaterEqual(engine.total_forms_count(), 300000)
 
+    def test_master_corpus_vocabulary(self):
+        for w in ["sawangka", "dikshoneri", "baiphuhiphieng", "matti", "kolshor"]:
+            entry = self.d.lookup(w)
+            self.assertIsNotNone(entry, f"Word {w} should be found in dictionary")
+            self.assertEqual(entry["khasi"], w)
+
 if __name__ == "__main__":
     unittest.main()

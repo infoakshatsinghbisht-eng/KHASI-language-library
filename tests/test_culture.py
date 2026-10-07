@@ -87,7 +87,7 @@ class TestKhasiCulture(unittest.TestCase):
         # Check catalogue summary
         summary = catalogue_summary()
         self.assertIn("total_works", summary)
-        self.assertGreaterEqual(summary["total_works"], 204)
+        self.assertGreaterEqual(summary["total_works"], 300)
         self.assertIn("genres", summary)
 
 if __name__ == "__main__":

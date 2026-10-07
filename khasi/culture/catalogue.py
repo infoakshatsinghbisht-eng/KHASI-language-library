@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Khasi Master Bibliography Catalogue (200+ Books & Works across 8 Genres)."""
+"""Khasi Master Bibliography Catalogue (330+ Books & Works across 8 Genres)."""
 
 import json
 from pathlib import Path
@@ -19,7 +19,7 @@ def _load_catalogue() -> List[Dict[str, Any]]:
     return _CATALOGUE_CACHE
 
 def all_works() -> List[Dict[str, Any]]:
-    """Return all 204 catalogued Khasi literary, historical, linguistic, and cultural works."""
+    """Return all 330+ catalogued Khasi literary, historical, linguistic, and cultural works."""
     return list(_load_catalogue())
 
 def by_genre(genre: str) -> List[Dict[str, Any]]:

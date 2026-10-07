@@ -54,7 +54,7 @@ def main():
     s_parser = subparsers.add_parser("stats", help="Display Khasi corpus & morphological stats")
 
     # catalogue
-    cat_parser = subparsers.add_parser("catalogue", help="Search the Master Khasi Bibliography & Corpus (204+ Books)")
+    cat_parser = subparsers.add_parser("catalogue", help="Search the Master Khasi Bibliography & Corpus (330+ Books)")
     cat_parser.add_argument("query", nargs="?", default="", help="Search query (title, author, or keyword)")
     cat_parser.add_argument("--genre", "-g", type=str, default="", help="Filter by genre")
     cat_parser.add_argument("--author", "-a", type=str, default="", help="Filter by author")

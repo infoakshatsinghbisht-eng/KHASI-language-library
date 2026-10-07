@@ -40,7 +40,7 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 9. **💻 Interactive CLI (`khasi`)**:
    - Command-line tool for translation, dictionary lookups, verb conjugation, cultural exploration, and statistics.
 10. **📚 Master Khasi Bibliography & Corpus Catalogue (`khasi.catalogue`)**:
-   - Structured digital catalogue of **204+ definitive Khasi literary works, historical monographs, grammatical treatises, and dictionaries** across 8 core genres (Novels, Poetry, Drama, History, Culture & Religion, Linguistics, Dictionaries, and Scanned Heritage Books) with queryable metadata for NLP research, corpus linguistics, and academic scholarship.
+   - Structured digital catalogue of **330+ definitive Khasi literary works, historical monographs, grammatical treatises, and dictionaries** across 8 core genres (Novels, Poetry, Drama, History, Culture & Religion, Linguistics, Dictionaries, and Scanned Heritage Books) with queryable metadata for NLP research, corpus linguistics, and academic scholarship.
 
 ---
 
@@ -111,9 +111,9 @@ p = khasi.proverbs.random()
 print(f"\"{p['khasi']}\" - {p['meaning']}")
 # "Kamai ïa ka hok." - Live by honest toil and upright conduct.
 
-# 8. Master Bibliography & Khasi Corpus Catalogue (204+ Works)
+# 8. Master Bibliography & Khasi Corpus Catalogue (330+ Works)
 print(khasi.catalogue.summary())
-# {'total_works': 204, 'genres': {'Original Khasi literature': 89, ...}, 'digitized_works_count': 18}
+# {'total_works': 332, 'genres': {'Original Khasi literature': 161, ...}, 'digitized_works_count': 124}
 
 poetry_works = khasi.catalogue.by_type("Poetry")
 print(f"Found {len(poetry_works)} Khasi poetry collections.")
@@ -193,7 +193,7 @@ khasi/
 │   ├── festivals.py      # Shad Suk Mynsiem, Pomblang Nongkrem, Behdeinkhlam
 │   ├── literature.py     # U Soso Tham, Babu Jeebon Roy, epics & folklore
 │   ├── kinship.py        # Matrilineal kinship system (Kur & Kha, Khadduh, Kñi)
-│   ├── catalogue.py      # Master Bibliography Catalogue (204+ Works API)
+│   ├── catalogue.py      # Master Bibliography Catalogue (330+ Works API)
 │   └── data/
 │       └── khasi_bibliography_catalogue.json # Structured bibliography database
 ├── translator/
