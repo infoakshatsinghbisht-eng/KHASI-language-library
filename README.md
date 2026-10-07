@@ -23,15 +23,16 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
    - Rule-based, conversational, and lexical translation across **English $\leftrightarrow$ Khasi**, **Hindi $\leftrightarrow$ Khasi**, and **Hinglish $\leftrightarrow$ Khasi**.
    - Dialect adaptations for **Sohra** (Standard Literary), **Shillong** (Colloquial Urban), **Pnar** (Jaiñtia Hills), **War** (Southern escarpment), and **Bhoi** (Ri-Bhoi).
 3. **📖 100,000+ (1 Lakh+) Trilingual Lexicon & Dictionary (`khasi.lexicon`)**:
-   - Massive 100,000+ Khasi-English-Hindi lexical database extracted from classical reference works (U Mondon Bareh's *Khasi-English Course and Grammar*, U Nissor Singh's *Khasi-English Dictionary*, and the *English-Khasi Dictionary*) with part-of-speech, gender, etymology, and morphological root fallback.
+   - Massive 100,000+ Khasi-English-Hindi lexical database extracted from 16 classical reference works and digitized texts (including U Mondon Bareh's *Khasi-English Course and Grammar*, U Nissor Singh's *Khasi-English Dictionary*, the *English-Khasi Dictionary*, Babu Jeebon Roy's foundational readers, and U Sib Charan Roy's philosophy) with part-of-speech, gender, etymology, and root fallback.
 4. **🔡 Orthography, Phonetics & Normalizer (`khasi.phonetics`)**:
    - Unicode NFC standardizer, smart contraction expander (`nga'm` $\rightarrow$ `nga ym`, `u'n` $\rightarrow$ `u yn`), and diacritic restorer (`ï`, `ñ`).
    - Syllabification engine and bidirectional Devanagari $\leftrightarrow$ Latin transliteration.
 5. **🔢 Base-10 Numeral & Number Engine (`khasi.numbers`)**:
    - Converts numbers up to crores/billions into formal Khasi words (`num_to_words`), ordinals (`ordinal`), and fractions.
-6. **🌸 Matrilineal Heritage, Culture & Calendar (`khasi.culture`)**:
-   - Complete documentation of the matrilineal kinship structure (*Kur* and *Kha*, *Ka Khadduh*, *U Kñi*).
-   - 12 traditional lunar months (*Ki Bnai*), 4 seasons (*Ki Aïom*), 8-day traditional rotating market cycle (*Sngi Iew*), traditional proverbs (*Ki Ktien Tymmen* / *Phawar*), and classical folklore.
+6. **🌸 Matrilineal Heritage, Culture, Literature & Calendar (`khasi.culture`)**:
+   - Complete documentation of the matrilineal kinship structure (*Kur* and *Kha*, *Ka Khadduh*, *U Kñi*, *Kmie-san*, *Kpa-san*, *Khun-kha*, *Shi-kur*, *Shi-kpoh*).
+   - 7 classical literary figures (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh).
+   - 15 traditional proverbs (*Ki Ktien Tymmen* / *Phawar*), 4 foundational folk epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*), 12 traditional lunar months (*Ki Bnai*), 4 seasons (*Ki Aïom*), and the 8-day rotating market cycle (*Sngi Iew*).
 7. **🎙️ Voice Synthesis & SSML (`khasi.voice`)**:
    - SSML markup generator and PCM audio waveform generator for speech synthesis pipelines.
 8. **🏛️ Digital Archival & Field Preservation (`khasi.preservation`)**:
@@ -138,7 +139,7 @@ khasi culture
 # 6. Traditional riddles (Ki Jingkyntip)
 khasi riddle
 
-# 7. Corpus statistics
+# 7. Corpus & dictionary statistics (105,000+ headwords)
 khasi stats
 ```
 
