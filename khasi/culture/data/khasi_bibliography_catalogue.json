@@ -279,7 +279,8 @@
     "type": "Poetry",
     "year": 1925,
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 32,
@@ -298,7 +299,8 @@
     "genre": "Original Khasi literature",
     "type": "Poetry",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 34,
@@ -461,7 +463,8 @@
     "genre": "Original Khasi literature",
     "type": "Poetry",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 52,
@@ -515,7 +518,8 @@
     "genre": "Original Khasi literature",
     "type": "Poetry",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 58,
@@ -524,7 +528,8 @@
     "genre": "Original Khasi literature",
     "type": "Poetry",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 59,
@@ -533,7 +538,8 @@
     "genre": "Original Khasi literature",
     "type": "Folk poetry",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 60,
@@ -794,7 +800,8 @@
     "genre": "Original Khasi literature",
     "type": "Drama",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 89,
@@ -929,7 +936,8 @@
     "genre": "Khasi nonfiction / criticism",
     "type": "Drama criticism",
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 104,
@@ -1223,7 +1231,8 @@
     "type": "Religion / Customs",
     "year": 1937,
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 134,
@@ -1343,7 +1352,8 @@
     "type": "Grammar",
     "year": 1909,
     "language": "Khasi / English",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 146,
@@ -1424,7 +1434,8 @@
     "type": "Descriptive grammar",
     "year": 1956,
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 154,
@@ -1474,7 +1485,8 @@
     "type": "Grammar",
     "year": 1974,
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 159,
@@ -1484,7 +1496,8 @@
     "type": "Grammar",
     "year": 1987,
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 160,
@@ -1584,7 +1597,8 @@
     "type": "Grammar",
     "year": 2003,
     "language": "Khasi / English",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 170,
@@ -1724,7 +1738,8 @@
     "type": "General dictionary",
     "year": 1895,
     "language": "Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 184,
@@ -1796,7 +1811,8 @@
     "type": "Bilingual dictionary",
     "year": 1967,
     "language": "Khasi - English",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 191,
@@ -1816,7 +1832,8 @@
     "type": "Major bilingual dictionary",
     "year": 1973,
     "language": "Khasi - English",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 193,
@@ -1916,7 +1933,8 @@
     "type": "Literary dictionary",
     "year": 2011,
     "language": "English / Khasi",
-    "is_translation": false
+    "is_translation": false,
+    "digitized": true
   },
   {
     "id": 203,
@@ -2915,7 +2933,7 @@
     "type": "School reader",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 294,
@@ -2926,7 +2944,7 @@
     "type": "School reader",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 295,
@@ -2937,7 +2955,7 @@
     "type": "School reader",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 296,
@@ -3003,7 +3021,7 @@
     "type": "Law",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 302,
@@ -3014,7 +3032,7 @@
     "type": "Patriotic",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 303,
@@ -3025,7 +3043,7 @@
     "type": "Prose",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 304,
@@ -3036,7 +3054,7 @@
     "type": "Religion",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 305,
@@ -3058,7 +3076,7 @@
     "type": "Literature",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 307,
@@ -3069,7 +3087,7 @@
     "type": "History",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 308,
@@ -3080,7 +3098,7 @@
     "type": "Literature",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 309,
@@ -3102,7 +3120,7 @@
     "type": "Literature",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 311,
@@ -3113,7 +3131,7 @@
     "type": "History",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 312,
@@ -3124,7 +3142,7 @@
     "type": "Literature",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 313,
@@ -3135,7 +3153,7 @@
     "type": "History",
     "language": "Khasi",
     "is_translation": false,
-    "digitized": false
+    "digitized": true
   },
   {
     "id": 314,
