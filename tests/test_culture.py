@@ -47,11 +47,16 @@ class TestKhasiCulture(unittest.TestCase):
 
     def test_literature(self):
         auth = authors()
+        self.assertGreaterEqual(len(auth), 12)
         self.assertTrue(any("Soso Tham" in a["name"] for a in auth))
+        self.assertTrue(any("Streamlet Dkhar" in a["name"] for a in auth))
+        self.assertTrue(any("Radhon Singh" in a["name"] for a in auth))
         ep = epics()
+        self.assertGreaterEqual(len(ep), 6)
         self.assertTrue(any("Sohpetbneng" in e["title"] for e in ep))
+        self.assertTrue(any("Meiramew" in e["title"] for e in ep))
         po = poems()
-        self.assertTrue(len(po) >= 2)
+        self.assertGreaterEqual(len(po), 4)
 
     def test_kinship(self):
         terms = list_kinship_terms()

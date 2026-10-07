@@ -45,6 +45,36 @@ AUTHORS: List[Dict[str, Any]] = [
         "title": "Master Folklorist & Chronicler of Sacred Lore",
         "masterpiece": "Ka Kitab Niam-khein Ki Khasi & Ki Parom Hyndai",
         "biography": "One of the earliest and most authoritative recorders of ancient Khasi ceremonial rites, divination, folktales, and mythological traditions."
+    },
+    {
+        "name": "Prof. Streamlet Dkhar (b. 1957)",
+        "title": "Leading Contemporary Dramatist, Poet & Professor",
+        "masterpiece": "U Raikut (Drama), Ki Umjer Rupa, Na Khriang Ka Dohnud, Na Lyngwiar Dpei I Mei",
+        "biography": "Head of Khasi Department at North-Eastern Hill University (NEHU). Eminent playwright, folklorist, and poet whose works explore Khasi philosophy, environmental harmony, and dramatic traditions."
+    },
+    {
+        "name": "L. Gilbert Shullai (1933 - 2008)",
+        "title": "Eminent Historian, Political Analyst & Archivist",
+        "masterpiece": "Ka Ri Hynniewtrep Bad Ka Sixth Schedule & Ka Shillong Naduh Ka Snem 1863",
+        "biography": "Monumental chronicler of Khasi tribal statecraft, British-Khasi treaties, constitutional autonomy, and modern Shillong's civic history."
+    },
+    {
+        "name": "Donbok T. Laloo (1940 - 2017)",
+        "title": "Master Folklorist & Cultural Ethnographer",
+        "masterpiece": "Ki Bor Phylla U Hynniewtrep & Ka Ksaw Ka Kpong U Hynniew Trep",
+        "biography": "Dedicated field researcher who recorded oral rituals, traditional divination rites, sacred tribal songs, and mythological lore of the Khasi hills."
+    },
+    {
+        "name": "K.W. Nongrum (1938 - 2017)",
+        "title": "Most Prolific Novelist in Khasi Literary History",
+        "masterpiece": "Ka Pung Ka Jingieit (1983), Nga Dang Ieit Ia Phi & Ki Ktien Shong-Sbai",
+        "biography": "Authored over 35+ beloved Khasi novels, short story collections, and essays, pioneering romantic fiction and colloquial narrative realism."
+    },
+    {
+        "name": "K.K. Kharlukhi (1936 - 2005)",
+        "title": "Master of Fiction & Psychological Drama",
+        "masterpiece": "Ka Melody, Ka Sympa, Ki Biria U Thmoin & Ka Premmiet Khatduh",
+        "biography": "Celebrated short-story pioneer and playwright whose works vividly depicted mid-20th century Khasi social transformation, humor, and domestic realities."
     }
 ]
 
@@ -68,6 +98,16 @@ EPICS: List[Dict[str, Any]] = [
         "title": "Manik Raitong (The Flute of the Destitute)",
         "theme": "Immortal folk romance and soul-stirring music",
         "summary": "The story of an impoverished orphan boy whose haunting bamboo flute melodies captivated the queen. Condemned to death by fire, he played his sorrowful melody one final time atop the funeral pyre before stepping into eternity."
+    },
+    {
+        "title": "Ka Pansngiat Ksiar Ka Meiramew (The Golden Diadem of Mother Earth)",
+        "theme": "Ecological reverence and ancestral kinship with nature",
+        "summary": "Ancient sacred narrative detailing how Mother Earth (Ka Meiramew) was adorned by God with living rivers, soaring cliffs, and pristine forests, entrusting humanity to live in perpetual harmony and stewardship ('Kamai ïa ka hok')."
+    },
+    {
+        "title": "Ka Krem Tirot (The Fortress Cave of U Tirot Sing)",
+        "theme": "Patriotism, anti-colonial resistance, and sacrifice",
+        "summary": "The heroic epic of Syiem Tirot Sing of Nongkhlaw, who led the Khasi warriors in the Anglo-Khasi War (1829–1833) using guerrilla warfare in the limestone caverns and misty gorges before his immortal declaration: 'Better to die a king than live a servant'."
     }
 ]
 
@@ -79,10 +119,22 @@ POEMS: List[Dict[str, Any]] = [
         "english_translation": "In the center of the world God established / A land to shine brightly like the sun; / From mountain peaks the rivers flow, / For the Khasi to rise towards heaven."
     },
     {
-        "title": "Ka Jingsneng Tymmen (Selected Verse)",
+        "title": "Ka Jingsneng Tymmen (Selected Verse - Part I)",
         "poet": "Radhon Singh Berry",
         "text_khasi": "Wat sngewheh ha lade, wat sngewstad ha khmat ki briew, / Ka burom ka hok kaba neh la slem; / To ri ïa ka nongtymmen ka hok bad ka jingshisha.",
         "english_translation": "Be not proud in thyself, nor boastful in human sight, / The honor of righteousness is what endures forever; / Guard the ancient heritage of truth and justice."
+    },
+    {
+        "title": "Ka Jingsneng Tymmen (On Character & Speech - Part II)",
+        "poet": "Radhon Singh Berry",
+        "text_khasi": "Wat leit shongkai ha ïing ki briew haba ym don kam, / Ka ktien ba sting ka pynmong ïa ka burom; / Kren tang ka hok, pynneh ïa ka akor babha.",
+        "english_translation": "Do not loiter aimlessly in other homes when there is no need, / Frivolous speech injures one's dignity; / Speak only what is true, and uphold upright character."
+    },
+    {
+        "title": "Ki Umjer Rupa (Selected Verse)",
+        "poet": "Streamlet Dkhar",
+        "text_khasi": "Kum ki umjer ba shai halor u phlang, / Phyrnai ka jingshai ka mariang; / Ka mynsiem u briew ka kmen ban ïoh, / Ka jingsuk ha tmier ki lum.",
+        "english_translation": "Like silver dewdrops pure upon the meadow, / Radiant shines the morning light of nature; / The human spirit rejoices to receive, / Peaceful solace on highland crests."
     }
 ]
 

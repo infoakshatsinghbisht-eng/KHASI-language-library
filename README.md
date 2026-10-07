@@ -31,8 +31,8 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
    - Converts numbers up to crores/billions into formal Khasi words (`num_to_words`), ordinals (`ordinal`), and fractions.
 6. **🌸 Matrilineal Heritage, Culture, Literature & Calendar (`khasi.culture`)**:
    - Complete documentation of the matrilineal kinship structure (*Kur* and *Kha*, *Ka Khadduh*, *U Kñi*, *Kmie-san*, *Kpa-san*, *Khun-kha*, *Shi-kur*, *Shi-kpoh*).
-   - 7 classical literary figures (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh).
-   - 15 traditional proverbs (*Ki Ktien Tymmen* / *Phawar*), 4 foundational folk epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*), 12 traditional lunar months (*Ki Bnai*), 4 seasons (*Ki Aïom*), and the 8-day rotating market cycle (*Sngi Iew*).
+   - 12 classical and modern literary figures (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh, Prof. Streamlet Dkhar, L. Gilbert Shullai, Donbok T. Laloo, K.W. Nongrum, K.K. Kharlukhi).
+   - 15 traditional proverbs (*Ki Ktien Tymmen* / *Phawar*), 6 foundational folk epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*, *Ka Pansngiat Ksiar Ka Meiramew*, *Ka Krem Tirot*), 4 classical verse collections, 12 traditional lunar months (*Ki Bnai*), 4 seasons (*Ki Aïom*), and the 8-day rotating market cycle (*Sngi Iew*).
 7. **🎙️ Voice Synthesis & SSML (`khasi.voice`)**:
    - SSML markup generator and PCM audio waveform generator for speech synthesis pipelines.
 8. **🏛️ Digital Archival & Field Preservation (`khasi.preservation`)**:

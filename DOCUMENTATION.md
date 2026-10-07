@@ -109,9 +109,9 @@ Khasi uses prepositions rather than postpositions:
 - `MARKET_CYCLE`: The historic 8-day rotating market cycle of the Khasi Hills.
 - `KHASI_MONTHS`: 12 traditional lunar/solar months with cultural meanings.
 - `KHASI_FESTIVALS`: Detailed documentation of *Shad Suk Mynsiem*, *Ka Pomblang Nongkrem*, *Behdeinkhlam*, *Seng Kut Snem*, and *Shad Wangala*.
-- `authors()`: Documented classical literary luminaries (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh).
-- `epics()`: Traditional Khasi epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*).
-- `poems()`: Classical poetry with English translations.
+- `authors()`: Documented classical and modern literary figures (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh, Prof. Streamlet Dkhar, L. Gilbert Shullai, Donbok T. Laloo, K.W. Nongrum, K.K. Kharlukhi).
+- `epics()`: Traditional Khasi epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*, *Ka Pansngiat Ksiar Ka Meiramew*, *Ka Krem Tirot*).
+- `poems()`: Classical poetry with English translations (Soso Tham, Radhon Singh Berry, Prof. Streamlet Dkhar).
 - `khasi.proverbs.all()`: Traditional moral proverbs (*Ki Ktien Tymmen* / *Phawar*).
 - `khasi.catalogue`: Master Bibliography Catalogue of 330+ Khasi works.
 
