@@ -28,6 +28,18 @@ from .kinship import (
     get_kinship_info,
     describe_matrilineal_system,
 )
+from .catalogue import (
+    BibliographyCatalogue,
+    all_works,
+    by_genre,
+    by_author,
+    by_type,
+    search_works,
+    get_digitized_works,
+    summary as catalogue_summary,
+)
+
+catalogue = BibliographyCatalogue()
 
 __all__ = [
     "KHASI_MONTHS",
@@ -49,4 +61,14 @@ __all__ = [
     "list_kinship_terms",
     "get_kinship_info",
     "describe_matrilineal_system",
+    "BibliographyCatalogue",
+    "catalogue",
+    "all_works",
+    "by_genre",
+    "by_author",
+    "by_type",
+    "search_works",
+    "get_digitized_works",
+    "catalogue_summary",
 ]
+

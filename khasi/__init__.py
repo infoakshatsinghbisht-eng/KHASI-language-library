@@ -148,6 +148,8 @@ from .culture import (
     list_kinship_terms,
     get_kinship_info,
     describe_matrilineal_system,
+    catalogue,
+    BibliographyCatalogue,
 )
 
 # Voice & Speech Synthesis
@@ -201,6 +203,7 @@ __all__ = [
     "list_festivals", "get_festival", "authors", "epics", "poems",
     "phrases", "proverbs", "riddles",
     "list_kinship_terms", "get_kinship_info", "describe_matrilineal_system",
+    "catalogue", "BibliographyCatalogue",
     "KhasiVoiceSynthesizer",
     "PreservationRecord", "CorpusManager",
     # Constants

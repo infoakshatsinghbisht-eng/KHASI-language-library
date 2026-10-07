@@ -28,7 +28,8 @@ setup(
     packages=find_packages(exclude=["tests*", "examples*"]),
     include_package_data=True,
     package_data={
-        "khasi.lexicon": ["data/*.json"]
+        "khasi.lexicon": ["data/*.json"],
+        "khasi.culture": ["data/*.json"],
     },
     classifiers=[
         "Programming Language :: Python :: 3",

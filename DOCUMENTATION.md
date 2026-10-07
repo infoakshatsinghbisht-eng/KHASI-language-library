@@ -113,6 +113,7 @@ Khasi uses prepositions rather than postpositions:
 - `epics()`: Traditional Khasi epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*).
 - `poems()`: Classical poetry with English translations.
 - `khasi.proverbs.all()`: Traditional moral proverbs (*Ki Ktien Tymmen* / *Phawar*).
+- `khasi.catalogue`: Master Bibliography Catalogue of 204+ Khasi works.
 
 ---
 
@@ -132,3 +133,27 @@ Khasi uses prepositions rather than postpositions:
   - `export_jsonl()` : LLM fine-tuning format.
   - `export_csv()` : Tabular format for field linguists.
   - `export_huggingface_format()` : Direct format for Hugging Face datasets.
+
+---
+
+## 9. Master Khasi Bibliography & Corpus Catalogue (`khasi.catalogue`)
+
+The library contains a comprehensive, curated database of **204+ Khasi literary works, historical monographs, linguistic primers, and dictionaries** classified across 8 genres:
+- **A. Major Khasi Novels and Fiction**: K.W. Nongrum (12 novels & short stories), Andreas Sun (*Tuid Ummat Ksiar*, *Ki Phawer*), Streamlet Dkhar (*Ka Nongkylliang*), Minimon Laloo (*Ngam Banse*), K.K. Kharlukhi (*Ka Melody*, *Ka Sympa*), etc.
+- **B. Khasi Poetry**: Soso Tham (*Ka Duitara Ksiar*, *Ki Sngi Barim U Hynñiew Trep*), Morkha Joseph (*Ka Ryngkap*), Rabon Singh (*Ka Kitap Jingphawar*), Streamlet Dkhar (*Ki Umjer Rupa*, *Na Lyngwiar Dpei I Mei*), Phrikshon Kharshiing, etc.
+- **C. Khasi Drama and Plays**: D.S. Khongdup (*U Baieit Donshkor*), H. Mylliemngap (*Ka Rangli*), H.W. Sten (*Ka Mahadei*), S. Dkhar (*U Raikut*), Mondon Bareh (*Ka Drama U Mihsngi*), F.M. Pugh, etc.
+- **D. Khasi History**: Babu Jeebon Roy (*History of India in Khasi*, 1900), B.K. Sarma Roy (1908), Theodore Cajee (1936), Dr. H. Lyngdoh (*Ki Syiem Khasi Bad Synteng*, 1938), L.L.D. Basan (1941, 1944), R.S. Lyngdoh (1979, 1983), Kong Tngensi (1988, 1991), L. Gilbert Shullai (1998), etc.
+- **E. Culture, Religion & Society**: Babu Jeebon Roy (*Ka Niam Jong Ki Khasi*, 1897), G. Costa (*Ka Riti Jong Ka Ri Laiphew Syiem*, 1937), H.O. Mawrie (*Ka Pyrkhat U Khasi*, 1973), Sib Charan Roy (*Ka Niam Ki Khasi: Ka Niam Tip Blei Tip Briew*, 1919), etc.
+- **F. Language, Grammar & Linguistics**: Chandra Nath Roy (1909), Nissor Singh (1900), Mondon Bareh (*Khasi English Course And Grammar*, 1929), H. Elias (*Ka Grammar Khasi*, 1956), F.M. Pugh (1960, 1966), H.W. Sten (1987, 1991), B. War (2001, 2014), KJWA Research Cell (2017, 2018), etc.
+- **G. Dictionaries & Reference Works**: Hugh Roberts (1870), Job Solomon (1895), Nissor Singh (1904, 1920), Amirkha Chyne (1922), T. Cajee (1937), A.K. Diengdoh (1966, 1967), Iarington Kharkongor (1968, 1973), E. Bars (1973), Fr. S. Sngi Lyngdoh (1975), Fr. Francis Kharwanlang (2010, 2015), Antoinette Kharmalki (2015), etc.
+- **H. Digitized Wikimedia Editions**: 40+ full PDF scans directly downloaded to `Downloads/Khasi_Books/` for computational text mining and OCR pipeline integration.
+
+### Catalogue API Methods
+- `khasi.catalogue.all()`: List of all 204 works with structured metadata.
+- `khasi.catalogue.by_genre(genre)`: Filter works by genre string.
+- `khasi.catalogue.by_author(author)`: Filter works by author (e.g. `khasi.catalogue.by_author("Nongrum")`).
+- `khasi.catalogue.by_type(type)`: Filter works by medium (e.g. `"Novel"`, `"Poetry"`, `"Drama"`, `"Dictionary"`).
+- `khasi.catalogue.search(query)`: Search across title, author, genre, and type.
+- `khasi.catalogue.digitized()`: Filter to works with digitized scans available.
+- `khasi.catalogue.summary()`: Statistical summary of total works, genre distributions, and top authors.
+

@@ -53,6 +53,13 @@ def main():
     # stats
     s_parser = subparsers.add_parser("stats", help="Display Khasi corpus & morphological stats")
 
+    # catalogue
+    cat_parser = subparsers.add_parser("catalogue", help="Search the Master Khasi Bibliography & Corpus (204+ Books)")
+    cat_parser.add_argument("query", nargs="?", default="", help="Search query (title, author, or keyword)")
+    cat_parser.add_argument("--genre", "-g", type=str, default="", help="Filter by genre")
+    cat_parser.add_argument("--author", "-a", type=str, default="", help="Filter by author")
+    cat_parser.add_argument("--digitized", action="store_true", help="Show only digitized books")
+
     args = parser.parse_args()
 
     if args.command == "translate":
@@ -111,15 +118,49 @@ def main():
     elif args.command == "stats":
         dict_size = len(khasi.KhasiDictionary()._words)
         total_forms = khasi.total_word_forms()
+        cat_summary = khasi.catalogue.summary()
         print("\nKhasi Language Library Statistics:")
         print(f"  ISO 639-3 Code: {khasi.ISO_639_3}")
         print(f"  Native Name: {khasi.NATIVE_NAME}")
         print(f"  Base Dictionary Entries: {dict_size:,} headwords (1 Lakh+)")
         print(f"  Morphological Universe: {total_forms:,}+ inflections & derivations")
+        print(f"  Master Bibliography Catalogue: {cat_summary['total_works']} catalogued books & works")
+        print(f"  Digitized Heritage Works: {cat_summary['digitized_works_count']} scanned works available")
         print(f"  Dialects Supported: Sohra, Shillong, Pnar, War, Bhoi, Maram")
         print(f"  Alphabet letters: {len(khasi.KHASI_ALPHABET)}")
         print(f"  Festivals documented: {len(khasi.list_festivals())}")
         print(f"  Traditional market days: {len(khasi.MARKET_CYCLE)}")
+
+    elif args.command == "catalogue":
+        if args.digitized:
+            results = khasi.catalogue.digitized()
+        elif args.genre:
+            results = khasi.catalogue.by_genre(args.genre)
+        elif args.author:
+            results = khasi.catalogue.by_author(args.author)
+        elif args.query:
+            results = khasi.catalogue.search(args.query)
+        else:
+            summary = khasi.catalogue.summary()
+            print("\n📚 Master Khasi Bibliography & Corpus Catalogue:")
+            print(f"  Total Catalogued Works: {summary['total_works']}")
+            print(f"  Digitized Scans Available: {summary['digitized_works_count']}")
+            print("\nGenres:")
+            for g, count in summary["genres"].items():
+                print(f"  - {g}: {count} works")
+            print("\nTop Khasi Authors:")
+            for a, count in summary["top_authors"][:6]:
+                print(f"  - {a} ({count} works)")
+            print("\nRun 'khasi catalogue <query>' or 'khasi catalogue --author <name>' to explore.")
+            return
+
+        print(f"\nFound {len(results)} works in catalogue:")
+        for w in results[:20]:
+            year = f" ({w['year']})" if "year" in w else ""
+            dig = " [DIGITIZED PDF]" if w.get("digitized") else ""
+            print(f"  #{w['id']} - \"{w['title']}\" by {w['author']}{year} [{w['type']}]{dig}")
+        if len(results) > 20:
+            print(f"  ... and {len(results) - 20} more works.")
 
     else:
         parser.print_help()

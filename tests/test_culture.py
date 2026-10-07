@@ -16,6 +16,13 @@ from khasi.culture import (
     describe_matrilineal_system,
     KHASI_MONTHS,
     MARKET_CYCLE,
+    catalogue,
+    all_works,
+    by_genre,
+    by_author,
+    search_works,
+    get_digitized_works,
+    catalogue_summary,
 )
 
 class TestKhasiCulture(unittest.TestCase):
@@ -52,6 +59,36 @@ class TestKhasiCulture(unittest.TestCase):
         self.assertIn("Kñi", terms)
         desc = describe_matrilineal_system()
         self.assertIn("Ultimogeniture", desc["inheritance_rule"])
+
+    def test_bibliography_catalogue(self):
+        # Total works check
+        works = all_works()
+        self.assertGreaterEqual(len(works), 200)
+        self.assertEqual(len(catalogue), len(works))
+
+        # Check filtering by genre
+        novels = by_genre("literature")
+        self.assertGreater(len(novels), 20)
+        
+        # Check filtering by author
+        nongrum_works = by_author("Nongrum")
+        self.assertGreaterEqual(len(nongrum_works), 20)
+        self.assertTrue(any("Ka Pung Ka Jingieit" in w["title"] for w in nongrum_works))
+
+        # Check search functionality
+        search_res = search_works("Pilgrim")
+        self.assertTrue(any("Ka Jingiaid U Pilgrim" in w["title"] for w in search_res))
+
+        # Check digitized works filter
+        digitized = get_digitized_works()
+        self.assertGreater(len(digitized), 10)
+        self.assertTrue(any("Jeebon Roy" in w["author"] for w in digitized))
+
+        # Check catalogue summary
+        summary = catalogue_summary()
+        self.assertIn("total_works", summary)
+        self.assertGreaterEqual(summary["total_works"], 204)
+        self.assertIn("genres", summary)
 
 if __name__ == "__main__":
     unittest.main()
