@@ -29,7 +29,7 @@ RAW_CATALOGUE = [
     {"id": 15, "title": "Ngam Banse", "author": "Minimon Laloo", "genre": "Original Khasi literature", "type": "Novel", "language": "Khasi", "is_translation": False},
     {"id": 16, "title": "Ka Jingieit Ba Nylla", "author": "F.S. Lyngdoh", "genre": "Original Khasi literature", "type": "Fiction", "language": "Khasi", "is_translation": False},
     {"id": 17, "title": "Ka Samla Nongkyndong", "author": "H.W. Sten", "genre": "Original Khasi literature", "type": "Fiction", "language": "Khasi", "is_translation": False},
-    {"id": 18, "title": "Ka Jingiaid U Pilgrim", "author": "John Roberts", "genre": "Khasi translations / adaptations", "type": "Fiction / Allegory", "language": "Khasi", "is_translation": True, "original_work": "The Pilgrim's Progress by John Bunyan"},
+    {"id": 18, "title": "Ka Jingiaid U Pilgrim", "author": "John Roberts", "genre": "Khasi translations / adaptations", "type": "Fiction / Allegory", "language": "Khasi", "is_translation": True, "original_work": "The Pilgrim's Progress by John Bunyan", "digitized": True},
     {"id": 19, "title": "Kam Kalbut", "author": "W. Tiewsoh", "genre": "Original Khasi literature", "type": "Fiction", "language": "Khasi", "is_translation": False},
     {"id": 20, "title": "Ki Ummat Jingieit", "author": "K.W. Nongrum", "genre": "Original Khasi literature", "type": "Short stories", "language": "Khasi", "is_translation": False},
     {"id": 21, "title": "9 Tylli Ki Biria Dei Por", "author": "K.W. Nongrum", "genre": "Original Khasi literature", "type": "Short stories", "language": "Khasi", "is_translation": False},

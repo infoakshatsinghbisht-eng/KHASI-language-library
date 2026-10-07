@@ -160,7 +160,8 @@
     "type": "Fiction / Allegory",
     "language": "Khasi",
     "is_translation": true,
-    "original_work": "The Pilgrim's Progress by John Bunyan"
+    "original_work": "The Pilgrim's Progress by John Bunyan",
+    "digitized": true
   },
   {
     "id": 19,
