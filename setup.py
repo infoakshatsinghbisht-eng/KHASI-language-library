@@ -8,7 +8,7 @@ long_description = open(readme_path, encoding="utf-8").read() if os.path.exists(
 
 setup(
     name="khasi",
-    version="1.0.0",
+    version="1.1.0",
     author="Akshat Singh Bisht",
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",

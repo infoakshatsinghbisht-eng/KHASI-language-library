@@ -6,7 +6,7 @@ import khasi
 
 class TestKhasiTopLevel(unittest.TestCase):
     def test_metadata(self):
-        self.assertEqual(khasi.__version__, "1.0.0")
+        self.assertEqual(khasi.__version__, "1.1.0")
         self.assertEqual(khasi.__author__, "Akshat Singh Bisht")
         self.assertEqual(khasi.ISO_639_3, "kha")
         self.assertEqual(khasi.NATIVE_NAME, "Ka Ktien Khasi")
