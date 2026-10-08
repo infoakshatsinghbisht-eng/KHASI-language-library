@@ -14,8 +14,11 @@ import pypdf
 
 WORKSPACE_DIR = Path(__file__).resolve().parent
 BOOKS_DATA_DIR = WORKSPACE_DIR / "khasi" / "culture" / "data" / "books"
-BOOKS_DATA_DIR.mkdir(parents=True, exist_ok=True)
-PDF_DIR = Path(r"C:\Users\digit_lgfi273\Downloads\Khasi_Books")
+PDF_DIR = WORKSPACE_DIR / "data" / "khasi_books"
+if not PDF_DIR.exists():
+    _fallback = Path.home() / "Downloads" / "Khasi_Books"
+    if _fallback.exists():
+        PDF_DIR = _fallback
 
 def paginate_text(text: str, target_words: int = 350) -> list:
     """Split text into logical book pages along paragraph boundaries."""

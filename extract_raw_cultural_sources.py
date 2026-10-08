@@ -9,8 +9,13 @@ import sys
 import pypdf
 from pathlib import Path
 
-DOWNLOAD_DIR = r"C:\Users\digit_lgfi273\Downloads\Khasi_Books"
-BASE_RAW_DIR = "data/raw_sources"
+WORKSPACE_DIR = Path(__file__).resolve().parent
+DOWNLOAD_DIR = str(WORKSPACE_DIR / "data" / "khasi_books")
+if not os.path.exists(DOWNLOAD_DIR):
+    _fallback = Path.home() / "Downloads" / "Khasi_Books"
+    if _fallback.exists():
+        DOWNLOAD_DIR = str(_fallback)
+BASE_RAW_DIR = str(WORKSPACE_DIR / "data" / "raw_sources")
 
 def extract_pdf_text(filename: str, output_path: str) -> int:
     fpath = os.path.join(DOWNLOAD_DIR, filename)

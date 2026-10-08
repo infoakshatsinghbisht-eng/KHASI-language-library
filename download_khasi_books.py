@@ -6,7 +6,7 @@ Downloads digitized Khasi books from:
 - Category:Khasi-language_books
 - Category:Books in Khasi digitised under CIS-A2K NECTAR Project
 
-Saves directly to: C:\\Users\\digit_lgfi273\\Downloads\\Khasi_Books
+Saves directly to: data/khasi_books
 """
 
 import sys
@@ -16,7 +16,7 @@ import ssl
 import urllib.request
 from pathlib import Path
 
-TARGET_DIR = Path(r"C:\Users\digit_lgfi273\Downloads\Khasi_Books")
+TARGET_DIR = Path(__file__).resolve().parent / "data" / "khasi_books"
 TARGET_DIR.mkdir(parents=True, exist_ok=True)
 
 JSON_FILE = Path(__file__).resolve().parent / "wikimedia_khasi_books.json"

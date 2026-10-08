@@ -6,7 +6,7 @@ Compiler for the Master Bibliography Catalogue of 200+ Khasi Works.
 import json
 from pathlib import Path
 
-DATA_DIR = Path(r"C:\Users\digit_lgfi273\OneDrive\Desktop\pykhasi\khasi\culture\data")
+DATA_DIR = Path(__file__).resolve().parent / "khasi" / "culture" / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 CATALOGUE_PATH = DATA_DIR / "khasi_bibliography_catalogue.json"
 

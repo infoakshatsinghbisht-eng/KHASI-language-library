@@ -13,7 +13,7 @@ import ssl
 from pathlib import Path
 import time
 
-TARGET_DIR = Path(r"C:\Users\digit_lgfi273\Downloads\Khasi_Books")
+TARGET_DIR = Path(__file__).resolve().parent / "data" / "khasi_books"
 TARGET_DIR.mkdir(parents=True, exist_ok=True)
 
 ctx = ssl._create_unverified_context()

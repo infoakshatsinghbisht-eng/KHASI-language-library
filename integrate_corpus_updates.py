@@ -16,8 +16,11 @@ from pathlib import Path
 # Paths
 ROOT = Path(__file__).resolve().parent
 CATALOGUE_PATH = ROOT / "khasi" / "culture" / "data" / "khasi_bibliography_catalogue.json"
-WORDS_PATH = ROOT / "khasi" / "lexicon" / "data" / "words.json"
-EXCEL_PATH = Path(r"C:\Users\digit_lgfi273\Downloads\Khasi_AI_LLM_Master_Corpus_300_plus.xlsx")
+EXCEL_PATH = ROOT / "data" / "Khasi_AI_LLM_Master_Corpus_300_plus.xlsx"
+if not EXCEL_PATH.exists():
+    _fallback = Path.home() / "Downloads" / "Khasi_AI_LLM_Master_Corpus_300_plus.xlsx"
+    if _fallback.exists():
+        EXCEL_PATH = _fallback
 
 # 1. Update Catalogue
 with open(CATALOGUE_PATH, "r", encoding="utf-8") as f:

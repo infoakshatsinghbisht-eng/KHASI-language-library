@@ -8,12 +8,12 @@ long_description = open(readme_path, encoding="utf-8").read() if os.path.exists(
 
 setup(
     name="khasi",
-    version="1.3.0",
+    version="1.4.0",
     author="Akshat Singh Bisht",
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",
     maintainer_email="infoakshatsinghbisht@gmail.com",
-    description="Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 13,000+ Dialect Lexicons (Pnar/War/Bhoi/Maram), 252 Native Audio Waveforms, Aligned MT Parallel Corpora, and Meghalaya Cultural Heritage",
+    description="Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 24 Digitized Whole Books (1,980+ Pages), 13,000+ Dialect Lexicons (Pnar/War/Bhoi/Maram), 252 Native Audio Waveforms, and Aligned MT Parallel Corpora",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",

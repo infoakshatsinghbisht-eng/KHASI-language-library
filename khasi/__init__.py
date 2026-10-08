@@ -21,7 +21,7 @@ Quick Start:
 {'khasi': 'khublei', 'hindi': 'नमस्ते / धन्यवाद / प्रणाम', 'english': 'hello / thank you / greetings', 'pos': 'interjection'}
 """
 
-__version__ = "1.3.0"
+__version__ = "1.4.0"
 __author__ = "Akshat Singh Bisht"
 __email__ = "infoakshatsinghbisht@gmail.com"
 __maintainer__ = "Akshat Singh Bisht"
