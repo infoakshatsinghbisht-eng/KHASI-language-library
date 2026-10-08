@@ -29,7 +29,7 @@ setup(
     include_package_data=True,
     package_data={
         "khasi.lexicon": ["data/*.json", "data/dialects/*.json"],
-        "khasi.culture": ["data/*.json"],
+        "khasi.culture": ["data/*.json", "data/books/*.json"],
         "khasi.voice": ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"],
         "khasi.corpus": ["data/*.json", "data/*.jsonl", "data/bitext/*"],
     },

@@ -205,6 +205,15 @@ from .culture import (
     list_sacred_sites,
     get_sacred_site,
     sites_by_type,
+    books,
+    KhasiBook,
+    BookPage,
+    list_books,
+    get_book,
+    search_books,
+    total_books,
+    total_pages,
+    total_words,
 )
 
 # Voice & Speech Synthesis
@@ -310,6 +319,7 @@ __all__ = [
     "list_kinship_terms", "get_kinship_info", "search_kinship", "describe_matrilineal_system",
     "catalogue", "BibliographyCatalogue", "all_works", "by_genre", "by_author", "by_type",
     "search_works", "get_digitized_works", "catalogue_summary",
+    "books", "KhasiBook", "BookPage", "list_books", "get_book", "search_books", "total_books", "total_pages", "total_words",
     "dialects", "list_dialects", "get_dialect_info", "load_dialect_lexicon", "lookup_dialect", "translate_dialect", "find_cognates", "get_dialect_statistics",
     "audio_dataset", "KhasiAudioDataset", "KhasiVoiceSynthesizer",
     "parallel_corpus", "ParallelCorpus",

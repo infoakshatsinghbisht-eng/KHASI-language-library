@@ -106,6 +106,17 @@ from .sacred_sites import (
     get_sacred_site,
     sites_by_type,
 )
+from .books import (
+    books,
+    KhasiBook,
+    BookPage,
+    list_books,
+    get_book,
+    search_books,
+    total_books,
+    total_pages,
+    total_words,
+)
 
 catalogue = BibliographyCatalogue()
 
@@ -201,4 +212,14 @@ __all__ = [
     "list_sacred_sites",
     "get_sacred_site",
     "sites_by_type",
+    # Digitized Whole Books & Preservation (NEW)
+    "books",
+    "KhasiBook",
+    "BookPage",
+    "list_books",
+    "get_book",
+    "search_books",
+    "total_books",
+    "total_pages",
+    "total_words",
 ]

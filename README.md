@@ -140,7 +140,20 @@ print(f"\"{proverb['khasi']}\" - {proverb['meaning']}")
 riddle = khasi.riddles.random()
 print(f"Riddle: {riddle['riddle']} -> Solution: {riddle['solution']}")
 
-# 10. Master Bibliography Catalogue (344 Works)
+# 10. Digitized Whole Books Preservation Reader (24 Books, 1,980+ Pages)
+print(khasi.books.summary())
+# {'total_books': 24, 'total_pages': 1987, 'total_words': 473168, ...}
+
+book = khasi.get_book("ka_niam_ki_khasi")
+print(book.title)        # "Ka Niam Ki Khasi: Ka Niam Tip-Blei Tip-Briew"
+print(book.total_pages)  # 64
+print(book.get_page(1))  # Page 1 text
+
+# Universal full-text search across all 24 books
+results = khasi.search_books("hynniewtrep")
+print(f"Found {len(results)} occurrences across classical books.")
+
+# 11. Master Bibliography Catalogue (344 Works)
 print(khasi.catalogue.summary())
 # {'total_works': 344, 'genres': {'Original Khasi literature': 165, ...}}
 

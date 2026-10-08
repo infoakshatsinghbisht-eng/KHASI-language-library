@@ -139,7 +139,69 @@ The root `khasi` package provides direct, high-level access to the most common o
 
 ---
 
-## 6. Master Bibliography Catalogue (`khasi.catalogue`)
+## 6. Digitized Whole Books & Preservation Reader (`khasi.books` / `khasi.culture.books`)
+
+Access the **whole book data** (all pages, chapters, and full texts) for **24 foundational Khasi literary, theological, historical, dramatic, and linguistic classics** (over **1,980+ pages** and **470,000+ words** preserved in full text):
+
+- **Radhon Singh Berry**: *Ka Jingsneng Tymmen Part 1 & Part 2* (1903) — Classical rhyming ethical verse (*Phawar*).
+- **Dr. Streamlet Dkhar**: *Na Lyngwiar Dpei I Mei*, *Ki Umjer Rupa*, *U Raikut*, *Na Khriang Ka Dohnud*, *Ka Jinglong Tynrai U Briew Kat Kum Ki Drama Khasi*.
+- **U Sib Charan Roy**: *Ka Niam Ki Khasi: Ka Niam Tip-Blei Tip-Briew* (1919) — Foundational theological treatise on Khasi monotheism.
+- **Dr. H. Lyngdoh**: *U Khasi Hyndai* (1938) — Exhaustive cultural, megalithic (*Mawbynna*), and social history.
+- **U Mondon Bareh**: *Ka Drama U Mihsngi* (1929) & *Khasi-English Course and Grammar for Schools and Colleges* (1929).
+- **Babu Jeebon Roy**: *Shaphang U Wai U Blai* (1900) — Treatise on prayers and worship.
+- **U Rabon Singh**: *Ka Myntoi* (1924) — Philosophical prose and moral ethics.
+- **Welsh Mission**: *Ka Kot Pule Ka Balai* (Khasi Third Reader, 1904).
+- **Bevan L. Swer**: *Ka Meiramew Bad U Hynniewtrep* (1998) — Ecological and cosmological mythology.
+- **Donbok T. Laloo**: *Ki Bor Phylla U Hynniewtrep* (1995) — Mysticism, sacred stones, and divination.
+- **Dr. H.W. Sten**: *Ki Sur Na Ka Duitara Ksiar* (1981) — Comprehensive literary critique of Soso Tham.
+- **Minette Sibon Tham**: *I Mabah Soso Tham* (1990) — Intimate biography of the national poet.
+- **Hughlet Warjri**: *U Soso Tham Bad Ki Jingtrei Jong U* (1985) — Literary analysis of Tham's poetry.
+- **L. Gilbert Shullai**: *Ka Ri Hynniewtrep Bad Ka Sixth Schedule* (1989) — Constitutional history and tribal governance.
+- **S. Synrang Khonglah**: *Ka Niam Khasi Tynrai Ha Ka Dur Ka Niam Khristan* (1985) — Comparative religion.
+- **Classical Heritage**: *Ka Thymmei Ki Parom Khasi*, *Ka Jymbriew Ki Khasi: Ki Kur bad Jait*, *Ka Jingshai Ka Ri Khasi*.
+
+### APIs:
+```python
+import khasi
+
+# 1. Inspect library summary
+print(khasi.books.summary())
+# {'total_books': 24, 'total_pages': 1987, 'total_words': 473168, ...}
+
+# 2. List all available books
+all_books = khasi.list_books()
+
+# 3. Retrieve a specific whole book
+book = khasi.get_book("ka_niam_ki_khasi")
+print(book.title)        # "Ka Niam Ki Khasi: Ka Niam Tip-Blei Tip-Briew"
+print(book.author)       # "U Sib Charan Roy"
+print(book.total_pages)  # 64
+print(book.chapters)     # List of chapter titles
+
+# 4. Page-by-page reading
+page_1 = book.get_page(1)
+print(page_1)
+
+# Or via facade
+page_5 = khasi.books.read("ka_jingsneng_tymmen_part_1", 5)
+
+# 5. Access full book text
+full_text = book.full_text
+
+# 6. In-book keyword search across all pages
+hits = book.search("blei")
+for hit in hits:
+    print(f"Page {hit['page_number']}: {hit['snippet']}")
+
+# 7. Cross-book universal search across all 24 books and all pages
+universal_hits = khasi.search_books("hynniewtrep")
+for hit in universal_hits:
+    print(f"[{hit['title']} p.{hit['page_number']}]: {hit['snippet']}")
+```
+
+---
+
+## 7. Master Bibliography Catalogue (`khasi.catalogue`)
 
 Curated metadata database of **344 catalogued Khasi literary works, historical monographs, linguistic primers, and dictionaries** across 8 genres.
 
