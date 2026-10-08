@@ -6,10 +6,13 @@ import khasi
 
 class TestKhasiTopLevel(unittest.TestCase):
     def test_metadata(self):
-        self.assertEqual(khasi.__version__, "1.1.0")
+        self.assertEqual(khasi.__version__, "1.3.0")
         self.assertEqual(khasi.__author__, "Akshat Singh Bisht")
         self.assertEqual(khasi.ISO_639_3, "kha")
         self.assertEqual(khasi.NATIVE_NAME, "Ka Ktien Khasi")
+        self.assertIsNotNone(khasi.dialects)
+        self.assertIsNotNone(khasi.audio_dataset)
+        self.assertIsNotNone(khasi.parallel_corpus)
 
     def test_translation(self):
         res = khasi.translate("How are you?")
@@ -88,6 +91,58 @@ class TestKhasiTopLevel(unittest.TestCase):
 
         wav = khasi.KhasiVoiceSynthesizer.generate_pcm_wav(0.1)
         self.assertTrue(wav.startswith(b"RIFF"))
+
+    def test_expanded_knowledge_facades(self):
+        # Instruments
+        insts = khasi.instruments.all()
+        self.assertGreaterEqual(len(insts), 10)
+        duitara = khasi.instruments.get("duitara")
+        self.assertIsNotNone(duitara)
+        self.assertIn("Lute", duitara["category"])
+
+        # Songs
+        sngs = khasi.songs.all()
+        self.assertGreaterEqual(len(sngs), 5)
+        self.assertTrue(any("Lapalang" in s["title"] for s in sngs))
+
+        # Plants
+        plnts = khasi.plants.all()
+        self.assertGreaterEqual(len(plnts), 25)
+        pitcher = khasi.plants.get("Nepenthes")
+        self.assertIsNotNone(pitcher)
+        self.assertIn("Nepenthes khasiana", pitcher["scientific_name"])
+        meds = khasi.plants.medicinal()
+        self.assertGreaterEqual(len(meds), 10)
+
+        # Wildlife
+        fauna = khasi.wildlife.all()
+        self.assertGreaterEqual(len(fauna), 15)
+        leopard = khasi.wildlife.get("Neofelis")
+        self.assertIsNotNone(leopard)
+
+        # Cuisine
+        dsh = khasi.dishes.all()
+        self.assertGreaterEqual(len(dsh), 15)
+        jadoh = khasi.dishes.get("jadoh")
+        self.assertIsNotNone(jadoh)
+
+        # Places / Geography
+        plcs = khasi.places.all()
+        self.assertGreaterEqual(len(plcs), 20)
+        nohkalikai = khasi.places.get("nohkalikai")
+        self.assertIsNotNone(nohkalikai)
+
+        # Clans
+        cln_list = khasi.clans.all()
+        self.assertGreaterEqual(len(cln_list), 25)
+        syiem_clan = khasi.clans.get("syiem")
+        self.assertIsNotNone(syiem_clan)
+
+        # Idioms
+        idms = khasi.idioms.all()
+        self.assertGreaterEqual(len(idms), 20)
+        horkit = khasi.idioms.get("horkit")
+        self.assertIsNotNone(horkit)
 
 if __name__ == "__main__":
     unittest.main()

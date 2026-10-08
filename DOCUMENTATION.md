@@ -1,6 +1,6 @@
 # Khasi Language Library (Ka Ktien Khasi) — Complete API Documentation
 
-Comprehensive technical documentation for the `khasi` Python library (version 1.0.0).
+Comprehensive technical documentation for the `khasi` Python library (version 1.3.0).
 
 ---
 
@@ -8,12 +8,12 @@ Comprehensive technical documentation for the `khasi` Python library (version 1.
 
 The root `khasi` package provides direct, high-level access to the most common operations:
 
-### Functions
+### Core Functions
 
 | Function | Signature | Description |
 |---|---|---|
 | `translate()` | `translate(text, source='auto', target='khasi', dialect='sohra')` | Translates English, Hindi, or Hinglish into Khasi with dialect adaptation. |
-| `lookup()` | `lookup(word: str)` | Looks up a word in the trilingual dictionary with prefix stripping fallback. |
+| `lookup()` | `lookup(word: str)` | Looks up a word in the 105,000+ trilingual dictionary with prefix stripping fallback. |
 | `search()` | `search(query: str)` | Searches for matching words across Khasi, English, and Hindi. |
 | `analyze()` | `analyze(word: str)` | Decomposes a word morphologically (lemma, POS, prefixes). |
 | `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (300,000+). |
@@ -28,13 +28,25 @@ The root `khasi` package provides direct, high-level access to the most common o
 | `get_current_season()` | `get_current_season() -> Dict[str, str]` | Returns current Khasi season (*Ki Aïom*). |
 | `get_current_khasi_month()`| `get_current_khasi_month() -> Dict[str, Any]` | Returns current Khasi month (*Ki Bnai*). |
 | `get_market_day()` | `get_market_day(day_index: int) -> Dict[str, Any]` | Information from the 8-day traditional *Sngi Iew* cycle. |
-| `list_festivals()` | `list_festivals() -> List[Dict[str, Any]]` | Returns documented traditional Khasi festivals. |
+| `list_festivals()` | `list_festivals() -> List[Dict[str, Any]]` | Returns 18 documented traditional Khasi festivals. |
+| `get_festival()` | `get_festival(query: str) -> Optional[Dict[str, Any]]` | Finds festival by name, location, or tradition. |
 
-### Facade Objects
+### Top-Level Facade Objects
 
-- `khasi.proverbs.all()` / `khasi.proverbs.random()` : Access traditional proverbs (*Ki Ktien Tymmen* / *Phawar*).
-- `khasi.phrases.all()` / `khasi.phrases.random()` : Conversational daily phrases.
-- `khasi.riddles.all()` / `khasi.riddles.random()` : Traditional Khasi riddles (*Ki Jingkyntip*).
+- `khasi.phrases.all()` / `khasi.phrases.random()` : 185+ practical conversational phrases across 15 categories (greetings, dining, travel, hospital, police, school, office, tech, etc.).
+- `khasi.proverbs.all()` / `khasi.proverbs.random()` : 65+ authentic moral proverbs (*Ki Ktien Tymmen* / *Phawar*) with literal and contextual translations.
+- `khasi.riddles.all()` / `khasi.riddles.random()` : 32+ traditional Khasi riddles (*Ki Jingkyntip*) with solutions and cultural hints.
+- `khasi.instruments.all()` / `khasi.instruments.get(name)` : Traditional musical instruments (*Duitara*, *Tangmuri*, *Ksing*, *Nakra*, *Maryngod*, *Mieng*, *Besli*, etc.).
+- `khasi.songs.all()` / `khasi.songs.get(title)` : Traditional folk songs, chants, ballads, and lullabies complete with authentic Khasi lyrics and English translations.
+- `khasi.rituals.all()` / `khasi.rituals.get(name)` / `khasi.rituals.by_category(c)` : Traditional rituals, egg divination (*Ka Shat Pylleng*), sacrifices, and ceremonies.
+- `khasi.deities.all()` / `khasi.deities.get(name)` / `khasi.deities.by_realm(r)` : Indigenous Khasi pantheon, territorial protectors, mountain rulers, and spirits.
+- `khasi.sacred_sites.all()` / `khasi.sacred_sites.get(name)` / `khasi.sacred_sites.by_type(t)` : Sacred groves (*Law Kyntang*), prehistoric megalith complexes (*Mawbynna*), and altars.
+- `khasi.plants.all()` / `khasi.plants.get(query)` / `khasi.plants.medicinal()` : Ethnomedicinal flora, wild fruits, trees, and orchids with binomial scientific names.
+- `khasi.wildlife.all()` / `khasi.wildlife.get(query)` : Native mammals, birds, fish, reptiles, and insects with scientific names and folklore context.
+- `khasi.dishes.all()` / `khasi.dishes.get(name)` : Traditional culinary heritage (*Jadoh*, *Dohkhlieh*, *Dohneiiong*, *Tungrymbai*, *Ja Stem*, *Pumaloi*, *Pukhlein*, *Khiew Ranei*).
+- `khasi.places.all()` / `khasi.places.get(name)` : Sacred geographical sites, rivers (*Wah*), waterfalls (*Kshaid*), peaks (*Lum*), caves (*Krem*), sacred groves (*Law Kyntang*), root bridges (*Jingkieng Jri*), and Syiemships (*Hima*).
+- `khasi.clans.all()` / `khasi.clans.get(name)` / `khasi.clans.search(query)` : Recognized Khasi and Pnar clans (*Kur* and *Jaid*), branches, and historical offices.
+- `khasi.idioms.all()` / `khasi.idioms.get(query)` : Coupled rhyming idioms (*Ki Ktien Kynnoh*) and parables (*Ki Pharshi*).
 
 ---
 
@@ -56,104 +68,197 @@ The root `khasi` package provides direct, high-level access to the most common o
 - Gender articles:
   - `u` : Masculine singular
   - `ka`: Feminine singular
-  - `i`  : Diminutive / Affectionate
-  - `ki` : Plural
-- Functions: `pluralize()`, `decline_noun()`, `make_diminutive()`, `make_augmentative()`
+  - `i` : Diminutive / Affectionate
+  - `ki`: Plural
+- `pluralize(phrase: str) -> str`: Smartly converts article-marked noun phrases to plural (`u briew` -> `ki briew`).
+- `make_diminutive(phrase: str) -> str`: Converts to affectionate/diminutive form (`u khunlung` -> `i khunlung`).
+- `decline_noun(lemma, article) -> Dict[str, str]`: Generates grammatical case declensions (Nominative, Accusative, Genitive, Dative, Locative, Ablative, Allative, Instrumental).
 
-### Prepositions (`khasi.grammar.prepositions`)
-Khasi uses prepositions rather than postpositions:
-- `jong` (genitive: of)
-- `ha` (locative: in/at/on)
-- `sha` (allative: to/towards)
-- `na` (ablative: from)
-- `da` (instrumental: by/with)
-- `bad` (comitative: with/and)
-- `ïa` (accusative/dative object marker)
-- `ban` (purposive/infinitive: to/for)
+### Verb Conjugation & TAM (`khasi.grammar.verbs`)
+- `conjugate(verb, tense, pronoun, aspect, negative)`: Generates full verbal clauses across Past, Present, Future, Future Definite, Habitual, and Progressive aspects.
+- Derivational prefixes:
+  - `causative(verb)` : `pyn-` (e.g. `ïap` -> `pynïap`)
+  - `nominalize(word)` : `jing-` (e.g. `stad` -> `jingstad`)
+  - `agent_noun(verb)` : `nong-` (e.g. `hikai` -> `nonghikai`)
+  - `experiential(adj)` : `sngew-` (e.g. `bha` -> `sngewbha`)
 
-### Verbs & Tense-Aspect-Mood (`khasi.grammar.verbs`)
-- Tenses: `past` (`la`), `present` (unmarked or `dang`), `future` (`yn` / `’n`), `future_definite` (`daw`), `habitual` (`ju`).
-- Modals: potential (`lah ban`), obligation (`dei ban`).
-- Contraction handling: `ngam`, `um`, `kam`, `kim`, `phim`, `ngan`, `un`, `kan`, `kin`, `phin`.
-
-### Syntax Engine (`khasi.grammar.syntax`)
-- `build_sentence(subject, verb, obj=None, tense='present', aspect='simple', negative=False)`: Constructs valid SVO sentences.
-- `interrogative_sentence(interrogative, subject, verb)`: Generates Khasi questions.
+### Adjectives & Adverbs (`khasi.grammar.adjectives`, `khasi.grammar.adverbs`)
+- `make_attributive(adj)`: Generates participle adjective (`ba-` prefix: `bha` -> `ba-bha`).
+- `make_comparative(adj, than)`: Generates comparative grade (`kham ... ban ïa ...`).
+- `make_superlative(adj)`: Generates superlative grade (`ba-... tam`).
+- `reduplicate_adverb(adv)`: Generates expressive adverbial reduplications (`suki` -> `suki-suki`).
+- `list_echo_words()`: Returns authentic Khasi echo/jingle words.
 
 ---
 
-## 4. Lexicon & Morphological Universe (`khasi.lexicon`)
+## 4. Multi-Dialect Translation Engine (`khasi.translator`)
 
-- `KhasiDictionary`: Full bilingual and trilingual dictionary engine loaded with 100,000+ (1 Lakh+) entries from `words.json`, `phrases.json`, `proverbs.json`, `riddles.json`. Extracted from U Mondon Bareh's *Khasi-English Course and Grammar*, U Nissor Singh's *Khasi-English Dictionary*, and the *English-Khasi Dictionary*.
-- `KhasiMorphologyEngine`: Dynamically handles 300,000+ morphological forms with prefix stripping and affix analysis.
-- `MorphAnalysis`: Data container with `token`, `lemma`, `pos`, `gender`, `number`, `case`, `english_meaning`, `hindi_meaning`, `prefix_type`.
-
----
-
-## 5. Universal Translation Engine (`khasi.translator`)
-
-- Multi-dialect support:
-  - `sohra` : Standard Literary Khasi
-  - `shillong` : Colloquial urban dialect
-  - `pnar` : Jaiñtia Hills variant
-  - `war` : Southern slopes variant
+- `translate(text, source='auto', target='khasi', dialect='sohra')`: Rule-based and lexical translator supporting:
+  - `sohra` : Standard literary Khasi
+  - `shillong`: Urban colloquial Khasi
+  - `pnar` : Jaiñtia variant
+  - `war` : Southern slope variant
   - `bhoi` : Ri-Bhoi variant
-- `TranslationResult`: Named tuple containing `text`, `source_lang`, `target_lang`, `confidence`, and `dialect`.
+- `TranslationResult`: Result object with `text`, `source_lang`, `target_lang`, `confidence`, and `dialect`.
 
 ---
 
-## 6. Culture, Calendar, Literature & Matrilineal Kinship (`khasi.culture`)
+## 5. Culture, Heritage & Ethnoscience (`khasi.culture`)
 
-- `describe_matrilineal_system()`: Complete description of matrilineal kinship, clan exogamy rules (*Sang*), and ultimogeniture inheritance by *Ka Khadduh*.
-- `list_kinship_terms()`: Comprehensive dictionary of kinship roles (*Mei*, *Pa*, *Khadduh*, *Kñi*, *Kur*, *Kha*, *Kong*, *Bah*, *Hep*).
-- `MARKET_CYCLE`: The historic 8-day rotating market cycle of the Khasi Hills.
-- `KHASI_MONTHS`: 12 traditional lunar/solar months with cultural meanings.
-- `KHASI_FESTIVALS`: Detailed documentation of *Shad Suk Mynsiem*, *Ka Pomblang Nongkrem*, *Behdeinkhlam*, *Seng Kut Snem*, and *Shad Wangala*.
-- `authors()`: Documented classical and modern literary figures (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh, Prof. Streamlet Dkhar, L. Gilbert Shullai, Donbok T. Laloo, K.W. Nongrum, K.K. Kharlukhi).
-- `epics()`: Traditional Khasi epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*, *Ka Pansngiat Ksiar Ka Meiramew*, *Ka Krem Tirot*).
-- `poems()`: Classical poetry with English translations (Soso Tham, Radhon Singh Berry, Prof. Streamlet Dkhar).
-- `khasi.proverbs.all()`: Traditional moral proverbs (*Ki Ktien Tymmen* / *Phawar*).
-- `khasi.catalogue`: Master Bibliography Catalogue of 330+ Khasi works.
+### Kinship System (`khasi.culture.kinship`)
+- `list_kinship_terms()`: 45+ terms documenting the world's largest surviving matrilineal system (*Mei*, *Pa*, *Khadduh*, *Kñi*, *Kur*, *Kha*, *Shi-kur*, *Shi-kpoh*, *Kpoh*, *Sang*, *Ma*, *Poikha*, *Thep Mawbah*).
+- `describe_matrilineal_system()`: Complete overview of matrilineal organization, clan exogamy, and ultimogeniture inheritance.
+
+### Literature, Epics & Authors (`khasi.culture.literature`)
+- `authors()`: 24 prominent authors (U Soso Tham, Babu Jeebon Roy, Radhon Singh Berry, Dr. H. Lyngdoh, U Mondon Bareh, U Sib Charan Roy, U Rabon Singh, Prof. Streamlet Dkhar, Victor G. Bareh, Dr. Hamlet Bareh, Prof. Kynpham Sing Nongkynrih, Prof. Desmond Kharmawphlang, Prof. Esther Syiem, Donbok T. Laloo, K.W. Nongrum, K.K. Kharlukhi, etc.).
+- `epics()`: 15 classical epics (*U Sohpetbneng*, *U Thlen*, *Ka Nohkalikai*, *Manik Raitong*, *Ka Pansngiat Ksiar Ka Meiramew*, *Ka Krem Tirot*, *U Sier Lapalang*, *Ka Sngi bad U Bnai*, *U Klew bad Ka Sngi*, *U Lum Diengiei*, *U Mawlongbna*, *Ka Krem Lamet Latang*, *Ka Umïam*, *U Sim Pyllieng*, *Ki Mawbynna U Hynniewtrep*).
+- `poems()`: Classical verse collections with English translations.
+
+### Music & Organology (`khasi.culture.music`)
+- `list_instruments()` / `get_instrument(name)`: 12 traditional instruments (*Duitara*, *Tangmuri*, *Ksing Shynrang*, *Ksing Kynthei*, *Nakra*, *Padiah*, *Maryngod*, *Mieng*, *Besli*, *Shyngwiang*, *Kynshaw*, *Symphiah*).
+- `list_songs()` / `get_song(title)`: 8 folk songs, thanksgiving chants, and funeral laments.
+- `list_musicians()`: Renowned artists (Bah Kerios Wahlang, Dr. Helen Giri, Lou Majaw, Skendrowell Syiemlieh, Da-Thymmei, Soulmate).
+
+### Botany & Ethnomedicine (`khasi.culture.botany`)
+- `list_plants()` / `get_plant(query)` / `medicinal_plants()`: 30+ verified Khasi plants with scientific binomial names, families, and indigenous applications (*Nepenthes khasiana*, *Prunus nepalensis*, *Myrica esculenta*, *Elaeagnus latifolia*, *Houttuynia cordata*, *Centella asiatica*, *Clerodendrum colebrookianum*, *Paris polyphylla*, *Pinus kesiya*, *Ficus elastica*, *Curcuma longa var. Lakadong*, etc.).
+
+### Wildlife & Fauna (`khasi.culture.wildlife`)
+- `list_wildlife()` / `get_animal(query)` / `by_wildlife_class(c)`: 22+ native wildlife species with scientific names and folklore context (*Neofelis nebulosa*, *Panthera tigris*, *Rusa unicolor*, *Ursus thibetanus*, *Buceros bicornis*, *Tor putitora*, *Python bivittatus*, *Bufoides meghalayanus*, *Apis cerana himalaya*, *Samia cynthia ricini*, etc.).
+
+### Cuisine & Food Culture (`khasi.culture.cuisine`)
+- `list_dishes()` / `get_dish(name)` / `by_cuisine_category(c)`: 17 traditional culinary entries (*Jadoh*, *Dohkhlieh*, *Dohneiiong*, *Tungrymbai*, *Ja Stem*, *Pumaloi*, *Pukhlein*, *Tungtap*, *Kwai bad Tympew*, *Sha Saw*, *Khiew Ranei*, *Saraw*, etc.).
+
+### Geography & Sacred Landscapes (`khasi.culture.geography`)
+- `list_places()` / `get_place(name)` / `by_geography_type(t)`: 27 documented sites including crystal rivers (*Wah Umngot*), soaring cascades (*Nohkalikai*, *Dainthlen*), holy peaks (*Lum Shillong*, *Lum Sohpetbneng*), record-holding caves (*Krem Liat Prah*, *Krem Puri*, *Krem Mawmluh*), 800-year-old virgin groves (*Law Kyntang Mawphlang*), double-decker living root bridges (*Jingkieng Jri Nongriat*), and historic Syiemships (*Hima Khyrim*, *Hima Mylliem*, *Hima Sohra*, *Hima Nongkhlaw*).
+
+### Clans & Surnames (`khasi.culture.clans`)
+- `list_clans()` / `get_clan(name)` / `search_clans(query)`: 29 documented Khasi and Pnar clans (*Syiem*, *Lyngdoh*, *Nongrum*, *Wahlang*, *Kharbangar*, *Dkhar*, *Rymbai*, *Laloo*, *Tham*, *Bareh*, etc.).
+
+### Idioms & Coupled Expressions (`khasi.culture.idioms`)
+- `list_idioms()` / `get_idiom(query)`: 24 coupled idioms (*Ktien Kynnoh*) and parables (*Ki Pharshi*).
 
 ---
 
-## 7. Voice & Speech Synthesis (`khasi.voice`)
+## 6. Master Bibliography Catalogue (`khasi.catalogue`)
 
-- `KhasiVoiceSynthesizer.get_speech_ssml(text, rate='medium', pitch='+0%')`: Generates standard SSML XML.
-- `KhasiVoiceSynthesizer.get_phonetic_script(text)`: Produces syllable decomposition and orthographic profiles.
-- `KhasiVoiceSynthesizer.generate_pcm_wav(duration, freq)`: Pure sinusoidal PCM audio wave generator.
+Curated metadata database of **344 catalogued Khasi literary works, historical monographs, linguistic primers, and dictionaries** across 8 genres.
 
----
-
-## 8. Digital Archival & Field Preservation (`khasi.preservation`)
-
-- `PreservationRecord`: Dataclass capturing metadata (ID, title, speaker name/age/clan, dialect, audio file, translation, license).
-- `CorpusManager`: Archiving manager with:
-  - `validate_text()` : Orthographic integrity & health check.
-  - `export_jsonl()` : LLM fine-tuning format.
-  - `export_csv()` : Tabular format for field linguists.
-  - `export_huggingface_format()` : Direct format for Hugging Face datasets.
-
----
-
-## 9. Master Khasi Bibliography & Corpus Catalogue (`khasi.catalogue`)
-
-The library contains a comprehensive, curated database of **330+ Khasi literary works, historical monographs, linguistic primers, and dictionaries** classified across 8 genres:
-- **A. Major Khasi Novels and Fiction**: K.W. Nongrum (12 novels & short stories), Andreas Sun (*Tuid Ummat Ksiar*, *Ki Phawer*), Streamlet Dkhar (*Ka Nongkylliang*), Minimon Laloo (*Ngam Banse*), K.K. Kharlukhi (*Ka Melody*, *Ka Sympa*), etc.
-- **B. Khasi Poetry**: Soso Tham (*Ka Duitara Ksiar*, *Ki Sngi Barim U Hynñiew Trep*), Morkha Joseph (*Ka Ryngkap*), Rabon Singh (*Ka Kitap Jingphawar*), Streamlet Dkhar (*Ki Umjer Rupa*, *Na Lyngwiar Dpei I Mei*), Phrikshon Kharshiing, etc.
-- **C. Khasi Drama and Plays**: D.S. Khongdup (*U Baieit Donshkor*), H. Mylliemngap (*Ka Rangli*), H.W. Sten (*Ka Mahadei*), S. Dkhar (*U Raikut*), Mondon Bareh (*Ka Drama U Mihsngi*), F.M. Pugh, etc.
-- **D. Khasi History**: Babu Jeebon Roy (*History of India in Khasi*, 1900), B.K. Sarma Roy (1908), Theodore Cajee (1936), Dr. H. Lyngdoh (*Ki Syiem Khasi Bad Synteng*, 1938), L.L.D. Basan (1941, 1944), R.S. Lyngdoh (1979, 1983), Kong Tngensi (1988, 1991), L. Gilbert Shullai (1998), etc.
-- **E. Culture, Religion & Society**: Babu Jeebon Roy (*Ka Niam Jong Ki Khasi*, 1897), G. Costa (*Ka Riti Jong Ka Ri Laiphew Syiem*, 1937), H.O. Mawrie (*Ka Pyrkhat U Khasi*, 1973), Sib Charan Roy (*Ka Niam Ki Khasi: Ka Niam Tip Blei Tip Briew*, 1919), etc.
-- **F. Language, Grammar & Linguistics**: Chandra Nath Roy (1909), Nissor Singh (1900), Mondon Bareh (*Khasi English Course And Grammar*, 1929), H. Elias (*Ka Grammar Khasi*, 1956), F.M. Pugh (1960, 1966), H.W. Sten (1987, 1991), B. War (2001, 2014), KJWA Research Cell (2017, 2018), etc.
-- **G. Dictionaries & Reference Works**: Hugh Roberts (1870), Job Solomon (1895), Nissor Singh (1904, 1920), Amirkha Chyne (1922), T. Cajee (1937), A.K. Diengdoh (1966, 1967), Iarington Kharkongor (1968, 1973), E. Bars (1973), Fr. S. Sngi Lyngdoh (1975), Fr. Francis Kharwanlang (2010, 2015), Antoinette Kharmalki (2015), etc.
-- **H. Digitized Wikimedia Editions**: 42+ full PDF scans directly downloaded to `Downloads/Khasi_Books/` for computational text mining and OCR pipeline integration.
-
-### Catalogue API Methods
-- `khasi.catalogue.all()`: List of all 330+ works with structured metadata.
-- `khasi.catalogue.by_genre(genre)`: Filter works by genre string.
-- `khasi.catalogue.by_author(author)`: Filter works by author (e.g. `khasi.catalogue.by_author("Nongrum")`).
-- `khasi.catalogue.by_type(type)`: Filter works by medium (e.g. `"Novel"`, `"Poetry"`, `"Drama"`, `"Dictionary"`).
+Methods:
+- `khasi.catalogue.all()`: List of all 344 works.
+- `khasi.catalogue.by_genre(genre)`: Filter by genre.
+- `khasi.catalogue.by_author(author)`: Filter by author name.
+- `khasi.catalogue.by_type(type)`: Filter by format/type.
 - `khasi.catalogue.search(query)`: Search across title, author, genre, and type.
 - `khasi.catalogue.digitized()`: Filter to works with digitized scans available.
 - `khasi.catalogue.summary()`: Statistical summary of total works, genre distributions, and top authors.
 
+---
+
+## 7. Dedicated Dialect Sub-Lexicons (`khasi.dialects` / `khasi.lexicon.dialects`)
+
+Provides dedicated sub-lexicons (over 13,000 entries across 4 key regional varieties):
+- **Pnar / Synteng** (`pnar`): 5,500+ words (Jaiñtia Hills: Jowai, Shangpung, Khliehriat).
+- **War Khasi** (`war`): 5,300+ words (Southern Slopes & Shella borderlands).
+- **Bhoi Khasi** (`bhoi`): 1,250+ words (Ri-Bhoi District: Nongpoh, Umsning).
+- **Maram Khasi** (`maram`): 1,250+ words (West Khasi Hills: Nongstoin, Mairang).
+
+Methods:
+- `khasi.dialects.list()`: Returns list of supported dialects (`['pnar', 'war', 'bhoi', 'maram', 'sohra', 'shillong']`).
+- `khasi.dialects.info(dialect)`: Returns geographical, sociological, and linguistic shift metadata.
+- `khasi.dialects.lookup(word, dialect)`: Looks up a word in a specific dialect or its Sohra standard equivalent.
+- `khasi.dialects.translate(text, from_dialect='sohra', to_dialect='pnar')`: Full text translation across dialects with punctuation and case preservation.
+- `khasi.dialects.cognates(word)`: Returns dictionary of cognate forms across all 5 dialects.
+- `khasi.dialects.stats()`: Returns vocabulary counts and phonological shift counts.
+
+---
+
+## 8. Audio Waveform Dataset & Speech Pipeline (`khasi.audio_dataset` / `khasi.voice.dataset`)
+
+Manages **252 native speech audio recordings** in standard **16,000 Hz, 16-bit Mono Linear PCM WAV** format for Automatic Speech Recognition (ASR) and Text-To-Speech (TTS) research:
+- 187 Conversational Phrases (`phrase_001.wav` to `phrase_187.wav`).
+- 65 Traditional Proverbs (`proverb_001.wav` to `proverb_065.wav`).
+- Total audio duration: ~9.5 minutes.
+- Balanced across native speakers (`SPK_KHA_F01` female, `SPK_KHA_M01` male).
+- Standard split: 204 train (80%), 24 validation (10%), 24 test (10%).
+
+Methods:
+- `len(khasi.audio_dataset)`: Total recordings (252).
+- `khasi.audio_dataset.get_records(split=None)`: List of manifest records.
+- `khasi.audio_dataset.get_item(audio_id)`: Lookup metadata record by ID (`phrase_001`, `proverb_015`).
+- `khasi.audio_dataset.get_audio_path(audio_id)`: Returns absolute path to WAV file.
+- `khasi.audio_dataset.get_audio_bytes(audio_id)`: Reads and returns raw PCM WAV bytes.
+- `khasi.audio_dataset.search_audio(query)`: Search recordings by text, meaning, or category.
+- `khasi.audio_dataset.verify_integrity()`: Verifies that all 252 audio files physically exist and conform to 16kHz mono WAV format.
+- `khasi.audio_dataset.export_huggingface_format(path)`: Exports dataset to Hugging Face Audio JSONL format.
+- `khasi.audio_dataset.export_common_voice_tsv(path)`: Exports dataset to Mozilla Common Voice TSV format.
+
+---
+
+## 9. Aligned Parallel Corpora & MT Evaluation (`khasi.parallel_corpus` / `khasi.corpus`)
+
+Sentence-by-sentence parallel alignment between Khasi and English across public domain masterworks:
+1. *Ka Niam Jong Ki Khasi* (U Sib Charan Roy, 1919) — Indigenous theology, ethics, sacred groves, and covenant philosophy (49 aligned pairs).
+2. *Ka Jingiaid U Pilgrim* (*The Pilgrim's Progress* in Khasi, John Bunyan / Thomas Jones / Dr. John Roberts / Mondon Bareh) — Foundational literary prose (47 aligned pairs).
+3. *Ki Dienjat Jong Ki Longshwa & Kot Pule* — Classic folklore (*Lum Diengiei*, *Lum Sohpetbneng*, *Manik Raitong*, *U Thlen*, *Ka Sngi bad u Bnai*) (25 aligned pairs).
+
+Methods:
+- `len(khasi.parallel_corpus)`: Total sentence pairs (121).
+- `khasi.parallel_corpus.get_records(source=None, split=None, domain=None)`: Filtered parallel records.
+- `khasi.parallel_corpus.get_pairs(source=None, split=None)`: Returns raw `(khasi_text, english_text)` tuples.
+- `khasi.parallel_corpus.search(query)`: Searches across Khasi and English parallel sentences.
+- `khasi.parallel_corpus.get_stats()`: Source breakdown, word counts, and average sentence lengths.
+- `khasi.parallel_corpus.export_bitext(khasi_path, english_path, split=None)`: Exports aligned plain-text bitext (`.kha` and `.en`).
+- `khasi.parallel_corpus.export_tmx(output_path)`: Exports to Translation Memory eXchange (TMX 1.4b XML).
+- `khasi.parallel_corpus.export_huggingface_format(output_path)`: Exports to Hugging Face MT dataset format.
+- `ParallelCorpus.compute_bleu(hypotheses, references, max_order=4)`: Standalone BLEU score evaluation toolkit (1-gram through 4-gram precision with brevity penalty).
+
+---
+
+## 10. Rituals, Deities & Sacred Sites (`khasi.rituals`, `khasi.deities`, `khasi.sacred_sites`)
+
+Documented from authentic ethnographical records, customary court rolls, and native treatises:
+
+### Traditional Rituals (`khasi.rituals`)
+- `khasi.rituals.all()`: List of 10+ documented traditional rituals.
+- `khasi.rituals.get(name)`: Lookup ritual by Khasi name, English name, or ID.
+- `khasi.rituals.by_category(category)`: Filter by category (`divination`, `sacrifice`, `funerary`, `rite_of_passage`, `marriage`, `purification`).
+- Key rites covered:
+  - *Ka Shat Pylleng* (Egg Divination on consecrated board)
+  - *Ka Khan Pyrthat* (Thunder & celestial omen interpretation)
+  - *U Syiar Ryngkew* (Cock mediator sacrifice)
+  - *Ka Pomblang Nongkrem* (Royal goat sacrifice)
+  - *Ka Thep Mawbah* (Clan bone internment in central megalith)
+  - *Ka Jer Ka Thoh* (Infant naming dedication)
+  - *Ka Shongkurim* (Matrilocal marriage covenant)
+  - *Ka Tangsnoing* (Clan genealogical invocation)
+  - *Ka Pyllait Thlen* (Curse cleansing & destruction of evil wealth)
+
+### Indigenous Pantheon & Deities (`khasi.deities`)
+- `khasi.deities.all()`: List of 11+ documented deities and spirit guardians.
+- `khasi.deities.get(name)`: Lookup deity by name or title.
+- `khasi.deities.by_realm(realm)`: Filter by spiritual realm (`celestial_supreme`, `terrestrial_nature`, `mountain_sovereign`, `ancestral_matrilineal`, `river_water`, etc.).
+- Divine entities covered:
+  - *U Blei Nongbuh Nongthaw* (Supreme Transcendent Creator)
+  - *Ka Meiramew* (Mother Earth / Nurturing Primal Goddess)
+  - *U Lei Shyllong* (Paramount Mountain Lord of Shillong Peak)
+  - *U Suidnia* (Primal Maternal Uncle & Divine Intercessor)
+  - *Ka Iawbei* (Primal Ancestral Mother of the Clan)
+  - *U Thawlang* (Primal Father of the Lineage)
+  - *U Ryngkew U Basa (Labasa)* (Territorial Guardian Spirits of Groves)
+  - *U Leisymper* (Guardian Deity of Symper Rock)
+  - *Ka Kupli* (Sovereign Goddess of the Kopili River)
+  - *U Lei Longspah* (Deity of Righteous Wealth)
+  - *U Blai Synteng* (Supreme Divine Presence of Jaintia)
+
+### Sacred Megaliths, Shrines & Groves (`khasi.sacred_sites`)
+- `khasi.sacred_sites.all()`: List of documented sacred sites and megaliths.
+- `khasi.sacred_sites.get(name)`: Lookup by site name or location.
+- `khasi.sacred_sites.by_type(site_type)`: Filter by type (`sacred_grove`, `megalithic_monolith`, `mountain_sanctuary`, etc.).
+- Sacred locations covered:
+  - *Law Kyntang Mawphlang* (800-year-old virgin forest, residence of Labasa)
+  - *Ki Mawbynna Nartiang* (Largest megalithic cluster in the world, 8.3m menhir)
+  - *Lum Shillong* (Throne of U Lei Shyllong, highest peak of Khasi Hills)
+  - *Lum Sohpetbneng* (Navel of Heaven, cradle of the Seven Huts)
+  - *Ka Aitnar* (Sacred pool in Jowai for Behdeiñkhlam mud dance)
+  - *Krem Mawmluh* (Sacred cave sanctuary of subterranean springs)
+  - *Lum Kyllang* (Colossal 300m single granite dome)

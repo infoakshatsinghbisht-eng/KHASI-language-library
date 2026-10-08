@@ -142,38 +142,37 @@ CONVERSATIONAL_KHASI_HI_MAP: List[Tuple[str, str]] = [
 def apply_dialect(text: str, dialect: str = "sohra") -> str:
     """Applies authentic Khasi dialectal phonetic and lexical variations."""
     clean = text.strip()
-    if not clean or dialect == "sohra":
+    if not clean or dialect.lower() == "sohra":
         return clean
 
-    words = clean.split()
-    res = []
-    for w in words:
-        punct = ""
-        while w and w[-1] in ".,?!;:\"'":
-            punct = w[-1] + punct
-            w = w[:-1]
-
-        low = w.lower()
-
-        if dialect == "pnar":  # Jaintia Hills variant
-            if low == "ïing": w = "ïung"
-            elif low == "briew": w = "bru"
-            elif low == "mei": w = "bei"
-            elif low == "ieit": w = "maya"
-            elif low == "blei": w = "blai"
-            elif low == "khublei": w = "khublei"
-            elif low == "shad": w = "chaat"
-            elif low == "leit": w = "lai"
-            elif low == "sngap": w = "sñiaw"
-            elif low == "sngewbha": w = "sñiawbha"
-            elif low == "bah": w = "waheh"
-        elif dialect == "shillong":  # Urban colloquial
-            if low == "kmie-tymmen": w = "mei-rad"
-            elif low == "kpa-tymmen": w = "pa-rad"
-        elif dialect == "war":  # Southern border variant
-            if low == "mei": w = "me"
-        elif dialect == "bhoi":  # Ri-Bhoi variant
-            if low == "khlaw": w = "khlaw-heh"
-
-        res.append(w + punct)
-    return " ".join(res)
+    try:
+        from ..lexicon.dialects import translate_dialect
+        return translate_dialect(clean, from_dialect="sohra", to_dialect=dialect.lower())
+    except Exception:
+        # Fallback to local heuristic mapping if import unavailable
+        words = clean.split()
+        res = []
+        for w in words:
+            punct = ""
+            while w and w[-1] in ".,?!;:\"'":
+                punct = w[-1] + punct
+                w = w[:-1]
+            low = w.lower()
+            if dialect == "pnar":
+                if low == "ïing": w = "ïung"
+                elif low == "briew": w = "bru"
+                elif low == "mei": w = "bei"
+                elif low == "ieit": w = "maya"
+                elif low == "blei": w = "blai"
+                elif low == "shad": w = "chaat"
+                elif low == "leit": w = "lai"
+                elif low == "sngewbha": w = "sñiawbha"
+                elif low == "bah": w = "waheh"
+            elif dialect == "war":
+                if low == "mei": w = "me"
+                elif low == "kpa": w = "po"
+                elif low == "briew": w = "brou"
+                elif low == "um": w = "am"
+                elif low == "ja": w = "ba"
+            res.append(w + punct)
+        return " ".join(res)

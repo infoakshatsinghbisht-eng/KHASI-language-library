@@ -29,10 +29,10 @@ class TestKhasiLexicon(unittest.TestCase):
         self.assertTrue(any(r["khasi"] == "lum" for r in results))
 
     def test_all_collections(self):
-        self.assertGreaterEqual(len(self.d.all_words()), 100000)
-        self.assertTrue(len(self.d.all_phrases()) >= 10)
-        self.assertTrue(len(self.d.all_proverbs()) >= 5)
-        self.assertTrue(len(self.d.all_riddles()) >= 4)
+        self.assertGreaterEqual(len(self.d.all_words()), 105000)
+        self.assertGreaterEqual(len(self.d.all_phrases()), 150)
+        self.assertGreaterEqual(len(self.d.all_proverbs()), 50)
+        self.assertGreaterEqual(len(self.d.all_riddles()), 25)
 
     def test_morphology_engine(self):
         engine = get_morphology_engine()
@@ -42,6 +42,13 @@ class TestKhasiLexicon(unittest.TestCase):
         for w in ["sawangka", "dikshoneri", "baiphuhiphieng", "matti", "kolshor"]:
             entry = self.d.lookup(w)
             self.assertIsNotNone(entry, f"Word {w} should be found in dictionary")
+            self.assertEqual(entry["khasi"], w)
+
+    def test_domain_expanded_vocabulary(self):
+        # Test tech, governance, botany, fauna, cuisine
+        for w in ["kompiwter", "internet", "sarkar", "tulop", "jadoh", "sohiong", "tiew-rakot", "duitara"]:
+            entry = self.d.lookup(w)
+            self.assertIsNotNone(entry, f"Word '{w}' must exist in enriched dictionary")
             self.assertEqual(entry["khasi"], w)
 
 if __name__ == "__main__":

@@ -8,12 +8,12 @@ long_description = open(readme_path, encoding="utf-8").read() if os.path.exists(
 
 setup(
     name="khasi",
-    version="1.1.0",
+    version="1.3.0",
     author="Akshat Singh Bisht",
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",
     maintainer_email="infoakshatsinghbisht@gmail.com",
-    description="Khasi (Ka Ktien Khasi) Language Library: 100,000+ Headwords, 300,000+ Inflections, Multi-dialect Translation, NLP Toolkit, and Meghalaya Cultural Heritage",
+    description="Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 13,000+ Dialect Lexicons (Pnar/War/Bhoi/Maram), 252 Native Audio Waveforms, Aligned MT Parallel Corpora, and Meghalaya Cultural Heritage",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",
@@ -28,8 +28,10 @@ setup(
     packages=find_packages(exclude=["tests*", "examples*"]),
     include_package_data=True,
     package_data={
-        "khasi.lexicon": ["data/*.json"],
+        "khasi.lexicon": ["data/*.json", "data/dialects/*.json"],
         "khasi.culture": ["data/*.json"],
+        "khasi.voice": ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"],
+        "khasi.corpus": ["data/*.json", "data/*.jsonl", "data/bitext/*"],
     },
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -11,18 +11,46 @@ from khasi.culture import (
     authors,
     epics,
     poems,
+    get_author,
+    get_epic,
+    search_literature,
     list_kinship_terms,
     get_kinship_info,
+    search_kinship,
     describe_matrilineal_system,
-    KHASI_MONTHS,
-    MARKET_CYCLE,
     catalogue,
     all_works,
     by_genre,
     by_author,
+    by_type,
     search_works,
     get_digitized_works,
     catalogue_summary,
+    list_instruments,
+    get_instrument,
+    list_songs,
+    get_song,
+    list_musicians,
+    list_plants,
+    get_plant,
+    by_plant_type,
+    medicinal_plants,
+    list_wildlife,
+    get_animal,
+    by_wildlife_class,
+    list_dishes,
+    get_dish,
+    by_cuisine_category,
+    list_places,
+    get_place,
+    by_geography_type,
+    list_clans,
+    get_clan,
+    search_clans,
+    list_idioms,
+    get_idiom,
+    KHASI_MONTHS,
+    MARKET_CYCLE,
 )
 
 class TestKhasiCulture(unittest.TestCase):
@@ -94,6 +122,101 @@ class TestKhasiCulture(unittest.TestCase):
         self.assertIn("total_works", summary)
         self.assertGreaterEqual(summary["total_works"], 300)
         self.assertIn("genres", summary)
+
+    def test_expanded_music_and_instruments(self):
+        insts = list_instruments()
+        self.assertGreaterEqual(len(insts), 10)
+        duitara = get_instrument("duitara")
+        self.assertIsNotNone(duitara)
+        self.assertIn("Lute", duitara["category"])
+
+        tangmuri = get_instrument("tangmuri")
+        self.assertIsNotNone(tangmuri)
+
+        songs = list_songs()
+        self.assertGreaterEqual(len(songs), 5)
+        self.assertTrue(any("Lapalang" in s["title"] for s in songs))
+
+        musicians = list_musicians()
+        self.assertGreaterEqual(len(musicians), 5)
+        self.assertTrue(any("Wahlang" in m["name"] for m in musicians))
+
+    def test_botany(self):
+        plants = list_plants()
+        self.assertGreaterEqual(len(plants), 25)
+        sohiong = get_plant("sohiong")
+        self.assertIsNotNone(sohiong)
+        self.assertIn("Prunus nepalensis", sohiong["scientific_name"])
+
+        trees = by_plant_type("tree")
+        self.assertGreaterEqual(len(trees), 5)
+
+        meds = medicinal_plants()
+        self.assertGreaterEqual(len(meds), 10)
+
+    def test_wildlife(self):
+        wildlife = list_wildlife()
+        self.assertGreaterEqual(len(wildlife), 15)
+        tiger = get_animal("khla")
+        self.assertIsNotNone(tiger)
+        self.assertEqual(tiger["class_type"], "Mammal")
+
+        birds = by_wildlife_class("bird")
+        self.assertGreaterEqual(len(birds), 4)
+
+    def test_cuisine(self):
+        dishes = list_dishes()
+        self.assertGreaterEqual(len(dishes), 15)
+        jadoh = get_dish("jadoh")
+        self.assertIsNotNone(jadoh)
+        self.assertIn("pork", jadoh["ingredients"].lower())
+
+        rice_dishes = by_cuisine_category("rice")
+        self.assertGreaterEqual(len(rice_dishes), 3)
+
+    def test_geography(self):
+        places = list_places()
+        self.assertGreaterEqual(len(places), 20)
+        umngot = get_place("umngot")
+        self.assertIsNotNone(umngot)
+        self.assertIn("Dawki", umngot["location"])
+
+        waterfalls = by_geography_type("waterfall")
+        self.assertGreaterEqual(len(waterfalls), 4)
+
+        caves = by_geography_type("cave")
+        self.assertGreaterEqual(len(caves), 3)
+
+    def test_clans(self):
+        clans = list_clans()
+        self.assertGreaterEqual(len(clans), 25)
+        lyngdoh = get_clan("lyngdoh")
+        self.assertIsNotNone(lyngdoh)
+        self.assertIn("Priestly", lyngdoh["category"])
+
+        res = search_clans("sohra")
+        self.assertTrue(len(res) > 0)
+
+    def test_idioms(self):
+        idioms = list_idioms()
+        self.assertGreaterEqual(len(idioms), 20)
+        horkit = get_idiom("horkit")
+        self.assertIsNotNone(horkit)
+        self.assertIn("resolutely", horkit["meaning"].lower())
+
+    def test_expanded_literature_and_authors(self):
+        auth = authors()
+        self.assertGreaterEqual(len(auth), 20)
+        bareh = get_author("Victor Bareh")
+        self.assertIsNotNone(bareh)
+
+        ep = epics()
+        self.assertGreaterEqual(len(ep), 12)
+        lapalang = get_epic("Lapalang")
+        self.assertIsNotNone(lapalang)
+
+        search_res = search_literature("Tirot Sing")
+        self.assertTrue(len(search_res["authors"]) > 0 or len(search_res["epics"]) > 0 or len(search_res["poems"]) > 0)
 
 if __name__ == "__main__":
     unittest.main()

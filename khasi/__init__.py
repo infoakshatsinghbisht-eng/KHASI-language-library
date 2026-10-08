@@ -21,7 +21,7 @@ Quick Start:
 {'khasi': 'khublei', 'hindi': 'नमस्ते / धन्यवाद / प्रणाम', 'english': 'hello / thank you / greetings', 'pos': 'interjection'}
 """
 
-__version__ = "1.1.0"
+__version__ = "1.3.0"
 __author__ = "Akshat Singh Bisht"
 __email__ = "infoakshatsinghbisht@gmail.com"
 __maintainer__ = "Akshat Singh Bisht"
@@ -128,7 +128,7 @@ from .translator import (
     get_khasi_prompt,
 )
 
-# Culture, Calendar, Literature & Kinship
+# Culture, Calendar, Literature, Music, Botany, Wildlife, Cuisine, Geography & Kinship
 from .culture import (
     KHASI_SEASONS,
     KHASI_DAYS,
@@ -145,24 +145,116 @@ from .culture import (
     authors,
     epics,
     poems,
+    get_author,
+    get_epic,
+    search_literature,
     list_kinship_terms,
     get_kinship_info,
+    search_kinship,
     describe_matrilineal_system,
     catalogue,
     BibliographyCatalogue,
+    all_works,
+    by_genre,
+    by_author,
+    by_type,
+    search_works,
+    get_digitized_works,
+    catalogue_summary,
+    INSTRUMENTS,
+    FOLK_SONGS,
+    MUSICIANS,
+    list_instruments,
+    get_instrument,
+    list_songs,
+    get_song,
+    list_musicians,
+    PLANTS,
+    list_plants,
+    get_plant,
+    by_plant_type,
+    medicinal_plants,
+    WILDLIFE,
+    list_wildlife,
+    get_animal,
+    by_wildlife_class,
+    DISHES,
+    list_dishes,
+    get_dish,
+    by_cuisine_category,
+    GEOGRAPHY,
+    list_places,
+    get_place,
+    by_geography_type,
+    CLANS,
+    list_clans,
+    get_clan,
+    search_clans,
+    IDIOMS,
+    list_idioms,
+    get_idiom,
+    RITUALS,
+    list_rituals,
+    get_ritual,
+    rituals_by_category,
+    DEITIES,
+    list_deities,
+    get_deity,
+    deities_by_realm,
+    SACRED_SITES,
+    list_sacred_sites,
+    get_sacred_site,
+    sites_by_type,
 )
 
 # Voice & Speech Synthesis
-from .voice import KhasiVoiceSynthesizer
+from .voice import KhasiVoiceSynthesizer, KhasiAudioDataset
+
+# Dialectology & Dedicated Sub-Lexicons
+from .lexicon.dialects import (
+    list_dialects,
+    get_dialect_info,
+    load_dialect_lexicon,
+    lookup_dialect,
+    translate_dialect,
+    find_cognates,
+    get_dialect_statistics,
+)
+
+# Aligned Parallel Corpora & MT Benchmarks
+from .corpus import ParallelCorpus
 
 # Digital Preservation & Archival
 from .preservation import PreservationRecord, CorpusManager
 
 # Global instances for simple top-level facade access
 _DICT = KhasiDictionary()
-phrases = type("Phrases", (), {"all": _DICT.all_phrases, "random": _DICT.random_phrase})()
-proverbs = type("Proverbs", (), {"all": _DICT.all_proverbs, "random": _DICT.random_proverb})()
-riddles = type("Riddles", (), {"all": _DICT.all_riddles, "random": _DICT.random_riddle})()
+phrases = type("Phrases", (), {"all": staticmethod(_DICT.all_phrases), "random": staticmethod(_DICT.random_phrase)})()
+proverbs = type("Proverbs", (), {"all": staticmethod(_DICT.all_proverbs), "random": staticmethod(_DICT.random_proverb)})()
+riddles = type("Riddles", (), {"all": staticmethod(_DICT.all_riddles), "random": staticmethod(_DICT.random_riddle)})()
+instruments = type("Instruments", (), {"all": staticmethod(list_instruments), "get": staticmethod(get_instrument)})()
+songs = type("Songs", (), {"all": staticmethod(list_songs), "get": staticmethod(get_song)})()
+plants = type("Plants", (), {"all": staticmethod(list_plants), "get": staticmethod(get_plant), "medicinal": staticmethod(medicinal_plants)})()
+wildlife = type("Wildlife", (), {"all": staticmethod(list_wildlife), "get": staticmethod(get_animal)})()
+dishes = type("Dishes", (), {"all": staticmethod(list_dishes), "get": staticmethod(get_dish)})()
+places = type("Places", (), {"all": staticmethod(list_places), "get": staticmethod(get_place)})()
+clans = type("Clans", (), {"all": staticmethod(list_clans), "get": staticmethod(get_clan), "search": staticmethod(search_clans)})()
+idioms = type("Idioms", (), {"all": staticmethod(list_idioms), "get": staticmethod(get_idiom)})()
+rituals = type("Rituals", (), {"all": staticmethod(list_rituals), "get": staticmethod(get_ritual), "by_category": staticmethod(rituals_by_category)})()
+deities = type("Deities", (), {"all": staticmethod(list_deities), "get": staticmethod(get_deity), "by_realm": staticmethod(deities_by_realm)})()
+sacred_sites = type("SacredSites", (), {"all": staticmethod(list_sacred_sites), "get": staticmethod(get_sacred_site), "by_type": staticmethod(sites_by_type)})()
+
+# Dialects, Audio & Corpus top-level facades
+dialects = type("Dialects", (), {
+    "list": staticmethod(list_dialects),
+    "info": staticmethod(get_dialect_info),
+    "lookup": staticmethod(lookup_dialect),
+    "translate": staticmethod(translate_dialect),
+    "cognates": staticmethod(find_cognates),
+    "stats": staticmethod(get_dialect_statistics)
+})()
+audio_dataset = KhasiAudioDataset()
+parallel_corpus = ParallelCorpus()
 
 def lookup(word: str):
     """Look up a Khasi word in dictionary with morphological fallback."""
@@ -201,14 +293,31 @@ __all__ = [
     "reduplicate_adverb", "classify_adverb", "list_echo_words", "find_echo_word",
     "get_months", "get_seasons", "get_current_season", "get_current_khasi_month", "get_market_day",
     "list_festivals", "get_festival", "authors", "epics", "poems",
+    "get_author", "get_epic", "search_literature",
     "phrases", "proverbs", "riddles",
-    "list_kinship_terms", "get_kinship_info", "describe_matrilineal_system",
-    "catalogue", "BibliographyCatalogue",
-    "KhasiVoiceSynthesizer",
+    "instruments", "songs", "plants", "wildlife", "dishes", "places", "clans", "idioms",
+    "rituals", "deities", "sacred_sites",
+    "list_instruments", "get_instrument", "list_songs", "get_song", "list_musicians",
+    "list_plants", "get_plant", "medicinal_plants",
+    "list_wildlife", "get_animal", "by_wildlife_class",
+    "list_dishes", "get_dish", "by_cuisine_category",
+    "list_places", "get_place", "by_geography_type",
+    "list_clans", "get_clan", "search_clans",
+    "list_idioms", "get_idiom",
+    "list_rituals", "get_ritual", "rituals_by_category", "RITUALS",
+    "list_deities", "get_deity", "deities_by_realm", "DEITIES",
+    "list_sacred_sites", "get_sacred_site", "sites_by_type", "SACRED_SITES",
+    "list_kinship_terms", "get_kinship_info", "search_kinship", "describe_matrilineal_system",
+    "catalogue", "BibliographyCatalogue", "all_works", "by_genre", "by_author", "by_type",
+    "search_works", "get_digitized_works", "catalogue_summary",
+    "dialects", "list_dialects", "get_dialect_info", "load_dialect_lexicon", "lookup_dialect", "translate_dialect", "find_cognates", "get_dialect_statistics",
+    "audio_dataset", "KhasiAudioDataset", "KhasiVoiceSynthesizer",
+    "parallel_corpus", "ParallelCorpus",
     "PreservationRecord", "CorpusManager",
     # Constants
     "ISO_639_3", "ISO_639_NAME", "NATIVE_NAME", "LANGUAGE_FAMILY", "SCRIPT",
     "KHASI_ALPHABET", "KHASI_VOWELS", "KHASI_CONSONANTS", "KHASI_SPECIAL_CHARS",
     "KHASI_DIALECTS", "Dialect", "Script", "PartOfSpeech", "Tense", "Gender", "GrammaticalNumber",
-    "SEASONS", "KHASI_MONTHS", "DAYS_OF_WEEK", "MARKET_DAYS", "MARKET_CYCLE", "KINSHIP", "MORAL_PILLARS"
+    "SEASONS", "KHASI_MONTHS", "DAYS_OF_WEEK", "MARKET_DAYS", "MARKET_CYCLE", "KINSHIP", "MORAL_PILLARS",
+    "INSTRUMENTS", "FOLK_SONGS", "MUSICIANS", "PLANTS", "WILDLIFE", "DISHES", "GEOGRAPHY", "CLANS", "IDIOMS"
 ]
