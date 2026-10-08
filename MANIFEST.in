@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include DOCUMENTATION.md
+recursive-include khasi *.py *.json *.jsonl *.wav *.kha *.en *.tmx
