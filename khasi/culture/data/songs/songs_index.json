@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ki_sur_duitara_ksiar",
+    "title": "Tunes from the Golden Duitara (Ki Sur Na Ka Duitara Ksiar)",
+    "khasi_title": "Ki Sur Na Ka Duitara Ksiar",
+    "category": "Bardic Song & Poetry Cycle",
+    "composer": "H.W. Sten",
+    "year": 1979,
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Maryngod",
+      "Ksing Padiah"
+    ],
+    "themes": [
+      "Nature",
+      "Highland Pride",
+      "U Tirot Sing",
+      "Ancestral Virtues",
+      "Soso Tham Tribute",
+      "Spring Renewal"
+    ],
+    "word_count": 774,
+    "file": "ki_sur_duitara_ksiar.json"
+  },
+  {
+    "id": "ka_sur_u_sier_lapalang",
+    "title": "The Lament of the Stag (Ka Sur U Sier Lapalang)",
+    "khasi_title": "Ka Sur U Sier Lapalang",
+    "category": "Folk Elegy & Ancestral Lament (Jamlu)",
+    "composer": "Ancient Oral Tradition",
+    "year": "Traditional (Immorial)",
+    "instruments": [
+      "Maryngod (bowed fiddle)",
+      "Shyngwiang (funeral flute)",
+      "Duitara"
+    ],
+    "themes": [
+      "Maternal love",
+      "Disobedience and destiny",
+      "Loss",
+      "Funeral weeping",
+      "Sorrow of nature"
+    ],
+    "word_count": 161,
+    "file": "ka_sur_u_sier_lapalang.json"
+  },
+  {
+    "id": "phawar_shad_suk_mynsiem",
+    "title": "Thanksgiving Festival Chants (Phawar Shad Suk Mynsiem)",
+    "khasi_title": "Ki Phawar Shad Suk Mynsiem",
+    "category": "Sacred Thanksgiving Dance & Ritual Chants",
+    "composer": "Khasi Seng Khasi Tradition",
+    "year": "Traditional (1911 Annual Revival)",
+    "instruments": [
+      "Tangmuri (double reed pipe)",
+      "Ksing Shynrang (male drum)",
+      "Ksing Kynthei (female drum)",
+      "Nakra (kettle drum)",
+      "Kynshaw (brass cymbals)"
+    ],
+    "themes": [
+      "Spring renewal",
+      "Communal harmony",
+      "Thanksgiving to U Blei",
+      "Purity of maidens",
+      "Male guardianship"
+    ],
+    "word_count": 166,
+    "file": "phawar_shad_suk_mynsiem.json"
+  },
+  {
+    "id": "phawar_iasiat_khnam",
+    "title": "Archery Tournament Chants (Phawar Iasiat Khnam)",
+    "khasi_title": "Ki Phawar Iasiat Khnam",
+    "category": "Highland Archery Chants & Cheer Verses",
+    "composer": "Traditional Clan Archers & Pyrton",
+    "year": "Traditional",
+    "instruments": [
+      "Bamboo Bow (Ryntieh)",
+      "Feathered Arrow (Khnam)",
+      "Hand clapping"
+    ],
+    "themes": [
+      "Accuracy",
+      "Clan honor",
+      "Hoi Kiw battle cry",
+      "Skill and courage",
+      "Ancestral pride"
+    ],
+    "word_count": 151,
+    "file": "phawar_iasiat_khnam.json"
+  },
+  {
+    "id": "phawar_behdeinkhlam",
+    "title": "Plague-Banishing Sacred Chant (Phawar Behdeiñkhlam)",
+    "khasi_title": "Ka Phawar Behdeiñkhlam",
+    "category": "Pnar Sacred Pestilence Rites & Invocations",
+    "composer": "Seinraij Jowai Oral Tradition",
+    "year": "Traditional (Annual July Rites)",
+    "instruments": [
+      "Ksing",
+      "Bom (bass drum)",
+      "Tangmuri",
+      "Cymbals"
+    ],
+    "themes": [
+      "Exorcising disease",
+      "Community cleansing",
+      "Sacred pool Aitnar",
+      "Prosperity of Jaintia",
+      "Divine blessing"
+    ],
+    "word_count": 63,
+    "file": "phawar_behdeinkhlam.json"
+  },
+  {
+    "id": "ka_sur_manik_raitong",
+    "title": "The Flute Melody of Manik Raitong (Ka Sur Manik Raitong)",
+    "khasi_title": "Ka Sur Manik Raitong",
+    "category": "Folk Romance & Tragic Ballad",
+    "composer": "Ancient Oral Tradition",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati (bamboo mourning flute)",
+      "Besli"
+    ],
+    "themes": [
+      "Immortal music",
+      "Sacrifice",
+      "Pure love",
+      "Dignity in poverty",
+      "Funeral pyre"
+    ],
+    "word_count": 70,
+    "file": "ka_sur_manik_raitong.json"
+  },
+  {
+    "id": "ka_jingrwai_thiah_khunlung",
+    "title": "Khasi Cradle Lullaby (Ka Jingrwai Thiah Khunlung)",
+    "khasi_title": "Ka Jingrwai Thiah Khunlung",
+    "category": "Traditional Hearth Lullaby",
+    "composer": "Oral Tradition",
+    "year": "Traditional",
+    "instruments": [
+      "Voice alone (Solo lullaby)",
+      "Mieng (bamboo mouth harp)"
+    ],
+    "themes": [
+      "Motherly tenderness",
+      "Sweet sleep",
+      "Forest honey",
+      "Ancestral roof protection"
+    ],
+    "word_count": 81,
+    "file": "ka_jingrwai_thiah_khunlung.json"
+  },
+  {
+    "id": "ka_jingrwai_u_hynniewtrep",
+    "title": "Hymn of the Seven Huts (Ka Jingrwai U Hynniewtrep)",
+    "khasi_title": "Ka Jingrwai U Hynniewtrep",
+    "category": "National Creation Anthem",
+    "composer": "Khasi Cultural Revivalists",
+    "year": "Traditional / Modern Anthem",
+    "instruments": [
+      "Tangmuri",
+      "Duitara",
+      "Ksing Shynrang"
+    ],
+    "themes": [
+      "Seven Huts genesis",
+      "Mount Sohpetbneng",
+      "Kamai ia ka hok",
+      "Ancestral religion",
+      "Golden age"
+    ],
+    "word_count": 69,
+    "file": "ka_jingrwai_u_hynniewtrep.json"
+  },
+  {
+    "id": "ka_sur_tirot_sing",
+    "title": "Heroic Ballad of Tirot Sing (Ka Sur Tirot Sing)",
+    "khasi_title": "Ka Sur Tirot Sing Syiem Nongkhlaw",
+    "category": "Patriotic Heroic Ballad",
+    "composer": "Folk Balladeers of Nongkhlaw",
+    "year": "Traditional (1829–1833 War Memorial)",
+    "instruments": [
+      "Nakra (war kettle drum)",
+      "Ksing Shynrang",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Anti-colonial resistance",
+      "Freedom vs slavery",
+      "Heroic sacrifice",
+      "Nongkhlaw",
+      "Warrior valor"
+    ],
+    "word_count": 77,
+    "file": "ka_sur_tirot_sing.json"
+  },
+  {
+    "id": "ki_rwaimar_khasi_harvest",
+    "title": "Highland Harvest and Field Songs (Ki Rwaimar bad Jingrwai Ot Kba)",
+    "khasi_title": "Ki Rwaimar bad Jingrwai Ot Kba",
+    "category": "Agrarian Folk Songs & Field Chants",
+    "composer": "Village Farmers & Reapers",
+    "year": "Traditional",
+    "instruments": [
+      "Besli (bamboo flute)",
+      "Ryndia work-chant calls"
+    ],
+    "themes": [
+      "Bountiful harvest",
+      "Cooperative labor (iakyntiew kur)",
+      "Sweet paddy",
+      "Homecoming"
+    ],
+    "word_count": 65,
+    "file": "ki_rwaimar_khasi_harvest.json"
+  }
+]

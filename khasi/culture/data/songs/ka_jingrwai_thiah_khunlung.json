@@ -1,0 +1,36 @@
+{
+  "id": "ka_jingrwai_thiah_khunlung",
+  "title": "Khasi Cradle Lullaby (Ka Jingrwai Thiah Khunlung)",
+  "khasi_title": "Ka Jingrwai Thiah Khunlung",
+  "category": "Traditional Hearth Lullaby",
+  "composer": "Oral Tradition",
+  "year": "Traditional",
+  "cultural_context": "Sung by mothers and grandmothers in village homes while rocking infants to sleep by the warmth of the central hearth fire (ka dpei).",
+  "instruments": [
+    "Voice alone (Solo lullaby)",
+    "Mieng (bamboo mouth harp)"
+  ],
+  "themes": [
+    "Motherly tenderness",
+    "Sweet sleep",
+    "Forest honey",
+    "Ancestral roof protection"
+  ],
+  "lyrics_khasi": "Thiah suk ko khun, thiah suk ha la ka tnum,\nKa sngi ka la sep, u bnai u la wan,\nMei-rad kan pynap da u sohkymphor bad u ngap,\nThiah suk ko khun ha shadem jong i mei.\n\nKi sim ki la kynmaw la ki skum ha ki dieng,\nKi sniang ki masi ki la kiew sha sem,\nWat khuslai ko khun, Blei u don ha la syndah,\nDem noh la ki khmat ban iohi ia ki jingphohsniew ba thiang!",
+  "lyrics_english": "Sleep peacefully my child, sleep safe under our ancestral roof,\nThe golden sun has set, the silver moon has ascended the sky,\nGrandmother prepares sweet wild berries and golden mountain honey,\nSleep peacefully my child upon your mother's breast.\n\nThe forest birds have returned to their nests in the high trees,\nThe cattle and sheep have entered their sheltered fold,\nFret not my child, Almighty God is ever near beside thee,\nClose thy little eyes to behold sweetest dreams of joy!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jingpynthiah ha Shadem (Resting on Mother's Chest)",
+      "khasi": "Thiah suk ko khun, thiah suk ha la ka tnum,\nKa sngi ka la sep, u bnai u la wan,\nMei-rad kan pynap da u sohkymphor bad u ngap,\nThiah suk ko khun ha shadem jong i mei.",
+      "english": "Sleep peacefully under our roof; the sun has set, the moon has arrived. Grandmother has honey and wild berries; rest securely upon mother's chest."
+    }
+  ],
+  "vocabulary": {
+    "tnum": "Ancestral thatched roof representing family sanctuary",
+    "mei-rad": "Maternal grandmother; revered elder of the matrilineage",
+    "sohkymphor": "Delicious sweet wild hill berry",
+    "ngap": "Pure wild highland honey gathered from rock hives"
+  },
+  "word_count": 81
+}

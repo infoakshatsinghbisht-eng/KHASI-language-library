@@ -1,0 +1,36 @@
+{
+  "id": "u_mawbynna_megaliths",
+  "title": "Ki Mawbynna bad Ki Mawlynti (The Sacred Megalithic Stones & Ancestral Spirits)",
+  "khasi_title": "Ki Mawbynna, Ki Maw Umkoi bad Ka Nam Kpa",
+  "category": "Megalithic Ancestor Lore",
+  "geographic_origin": "Nartiang / Sohra / Mawphlang",
+  "characters": [
+    "Ki Tymmen Mynbarim (The Ancestors)",
+    "U Kni (The Maternal Uncle)",
+    "Ka Kmie-Radha (The Great Mother)"
+  ],
+  "cultural_moral": "Deep reverence for ancestors (Tip-Kur Tip-Kha), matrilineal remembrance, and honoring the maternal uncles and fathers.",
+  "khasi_text": "Ki Mawbynna ki long ki maw ba kyntang tam ha ka dustur Khasi bad Pnar. Naduh hyndai hinthai, haba ki kpa tymmen ki la iap, ki kur ki ju pynieng ia kine ki maw ba heh ban kynmaw ia ka nam, ka burom, bad ka jingtrei jong ki ha pyrthei.\n\nKi maw kiba ieng ba jrong ki dei Ki Mawshynrang (Mawthoh), kiba pyni ia ka bor bad ka jingiada jong ki kni ki kpa. Ki maw kiba thiah pat ki dei Ki Mawkynthai (Mawkjat), kiba pyni ia ka jingshaniah, ka jingpynheh pynsan, bad ka jingri-kur jong ka kmie.\n\nHaba u Khasi u iohi ia kine ki mawbah ha ryngkat lynti ne ha madan, um ju leh klet ia la ki kpa tymmen. U tip ba ka jingshai bad ka burom kaba u don mynta ka wan na ka snam bad ka jingshitom jong kito kiba la leit sha ka Dwar jong U Blei. Kine ki maw ki ieng kum ki sakhi ba neh jong ka Hok bad ka Riti Khasi.",
+  "english_translation": "The Megalithic Standing Stones (Ki Mawbynna) are the sacred spiritual monuments of Khasi-Jaintia civilisation. Erected along ancient trade routes and village commons, they commemorate deceased ancestors and honor the maternal uncles and fathers.\n\nThe upright vertical menhirs (Ki Mawshynrang) represent the protective strength and spiritual guidance of the maternal uncles (*Ki Kni*), while the flat horizontal dolmens (Ki Mawkynthai) signify the nurturing bosom, sustenance, and lineage continuity of the clan mothers (*Ki Kmie*). They stand as immortal witnesses along the misty ridges of Meghalaya, ensuring no generation forgets the moral path (*Ka Hok*) of their forebears.",
+  "sections": [
+    {
+      "title": "The Ancestral Megaliths",
+      "paragraph": 1
+    },
+    {
+      "title": "Vertical Menhirs and Horizontal Dolmens",
+      "paragraph": 2
+    },
+    {
+      "title": "The Living Witnesses of Ka Hok",
+      "paragraph": 3
+    }
+  ],
+  "vocabulary": {
+    "mawbynna": "commemorative standing monolith / menhir",
+    "mawshynrang": "upright male menhir honoring maternal uncles",
+    "mawkynthai": "flat horizontal dolmen stone honoring clan mothers",
+    "maw_umkoi": "purification stones erected near sacred pools"
+  },
+  "word_count": 266
+}

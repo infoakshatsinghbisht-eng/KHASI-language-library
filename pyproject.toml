@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "khasi"
-version = "1.4.0"
-description = "Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 24 Digitized Whole Books (1,980+ Pages), 13,000+ Dialect Lexicons (Pnar/War/Bhoi/Maram), 252 Native Audio Waveforms, and Aligned MT Parallel Corpora"
+version = "1.5.0"
+description = "Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 24 Whole Books, 12 Folklore Oral Mythologies, Traditional Songs & Phawar, 13,000+ Dialect Lexicons, 252 Audio Waveforms, and Parallel MT Corpora"
 readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
@@ -68,6 +68,6 @@ exclude = ["tests*", "examples*"]
 
 [tool.setuptools.package-data]
 "khasi.lexicon" = ["data/*.json", "data/dialects/*.json"]
-"khasi.culture" = ["data/*.json", "data/books/*.json"]
+"khasi.culture" = ["data/*.json", "data/books/*.json", "data/folklore/*.json", "data/songs/*.json"]
 "khasi.voice" = ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"]
 "khasi.corpus" = ["data/*.json", "data/*.jsonl", "data/bitext/*"]

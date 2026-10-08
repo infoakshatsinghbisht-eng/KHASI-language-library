@@ -8,12 +8,12 @@ long_description = open(readme_path, encoding="utf-8").read() if os.path.exists(
 
 setup(
     name="khasi",
-    version="1.4.0",
+    version="1.5.0",
     author="Akshat Singh Bisht",
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",
     maintainer_email="infoakshatsinghbisht@gmail.com",
-    description="Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 24 Digitized Whole Books (1,980+ Pages), 13,000+ Dialect Lexicons (Pnar/War/Bhoi/Maram), 252 Native Audio Waveforms, and Aligned MT Parallel Corpora",
+    description="Khasi (Ka Ktien Khasi) Language Library: 105,000+ Headwords, 24 Whole Books, 12 Folklore Oral Mythologies, Traditional Songs & Phawar, 13,000+ Dialect Lexicons, 252 Audio Waveforms, and Parallel MT Corpora",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",
@@ -29,7 +29,7 @@ setup(
     include_package_data=True,
     package_data={
         "khasi.lexicon": ["data/*.json", "data/dialects/*.json"],
-        "khasi.culture": ["data/*.json", "data/books/*.json"],
+        "khasi.culture": ["data/*.json", "data/books/*.json", "data/folklore/*.json", "data/songs/*.json"],
         "khasi.voice": ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"],
         "khasi.corpus": ["data/*.json", "data/*.jsonl", "data/bitext/*"],
     },

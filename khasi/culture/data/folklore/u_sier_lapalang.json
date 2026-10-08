@@ -1,0 +1,40 @@
+{
+  "id": "u_sier_lapalang",
+  "title": "U Sier Lapalang (The Stately Stag and the Mother's Lament)",
+  "khasi_title": "U Sier Lapalang bad Ka Jinglynniar jong Ka Kmie",
+  "category": "Tragic Epic & Mother-Child Elegy",
+  "geographic_origin": "Ri Thor (Surma Plains) to Lum Shillong (East Khasi Hills)",
+  "characters": [
+    "U Sier Lapalang (The Young Stag)",
+    "Ka Kmie u Lapalang (The Mother Deer)",
+    "Ki Nongshongshnong Khasi (The Hill Hunters)"
+  ],
+  "cultural_moral": "Heed parental wisdom, beware the vanity of untested ambition, and honor maternal love which forms the basis of Khasi funeral dirges.",
+  "khasi_text": "Ha ka them Ri Dkhar, ha ki madan ba shong phlang jyrngam ha them thor jong ka ri Surma, la shong uwei u sier babha briew bad ba donnam shibun, uba ki khot U Sier Lapalang. Une u sier u don ki reng kiba jrong kiba thaba kumba shna da ka rupa bad ka ksiar, bad ka rynieng jong u ka long kaba kynrei kaba itynnat katta katta.\n\nU Sier Lapalang u shong ryngkat bad la ka kmie kaba ieit eh ia u. Ka kmie jong u ka ju sneng ju kraw man ka sngi: \"Ko khun baieit jong nga, to shong khop ha kane ka ri them ri thor. Bam da u khah, bam da u nor, bam da u jangew jathang baroh shi lyiur baroh shi tlang. Wat ju kiew sha ki lum ba jrong jong ki Khasi, namar ha kato ka ri ki briew ki long kiba siah wait bad kiba tbit ban siat khnam da ki ryntieh ba khraw!\"\n\nHynrei U Sier Lapalang um shym la sngap ia ka ktien ka kmie. Ka mynsiem samla jong u ka la thrang ban iohi ia ki lum ba jyrngam, ban mad ia u phlang ba thiang jong ki lum Khasi, bad ban dih ia ka um kshaid kaba pynkhriat ha ki thwei ba khuid. Te ha kawei ka sngi, khlem da iathuh ha la ka kmie, u la kiew sha ki lum ba heh jong ka Ri Khasi.\n\nHaba u la poi ha ki lum ba jrong, u la kmen bad u la rynsied ha ki madan phlang. Hynrei ki nongshong shnong Khasi ki la iohi ia u. Mar kumta hi, la sawa ka pyrta shnong: \"Kaw! Kaw! U sier uba heh reng u la wan ha ri jong ngi!\" Ki samla shnong ki la shim la ki ryntieh, ki khnam ba la kyllan da ka bih, bad ki la beh pyrkhing ia u ryngkat ki ksew beh mrad.\n\nU Sier Lapalang u la phet kynsan da ka jingtieng kaba khraw. U la phet lyngba ki lum, ki them, ki khlaw, bad ki thwei, hynrei ki Khasi ki la ker tawiar ia u na baroh ki liang. Ha kaba khatduh, ha kliar jong u Lum Shillong, uwei u khnam ba nep u la thaba beit ha ka dohnud jong u Lapalang. U Lapalang u la hap noh ha madan bad u la ktha la ka mynsiem.\n\nHaba ka kmie jong u ka la sngew ba u khun um don shuh, ka la kiew da ka jingsngewsih bakhraw sha ki lum Khasi ban wad ia u. Haba ka la lap ia u ba u la thiah iap ha madan, ka dohnud jong ka ka la pait pnat. Ka la lynniar da ka jingsngewsih kaba jur katta katta shaduh ba ki maw ki dieng ki la sngewsynei bad ki khlieh lum ki la sawa mian-mian. Ka la rwai ia ka Sur Phawar ba sngewsih:\n\n\"Ko Lapalang phrang sngi jong nga,\nKum ba-tingshein u mankara!\nHaba na nga me la khlad noh,\nDohnud sngewsih nga im suhsat!\n\nWow! La shet ka tieh pongdeng,\nIa ka rynieng u kynrem reng!\nWow! La kjit u nam sarang,\nIa ka mynsiem u Lapalang!\n\nNga ong ko khun ynnai leit kiew,\nSha ri Khasi sha ri ki briew!\nShong khop ha la ri them ri thor,\nBam da u khah bam da u nor!\nPynban kynrem na nga me khlad,\nMarwei ha pyrthei nga jaw ummat!\"\n\nKine ki jingrwai sngewsih jong ka kmie u Lapalang ki la shoh beit ha ki dohnud jong ki Khasi. Naduh kata ka sngi, haba don ba iap ha ka kur ka jait, ki Khasi ki ju rwai phawar kynud sngewsih ha ka rukom kaba syriem eh ia ka sur jong ka kmie u Sier Lapalang.",
+  "english_translation": "In the fertile grassy plains of the Surma valley lived a magnificent young stag named U Sier Lapalang, adorned with sweeping antlers that shimmered like gold and silver. He lived under the doting care of his mother, who constantly cautioned him: 'Stay contented, my beloved child, in our lowland plains. Feast on the sweet marsh reeds and tender shoots through summer and winter. Never ascend the high Khasi hills, for there dwell hunters deadly with the bow and arrow.'\n\nRestless and fascinated by the blue misty mountains, Lapalang spurned his mother's warning and bounded up into the Khasi highlands. Seeing such an enormous and majestic trophy, village hunters sounded the hunting call: 'Kaw! Kaw!' Surrounding him with hounds and envenomed arrows, they hunted him relentlessly across ravines and crags until, on the summit of Lum Shillong, an arrow struck his heart.\n\nLearning of her son's fate, the grief-stricken mother climbed the steep mountains. Finding his lifeless form stretched out on the cold stone, her heart shattered. Her mournful wailing and poetic elegy reverberated across every cliff, moving the hunters themselves to tears. That heartbroken lament became the archetype for traditional Khasi funeral laments and dirges (*Ki Kynud Sngewsih*) sung to this day.",
+  "sections": [
+    {
+      "title": "The Lowland Paradise & Maternal Counsel",
+      "paragraph": 1
+    },
+    {
+      "title": "The Disobedience and the Ascent",
+      "paragraph": 3
+    },
+    {
+      "title": "The Great Hunt on Lum Shillong",
+      "paragraph": 4
+    },
+    {
+      "title": "The Mother's Lament and Cultural Dirge",
+      "paragraph": 6
+    }
+  ],
+  "vocabulary": {
+    "sier_lapalang": "the legendary stag of Khasi folklore",
+    "reng": "antlers / horns",
+    "ryntieh": "traditional Khasi bamboo recurve bow",
+    "kynud_sngewsih": "funeral mourning dirge / rhythmic lamentation"
+  },
+  "word_count": 828
+}

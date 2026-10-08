@@ -1,0 +1,37 @@
+{
+  "id": "ka_sur_manik_raitong",
+  "title": "The Flute Melody of Manik Raitong (Ka Sur Manik Raitong)",
+  "khasi_title": "Ka Sur Manik Raitong",
+  "category": "Folk Romance & Tragic Ballad",
+  "composer": "Ancient Oral Tradition",
+  "year": "Traditional",
+  "cultural_context": "Ballad narrating the life of Manik Raitong, the destitute youth who played divine, sorrowful melodies on his Sharati bamboo flute by night. When queen Lieng Makaw fell in love with him, he chose death on the funeral pyre rather than compromise clan law, playing his flute into the flames.",
+  "instruments": [
+    "Sharati (bamboo mourning flute)",
+    "Besli"
+  ],
+  "themes": [
+    "Immortal music",
+    "Sacrifice",
+    "Pure love",
+    "Dignity in poverty",
+    "Funeral pyre"
+  ],
+  "lyrics_khasi": "Miet man ka miet u tem la ka sharati,\nSur ba pait-dohnud sawa ha ki lum,\nKa mahadei ka shah thap ha ka ieit,\nU Manik u leit sha ka ding ha ka kuna.\n\nHa khlieh ka pyngkat u thad la ka sur,\nYm don ba tip ïa ka jingsngewsih jong u,\nTang ka sharati ka pynpaw ïa ka jingim,\nKaba khuid kum ka umjer ha u tiew-kulab!",
+  "lyrics_english": "Night after night he played his mournful Sharati flute,\nA heartbreaking melody echoing through the mountain pine ridges,\nThe Queen was entranced by the irresistible power of love,\nManik stepped with royal dignity into the blazing pyre.\n\nAtop the ash heap he poured forth his musical soul,\nNone understood the depths of his hidden sorrow,\nOnly the bamboo flute gave voice to his mortal existence,\nPure as morning dew resting upon the wild rose petals!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Sur Sharati (The Melancholic Night Flute)",
+      "khasi": "Miet man ka miet u tem la ka sharati,\nSur ba pait-dohnud sawa ha ki lum,\nKa mahadei ka shah thap ha ka ieit,\nU Manik u leit sha ka ding ha ka kuna.",
+      "english": "Every night he played his flute; heartbreaking notes echoed through the hills. Entranced by love, Manik faced the flames with unbending honor."
+    }
+  ],
+  "vocabulary": {
+    "sharati": "Long end-blown bamboo flute played during mourning and solemn reflection",
+    "raitong": "Destitute orphan, poor person with no earthly possessions",
+    "mahadei": "Consort or queen of a traditional Khasi Syiem",
+    "kuna": "Clan fine, penalty, or sacrificial atonement"
+  },
+  "word_count": 70
+}

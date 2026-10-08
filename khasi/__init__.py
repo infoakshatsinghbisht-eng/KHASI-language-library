@@ -21,7 +21,7 @@ Quick Start:
 {'khasi': 'khublei', 'hindi': 'नमस्ते / धन्यवाद / प्रणाम', 'english': 'hello / thank you / greetings', 'pos': 'interjection'}
 """
 
-__version__ = "1.4.0"
+__version__ = "1.5.0"
 __author__ = "Akshat Singh Bisht"
 __email__ = "infoakshatsinghbisht@gmail.com"
 __maintainer__ = "Akshat Singh Bisht"
@@ -214,6 +214,20 @@ from .culture import (
     total_books,
     total_pages,
     total_words,
+    folklore,
+    FolkloreStory,
+    list_stories,
+    get_story,
+    search_folklore,
+    stories_by_category,
+    total_stories,
+    FolkloreManager,
+    songs,
+    Song,
+    search_songs,
+    songs_by_category,
+    total_songs,
+    SongManager,
 )
 
 # Voice & Speech Synthesis
@@ -242,7 +256,6 @@ phrases = type("Phrases", (), {"all": staticmethod(_DICT.all_phrases), "random":
 proverbs = type("Proverbs", (), {"all": staticmethod(_DICT.all_proverbs), "random": staticmethod(_DICT.random_proverb)})()
 riddles = type("Riddles", (), {"all": staticmethod(_DICT.all_riddles), "random": staticmethod(_DICT.random_riddle)})()
 instruments = type("Instruments", (), {"all": staticmethod(list_instruments), "get": staticmethod(get_instrument)})()
-songs = type("Songs", (), {"all": staticmethod(list_songs), "get": staticmethod(get_song)})()
 plants = type("Plants", (), {"all": staticmethod(list_plants), "get": staticmethod(get_plant), "medicinal": staticmethod(medicinal_plants)})()
 wildlife = type("Wildlife", (), {"all": staticmethod(list_wildlife), "get": staticmethod(get_animal)})()
 dishes = type("Dishes", (), {"all": staticmethod(list_dishes), "get": staticmethod(get_dish)})()
@@ -320,6 +333,8 @@ __all__ = [
     "catalogue", "BibliographyCatalogue", "all_works", "by_genre", "by_author", "by_type",
     "search_works", "get_digitized_works", "catalogue_summary",
     "books", "KhasiBook", "BookPage", "list_books", "get_book", "search_books", "total_books", "total_pages", "total_words",
+    "folklore", "FolkloreStory", "list_stories", "get_story", "search_folklore", "stories_by_category", "total_stories", "FolkloreManager",
+    "songs", "Song", "search_songs", "songs_by_category", "total_songs", "SongManager",
     "dialects", "list_dialects", "get_dialect_info", "load_dialect_lexicon", "lookup_dialect", "translate_dialect", "find_cognates", "get_dialect_statistics",
     "audio_dataset", "KhasiAudioDataset", "KhasiVoiceSynthesizer",
     "parallel_corpus", "ParallelCorpus",

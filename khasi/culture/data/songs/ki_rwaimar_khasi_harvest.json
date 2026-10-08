@@ -1,0 +1,36 @@
+{
+  "id": "ki_rwaimar_khasi_harvest",
+  "title": "Highland Harvest and Field Songs (Ki Rwaimar bad Jingrwai Ot Kba)",
+  "khasi_title": "Ki Rwaimar bad Jingrwai Ot Kba",
+  "category": "Agrarian Folk Songs & Field Chants",
+  "composer": "Village Farmers & Reapers",
+  "year": "Traditional",
+  "cultural_context": "Call-and-response work songs sung collectively by men and women while harvesting golden terrace paddy fields (ot kba) and carrying heavy bamboo baskets (khoh) up steep mountain trails.",
+  "instruments": [
+    "Besli (bamboo flute)",
+    "Ryndia work-chant calls"
+  ],
+  "themes": [
+    "Bountiful harvest",
+    "Cooperative labor (iakyntiew kur)",
+    "Sweet paddy",
+    "Homecoming"
+  ],
+  "lyrics_khasi": "Sngi ba bhabriew ha lyngkha ba jyrngam,\nOt ïa u kba ba la stem bha halor lum,\nThep ha ka shang, thep ha ka khoh,\nWanrah sha ïing ban pynsuk ïa ka kpoh!\n\nHoi-ia-hoi! Ot beit ko samla!\nKa lyiur ka la leit, u tlang u la wan,\nPynkhalai ia ka rashi ba nep,\nNgin ioh bam ja-khasi ha la ka tnum!",
+  "lyrics_english": "Glorious is the sunny day in green terraced fields,\nReap the golden paddy ripe upon the mountainside,\nPack it into the small basket, heave it into the tall cone basket,\nCarry it home to nourish the household hearth!\n\nHoi-ia-hoi! Reap on steadily, brave youths!\nThe summer rains have passed, crisp winter has arrived,\nSweep the sharp curved sickle through the grain,\nWe shall feast on indigenous sweet rice under our roof!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jing-ot Kba (Reaping the Ripe Grain)",
+      "khasi": "Sngi ba bhabriew ha lyngkha ba jyrngam,\nOt ïa u kba ba la stem bha halor lum,\nThep ha ka shang, thep ha ka khoh,\nWanrah sha ïing ban pynsuk ïa ka kpoh!",
+      "english": "Beautiful sunny day on green fields! Cut the ripe golden mountain paddy, fill the conical baskets, bring it home to nourish the family!"
+    }
+  ],
+  "vocabulary": {
+    "ot kba": "Reaping and harvesting paddy",
+    "khoh": "Conical Khasi carrying basket woven of split bamboo and supported by a headstrap (u star)",
+    "shang": "Flat shallow bamboo basket for winnowing grain",
+    "rashi": "Curved steel harvesting sickle"
+  },
+  "word_count": 65
+}

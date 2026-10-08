@@ -1,0 +1,40 @@
+{
+  "id": "u_bsein_thlen",
+  "title": "U Bsein Thlen (The Monster Serpent and the Slaying at Dainthlen)",
+  "khasi_title": "U Bsein Thlen bad Ka Jingjop ha Dainthlen",
+  "category": "Heroic Myth & Cautionary Allegory",
+  "geographic_origin": "Dainthlen / Sohra (Cherrapunji)",
+  "characters": [
+    "U Thlen (The Man-Eating Serpent Demon)",
+    "U Suidnoh (The Heroic Hunter)",
+    "Ki Nongshongshnong (The Khasi Clan Assembly)"
+  ],
+  "cultural_moral": "Denunciation of illicit greed, human exploitation, and sacrificial cults, honoring courage and community vigilance.",
+  "khasi_text": "Ha ki por hyndai, ha kawei ka krem ba shyrkhei kaba don ha Sohra hajan ka wah kaba tuid sha them Surma, la shong uwei u bsein uba khraw bad uba ma katta katta uba ki khot U Thlen. Une u Thlen um dei u bsein uba kum kiwei pat; u dei u ksuid uba bam briew bad uba pynlong ia ka jingshyrkhei ha ka Ri Khasi baroh kawei.\n\nKa rukom jong une u Thlen ka long ba haba ki briew ki iaid ha ka lynti ba marjan bad ka krem jong u, lada ki iaid arngut, un bam nguid noh ia uwei; lada ki iaid saw ngut, un bam ia ki arngut. Da kumta, ki briew ki la tieng lut ban iaid lyngba kata ka jaka, bad ka shnong ka la duh noh ia ki briew kiba bun. Nalor kata, u Thlen u ju ai spah pynsuk ia kito ki briew kiba man-bieit bad kiba kñia snam briew sha u, kiba ki khot Ki Nongshohnoh.\n\nHaba ka jingshitom ka la jur palat, uwei u riewshlur uba kyrteng U Suidnoh u la thaw ka buit ban pynduh jait ia une u ksuid. U Suidnoh u la leit shajan ka krem u Thlen man la ka sngi bad u la rah ia ka doh blang ban bsa ia u. Man ba u pyrta, u Thlen u ju sei la ka khlieh na ka krem bad u plied la ka shyntur kaba heh, bad U Suidnoh u ju kyntait shapoh ka doh blang. Ha kane ka rukom, u Thlen u la nang shaniah jur ha U Suidnoh.\n\nHaba u la iohi ba u Thlen u la shaniah pura, U Suidnoh u la pynkhreh ia ka buit kaba khatduh. U la shna kawei ka nar ba heh bad u la thang ia ka ha ka dpei ding haduh ba kata ka nar ka la saw hek-hek da ka jingshit bakhraw. Nangta u la shim ia ka nar da ki khnap-nar ba khlain, u la leit sha ka krem u Thlen, bad u la pyrta kumba ju leh.\n\nU Thlen u la pynpaw la ka khlieh bad u la ang la ka shyntur ban pdiang ia ka doh. Hynrei ha ka jaka ka doh blang, U Suidnoh u la theh beit ia kata ka nar ba saw hek-hek shapoh u pdot jong u Thlen! Ka ding ka la bam ia ki snier jong u, u Thlen u la lynniar da ka bor bakhraw, u la kyrsum ha madan bad u la pait ka mynsiem.\n\nKi Khasi ki la leit tan ia une u bsein na ka krem sha madan hajan ka kshaid. Ha kata ka jaka, ki la dain pynpait ia ka doh jong u ha ki maw kiba heh khnang ban ym pynmih shuh ia ka bih. Ia kata ka jaka la khot mynta Ka Kshaid Dainthlen (The Slaying of the Thlen), bad ki dak jong ki maw ba la dain ia u Thlen ki dang paw haduh kine ki sngi.",
+  "english_translation": "In ancient times, a terrifying serpent demon called U Thlen dwelt within a cavern beside the Sohra gorge, terrorizing the countryside. Whenever travelers traversed the road, the Thlen would devour half of their party, demanding blood and fear. Moreover, superstitious persons seeking ill-gotten wealth began making covert pacts with the demon, giving rise to the feared 'Nongshohnoh' human-sacrificers.\n\nA valiant man named U Suidnoh resolved to deliver his people from this evil. Visiting the cave daily, he fed the serpent roasted goat meat, conditioning the beast to open its vast maw upon hearing his call.\n\nWhen the serpent trusted him fully, Suidnoh heated a heavy iron ingot in a furnace until it burned incandescent red. Carrying the glowing iron with blacksmith tongs, he called the Thlen. As the demon opened its jaws in anticipation, Suidnoh plunged the molten iron into its throat. Howling in agony, the demon convulsed and perished.\n\nThe clans dragged the carcass onto the flat riverbed rock and chopped its body to pieces to extinguish the curse forever. The place was named Dainthlen ('Where the Thlen was Cleaved'), where the natural chiselled furrows in the riverbed rocks remain as the legendary marks of the serpent's destruction.",
+  "sections": [
+    {
+      "title": "The Reign of the Serpent Demon",
+      "paragraph": 1
+    },
+    {
+      "title": "The Cult of Illicit Wealth",
+      "paragraph": 2
+    },
+    {
+      "title": "Suidnoh's Red-Hot Ingot Trap",
+      "paragraph": 4
+    },
+    {
+      "title": "The Cleaving at Dainthlen",
+      "paragraph": 6
+    }
+  ],
+  "vocabulary": {
+    "thlen": "mythical serpentine evil spirit associated with ill-gotten wealth",
+    "dainthlen": "where the Thlen was cut / sliced (famous waterfall)",
+    "nongshohnoh": "hired assailant in Thlen folklore folklore",
+    "suidnoh": "the hero of the Thlen slaying legend"
+  },
+  "word_count": 697
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ka_sur_tirot_sing",
+  "title": "Heroic Ballad of Tirot Sing (Ka Sur Tirot Sing)",
+  "khasi_title": "Ka Sur Tirot Sing Syiem Nongkhlaw",
+  "category": "Patriotic Heroic Ballad",
+  "composer": "Folk Balladeers of Nongkhlaw",
+  "year": "Traditional (1829–1833 War Memorial)",
+  "cultural_context": "Ballad commemorating U Tirot Sing, ruler of Nongkhlaw, who led the Khasi resistance against the British East India Company from 1829 to 1833. Celebrated annually on July 17.",
+  "instruments": [
+    "Nakra (war kettle drum)",
+    "Ksing Shynrang",
+    "Tangmuri"
+  ],
+  "themes": [
+    "Anti-colonial resistance",
+    "Freedom vs slavery",
+    "Heroic sacrifice",
+    "Nongkhlaw",
+    "Warrior valor"
+  ],
+  "lyrics_khasi": "U Syiem ba shlur jong ka Ri Khasi,\nUba la ïeng pyrshah ïa ka bor nongwei,\nKham bha ban ïap kum u ksew ba laitluid,\nBan ïa kaba im kum u syiem ba mraw!\n\nHa ki riat ba rben ha ki lum ba jngai,\nU la siat da u khnam, u la dung da ka wait;\nKa snam jong u ka la jaw ha ka khyndew,\nBan pynlong ia ka Ri ba kan laitluid man ka sngi!",
+  "lyrics_english": "The fearless Syiem of the Khasi motherland,\nWho rose unbending against foreign conquerors,\nFar better to perish as a free mountain warrior,\nThan to live as a crowned and shackled slave!\n\nThrough steep ravines and deep mountain gorges,\nHe struck with the arrow, he slashed with the sword;\nHis royal blood poured out upon the sacred soil,\nThat our Motherland might stand free for all generations!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Ktien u Syiem (The Syiem's Declaration of Liberty)",
+      "khasi": "U Syiem ba shlur jong ka Ri Khasi,\nUba la ïeng pyrshah ïa ka bor nongwei,\nKham bha ban ïap kum u ksew ba laitluid,\nBan ïa kaba im kum u syiem ba mraw!",
+      "english": "The fearless ruler who defied foreign conquest: Far better to die free than live as a chained slave!"
+    }
+  ],
+  "vocabulary": {
+    "laitluid": "Free, sovereign, unenslaved",
+    "syiem ba mraw": "Puppet king or enslaved ruler",
+    "ksew ba laitluid": "Free commoner dog / independent warrior"
+  },
+  "word_count": 77
+}

@@ -1,0 +1,52 @@
+{
+  "id": "phawar_iasiat_khnam",
+  "title": "Archery Tournament Chants (Phawar Iasiat Khnam)",
+  "khasi_title": "Ki Phawar Iasiat Khnam",
+  "category": "Highland Archery Chants & Cheer Verses",
+  "composer": "Traditional Clan Archers & Pyrton",
+  "year": "Traditional",
+  "cultural_context": "Rhythmic chanting delivered by cheerers (pyrton) during traditional Khasi archery tournaments (Iasiat Khnam). Archery is the national sport and sacred martial art of the Khasi people.",
+  "instruments": [
+    "Bamboo Bow (Ryntieh)",
+    "Feathered Arrow (Khnam)",
+    "Hand clapping"
+  ],
+  "themes": [
+    "Accuracy",
+    "Clan honor",
+    "Hoi Kiw battle cry",
+    "Skill and courage",
+    "Ancestral pride"
+  ],
+  "lyrics_khasi": "Hoi kiw! Hoi kiw!\nKo pyrton ba shlur, khie mih sha madan,\nBat ïa ka ryntieh, pynwan ïa u khnam!\nSha u thong ngin thew, sha u thong ngin siat,\nHa ka burom u kpa, ha ka burom ka me!\nHoi kiw! Hoi kiw! Khie siat beit sha khlieh!\n\nU khnam uba nep u la leit thaba,\nU la dung ha ka skum ba la buh ha lyngkba!\nKo samla ka shnong to pyrta jam,\nNamar ba u khnam u la jop ia ka nam!\n\nU lum u them u la sawa kynjai,\nKa ryntieh siej-lieng ka la pynhiar kynhai!\nU nongsiat ba tbit u la thoh la ka kti,\nBan kyntiew ia ka burom jong la ka Ri!\n\nKa wait ka stieh ngi kyntait noh,\nTang u khnam u ryntieh ngi bat thoh!\nKa jingsiat ka dei ka akor ka bor,\nKaba neh pateng la pateng ha ka dor!",
+  "lyrics_english": "Hoi kiw! Hoi kiw! (Victory cry!)\nO valiant cheering clan, step forth onto the field,\nGrip the bamboo bow, notch the feather-flighted arrow!\nStraight at the circular target we aim, into the bullseye we release,\nFor the honor of our father, for the glory of our mother!\nHoi kiw! Hoi kiw! Let the arrow fly straight and true!\n\nThe sharp arrow has whistled through the mountain air,\nPiercing dead-center into the straw cylinder in the clearing!\nO youths of the village shout out with mighty roar,\nFor the arrow has captured victory and lasting renown!\n\nThe mountain crags and valleys echo with the cry,\nThe curved bamboo bow recoils with a singing snap!\nThe master marksman has steadied his steady hand,\nTo elevate the ancestral honor of our beloved Motherland!\n\nWe put aside the sword and the shield,\nBearing only the sacred bow and arrow in our grip!\nArchery is discipline, courtesy, and inner strength,\nEnduring generation after generation in high esteem!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Pyrton (The Team Assembly Call)",
+      "khasi": "Ko pyrton ba shlur, khie mih sha madan,\nBat ïa ka ryntieh, pynwan ïa u khnam!\nSha u thong ngin thew, sha u thong ngin siat,\nHa ka burom u kpa, ha ka burom ka me!",
+      "english": "O valiant cheerers, step into the arena! Grip the bow, notch the arrow! Aim at the target for the glory of father and mother!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jingdung ha ka Skum (The Bullseye Strike)",
+      "khasi": "U khnam uba nep u la leit thaba,\nU la dung ha ka skum ba la buh ha lyngkba!\nKo samla ka shnong to pyrta jam,\nNamar ba u khnam u la jop ia ka nam!",
+      "english": "The razor arrow flew like lightning, piercing straight into the cylindrical straw target! Let the village cheer aloud for victory!"
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Akor ka Ryntieh (The Code of the Bow)",
+      "khasi": "Ka wait ka stieh ngi kyntait noh,\nTang u khnam u ryntieh ngi bat thoh!\nKa jingsiat ka dei ka akor ka bor,\nKaba neh pateng la pateng ha ka dor!",
+      "english": "We set aside the war sword, holding only the sacred bow! Archery is dignity, moral conduct, and heritage passed down generations!"
+    }
+  ],
+  "vocabulary": {
+    "ryntieh": "Indigenous recurved bow crafted from selected mountain bamboo (siej-lieng)",
+    "khnam": "Slender arrow fletched with bird feathers and iron tip",
+    "thong": "The archery target mark or winning score goal",
+    "skum": "The small cylindrical straw-bundled target erected at the far end of the range",
+    "pyrton": "Clan cheerers and rhymers chanting phawar to inspire marksmen",
+    "hoi kiw": "Ancient Khasi communal victory cheer and proclamation of triumph"
+  },
+  "word_count": 151
+}

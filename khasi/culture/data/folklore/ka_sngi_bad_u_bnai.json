@@ -1,0 +1,40 @@
+{
+  "id": "ka_sngi_bad_u_bnai",
+  "title": "Ka Sngi bad U Bnai (The Sun, the Moon & the Ash of Shame)",
+  "khasi_title": "Ka Sngi bad U Bnai ha Ka Pyrthei Barim",
+  "category": "Astronomy & Kinship Morality Myth",
+  "geographic_origin": "Khasi Celestial Lore",
+  "characters": [
+    "Ka Sngi (The Sun - Sister)",
+    "U Bnai (The Moon - Brother)",
+    "Ki Khlur (The Stars)"
+  ],
+  "cultural_moral": "Strict enforcement of clan exogamy (Tip-Kur Tip-Kha) and prohibition against incestuous transgressions (Ka Sang Ka Ma).",
+  "khasi_text": "Ha ki por hyndai haba ka bneng ka dang jan bad ka pyrthei, Ka Sngi bad U Bnai ki dei shipara kiba shong ryngkat ha ka ryngkat bneng. Ka Sngi ka dei ka hynmen kynthei kaba bha briew, kaba shai bad kaba phyrnai kumba shna da ka ksiar kaba thiang. U Bnai pat u dei u para shynrang uba don ka rynieng kaba itynnat bad ka khmat kaba pyngngad.\n\nHynrei U Bnai u la nang pynleit jingmut sniew ha la ka dohnud. U la klet noh ia ka niam kur niam kha bad u la klet ba Ka Sngi ka dei ka hynmen kynthei jong u hi. Ka jingkwah sniew ka la pynduh ia ka jingmut jingpyrkhat jong u haduh ba ha kawei ka sngi, u la pyrshang ban kdup bad ban leh thurmur ia la ka hynmen.\n\nKa Sngi ka la bitar jur katta katta halor kane ka jingpynkhein niam bakhraw (Ka Sang). Ka la kyntait kynsan ia u, ka la kura da ka kti ia ka dpei ding kaba meh ha dpei, bad ka la theh beit ia kata ka dpei kaba saw sha ka khmat jong U Bnai!\n\nKata ka dpei ka la thang bad ka la pynsaw ia ka khmat jong U Bnai, bad ki dak dpei ki la sah ha ka khmat jong u haduh mynta. U Bnai u la sngewlehrain jur katta katta halor la ka pop. Um nud shuh ban paw ha ka por sngi haba Ka Sngi ka shai phyrnai. Naduh kata ka por, U Bnai u shong sah tang ha ka miet haba ka pyrthei ka dum, bad ki dak dpei ki dang paw ha ka khmat jong u kum ka dak jong ka jingbymman kaba u la leh.",
+  "english_translation": "In ancient cosmology, the Sun (Ka Sngi, feminine) and the Moon (U Bnai, masculine) were sister and brother dwelling in the celestial court. Ka Sngi shone with golden warmth and righteousness, while U Bnai possessed cool, silvery poise.\n\nOvercome by forbidden passion, U Bnai forgot the sacred taboo of clan incest (Ka Sang) and improperly propositioned his sister. Outraged by this heinous violation of moral law, Ka Sngi scooped up a handful of burning hearth ash (dpei) from the fire and hurled it across her brother's face.\n\nThe smouldering ash scarred his countenance forever. Overwhelmed by shame and dishonor, U Bnai fled and never dared show his face during the brilliant daylight when his sister rides the heavens. To this day, the Moon emerges only in darkness, bearing dark ash patches across his pale face as an eternal badge of shame and a warning against incest.",
+  "sections": [
+    {
+      "title": "The Celestial Brother and Sister",
+      "paragraph": 1
+    },
+    {
+      "title": "The Breach of Clan Taboo (Ka Sang)",
+      "paragraph": 2
+    },
+    {
+      "title": "The Hearth Ash of Wrath",
+      "paragraph": 3
+    },
+    {
+      "title": "The Eternal Night Exile",
+      "paragraph": 4
+    }
+  ],
+  "vocabulary": {
+    "ka_sngi": "the Sun (feminine in Khasi culture)",
+    "u_bnai": "the Moon (masculine in Khasi culture)",
+    "dpei": "the traditional hearth / cooking fireplace",
+    "ka_sang": "sacrilegious taboo / incest / unpardonable sin"
+  },
+  "word_count": 434
+}

@@ -6,13 +6,15 @@ import khasi
 
 class TestKhasiTopLevel(unittest.TestCase):
     def test_metadata(self):
-        self.assertEqual(khasi.__version__, "1.4.0")
+        self.assertEqual(khasi.__version__, "1.5.0")
         self.assertEqual(khasi.__author__, "Akshat Singh Bisht")
         self.assertEqual(khasi.ISO_639_3, "kha")
         self.assertEqual(khasi.NATIVE_NAME, "Ka Ktien Khasi")
         self.assertIsNotNone(khasi.dialects)
         self.assertIsNotNone(khasi.audio_dataset)
         self.assertIsNotNone(khasi.parallel_corpus)
+        self.assertIsNotNone(khasi.folklore)
+        self.assertIsNotNone(khasi.songs)
 
     def test_translation(self):
         res = khasi.translate("How are you?")

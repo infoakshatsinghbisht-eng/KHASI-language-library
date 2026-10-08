@@ -1,0 +1,35 @@
+{
+  "id": "ka_wah_umiam_bad_umngot",
+  "title": "Ka Wah Umïam bad Ka Wah Umngot (The Twin Sister Rivers)",
+  "khasi_title": "Ka Parom jong Ka Wah Umïam bad Ka Wah Umngot",
+  "category": "Landscape Legend & River Lore",
+  "geographic_origin": "Shillong Plateau to Dawki / Sylhet",
+  "characters": [
+    "Ka Umïam (The Elder Sister / Weeping Waters)",
+    "Ka Umngot (The Younger Sister / Gentle Crystal Waters)"
+  ],
+  "cultural_moral": "Patience and grace triumph over reckless haste and pride.",
+  "khasi_text": "Mynbarim la don arngut ki samla kiba dei shipara, Ka Umïam bad Ka Umngot, kiba shong ha kliar jong ki lum Khasi. Baroh arngut ki long kiba itynnat bad kiba sngur ka mynsiem. Ha kawei ka sngi, ki la iakop ba kin phet-iaw na kliar lum shaduh ki madan ba shong phlang ha them thor jong ka ri Surma.\n\nKa Umïam, kaba dei ka hynmen, ka la sngewsarong bad ka la thmu ba kan jop suk ia ka para. Ka la phet kynsan da ka bor bad ka jingthok, ka khein pait ia ki lum, ka pait ia ki maw, bad ka shlei kynsan lyngba ki riat. Namar kata ka jingphet kynsan, ka la jah lynti bad ka la hap noh ha ki them ba jylliew, kaba la pynlong ia ka ban lynniar bad ban ïam sngewsih ha lynti. Ka um jong ka ka la kylla long kaba dum bad ba khluit, kaba pynmih ia ka kyrteng \"Um-ïam\" (Weeping Waters).\n\nKa Umngot pat, kaba dei ka para ba lui-lui, kam shym la leh sarong. Ka la tuid mian-mian da ka jingsngur, ka iaid lyngba ki mawsiang, ka shad kynjai ha ki kshaid, bad ka ri ia ka jingkhuid jong ka um kumba pynshai da ka kristal. Ka la poi suk bad sngur shaduh Dawki ha them Surma, kaba pynlong ia ka haduh mynta ban long ka wah kaba sngur tam ha ka pyrthei baroh kawei.",
+  "english_translation": "Two divine sisters, Ka Umïam and Ka Umngot, dwelt atop the high Khasi plateau. One sunny day, they engaged in a playful race to reach the vast Sylhet plains below.\n\nKa Umïam, the elder sister, confident in her strength, surged forward in reckless haste. She tore through granite crags and crashed down precipices, carving wild gorges. In her frantic rush, she lost her way, twisting back and weeping in frustration. Her waters became turbulent and laden with tears, giving her the name 'Um-ïam' (The Weeping River).\n\nKa Umngot, the modest younger sister, flowed gently, gracefully contouring around mountains, preserving her turquoise crystal clarity. She reached Dawki and the plains effortlessly, retaining her world-famous glass-like transparency to this day.",
+  "sections": [
+    {
+      "title": "The Divine Sister Rivers",
+      "paragraph": 1
+    },
+    {
+      "title": "The Frenzy and Tears of Umïam",
+      "paragraph": 2
+    },
+    {
+      "title": "The Grace and Clarity of Umngot",
+      "paragraph": 3
+    }
+  ],
+  "vocabulary": {
+    "umiam": "weeping water / river of tears",
+    "umngot": "clear, sparkling river (Dawki river)",
+    "wah": "river / stream",
+    "sngur": "crystal-clear, transparent, pure"
+  },
+  "word_count": 353
+}

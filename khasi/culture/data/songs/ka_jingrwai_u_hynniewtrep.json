@@ -1,0 +1,37 @@
+{
+  "id": "ka_jingrwai_u_hynniewtrep",
+  "title": "Hymn of the Seven Huts (Ka Jingrwai U Hynniewtrep)",
+  "khasi_title": "Ka Jingrwai U Hynniewtrep",
+  "category": "National Creation Anthem",
+  "composer": "Khasi Cultural Revivalists",
+  "year": "Traditional / Modern Anthem",
+  "cultural_context": "National patriotic song sung at community gatherings, Seng Kut Snem, and Khasi cultural assemblies celebrating the divine descent of the Seven Huts from Mount Sohpetbneng.",
+  "instruments": [
+    "Tangmuri",
+    "Duitara",
+    "Ksing Shynrang"
+  ],
+  "themes": [
+    "Seven Huts genesis",
+    "Mount Sohpetbneng",
+    "Kamai ia ka hok",
+    "Ancestral religion",
+    "Golden age"
+  ],
+  "lyrics_khasi": "Na Lum Sohpetbneng ngi la hiar ban im,\nKi Hynñiew Trep ba kyntang ha pyrthei,\nBan kamai ïa ka hok, ban burom ïa U Blei,\nPynneh ïa ka akor, pynskhem ïa ka niam!\n\nKa Ri jong ngi ka ri jong ka hok,\nYm don ba lah ban pynduh ia ka burom;\nPateng la pateng ngin pynriewspah ia ka,\nDa ka bor jong ka kti bad ka mynsiem ba khuid!",
+  "lyrics_english": "Down from Mount Sohpetbneng we descended into earthly life,\nThe Seven Sacred Huts consecrated upon the green earth,\nTo earn righteousness through labor, to revere Almighty God,\nPreserving our ancestral courtesy, anchoring our ancient faith!\n\nOur beloved motherland is the land of truth and righteousness,\nNone has power to destroy her sacred glory;\nGeneration after generation we shall enrich her,\nWith the work of our hands and the purity of our souls!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jinghiar na Lum Sohpetbneng (Descent from Sohpetbneng)",
+      "khasi": "Na Lum Sohpetbneng ngi la hiar ban im,\nKi Hynñiew Trep ba kyntang ha pyrthei,\nBan kamai ïa ka hok, ban burom ïa U Blei,\nPynneh ïa ka akor, pynskhem ïa ka niam!",
+      "english": "From Mount Sohpetbneng we came down to dwell, the sacred Seven Huts upon earth, to earn righteousness, revere God, and anchor our faith!"
+    }
+  ],
+  "vocabulary": {
+    "hynniewtrep": "The Seven Huts who settled the earth, ancestors of the Khasi-Pnar people",
+    "sohpetbneng": "Navel of Heaven; sacred peak in Ri Bhoi",
+    "kamai ia ka hok": "The foundational Khasi precept: to earn righteousness through honest labor"
+  },
+  "word_count": 69
+}

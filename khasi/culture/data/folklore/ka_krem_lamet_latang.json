@@ -1,0 +1,35 @@
+{
+  "id": "ka_krem_lamet_latang",
+  "title": "Ka Krem Lamet Latang (The Great Council Cave of Animals)",
+  "khasi_title": "Ka Dorbar Bah ha Krem Lamet Latang",
+  "category": "Fauna Lore & Council Legend",
+  "geographic_origin": "Krem Lamet Latang (Raid Nongkhlaw)",
+  "characters": [
+    "U Khla (The Tiger Chief)",
+    "U Sier (The Deer)",
+    "Ki Mrad ki Mreng (The Beasts of the Forest)"
+  ],
+  "cultural_moral": "Democratic covenant, sanctity of contracts (Ka Jutang), and animal coexistence.",
+  "khasi_text": "Ha ki por hyndai haba ki mrad ki dang nang ban kren kum ki briew, la don kawei ka dorbar kaba khraw tam ha ka pyrthei kaba ki khot Ka Dorbar Bah ha Krem Lamet Latang. Baroh ki jait mrad, ki sim, ki bsein, bad ki khniang ki la iawan lang ban iasoh ha kane ka krem ba heh ban pynbeit ia ka rukom im bad ka synshar khadar ha khlaw.\n\nHa kane ka Dorbar, man la u mrad u la ioh la ka burom bad la ka bynta. U Khla u la bat ia ka nam kum u kynrad khlaw, U Sier u la ioh ia ka jingkyrkhu ban mareh stet, bad ki sim ki la ioh ia ka bor ban her sha suin bad ban rwai phawar. Ki la kular ha khmat U Blei ba kin nym ia bam duh pynjot paralok khlem daw, bad ba kin sumar ia ka mariang.\n\nHynrei hadien ba u briew u la pynkhein ia ka hok ha pyrthei, ka jutang ha Krem Lamet Latang ka la kylla, bad ki mrad ki la duh noh ia ka ktien briew. Hynrei ki dak jong kata ka dorbar ki dang sah ha ka jingriew spah jong ka khlaw bad ka jingiadei hapdeng u briew bad ka mariang.",
+  "english_translation": "In the mythic age when beasts still spoke the language of mankind, the great parliament of all living creatures assembled at the legendary cavern of Krem Lamet Latang. All four-footed beasts, birds of the air, and creatures of the soil met to establish the Great Covenant of the forest.\n\nIn this divine assembly, each animal received its role: the Tiger was appointed guardian of the wild tracts, the Deer received agility and grace, and the Birds were given flight and melody. They swore a sacred oath before God to live in equilibrium and preserve the living world. When humanity later broke the covenant of righteousness (Ka Hok), the beasts lost the human tongue, yet the memory of that primal parliament remains embedded in Khasi ecological lore.",
+  "sections": [
+    {
+      "title": "The Primal Parliament of Beasts",
+      "paragraph": 1
+    },
+    {
+      "title": "The Covenant of Equilibrium",
+      "paragraph": 2
+    },
+    {
+      "title": "The Severed Tongue and Ecological Legacy",
+      "paragraph": 3
+    }
+  ],
+  "vocabulary": {
+    "lamet_latang": "legendary council cave where animals held assembly",
+    "jutang": "solemn covenant / sacred pact",
+    "mrad": "animal / wild beast"
+  },
+  "word_count": 338
+}

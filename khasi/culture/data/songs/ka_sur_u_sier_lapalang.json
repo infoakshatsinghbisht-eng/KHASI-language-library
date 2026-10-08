@@ -1,0 +1,58 @@
+{
+  "id": "ka_sur_u_sier_lapalang",
+  "title": "The Lament of the Stag (Ka Sur U Sier Lapalang)",
+  "khasi_title": "Ka Sur U Sier Lapalang",
+  "category": "Folk Elegy & Ancestral Lament (Jamlu)",
+  "composer": "Ancient Oral Tradition",
+  "year": "Traditional (Immorial)",
+  "cultural_context": "The oldest and most revered tragedy in Khasi oral culture, serving as the archetype for all funeral wailing, laments (jamlu), and melancholic poetry. Tells of a young stag in the plains who longed for the sweet grass of the Khasi hills and died by hunter arrows.",
+  "instruments": [
+    "Maryngod (bowed fiddle)",
+    "Shyngwiang (funeral flute)",
+    "Duitara"
+  ],
+  "themes": [
+    "Maternal love",
+    "Disobedience and destiny",
+    "Loss",
+    "Funeral weeping",
+    "Sorrow of nature"
+  ],
+  "lyrics_khasi": "Ko Lapalang phrang sngi jong nga,\nKum bating-shein u mankara!\nHaba na nga me la khlad noh,\nDohnud sngewsih nga im suhsat.\n\nShong khop ha la ri them ri thor,\nBam da u khah bam da u nor!\nNgin bam da u jangew jathang,\nBaroh shi lyiur baroh shi tlang!\n\nPynban kynrem na nga me khlad,\nSha Ri Khasi me la kiew krad!\nU phlang ba thiang u la ring phai,\nKi thwei ba khuid ki la pynkai!\n\nWow! La shet ka tieh pongdeng,\nIa ka rynieng u kynrem reng!\nWow! La kjit u nam sarang,\nIa ka mynsiem u Lapalang!\n\nHa kliar Lum Shillong u la noh,\nU khnam ba bih u la kem thoh!\nUmmat ka kmie ki la shlei tuid,\nKi lum ki them ki la jaw ruid!\n\nKo khun baieit ba thiah ha madan,\nYm don shuh u ban pynkyndit kram!\nSah marwei nga ha kane ka sngi,\nKa nam jong me kan neh ha ri!",
+  "lyrics_english": "O Lapalang, light of my eyes and morning of my days,\nWith stately antlers like the majestic crown of the plains!\nWhen thou didst depart from my maternal side,\nMy weeping heart was plunged into unending sorrow.\n\nAbide quietly in our gentle lowlands and valleys,\nFeeding upon the tall reed grasses and sweet water plants!\nWe shall eat our simple wild mountain herbs,\nThrough every monsoon summer and through every winter freeze!\n\nYet proud and noble, thou didst hasten away,\nClimbing up into the crags of the sacred Khasi hills!\nThe tender scented grasses lured thee upward,\nThe pure crystal mountain pools beckoned thee astray!\n\nAlas! The hunter's bowstring bent upon the ridge,\nAiming at the stately stature of the antlered prince!\nAlas! The poisoned arrow pierced his side,\nDrinking the mortal soul of young Lapalang!\n\nUpon the summit of Mount Shillong he collapsed,\nThe venom of the iron shaft took hold upon his veins!\nThe tears of his grieving mother overflowed in torrents,\nThe crags and deep ravines wept and trickled in grief!\n\nO beloved child resting motionless upon the field,\nNone remains to awaken thee from thy deep slumber!\nAlone I linger upon this dark mountain day,\nYet thy renown shall live forever across our hills!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jingrwai Kmie ha Ri Thor (Mother's Plea in the Plains)",
+      "khasi": "Ko Lapalang phrang sngi jong nga,\nKum bating-shein u mankara!\nHaba na nga me la khlad noh,\nDohnud sngewsih nga im suhsat.\nShong khop ha la ri them ri thor,\nBam da u khah bam da u nor!",
+      "english": "O Lapalang my firstborn star, antlered like the proud tree of the plain! Since thou hast departed from me, my heart lives in grieving anguish. Stay peacefully in our lowlands, eating reed-grass and river-greens!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jingkiew sha Ri Lum (Ascent to the Khasi Hills)",
+      "khasi": "Pynban kynrem na nga me khlad,\nSha Ri Khasi me la kiew krad!\nU phlang ba thiang u la ring phai,\nKi thwei ba khuid ki la pynkai!",
+      "english": "Yet proud and majestic thou didst wander, climbing up to the crags of the Khasi hills! The sweet scented mountain grass lured thee, the crystal highland pools drew thee on!"
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Jingiap ha Lum Shillong (Death on Mount Shillong)",
+      "khasi": "Wow! La shet ka tieh pongdeng,\nIa ka rynieng u kynrem reng!\nWow! La kjit u nam sarang,\nIa ka mynsiem u Lapalang!",
+      "english": "Alas! The hunter's bent bow betrayed the stature of the antlered prince! Alas! The poisoned iron arrow drank the mortal breath of Lapalang!"
+    },
+    {
+      "stanza_number": 4,
+      "title": "Ka Ktien Khatduh (The Mother's Final Weeping)",
+      "khasi": "Ko khun baieit ba thiah ha madan,\nYm don shuh u ban pynkyndit kram!\nSah marwei nga ha kane ka sngi,\nKa nam jong me kan neh ha ri!",
+      "english": "O darling child asleep upon the barren field, no one remains to wake thee now! Alone I am left on this dark earth, yet thy memory will echo forever through our land!"
+    }
+  ],
+  "vocabulary": {
+    "phrang sngi": "Firstborn, dawn of the day, favorite child",
+    "kynrem reng": "Magnificent branched antlers of a mature stag",
+    "tieh pongdeng": "Highland bamboo hunting bow",
+    "nam sarang": "Barbed iron hunting arrow with aconite venom",
+    "jangew jathang": "Traditional indigenous wild medicinal edible greens",
+    "jamlu": "Sacred funeral weeping and musical lamentation chant"
+  },
+  "word_count": 161
+}

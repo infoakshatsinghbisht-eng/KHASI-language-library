@@ -1,0 +1,45 @@
+{
+  "id": "phawar_behdeinkhlam",
+  "title": "Plague-Banishing Sacred Chant (Phawar Behdeiñkhlam)",
+  "khasi_title": "Ka Phawar Behdeiñkhlam",
+  "category": "Pnar Sacred Pestilence Rites & Invocations",
+  "composer": "Seinraij Jowai Oral Tradition",
+  "year": "Traditional (Annual July Rites)",
+  "cultural_context": "The sacred chant of Behdeiñkhlam celebrated by the Pnar (Jaintia) people at Jowai. Meaning 'chasing away the demon of plague and sickness', young men carry painted ritual logs (dieñkhlam) and converge at the sacred pool Aitnar to drive out evil and pray for health and harvest.",
+  "instruments": [
+    "Ksing",
+    "Bom (bass drum)",
+    "Tangmuri",
+    "Cymbals"
+  ],
+  "themes": [
+    "Exorcising disease",
+    "Community cleansing",
+    "Sacred pool Aitnar",
+    "Prosperity of Jaintia",
+    "Divine blessing"
+  ],
+  "lyrics_khasi": "Hei blai heini, hei blai heitai,\nKylliang ka snem wan biang ka chaat,\nPang-khlam phet noh sha wah sha duriaw,\nKhot ïa ka suk, khot ïa ka saiñ ha Jaiñtia!\n\nBeh noh ïa u khlam, beh noh ïa ka shitom,\nPynhiar ka ksuid, pynhiar ka tympem!\nHa Aitnar ngi shad, ha Aitnar ngi nguh,\nBan roi u symbai, ban koit ka kpoh!",
+  "lyrics_english": "O God in this earthly realm, O God in the celestial heights,\nWith the turning of the seasons the sacred dance returns,\nLet plague and pestilence flee far away into the rivers and deep ocean,\nSummon peace, summon prosperous order across the land of Jaiñtia!\n\nDrive out the pestilence, banish all suffering and pain,\nCast down the malevolent spirits into the abyss!\nAt sacred pool Aitnar we dance, at Aitnar we offer thanks,\nThat our seed crops may flourish, and the bellies of our children be nourished!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jingkhot ia ka Suk (Invocation of Peace)",
+      "khasi": "Hei blai heini, hei blai heitai,\nKylliang ka snem wan biang ka chaat,\nPang-khlam phet noh sha wah sha duriaw,\nKhot ïa ka suk, khot ïa ka saiñ ha Jaiñtia!",
+      "english": "O God here and in the heavens! As the year turns the dance returns! Let pestilence flee into the ocean, summon peace and order in Jaintia!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Shad ha Aitnar (The Dance at Sacred Pool Aitnar)",
+      "khasi": "Beh noh ïa u khlam, beh noh ïa ka shitom,\nPynhiar ka ksuid, pynhiar ka tympem!\nHa Aitnar ngi shad, ha Aitnar ngi nguh,\nBan roi u symbai, ban koit ka kpoh!",
+      "english": "Banish sickness and affliction! At Aitnar pool we dance and pray, so seeds flourish and the community lives in health!"
+    }
+  ],
+  "vocabulary": {
+    "behdeinkhlam": "Driving away plague with sacred tree poles",
+    "aitnar": "The sacred muddy pool in Jowai where the climax ritual dance takes place",
+    "khlam": "Epidemic pestilence, plague, or widespread sickness",
+    "rot": "Large, intricately decorated multi-tiered paper and bamboo monument carried to Aitnar"
+  },
+  "word_count": 63
+}

@@ -117,6 +117,26 @@ from .books import (
     total_pages,
     total_words,
 )
+from .folklore import (
+    folklore,
+    FolkloreStory,
+    list_stories,
+    get_story,
+    search_folklore,
+    stories_by_category,
+    total_stories,
+    FolkloreManager,
+)
+from .songs import (
+    songs,
+    Song,
+    list_songs as list_structured_songs,
+    get_song as get_structured_song,
+    search_songs,
+    songs_by_category,
+    total_songs,
+    SongManager,
+)
 
 catalogue = BibliographyCatalogue()
 
@@ -222,4 +242,22 @@ __all__ = [
     "total_books",
     "total_pages",
     "total_words",
+    # Folklore Myths & Oral Legends
+    "folklore",
+    "FolkloreStory",
+    "list_stories",
+    "get_story",
+    "search_folklore",
+    "stories_by_category",
+    "total_stories",
+    "FolkloreManager",
+    # Traditional Songs, Ballads & Phawar
+    "songs",
+    "Song",
+    "list_structured_songs",
+    "get_structured_song",
+    "search_songs",
+    "songs_by_category",
+    "total_songs",
+    "SongManager",
 ]

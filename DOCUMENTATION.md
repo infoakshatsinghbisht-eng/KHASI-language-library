@@ -1,6 +1,6 @@
 # Khasi Language Library (Ka Ktien Khasi) — Complete API Documentation
 
-Comprehensive technical documentation for the `khasi` Python library (version 1.3.0).
+Comprehensive technical documentation for the `khasi` Python library (version 1.5.0).
 
 ---
 
@@ -324,3 +324,71 @@ Documented from authentic ethnographical records, customary court rolls, and nat
   - *Ka Aitnar* (Sacred pool in Jowai for Behdeiñkhlam mud dance)
   - *Krem Mawmluh* (Sacred cave sanctuary of subterranean springs)
   - *Lum Kyllang* (Colossal 300m single granite dome)
+
+---
+
+## 10. Khasi Oral Folklore, Myths & Legends (`khasi.folklore`)
+
+Provides structured access to 12 foundational Khasi oral myths, legends, fables, and cultural allegories (6,950+ words of authentic Khasi prose and poetry) with section narratives, character registries, moral tenets, and English translations.
+
+```python
+import khasi.folklore as kf
+
+# Statistical summary
+print(kf.folklore.summary())
+
+# Retrieve story
+story = kf.get_story("ka_jingkieng_ksier")
+print(story.title)               # The Golden Ladder & Genesis of the Seven Huts
+print(story.khasi_title)         # Ka Jingkieng Ksier bad Ki Hynñiew Trep
+print(story.geographic_origin)   # Lum Sohpetbneng (Ri-Bhoi)
+print(story.characters)          # ['Ki Hynñiew Trep', 'Ki Khyndai Trep', 'U Blei Nongbuh']
+print(story.cultural_moral)      # Sacred duty to earn righteousness through labor (Kamai ïa ka Hok)
+print(story.khasi_text)          # Full Khasi text
+print(story.english_translation) # Full English translation
+
+# Access narrative sections
+for sec in story.sections:
+    print(sec["title"], len(sec["khasi"]))
+
+# Universal search across all stories
+results = kf.search_folklore("u thlen")
+
+# Stories by category
+creation_tales = kf.stories_by_category("Creation Myth")
+```
+
+---
+
+## 11. Traditional Songs, Ballads & Phawar (`khasi.songs`)
+
+Provides direct access to 10 structured Khasi folk songs, chants, archery phawar, and literary song cycles (including H.W. Sten's celebrated 1979 classic *Ki Sur Na Ka Duitara Ksiar*).
+
+```python
+import khasi.songs as ks
+
+# Statistical summary
+print(ks.songs.summary())
+
+# Retrieve song
+lapalang = ks.get_song("ka_sur_u_sier_lapalang")
+print(lapalang.title)           # The Lament of the Stag
+print(lapalang.khasi_title)     # Ka Sur U Sier Lapalang
+print(lapalang.category)        # Folk Elegy & Ancestral Lament (Jamlu)
+print(lapalang.instruments)     # ['Maryngod (bowed fiddle)', 'Shyngwiang', 'Duitara']
+print(lapalang.lyrics_khasi)    # Complete Khasi song verses
+print(lapalang.lyrics_english)  # English poetic translation
+
+# Access stanzas
+for stanza in lapalang.stanzas:
+    print(f"Stanza {stanza['stanza_number']}: {stanza['title']}")
+    print(stanza["khasi"])
+    print(stanza["english"])
+
+# Search songs and chants
+results = ks.search_songs("duitara")
+
+# Filter by category
+archery_songs = ks.songs_by_category("Archery")
+```
+

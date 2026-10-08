@@ -1,0 +1,60 @@
+{
+  "id": "phawar_shad_suk_mynsiem",
+  "title": "Thanksgiving Festival Chants (Phawar Shad Suk Mynsiem)",
+  "khasi_title": "Ki Phawar Shad Suk Mynsiem",
+  "category": "Sacred Thanksgiving Dance & Ritual Chants",
+  "composer": "Khasi Seng Khasi Tradition",
+  "year": "Traditional (1911 Annual Revival)",
+  "cultural_context": "The annual thanksgiving spring dance celebration of the Khasi people held at Weiking Grounds in Shillong. Maidens dance gracefully in circles wearing silver crowns (pansngiat) and gold necklaces, while male warriors dance on the outer perimeter waving white whisks (symphiah) and swords (waitlam).",
+  "instruments": [
+    "Tangmuri (double reed pipe)",
+    "Ksing Shynrang (male drum)",
+    "Ksing Kynthei (female drum)",
+    "Nakra (kettle drum)",
+    "Kynshaw (brass cymbals)"
+  ],
+  "themes": [
+    "Spring renewal",
+    "Communal harmony",
+    "Thanksgiving to U Blei",
+    "Purity of maidens",
+    "Male guardianship"
+  ],
+  "lyrics_khasi": "Teng teng teng, ksing ka la sawa!\nRi lum Ri Khasi ka la kyndit!\nKa sngi ka la kiew ha Weiking,\nKi khun ki kti ki la mih seng!\n\nKa sngi kaba bhabriew, ka sngi kaba shai,\nKi khun ki kti ki la mih ban shad ha Lympung,\nU ksing u sawa, ka tangmuri ka rih,\nKa ksiar bad ka rupa ki phyrnai ha shadem,\nNgin nguh ïa U Blei Nongthaw ha ka shad kmen!\n\nRyngkat ka pansngiat ba thaba ksiar,\nKa jainsem dhara ba jop pyrthei!\nKi kynthei lui-lui ki shad mian-mian,\nKum ki angel ba hiar na bneng!\n\nKi samla shlur ba bat waitlam,\nRyngkat ka symphiah ba pynshad kham!\nKi da ia ka burom ka Kur ka Jait,\nKi ieng ha ka Hok ban ym ju lait!\n\nKhublei ko Blei U Nongbuh Nongthaw!\nBa me la ai ia ka suk ka sain!\nIa u kba u khaw ha ki lum ki them,\nIa ka roi ka par ha ka Hima baroh!",
+  "lyrics_english": "Boom, boom, resonant booms the great male drum!\nThe hills of the Khasi homeland awaken to life!\nThe morning sun has ascended over Weiking arena,\nThe children and clans assemble in sacred communion!\n\nThe glorious day has dawned, bright and pure,\nSons and daughters step forward to dance upon the sacred lympung,\nThe Ksing drums resound, the Tangmuri sounds its melodious horn,\nGold and silver breastplates shine upon radiant chests,\nWe bow before God the Creator in our dance of joy!\n\nCrowned with shimmering silver and golden pansngiat,\nDraped in prized silk dhara and muga robes!\nThe gentle maidens glide with downcast eyes in modest steps,\nResembling celestial spirits descending from the heavens!\n\nThe brave young men brandish their ancestral swords,\nSwinging the white yak whisks in protective arcs!\nShielding the sacred honor of the Clan and Matrilineage,\nStanding firm in Righteousness that shall never fail!\n\nThanksgiving unto Thee, O God, Supreme Creator and Sustainer!\nFor granting peace, health, and social concord!\nFor the golden harvest of paddy in hills and valleys,\nFor prosperity flourishing across every ancestral kingdom!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Sur Ksing bad Tangmuri (Drum and Pipe Call)",
+      "khasi": "Teng teng teng, ksing ka la sawa!\nRi lum Ri Khasi ka la kyndit!\nKa sngi ka la kiew ha Weiking,\nKi khun ki kti ki la mih seng!",
+      "english": "Boom, resonant sounds the drum! The Khasi mountains awake! The sun rises over Weiking, the youth assemble in communion!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Shad Kynthei (The Maiden's Inner Circle)",
+      "khasi": "Ryngkat ka pansngiat ba thaba ksiar,\nKa jainsem dhara ba jop pyrthei!\nKi kynthei lui-lui ki shad mian-mian,\nKum ki angel ba hiar na bneng!",
+      "english": "Adorned with glowing crowns, clad in golden dhara silk! The gentle maidens dance with delicate, modest footsteps like angels descending from heaven!"
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Shad Shynrang (The Warriors' Outer Circle)",
+      "khasi": "Ki samla shlur ba bat waitlam,\nRyngkat ka symphiah ba pynshad kham!\nKi da ia ka burom ka Kur ka Jait,\nKi ieng ha ka Hok ban ym ju lait!",
+      "english": "The brave youths bearing swords and whisks circle around! Guarding the sacred honor of clan and motherhood, anchored in everlasting righteousness!"
+    },
+    {
+      "stanza_number": 4,
+      "title": "Ka Jingnguh Blei (Prayer of Thanksgiving)",
+      "khasi": "Khublei ko Blei U Nongbuh Nongthaw!\nBa me la ai ia ka suk ka sain!\nIa u kba u khaw ha ki lum ki them,\nIa ka roi ka par ha ka Hima baroh!",
+      "english": "Thanks be to God the Creator and Sustainer! For bestowing peace and harvest, prosperity and health upon the entire realm!"
+    }
+  ],
+  "vocabulary": {
+    "pansngiat": "Sacred crown made of pure silver or gold worn by unmarried maidens",
+    "jainsem dhara": "Traditional ceremonial two-piece Khasi silk garment woven from mulberry silk",
+    "waitlam": "Two-handed curved indigenous ceremonial steel sword",
+    "symphiah": "Sacred white whisk carried by male dancers representing protection of maternal clan",
+    "lympung": "Open consecrated grassy dance square or ceremonial amphitheater",
+    "suk mynsiem": "Peace of soul, state of inner tranquility and spiritual contentment"
+  },
+  "word_count": 166
+}

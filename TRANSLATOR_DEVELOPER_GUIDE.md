@@ -13,14 +13,16 @@ The `khasi` library is a complete linguistic and computational standard library 
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        KHASI LANGUAGE LIBRARY                          │
 ├──────────────────────────┬─────────────────────────────────────────────┤
-│ 1. Trilingual Lexicon    │ 105,000+ Headwords (Khasi-English-Hindi)    │
+│ 1. Trilingual Lexicon    │ 105,296+ Headwords (Khasi-English-Hindi)    │
 │ 2. Morphology Engine     │ 300,000+ Derived Forms & Affix Analyzers    │
 │ 3. Dialectology Hub      │ 13,000+ Sub-Lexicons (Pnar, War, Bhoi, etc)│
 │ 4. Aligned MT Corpora    │ Bitext & TMX (Sentence-Aligned Benchmarks)  │
 │ 5. Whole Books Reader    │ 24 Complete Books (1,980+ Pages, 470k Words)│
-│ 6. Speech Audio Waveforms│ 252 Native 16kHz PCM WAV Audio Files        │
-│ 7. Syntax & Grammar      │ SVO Syntax, Declensions, Aspect/Tense       │
-│ 8. Cultural Ontology     │ Kinship, Clans, Sacred Sites, Rituals       │
+│ 6. Folklore & Legends    │ 12 Oral Myths, Section Texts & Translations │
+│ 7. Traditional Songs     │ 10 Songs, Archery Phawar & Ballad Cycles    │
+│ 8. Speech Audio Waveforms│ 252 Native 16kHz PCM WAV Audio Files        │
+│ 9. Syntax & Grammar      │ SVO Syntax, Declensions, Aspect/Tense       │
+│ 10. Cultural Ontology    │ Kinship, Clans, Sacred Sites, Rituals       │
 └──────────────────────────┴─────────────────────────────────────────────┘
 ```
 
@@ -345,6 +347,12 @@ Use `khasi.describe_matrilineal_system()` and `khasi.list_kinship_terms()` to pr
 | `khasi.books.get(id_or_title)` | `KhasiBook` | Full book reader object with all pages and chapters |
 | `khasi.books.read(id, page)` | `str` | Direct text retrieval of a specific book page |
 | `khasi.search_books(query)` | `list[dict]` | Cross-book full-text search across all 1,980+ pages |
+| `khasi.folklore.all()` | `list[dict]` | Summary catalogue of all 12 folklore oral legends |
+| `khasi.folklore.get(id_or_title)` | `FolkloreStory` | Full story with sections, moral, and translation |
+| `khasi.search_folklore(query)` | `list[dict]` | Cross-folklore search across Khasi & English |
+| `khasi.songs.all()` | `list[dict]` | Summary index of all 10 songs, phawar, and ballads |
+| `khasi.songs.get(id_or_title)` | `Song` | Full song object with stanzas, lyrics, and instruments |
+| `khasi.search_songs(query)` | `list[dict]` | Cross-song lyric search across Khasi & English |
 | `khasi.audio_dataset.get_item(id)` | `dict` | Audio record with transcription, translation, and path |
 | `khasi.get_khasi_prompt(task)` | `str` | Optimized system prompt for LLM translation grounding |
 

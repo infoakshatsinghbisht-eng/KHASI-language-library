@@ -1,0 +1,171 @@
+[
+  {
+    "id": "ka_jingkieng_ksier",
+    "title": "Ka Jingkieng Ksier (The Golden Ladder & Genesis of the Seven Huts)",
+    "khasi_title": "Ka Jingkieng Ksier bad Ka Thymmei U Hynniewtrep",
+    "category": "Creation Myth & Cosmology",
+    "geographic_origin": "Lum Sohpetbneng (Ri-Bhoi / Khasi Hills)",
+    "characters": [
+      "U Blei Nongbuh Nongthaw (The Creator)",
+      "Ki Khadhynriew Trep (The Sixteen Huts)",
+      "Ki Hynniewtrep (The Seven Huts)"
+    ],
+    "cultural_moral": "Humility, divine covenant of righteousness (Ka Hok), and humanity's sacred responsibility as stewards of Mother Earth (Ka Meiramew).",
+    "word_count": 736
+  },
+  {
+    "id": "u_diengiei",
+    "title": "U Diengiei (The Tree of Eclipsing Darkness)",
+    "khasi_title": "U Diengiei bad Ka Jingkha jong Ka Jingshai",
+    "category": "Cosmological Legend & Allegory",
+    "geographic_origin": "Lum Diengiei (East Khasi Hills)",
+    "characters": [
+      "U Diengiei (The Giant Tree)",
+      "U Khla (The Tiger Spirit)",
+      "U Sim Phreit (The Wren / Little Bird)",
+      "Ki Hynniewtrep (Khasi Elders)"
+    ],
+    "cultural_moral": "Perils of hubris and greed, the environmental triumph of collective cooperation, and the wisdom of the humble over brute force.",
+    "word_count": 871
+  },
+  {
+    "id": "u_sier_lapalang",
+    "title": "U Sier Lapalang (The Stately Stag and the Mother's Lament)",
+    "khasi_title": "U Sier Lapalang bad Ka Jinglynniar jong Ka Kmie",
+    "category": "Tragic Epic & Mother-Child Elegy",
+    "geographic_origin": "Ri Thor (Surma Plains) to Lum Shillong (East Khasi Hills)",
+    "characters": [
+      "U Sier Lapalang (The Young Stag)",
+      "Ka Kmie u Lapalang (The Mother Deer)",
+      "Ki Nongshongshnong Khasi (The Hill Hunters)"
+    ],
+    "cultural_moral": "Heed parental wisdom, beware the vanity of untested ambition, and honor maternal love which forms the basis of Khasi funeral dirges.",
+    "word_count": 828
+  },
+  {
+    "id": "u_manik_raitong",
+    "title": "U Manik Raitong (The Melodies of the Sharati & Tragic Love)",
+    "khasi_title": "U Manik Raitong bad Ka Sharati ba Sngewsih",
+    "category": "Romantic Tragedy & Musical Origin",
+    "geographic_origin": "Hima Sohra / Khasi Chieftaincy",
+    "characters": [
+      "U Manik Raitong (The Wretched Orphan Musician)",
+      "Ka Lieng Makaw (The Queen / Mahadei)",
+      "U Syiem (The King)"
+    ],
+    "cultural_moral": "The transcendent purity of artistic devotion and true love over caste, poverty, and sovereign decree.",
+    "word_count": 955
+  },
+  {
+    "id": "ka_nohkalikai",
+    "title": "Ka Nohkalikai (The Leap of Likai & Waterfall of Tears)",
+    "khasi_title": "Ka Parom jong Ka Nohkalikai",
+    "category": "Historical Folktale & Toponymic Legend",
+    "geographic_origin": "Rangjyrteh / Sohra (Cherrapunji)",
+    "characters": [
+      "Ka Likai (The Hardworking Mother)",
+      "U Tnga ba-ar (The Jealous Stepfather)",
+      "Ka Khunlung (The Innocent Infant)"
+    ],
+    "cultural_moral": "Warning against malice, cruelty, and domestic jealousy, while honoring maternal sacrifice.",
+    "word_count": 715
+  },
+  {
+    "id": "u_bsein_thlen",
+    "title": "U Bsein Thlen (The Monster Serpent and the Slaying at Dainthlen)",
+    "khasi_title": "U Bsein Thlen bad Ka Jingjop ha Dainthlen",
+    "category": "Heroic Myth & Cautionary Allegory",
+    "geographic_origin": "Dainthlen / Sohra (Cherrapunji)",
+    "characters": [
+      "U Thlen (The Man-Eating Serpent Demon)",
+      "U Suidnoh (The Heroic Hunter)",
+      "Ki Nongshongshnong (The Khasi Clan Assembly)"
+    ],
+    "cultural_moral": "Denunciation of illicit greed, human exploitation, and sacrificial cults, honoring courage and community vigilance.",
+    "word_count": 697
+  },
+  {
+    "id": "ka_sngi_bad_u_bnai",
+    "title": "Ka Sngi bad U Bnai (The Sun, the Moon & the Ash of Shame)",
+    "khasi_title": "Ka Sngi bad U Bnai ha Ka Pyrthei Barim",
+    "category": "Astronomy & Kinship Morality Myth",
+    "geographic_origin": "Khasi Celestial Lore",
+    "characters": [
+      "Ka Sngi (The Sun - Sister)",
+      "U Bnai (The Moon - Brother)",
+      "Ki Khlur (The Stars)"
+    ],
+    "cultural_moral": "Strict enforcement of clan exogamy (Tip-Kur Tip-Kha) and prohibition against incestuous transgressions (Ka Sang Ka Ma).",
+    "word_count": 434
+  },
+  {
+    "id": "u_klew_bad_ka_sngi",
+    "title": "U Klew bad Ka Sngi (The Peacock's Love for the Sun)",
+    "khasi_title": "U Klew bad Ka Sngi ha Ki Kper Bneng",
+    "category": "Romance & Natural Folktale",
+    "geographic_origin": "Ri Khasi Valleys",
+    "characters": [
+      "U Klew (The Peacock)",
+      "Ka Sngi (The Sun Deity)"
+    ],
+    "cultural_moral": "Unconditional devotion, unrequited spiritual yearning, and how pure love beautifies the soul.",
+    "word_count": 401
+  },
+  {
+    "id": "ka_wah_umiam_bad_umngot",
+    "title": "Ka Wah Umïam bad Ka Wah Umngot (The Twin Sister Rivers)",
+    "khasi_title": "Ka Parom jong Ka Wah Umïam bad Ka Wah Umngot",
+    "category": "Landscape Legend & River Lore",
+    "geographic_origin": "Shillong Plateau to Dawki / Sylhet",
+    "characters": [
+      "Ka Umïam (The Elder Sister / Weeping Waters)",
+      "Ka Umngot (The Younger Sister / Gentle Crystal Waters)"
+    ],
+    "cultural_moral": "Patience and grace triumph over reckless haste and pride.",
+    "word_count": 353
+  },
+  {
+    "id": "ka_krem_lamet_latang",
+    "title": "Ka Krem Lamet Latang (The Great Council Cave of Animals)",
+    "khasi_title": "Ka Dorbar Bah ha Krem Lamet Latang",
+    "category": "Fauna Lore & Council Legend",
+    "geographic_origin": "Krem Lamet Latang (Raid Nongkhlaw)",
+    "characters": [
+      "U Khla (The Tiger Chief)",
+      "U Sier (The Deer)",
+      "Ki Mrad ki Mreng (The Beasts of the Forest)"
+    ],
+    "cultural_moral": "Democratic covenant, sanctity of contracts (Ka Jutang), and animal coexistence.",
+    "word_count": 338
+  },
+  {
+    "id": "u_mawbynna_megaliths",
+    "title": "Ki Mawbynna bad Ki Mawlynti (The Sacred Megalithic Stones & Ancestral Spirits)",
+    "khasi_title": "Ki Mawbynna, Ki Maw Umkoi bad Ka Nam Kpa",
+    "category": "Megalithic Ancestor Lore",
+    "geographic_origin": "Nartiang / Sohra / Mawphlang",
+    "characters": [
+      "Ki Tymmen Mynbarim (The Ancestors)",
+      "U Kni (The Maternal Uncle)",
+      "Ka Kmie-Radha (The Great Mother)"
+    ],
+    "cultural_moral": "Deep reverence for ancestors (Tip-Kur Tip-Kha), matrilineal remembrance, and honoring the maternal uncles and fathers.",
+    "word_count": 266
+  },
+  {
+    "id": "ka_pansngiat_meiramew",
+    "title": "Ka Pansngiat Ksiar Ka Meiramew (The Golden Crown of Mother Earth & The Seasons)",
+    "khasi_title": "Ka Pansngiat Ksiar jong Ka Meiramew bad Ki Saw Aiom",
+    "category": "Ecological Myth & Seasonal Lore",
+    "geographic_origin": "Meghalaya Tablelands",
+    "characters": [
+      "Ka Meiramew (Mother Earth)",
+      "Ka Aiom Pyrem (Spring)",
+      "Ka Aiom Lyiur (Monsoon)",
+      "Ka Aiom Synrai (Autumn)",
+      "Ka Aiom Tlang (Winter)"
+    ],
+    "cultural_moral": "Harmony with nature's cyclic rhythms, gratitude for harvest, and protecting the sacred groves (Law Kyntang).",
+    "word_count": 357
+  }
+]
