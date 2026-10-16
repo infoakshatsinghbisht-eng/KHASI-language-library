@@ -1,6 +1,6 @@
 # Khasi Language Library (Ka Ktien Khasi) — Complete API Documentation
 
-Comprehensive technical documentation for the `khasi` Python library (version 1.10.0).
+Comprehensive technical documentation for the `khasi` Python library (version 1.11.0).
 
 ---
 
@@ -13,7 +13,7 @@ The root `khasi` package provides direct, high-level access to the most common o
 | Function | Signature | Description |
 |---|---|---|
 | `translate()` | `translate(text, source='auto', target='khasi', dialect='sohra')` | Translates English, Hindi, or Hinglish into Khasi with dialect adaptation. |
-| `lookup()` | `lookup(word: str)` | Looks up a word in the 400,000+ trilingual dictionary with prefix stripping fallback. |
+| `lookup()` | `lookup(word: str)` | Looks up a word in the 415,000+ trilingual dictionary with prefix stripping fallback. |
 | `search()` | `search(query: str)` | Searches for matching words across Khasi, English, and Hindi. |
 | `analyze()` | `analyze(word: str)` | Decomposes a word morphologically (lemma, POS, prefixes). |
 | `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (450,000+). |

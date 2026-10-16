@@ -1125,6 +1125,17 @@ PLANTS: List[Dict[str, Any]] = [
         "habitat": "Subtropical southern slopes and betel nut groves",
         "conservation": "Heritage cultivar"
 }
+    ,
+    {
+        "khasi_name": "Tit-tung",
+        "common_name": "Khasi Fermented Mountain Mushroom",
+        "scientific_name": "Termitomyces sp. / Russula sp.",
+        "family": "Russulaceae",
+        "type": "Wild Forest Fungi",
+        "cultural_use": "Culinary (delicacy wild mushroom gathered from sacred woods, sun-dried or smoked over hearth coals; cooked with black sesame)",
+        "habitat": "Damp humus floor of pine and oak forests",
+        "conservation": "Indigenous wild foraged mushroom"
+}
 ]
 
 def list_plants() -> List[Dict[str, Any]]:

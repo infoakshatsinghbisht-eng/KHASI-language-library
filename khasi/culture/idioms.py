@@ -298,6 +298,38 @@ IDIOMS: List[Dict[str, Any]] = [
         "meaning": "Masterful eloquence, classical rhetoric, and sophisticated traditional speech.",
         "hindi": "गंभीर और प्रभावशाली वक्तृत्व / उच्चकोटि की भाषा।"
 }
+    ,
+    {
+        "idiom": "Bam-khlem-tiar",
+        "type": "Ktien Kynnoh",
+        "literal": "Eating without tools / rushing in unprepared",
+        "meaning": "Acting rashly or entering an important enterprise without adequate forethought and tools.",
+        "hindi": "बिना तैयारी के काम शुरू करना / जल्दबाजी में कदम उठाना।"
+}
+    ,
+    {
+        "idiom": "Kren-sop-sop",
+        "type": "Ktien Kynnoh",
+        "literal": "Speaking concealed under cover",
+        "meaning": "Confidential deliberation / discreet whispered counsel between trusted clan elders.",
+        "hindi": "गोपनीय बातचीत / चुपचाप सलाह-मशविरा।"
+}
+    ,
+    {
+        "idiom": "Khyndew-shyiap",
+        "type": "Ktien Kynnoh",
+        "literal": "Earth and shifting sand",
+        "meaning": "The transitory, fleeting nature of mortal earthly possessions compared to righteousness.",
+        "hindi": "नश्वर संसार / क्षणभंगुर सांसारिक वस्तुएँ।"
+}
+    ,
+    {
+        "idiom": "Khlem-akor khlem-burom",
+        "type": "Ktien Kynnoh",
+        "literal": "Without etiquette and without honor",
+        "meaning": "Rude, ill-mannered, and disrespectful behavior that violates community standards.",
+        "hindi": "अशिष्ट और असभ्य आचरण / मर्यादाहीन।"
+}
 ]
 
 def list_idioms() -> List[Dict[str, Any]]:

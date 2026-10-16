@@ -1480,5 +1480,53 @@
     "english": "Have some betel nut to sweeten the conversation.",
     "hindi": "बातचीत को मधुर बनाने के लिए पान लीजिए।",
     "category": "hospitality"
+  },
+  {
+    "khasi": "Kumno ka sngi jong phi mynta?",
+    "english": "How is your day going today?",
+    "hindi": "आज आपका दिन कैसा बीत रहा है?",
+    "category": "greetings"
+  },
+  {
+    "khasi": "Katno dor kane ka mar ha iew?",
+    "english": "How much does this item cost in the market?",
+    "hindi": "बाजार में इस सामान की क्या कीमत है?",
+    "category": "marketplace"
+  },
+  {
+    "khasi": "Nga kwah ban thied kba bad dai tynrai.",
+    "english": "I want to purchase local rice and indigenous lentils.",
+    "hindi": "मैं स्थानीय चावल और दाल खरीदना चाहता हूँ।",
+    "category": "marketplace"
+  },
+  {
+    "khasi": "Da thik-na bha ban poi ha ka por ba biang.",
+    "english": "Make sure to arrive exactly on time.",
+    "hindi": "सही समय पर पहुँचना सुनिश्चित कीजिए।",
+    "category": "instruction"
+  },
+  {
+    "khasi": "Ka jingim kaba khuid ka wanrah ïa ka jingsuk.",
+    "english": "A pure life brings forth lasting peace.",
+    "hindi": "पवित्र जीवन ही सच्ची शांति लाता है।",
+    "category": "philosophy"
+  },
+  {
+    "khasi": "Ai ba ngin ïatrei lang na ka bynta ka ri.",
+    "english": "Let us work together for the welfare of the homeland.",
+    "hindi": "आइए हम अपनी मातृभूमि के लिए मिलकर काम करें।",
+    "category": "patriotism"
+  },
+  {
+    "khasi": "U Khasi u niewkor bha ïa ka burom.",
+    "english": "The Khasi people deeply value honor and self-respect.",
+    "hindi": "खासी समाज आत्मसम्मान और मर्यादा को बहुत महत्व देता है।",
+    "category": "cultural_pride"
+  },
+  {
+    "khasi": "Leit suk leit saiñ ha ka jingleit jong phi.",
+    "english": "Travel peacefully and safely on your journey.",
+    "hindi": "आपकी यात्रा सुखद और सुरक्षित हो।",
+    "category": "farewell"
   }
 ]

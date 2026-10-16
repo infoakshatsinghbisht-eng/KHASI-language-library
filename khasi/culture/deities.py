@@ -367,6 +367,50 @@ DEITIES: List[Dict[str, Any]] = [
         "manifestation": "Granite menhirs, sacred flat dolmen slabs (Mawkynthei).",
         "worship_form": "Erection of monoliths and sanctification libations."
 }
+    ,
+    {
+        "id": "lei_symper",
+        "name": "U Lei Symper",
+        "realm": "mountain_sovereign",
+        "title": "Mountain Deity of Lum Symper Peak",
+        "gender": "Masculine (U)",
+        "description": "Presides over the dramatic dome monolith of Lum Symper (near Weiloi and Maharam). In Khasi mythology, fought an epic legendary duel of stones and earth with U Lei Kyllang.",
+        "manifestation": "Massive granite dome ridge, mountain gales, echoing valleys.",
+        "worship_form": "Libation offerings and customary invocations at the base of Lum Symper."
+}
+    ,
+    {
+        "id": "blei_wah_umngi",
+        "name": "Ka Blei Wah Umngi",
+        "realm": "river_aquatic",
+        "title": "Sacred River Goddess of Wah Umngi",
+        "gender": "Feminine (Ka)",
+        "description": "The river deity presiding over the clear rushing waters of Wah Umngi. Revered by local anglers and riverside communities for sustaining aquatic life and enforcing ethical fishing covenants (taboo against poisoning waters).",
+        "manifestation": "Crystal boulder rapids, deep emerald pools, mountain mists.",
+        "worship_form": "Offering of betel leaves and thanksgiving prayers before seasonal fishing."
+}
+    ,
+    {
+        "id": "lei_syntu",
+        "name": "U Lei Syntu Ksiar",
+        "realm": "botanical_springs",
+        "title": "Guardian of Golden Blossoms & Highland Glades",
+        "gender": "Masculine (U)",
+        "description": "The pastoral and nature guardian residing in blooming meadows and sacred grove clearings where golden wild blossoms flourish in springtime.",
+        "manifestation": "High plateau floral glades, wild honeysuckle blooms.",
+        "worship_form": "Folk songs and spring flower offerings during seasonal festivals."
+}
+    ,
+    {
+        "id": "kmie_iew_mawlein",
+        "name": "Ka Kmie-Iew Mawlein",
+        "realm": "economic_market",
+        "title": "Patron Guardian Goddess of Traditional Markets",
+        "gender": "Feminine (Ka)",
+        "description": "The patron spirit presiding over traditional Khasi eight-day market circles (Iewbah, Iewduh, etc.). Invoked by traders and craftswomen for honest weights, peace among buyers and sellers, and commercial prosperity.",
+        "manifestation": "Market gathering stones, central bazaar squares.",
+        "worship_form": "First-fruit offerings on major market days (Sngi Iewduh)."
+}
 ]
 
 def list_deities() -> List[Dict[str, Any]]:

@@ -781,6 +781,50 @@ WILDLIFE: List[Dict[str, Any]] = [
         "habitat": "High sandstone gorge cliffs and forest canopies",
         "status": "Wild indigenous pollinator"
     }
+    ,
+    {
+        "khasi_name": "U Sier-lapalang",
+        "common_name": "Khasi Highland Stag (Folklore Archetype)",
+        "scientific_name": "Rusa unicolor khasiana",
+        "family": "Cervidae",
+        "class_type": "Mammal",
+        "cultural_significance": "Immortalized in the national epic lament of U Sier Lapalang, the adventurous stag from the plains who climbed into the Khasi hills and whose mother sang the primal death dirge.",
+        "habitat": "Montane grasslands and sacred forest borders",
+        "status": "Culturally sacred mountain mammal"
+}
+    ,
+    {
+        "khasi_name": "U Bsein-iong",
+        "common_name": "Greater Black Krait",
+        "scientific_name": "Bungarus niger",
+        "family": "Elapidae",
+        "class_type": "Reptile",
+        "cultural_significance": "Secretive nocturnal serpent of the moist forest floor; feared and respected in mountain folklore.",
+        "habitat": "Damp leaf litter in valley forests",
+        "status": "Native venomous elapid"
+}
+    ,
+    {
+        "khasi_name": "U Ksew-lum",
+        "common_name": "Indigenous Khasi Hound",
+        "scientific_name": "Canis lupus dingo / familiaris highland type",
+        "family": "Canidae",
+        "class_type": "Mammal",
+        "cultural_significance": "Faithful companion of Khasi hunters and village homesteads, known for keen tracking in dense bamboo groves.",
+        "habitat": "Highland villages and mountain trails",
+        "status": "Indigenous domestic landrace"
+}
+    ,
+    {
+        "khasi_name": "Ka Thylliej-ding",
+        "common_name": "Crimson Marsh Glider Dragonfly",
+        "scientific_name": "Trithemis aurora",
+        "family": "Libellulidae",
+        "class_type": "Insect",
+        "cultural_significance": "Named 'tongue of fire' for its brilliant crimson wings; hovers over mountain streams and terraced paddy fields.",
+        "habitat": "Streams, ponds, and wet meadows across Meghalaya",
+        "status": "Common native aquatic insect"
+}
 ]
 
 def list_wildlife() -> List[Dict[str, Any]]:

@@ -15,15 +15,15 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 
 ---
 
-## 🌟 Key Capabilities (Version 1.10.0 Milestone Expansion)
+## 🌟 Key Capabilities (Version 1.11.0 Milestone Expansion)
 
-- **📚 397 Digitized Classical Books (`khasi.books` / `khasi.culture.books`)**: 28,561 pages and over 7,612,737 words preserved from historical scans and Digital Library of India archives.
-- **📄 17 Downloaded Historical Book PDFs (`data/khasi_books/`)**: Preserved classical scans including *Ka Jingsneng Tymmen*, *Ka Phawar-rwai Khasi*, *Rwai Niam*, *Ka Tienrwai Khasi*, *U Kiang Nangbah*, *Ka Drama Biria U Sbe*, and *Ka Saim Kylliang Kyntien*.
+- **📚 421 Digitized Classical Books (`khasi.books` / `khasi.culture.books`)**: 32,245 pages and over 8,320,711 words preserved from historical scans and Digital Library of India archives.
+- **📄 26 Downloaded Historical Book PDFs (`data/khasi_books/`)**: Preserved classical scans including *Ka Jingsneng Tymmen*, *Ka Phawar-rwai Khasi*, *Rwai Niam*, *Ka Tienrwai Khasi*, *U Kiang Nangbah*, *Ka Drama Biria U Sbe*, *Ka Saim Kylliang Kyntien*, *Ka Thiar Ki Nongthoh*, *Phuit Ka Sabuit*, *Ka Tien Shuwa*, and *Nait O*.
 - **🎶 300 Traditional Songs & Phawar (`khasi.songs` / `khasi.culture.songs`)**: Complete lyrics, English translations, instrumentation, and cultural contexts across 58 genres.
-- **📖 400,000+ Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with morphological prefix tags, definitions, and citations across two balanced datasets (`words.json` and `words_corpus_v20.json`).
-- **⚡ 35 Indigenous Deities & Sacred Spirits (`khasi.culture.deities`)**: Complete pantheon of creator, celestial, mountain, river, gate, and guardian deities.
-- **🌿 111 Native Flora & 85 Fauna (`khasi.culture.botany` / `khasi.culture.wildlife`)**: Comprehensive biological and ethnobotanical database of Meghalaya.
-- **🧩 60 Traditional Riddles & 215 Colloquial Phrases (`khasi.riddles` / `khasi.phrases`)**: Everyday expressions, slangs, moral sayings, and ancient folk riddles (*Ki Kyntip*).
+- **📖 415,000+ Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with morphological prefix tags, definitions, and citations across partitioned datasets (`words.json`, `words_corpus_v20.json`, and `words_corpus_v21.json`).
+- **⚡ 39 Indigenous Deities & Sacred Spirits (`khasi.culture.deities`)**: Complete pantheon of creator, celestial, mountain, river, gate, market, and guardian deities.
+- **🌿 112 Native Flora & 89 Fauna (`khasi.culture.botany` / `khasi.culture.wildlife`)**: Comprehensive biological and ethnobotanical database of Meghalaya.
+- **🧩 66 Traditional Riddles & 223 Colloquial Phrases (`khasi.riddles` / `khasi.phrases`)**: Everyday expressions, marketplace bargaining, slangs, moral sayings, and ancient folk riddles (*Ki Kyntip*).
 - **🏛️ Khasi Oral Folklore, Myths & Legends (`khasi.folklore` / `khasi.culture.folklore`)**:
    - **12 foundational Khasi oral myths and legendary allegories** (over 6,950+ words of authentic Khasi prose and poetry):
      - *Ka Jingkieng Ksier* (The Sacred Golden Ladder & Genesis of the Seven Huts on Lum Sohpetbneng)
