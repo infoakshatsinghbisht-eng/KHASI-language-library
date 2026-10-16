@@ -22,8 +22,7 @@ class KhasiDictionary:
         self._load_data()
 
     def _load_data(self):
-        w_file = DATA_DIR / "words.json"
-        if w_file.exists():
+        for w_file in sorted(DATA_DIR.glob("words*.json")):
             with open(w_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
                 for item in data:

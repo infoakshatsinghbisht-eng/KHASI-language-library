@@ -730,6 +730,57 @@ WILDLIFE: List[Dict[str, Any]] = [
         "habitat": "Clear fast-flowing boulder streams of the Khasi & Jaintia Hills",
         "cultural_significance": "Indicator species of clean river ecosystems, gathered in traditional stone fish weirs."
     }
+    ,
+    {
+        "khasi_name": "U Shiriang",
+        "common_name": "Particolored Flying Squirrel",
+        "scientific_name": "Hylopetes alboniger",
+        "family": "Sciuridae",
+        "class_type": "Mammal",
+        "cultural_significance": "Celebrated in mountain folklore for leaping between giant canopy trees under the moonlit sky.",
+        "habitat": "Dense mixed evergreen forest canopies",
+        "status": "Protected indigenous species"
+    },
+    {
+        "khasi_name": "U Kseh",
+        "common_name": "Yellow-throated Marten",
+        "scientific_name": "Martes flavigula",
+        "family": "Mustelidae",
+        "class_type": "Mammal",
+        "cultural_significance": "Famous for agility and bold intelligence in high pine ridges.",
+        "habitat": "Highland pine and rhododendron woods",
+        "status": "Native mountain predator"
+    },
+    {
+        "khasi_name": "Ka Sim-pieng",
+        "common_name": "Common Hill Myna",
+        "scientific_name": "Gracula religiosa",
+        "family": "Sturnidae",
+        "class_type": "Bird",
+        "cultural_significance": "Renowned for its melodious ability to mimic human speech; prized in classical songs.",
+        "habitat": "Canopies of moist deciduous and subtropical foothills",
+        "status": "Schedule I Protected"
+    },
+    {
+        "khasi_name": "U Dkhoh",
+        "common_name": "Brown Wood Owl",
+        "scientific_name": "Strix leptogrammica",
+        "family": "Strigidae",
+        "class_type": "Bird",
+        "cultural_significance": "Revered as night sentinel of the forest; hooting marks quiet nocturnal reflection.",
+        "habitat": "Dense sacred groves and damp valley forests",
+        "status": "Native nocturnal bird"
+    },
+    {
+        "khasi_name": "Ka Ngap",
+        "common_name": "Himalayan Cliff Honeybee",
+        "scientific_name": "Apis laboriosa",
+        "family": "Apidae",
+        "class_type": "Insect",
+        "cultural_significance": "Builder of massive honeycomb combs on sheer sandstone cliffs of Sohra; producers of precious wild rock honey (Ngab-maw).",
+        "habitat": "High sandstone gorge cliffs and forest canopies",
+        "status": "Wild indigenous pollinator"
+    }
 ]
 
 def list_wildlife() -> List[Dict[str, Any]]:
@@ -749,7 +800,7 @@ def get_animal(name: str) -> Optional[Dict[str, Any]]:
 def by_class(class_type: str) -> List[Dict[str, Any]]:
     """Filter wildlife by class type (e.g., 'Mammal', 'Bird', 'Reptile', 'Amphibian', 'Fish', 'Insect')."""
     ct = class_type.lower().strip()
-    return [a for a in WILDLIFE if ct in a["class_type"].lower()]
+    return [a for a in WILDLIFE if ct in a.get("class_type", "").lower()]
 
 def search_wildlife(query: str) -> List[Dict[str, Any]]:
     """Search wildlife by keyword across all zoological fields."""

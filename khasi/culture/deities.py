@@ -301,6 +301,72 @@ DEITIES: List[Dict[str, Any]] = [
         "manifestation": "Golden paddy ears, abundance in the family granary.",
         "worship_form": "Kamai Ia Ka Hok prayers and honest hearth blessings."
     }
+    ,
+    {
+        "id": "lei_khyrdop",
+        "name": "Ka Lei Khyrdop / U Lei Khyrdop",
+        "realm": "territorial_boundary",
+        "title": "Guardian Deity of Gates, Passes & Mountain Gateways",
+        "gender": "Dual Manifestation (Ka / U)",
+        "description": "The territorial guardian spirit stationed at the fortified entry-gates (Khyrdop) of ancient Khasi states and mountain passes. Invoked by warriors and state sentinels before traveling or defending the frontier.",
+        "manifestation": "Rocky gateways, narrow gorges, ancient fortress stone portals.",
+        "worship_form": "Libation and archer invocations at the village borders."
+}
+    ,
+    {
+        "id": "lei_dingiei",
+        "name": "U Lei Lum Dingiei",
+        "realm": "mountain_mythological",
+        "title": "Guardian Spirit of Mount Dingiei",
+        "gender": "Masculine (U)",
+        "description": "Presides over Mount Dingiei, site of the cosmic tree Diengiei that once threatened to blot out the sun until felled by humankind with the guidance of the robin (Ka Phreit).",
+        "manifestation": "Dingiei peak, towering tree crowns, primeval mountain forests.",
+        "worship_form": "Traditional folk prayers commemorating human redemption and the victory of light."
+}
+    ,
+    {
+        "id": "blei_syntiew",
+        "name": "Ka Blei Syntiew",
+        "realm": "botanical_springs",
+        "title": "Goddess of Wild Orchids, Blossoms & Crystal Springs",
+        "gender": "Feminine (Ka)",
+        "description": "The gentle nature deity dwelling in forest glades filled with wild orchids (Tiew-doh-maw) and foaming crystal brooks. Embodies innocence, poetic inspiration, and botanical fertility.",
+        "manifestation": "Blooming mountain orchids, fern-fringed cascades.",
+        "worship_form": "Songs of gratitude during spring flower gatherings."
+}
+    ,
+    {
+        "id": "blei_sngi_divine",
+        "name": "Ka Blei Sngi",
+        "realm": "celestial_solar",
+        "title": "The Solar Goddess of Light & Warmth",
+        "gender": "Feminine (Ka)",
+        "description": "The benevolent Sun in Khasi mythology, revered as a feminine deity who brings life and illumination to Meiramew. In the sacred myth, she withdrew into the cave Krem Lamet Latang until U Syiar (the rooster) covenanted to herald the dawn with truth.",
+        "manifestation": "Golden sunlight, dawn rays over the eastern hills.",
+        "worship_form": "Morning prayers and thanksgiving invocations."
+}
+    ,
+    {
+        "id": "blei_kynrad",
+        "name": "U Blei Kynrad",
+        "realm": "celestial_supreme",
+        "title": "The Sovereign Master & Divine Lord",
+        "gender": "Universal Transcendent (U)",
+        "description": "The honorific designation of the Supreme God as Sovereign Ruler and Master of all living destinies. The title invokes divine protection and justice in customary council deliberations.",
+        "manifestation": "Divine authority, conscience, righteousness (Ka Hok).",
+        "worship_form": "Invocations in the Dorbar (councils) and oath ceremonies."
+}
+    ,
+    {
+        "id": "lei_mawlong",
+        "name": "U Lei Mawlong",
+        "realm": "megalithic_chthonic",
+        "title": "Guardian Deity of Sacred Monoliths & Living Rock",
+        "gender": "Masculine (U)",
+        "description": "The sacred spirit residing among ancient upright megaliths (Mawbynna) and dolmens. Guardians of clan treaties, ancestral covenants, and everlasting memory.",
+        "manifestation": "Granite menhirs, sacred flat dolmen slabs (Mawkynthei).",
+        "worship_form": "Erection of monoliths and sanctification libations."
+}
 ]
 
 def list_deities() -> List[Dict[str, Any]]:

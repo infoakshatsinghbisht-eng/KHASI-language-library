@@ -1426,5 +1426,59 @@
     "english": "Walk carefully on the fog-covered road.",
     "hindi": "कोहरे से ढकी सड़क पर ध्यान से चलें।",
     "audio_hint": "Da iaid suki ha surok ba dap da u lyoh."
+  },
+  {
+    "khasi": "Nga da sngewbha shisha ban ïashem bad phi.",
+    "english": "I am truly delighted to meet you.",
+    "hindi": "आपसे मिलकर मुझे बहुत खुशी हुई।",
+    "category": "social_etiquette"
+  },
+  {
+    "khasi": "Khublei shibun ïa ka jingiarap jong phi.",
+    "english": "Thank you very much for your kind help.",
+    "hindi": "आपकी सहायता के लिए बहुत-बहुत धन्यवाद।",
+    "category": "gratitude"
+  },
+  {
+    "khasi": "Ai ba U Blei un kyrkhu kyrdoh ïa phi.",
+    "english": "May God richly bless you.",
+    "hindi": "ईश्वर आप पर अपनी कृपा बनाए रखे।",
+    "category": "blessings"
+  },
+  {
+    "khasi": "Wat sngewkhia, kam don jingeh eiei.",
+    "english": "Do not worry; there is no problem at all.",
+    "hindi": "चिंता मत कीजिए, कोई बात नहीं है।",
+    "category": "reassurance"
+  },
+  {
+    "khasi": "Ngin sa ïashem biang lashai mynstep.",
+    "english": "We will see each other again tomorrow morning.",
+    "hindi": "हम कल सुबह फिर मिलेंगे।",
+    "category": "farewell"
+  },
+  {
+    "khasi": "Kren suki bad thik-pa-thik.",
+    "english": "Speak slowly and with clarity and accuracy.",
+    "hindi": "धीमे और स्पष्ट रूप से बोलिए।",
+    "category": "instruction"
+  },
+  {
+    "khasi": "Sngewbha wan bam ja bad ngi.",
+    "english": "Please come and share a meal with us.",
+    "hindi": "कृपया आइए और हमारे साथ भोजन कीजिए।",
+    "category": "hospitality"
+  },
+  {
+    "khasi": "Buh ka akor kaba bha ha shnong ha thaw.",
+    "english": "Maintain good manners and high decorum in the village community.",
+    "hindi": "समाज में अच्छा आचरण और मर्यादा बनाए रखिए।",
+    "category": "moral_advice"
+  },
+  {
+    "khasi": "Bam kwai ban sngewthiang ka shyntur.",
+    "english": "Have some betel nut to sweeten the conversation.",
+    "hindi": "बातचीत को मधुर बनाने के लिए पान लीजिए।",
+    "category": "hospitality"
   }
 ]

@@ -288,5 +288,45 @@
     "khasi": "Ka kmie ka shong ha pyrthei, ki khun ki kiew sha bneng da ka jingshai.",
     "english": "The mother sits on earth, while the children ascend to heaven with light.",
     "answer": "Ka Ding bad u Tdem (Fire and Smoke)"
+  },
+  {
+    "riddle": "Iei kaei kaba don shisien ka snep hynrei don bun phew tylli ki shying?",
+    "solution": "Ka Sohtrun (Pineapple / अनानास)",
+    "english_hint": "Single thick skin protecting dozens of eyes and fruit cells."
+  },
+  {
+    "riddle": "Haba don um ka ïap, haba ym don um ka im?",
+    "solution": "Ka Ding (Fire / आग)",
+    "english_hint": "Water extinguishes it immediately, but dry firewood gives it flourishing life."
+  },
+  {
+    "riddle": "Iei kaei ba kiew khlem kjat, ba pyntngen ïa ka pyrthei baroh kawei?",
+    "solution": "Ka Sngi (The Sun / सूर्य)",
+    "english_hint": "Ascends the eastern sky every morning without limbs and brings warmth to all living beings."
+  },
+  {
+    "riddle": "Iei kaei kaba heh haba phi shim noh, kaba rit haba phi thep biang?",
+    "solution": "Ka Thliew (A hole in the ground / गड्ढा)",
+    "english_hint": "The more earth you remove, the larger it becomes; fill it and it disappears."
+  },
+  {
+    "riddle": "Iei kaei kaba bam ïa ka met lajong ba kan shai ka kamra?",
+    "solution": "Ka Sharak (A Candle or oil lamp / मोमबत्ती)",
+    "english_hint": "Consumes its own wax and wick to illuminate the household."
+  },
+  {
+    "riddle": "Iei kaei kaba don kjat hynrei kam ïaid, kaba don skhor hynrei kam ïohsngew?",
+    "solution": "Ka Miej (A table / मेज़)",
+    "english_hint": "Stands firmly on four wooden legs but never moves by itself."
+  },
+  {
+    "riddle": "Iei kaei kaba pynsaw ïa ka shyntur khlem rong khlem paint?",
+    "solution": "U Kwai bad U Tympew (Betel nut and pan leaf / पान-सुपारी)",
+    "english_hint": "Traditional Khasi greeting chew that stains lips a vivid natural crimson."
+  },
+  {
+    "riddle": "Iei kaei kaba kynnah khlem shyntur, kaba pynkhih ïa baroh ki sla dieng?",
+    "solution": "Ka Lyer (The Mountain Wind / पवन)",
+    "english_hint": "Whistles through high mountain pine tops without a mouth."
   }
 ]

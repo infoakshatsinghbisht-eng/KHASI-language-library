@@ -1059,6 +1059,72 @@ PLANTS: List[Dict[str, Any]] = [
         "habitat": "Agricultural margins and garden beds",
         "conservation": "Widespread traditional green"
     }
+    ,
+    {
+        "khasi_name": "Jatira",
+        "common_name": "Wild Water Celery",
+        "scientific_name": "Oenanthe linearis",
+        "family": "Apiaceae",
+        "type": "Perennial Marsh Herb",
+        "cultural_use": "Culinary (fragrant edible green herb cooked with fish, pork, and local curries; aids digestion)",
+        "habitat": "Marshy river margins and wet rice fields across Khasi hills",
+        "conservation": "Locally abundant wild edible"
+}
+    ,
+    {
+        "khasi_name": "Sohlyngdkhur",
+        "common_name": "Wild Khasi Mulberry",
+        "scientific_name": "Morus indica",
+        "family": "Moraceae",
+        "type": "Small Deciduous Tree",
+        "cultural_use": "Sericulture & Culinary (leaves feed indigenous silkworms; sweet tart berries eaten fresh)",
+        "habitat": "Village homesteads and forest margins",
+        "conservation": "Traditional agroforestry species"
+}
+    ,
+    {
+        "khasi_name": "Dieng-soh-ot",
+        "common_name": "Sweet Wild Chestnut",
+        "scientific_name": "Castanopsis kurzii",
+        "family": "Fagaceae",
+        "type": "Evergreen Hardwood Tree",
+        "cultural_use": "Nuts gathered in autumn, roasted over hearth coals during winter evenings",
+        "habitat": "Upper pine-broadleaf transition forests",
+        "conservation": "Indigenous forest nut tree"
+}
+    ,
+    {
+        "khasi_name": "Tyrkhang-lieh",
+        "common_name": "Edible Fiddlehead Fern",
+        "scientific_name": "Diplazium esculentum",
+        "family": "Athyriaceae",
+        "type": "Tender Wild Fern",
+        "cultural_use": "Culinary (young tender fronds stir-fried with sesame or ginger as a delicacy)",
+        "habitat": "Shady moist ravines and stream valleys",
+        "conservation": "Abundant wild forest green"
+}
+    ,
+    {
+        "khasi_name": "Jashiem",
+        "common_name": "Wild Mint Herb",
+        "scientific_name": "Elsholtzia blanda",
+        "family": "Lamiaceae",
+        "type": "Aromatic Perennial Herb",
+        "cultural_use": "Aromatic spice herb added to meat stews; infusion used for colds and bronchial relief",
+        "habitat": "Hill slopes and clearing verges",
+        "conservation": "Common wild herb"
+}
+    ,
+    {
+        "khasi_name": "Kait-mon",
+        "common_name": "War-Khasi Sugar Banana",
+        "scientific_name": "Musa acuminata cultivar",
+        "family": "Musaceae",
+        "type": "Herbaceous Giant Plant",
+        "cultural_use": "Delicacy fruit cultivated on southern slopes of War Shella and Sohra; given as blessing fruit",
+        "habitat": "Subtropical southern slopes and betel nut groves",
+        "conservation": "Heritage cultivar"
+}
 ]
 
 def list_plants() -> List[Dict[str, Any]]:

@@ -266,6 +266,38 @@ IDIOMS: List[Dict[str, Any]] = [
         "usage": "Celebrates rustic hospitality across Khasi villages.",
         "category": "hospitality"
     }
+    ,
+    {
+        "idiom": "Kamai-ïa-ka-hok",
+        "type": "Ktien Kynnoh (Cosmic Mandate)",
+        "literal": "Earn righteousness / labor for moral integrity",
+        "meaning": "The primary purpose of human existence according to Khasi indigenous philosophy.",
+        "hindi": "सत्य और धर्म की कमाई करना / निष्कलंक जीवन जीना।"
+}
+    ,
+    {
+        "idiom": "Shong-kur shong-kha",
+        "type": "Ktien Kynnoh",
+        "literal": "Dwelling with clan and dwelling with marriage ties",
+        "meaning": "Living in harmonious balance between one's maternal matrilineage and marital family.",
+        "hindi": "मातृकुल और ससुराल के संबंधों में सामंजस्य।"
+}
+    ,
+    {
+        "idiom": "Buh-akor buh-burom",
+        "type": "Ktien Kynnoh",
+        "literal": "Upholding etiquette and preserving honor",
+        "meaning": "Living with exquisite manners, humility, and deep decorum towards elders and community.",
+        "hindi": "शिष्टाचार और मर्यादा का पालन करना।"
+}
+    ,
+    {
+        "idiom": "Ktien-kynjoh ktien-kphoh",
+        "type": "Ktien Kynnoh",
+        "literal": "Leaping words and profound oratorical turns",
+        "meaning": "Masterful eloquence, classical rhetoric, and sophisticated traditional speech.",
+        "hindi": "गंभीर और प्रभावशाली वक्तृत्व / उच्चकोटि की भाषा।"
+}
 ]
 
 def list_idioms() -> List[Dict[str, Any]]:
