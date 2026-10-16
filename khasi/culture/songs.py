@@ -168,8 +168,9 @@ def get_song(id_or_title: str) -> Optional[Song]:
     if not matched_entry:
         return None
 
-    # Load song JSON
-    song_file = _SONGS_DATA_DIR / matched_entry["file"]
+    # Load song JSON (handling both bare filename and relative path)
+    fname = Path(matched_entry["file"]).name
+    song_file = _SONGS_DATA_DIR / fname
     if not song_file.exists():
         return None
 

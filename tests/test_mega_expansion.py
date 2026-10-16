@@ -7,21 +7,21 @@ import khasi
 
 class TestMegaExpansion(unittest.TestCase):
 
-    def test_books_expansion_to_100(self):
-        """Verify digitized whole books have reached at least 100."""
-        self.assertGreaterEqual(khasi.total_books(), 100)
+    def test_books_expansion_to_300(self):
+        """Verify digitized whole books have reached at least 300."""
+        self.assertGreaterEqual(khasi.total_books(), 300)
         self.assertEqual(len(khasi.books), khasi.total_books())
-        self.assertGreater(khasi.total_pages(), 2800)
-        self.assertGreater(khasi.total_words(), 700000)
+        self.assertGreater(khasi.total_pages(), 18000)
+        self.assertGreater(khasi.total_words(), 5000000)
 
-    def test_songs_expansion_to_150(self):
-        """Verify songs collection has reached at least 150."""
-        self.assertGreaterEqual(khasi.total_songs(), 150)
+    def test_songs_expansion_to_300(self):
+        """Verify songs collection has reached at least 300."""
+        self.assertGreaterEqual(khasi.total_songs(), 300)
         from khasi.culture.songs import songs as song_mgr
         self.assertEqual(len(song_mgr), khasi.total_songs())
         summary = song_mgr.summary()
-        self.assertGreaterEqual(summary["total_songs"], 150)
-        self.assertGreaterEqual(summary["categories_count"], 25)
+        self.assertGreaterEqual(summary["total_songs"], 300)
+        self.assertGreaterEqual(summary["categories_count"], 40)
 
     def test_speech_audio_expansion_to_500(self):
         """Verify audio dataset has reached exactly 500 recordings and all are valid."""

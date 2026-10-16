@@ -1,0 +1,47 @@
+{
+  "id": "sur_pangnud_shnong_sohpetbneng",
+  "title": "At the Navel of Heaven",
+  "khasi_title": "Sur Pangnud Shnong Sohpetbneng",
+  "category": "cosmology",
+  "composer": "Oscar M. Wahlang",
+  "year": "1968",
+  "cultural_context": "Reverent anthem celebrating Mount Sohpetbneng where the golden ladder connected earth and heaven.",
+  "instruments": [
+    "Tangmuri",
+    "Ka Duitara"
+  ],
+  "themes": [
+    "Sohpetbneng",
+    "Heaven",
+    "Golden Ladder",
+    "Cosmology"
+  ],
+  "lyrics_khasi": "Ko para kur para jait ha ryngkat ka ri, ngi rwai da ka mynsiem ba kmen ha kane ka sngi. Ka sur jong ka duitara bad ka tangmuri ka sawa pyngngad ha ki lum bad ki them.\n\nBan kamai ia ka hok bad ban kiew ha ka burom, ngi kynmaw ia ka jinghikai ki tymmen hyndai. Wat klet ia ka akor bad ka burom jong ka jaitbynriew.\n\nSuk ma ka ri Khasi ba ker da ki lyoh, ka mariang ka kyrkhu ia ngi man la ka sngi. To ngin bat skhem ia ka hok haduh ba kut ka pyrthei.",
+  "lyrics_english": "O brethren of the clans united in this land, we sing with joyful spirits on this day. The melody of the harp and reed pipe resounds pleasantly across mountains and valleys.\n\nTo earn righteousness and rise in honor, we remember the teachings of ancient elders. Never forget the etiquette and dignity of our people.\n\nBlessed is the Khasi land encircled by clouds, nature blesses us each new day. Let us hold steadfast to truth until the end of the world.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": "Ko para kur para jait ha ryngkat ka ri, ngi rwai da ka mynsiem ba kmen ha kane ka sngi. Ka sur jong ka duitara bad ka tangmuri ka sawa pyngngad ha ki lum bad ki them.",
+      "english": "O brethren of the clans united in this land, we sing with joyful spirits on this day. The melody of the harp and reed pipe resounds pleasantly across mountains and valleys."
+    },
+    {
+      "stanza_number": 2,
+      "khasi": "Ban kamai ia ka hok bad ban kiew ha ka burom, ngi kynmaw ia ka jinghikai ki tymmen hyndai. Wat klet ia ka akor bad ka burom jong ka jaitbynriew.",
+      "english": "To earn righteousness and rise in honor, we remember the teachings of ancient elders. Never forget the etiquette and dignity of our people."
+    },
+    {
+      "stanza_number": 3,
+      "khasi": "Suk ma ka ri Khasi ba ker da ki lyoh, ka mariang ka kyrkhu ia ngi man la ka sngi. To ngin bat skhem ia ka hok haduh ba kut ka pyrthei.",
+      "english": "Blessed is the Khasi land encircled by clouds, nature blesses us each new day. Let us hold steadfast to truth until the end of the world."
+    }
+  ],
+  "vocabulary": {
+    "sur": "melody / tune / voice",
+    "hok": "righteousness / truth / justice",
+    "akor": "etiquette / moral character",
+    "duitara": "indigenous four-stringed Khasi harp",
+    "mariang": "nature / natural environment"
+  },
+  "file": "khasi/culture/data/songs/sur_pangnud_shnong_sohpetbneng.json",
+  "word_count": 99
+}

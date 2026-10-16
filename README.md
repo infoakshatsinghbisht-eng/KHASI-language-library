@@ -15,9 +15,12 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 
 ---
 
-## 🌟 Key Capabilities (Version 1.6.0 Milestone Expansion)
+## 🌟 Key Capabilities (Version 1.7.0 Milestone Expansion)
 
-1. **🏛️ Khasi Oral Folklore, Myths & Legends (`khasi.folklore` / `khasi.culture.folklore`)**:
+- **📚 304 Digitized Classical Books (`khasi.books` / `khasi.culture.books`)**: 18,281 pages and over 5,342,000 words preserved from historical scans.
+- **🎶 300 Traditional Songs & Phawar (`khasi.songs` / `khasi.culture.songs`)**: Complete lyrics, English translations, instrumentation, and cultural contexts across 58 genres.
+- **📖 197,593 Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with morphological prefix tags, definitions, and citations.
+- **🏛️ Khasi Oral Folklore, Myths & Legends (`khasi.folklore` / `khasi.culture.folklore`)**:
    - **12 foundational Khasi oral myths and legendary allegories** (over 6,950+ words of authentic Khasi prose and poetry):
      - *Ka Jingkieng Ksier* (The Sacred Golden Ladder & Genesis of the Seven Huts on Lum Sohpetbneng)
      - *U Diengiei* (The Tree of Eclipsing Darkness & Council of Lum Diengiei)
