@@ -15,13 +15,13 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 
 ---
 
-## 🌟 Key Capabilities (Version 1.8.0 Milestone Expansion)
+## 🌟 Key Capabilities (Version 1.9.0 Milestone Expansion)
 
-- **📚 340 Digitized Classical Books (`khasi.books` / `khasi.culture.books`)**: 21,787 pages and over 6,329,000 words preserved from historical scans.
+- **📚 370 Digitized Classical Books (`khasi.books` / `khasi.culture.books`)**: 25,722 pages and over 7,121,000 words preserved from historical scans and Digital Library of India archives.
 - **🎶 300 Traditional Songs & Phawar (`khasi.songs` / `khasi.culture.songs`)**: Complete lyrics, English translations, instrumentation, and cultural contexts across 58 genres.
-- **📖 336,000+ Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with morphological prefix tags, definitions, and citations.
-- **⚡ 25 Indigenous Deities & Sacred Spirits (`khasi.culture.deities`)**: Complete pantheon of creator, celestial, mountain, river, and guardian deities.
-- **🌿 100 Native Flora & 76 Fauna (`khasi.culture.botany` / `khasi.culture.wildlife`)**: Comprehensive biological and ethnobotanical database of Meghalaya.
+- **📖 384,000+ Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with morphological prefix tags, definitions, and citations.
+- **⚡ 29 Indigenous Deities & Sacred Spirits (`khasi.culture.deities`)**: Complete pantheon of creator, celestial, mountain, river, and guardian deities.
+- **🌿 105 Native Flora & 80 Fauna (`khasi.culture.botany` / `khasi.culture.wildlife`)**: Comprehensive biological and ethnobotanical database of Meghalaya.
 - **🏛️ Khasi Oral Folklore, Myths & Legends (`khasi.folklore` / `khasi.culture.folklore`)**:
    - **12 foundational Khasi oral myths and legendary allegories** (over 6,950+ words of authentic Khasi prose and poetry):
      - *Ka Jingkieng Ksier* (The Sacred Golden Ladder & Genesis of the Seven Huts on Lum Sohpetbneng)

@@ -693,6 +693,42 @@ WILDLIFE: List[Dict[str, Any]] = [
         "status": "Migratory Resident",
         "habitat": "Conifer and mixed oak-pine canopies",
         "cultural_significance": "Its fluting hollow call in April signals the arrival of spring rains and the time for clearing hill farms."
+    },
+    {
+        "khasi_name": "U Jalyeit",
+        "common_name": "Khasi Land Snail / Mollusk",
+        "scientific_name": "Macrochlamys sp.",
+        "class_type": "Mollusk",
+        "status": "Common",
+        "habitat": "Moist temperate oak-pine forest litter",
+        "cultural_significance": "Contrasted humorously with edible wild greens in folk anecdotes (Minimon Laloo) as a living soil dweller."
+    },
+    {
+        "khasi_name": "Ka Sim-pyllieng",
+        "common_name": "Spotted Dove",
+        "scientific_name": "Spilopelia chinensis",
+        "class_type": "Bird",
+        "status": "Least Concern",
+        "habitat": "Open woods, village farmland, sacred groves",
+        "cultural_significance": "Its gentle rhythmic cooing heralds peaceful autumn days and harvest season across the Khasi plateau."
+    },
+    {
+        "khasi_name": "U Kyllap",
+        "common_name": "Mountain Bamboo Partridge",
+        "scientific_name": "Bambusicola fytchii",
+        "class_type": "Bird",
+        "status": "Least Concern",
+        "habitat": "Dense hill bamboo brakes and steep valley slopes",
+        "cultural_significance": "Reclusive ground bird celebrated in mountain hunters' phawar and forest lore."
+    },
+    {
+        "khasi_name": "U Kha-koit",
+        "common_name": "Torrent Hill Stream Loach",
+        "scientific_name": "Schistura sikmaiensis",
+        "class_type": "Fish",
+        "status": "Native Stream Species",
+        "habitat": "Clear fast-flowing boulder streams of the Khasi & Jaintia Hills",
+        "cultural_significance": "Indicator species of clean river ecosystems, gathered in traditional stone fish weirs."
     }
 ]
 

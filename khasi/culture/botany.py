@@ -1008,6 +1008,56 @@ PLANTS: List[Dict[str, Any]] = [
         "cultural_use": "Sacred Ritual & Hospitality: Essential leaf chewed with kwai (areca nut) and lime; indispensable token of greeting and ancestral covenants",
         "habitat": "Warm subtropical southern slopes of Shella and Pynursla",
         "conservation": "Major cash crop"
+    },
+    {
+        "khasi_name": "Jamyrdoh",
+        "common_name": "Fish Mint / Chameleon Plant",
+        "scientific_name": "Houttuynia cordata",
+        "family": "Saururaceae",
+        "type": "Perennial Medicinal Herb",
+        "cultural_use": "Renowned antipyretic, digestive tonic, and antimicrobial herb eaten raw in salads and fish chutneys.",
+        "habitat": "Damp shady streambanks and home kitchen gardens",
+        "conservation": "Widely cultivated traditional medicinal plant"
+    },
+    {
+        "khasi_name": "Jatira",
+        "common_name": "Water Dropwort / Indian Celery",
+        "scientific_name": "Oenanthe javanica",
+        "family": "Apiaceae",
+        "type": "Wild Wetland Herb",
+        "cultural_use": "Blood purifier, anti-inflammatory, and traditional spring green gathered from mountain streams.",
+        "habitat": "Fast-flowing mountain runnels and wet terraces",
+        "conservation": "Abundant wild spring delicacy"
+    },
+    {
+        "khasi_name": "Jangew",
+        "common_name": "Hairy Bittercress",
+        "scientific_name": "Cardamine hirsuta",
+        "family": "Brassicaceae",
+        "type": "Wild Mountain Salad Green",
+        "cultural_use": "Digestive stimulant and nutrient-rich salad green eaten with jadoh; mentioned in Minimon Laloo's Biria.",
+        "habitat": "Terraced stream borders and wet farm soils",
+        "conservation": "Common wild edible"
+    },
+    {
+        "khasi_name": "Jatbang",
+        "common_name": "Khasi Knotweed",
+        "scientific_name": "Polygonum runcinatum",
+        "family": "Polygonaceae",
+        "type": "Wild Wetland Salad Leaf",
+        "cultural_use": "Aromatic cooling salad herb and folk remedy for stomach heat.",
+        "habitat": "Marshy upland meadows and river margins",
+        "conservation": "Native wild edible"
+    },
+    {
+        "khasi_name": "Jalynsher",
+        "common_name": "Common Chickweed",
+        "scientific_name": "Stellaria media",
+        "family": "Caryophyllaceae",
+        "type": "Winter Herb",
+        "cultural_use": "Soothing poultice for skin inflammation, diuretic, and tender vegetable in winter stews.",
+        "habitat": "Agricultural margins and garden beds",
+        "conservation": "Widespread traditional green"
     }
 ]
 

@@ -248,5 +248,45 @@
     "english": "Two brothers walking together, yet they never meet.",
     "answer": "Ki khmat / Ki kjat (The eyes / feet)",
     "category": "human"
+  },
+  {
+    "riddle": "Wan na them kynjah, kiew sha lum ba jrong khlem kjat khlem kti.",
+    "solution": "U Lyoh (Cloud / Fog / कोहरा)",
+    "english_hint": "Seen rising in Cherrapunjee gorges without feet or hands.",
+    "khasi": "Wan na them kynjah, kiew sha lum ba jrong khlem kjat khlem kti.",
+    "english": "Comes from the silent valley, ascends the high mountain without hands or feet.",
+    "answer": "U Lyoh (The Cloud / Fog)"
+  },
+  {
+    "riddle": "Shi kynhun ki shynrang ba kup tupia saw ha khlieh.",
+    "solution": "Ki Khnam Iasiat (Archery arrows with red feathers / तीर)",
+    "english_hint": "Flight of arrows in traditional archery tournament.",
+    "khasi": "Shi kynhun ki shynrang ba kup tupia saw ha khlieh.",
+    "english": "A company of warriors wearing red caps upon their heads.",
+    "answer": "Ki Khnam Iasiat (Archery Arrows)"
+  },
+  {
+    "riddle": "I kongrit i ba phong jainkup lieh, haba kynriah ka met ka shad pyllun.",
+    "solution": "Ka Pylleng (Egg / अंडा)",
+    "english_hint": "Sacred object in egg divination (Ka Shat Pylleng).",
+    "khasi": "I kongrit i ba phong jainkup lieh, haba kynriah ka met ka shad pyllun.",
+    "english": "A small maiden robed in a white mantle, rolling round when moving.",
+    "answer": "Ka Pylleng (The Sacred Egg)"
+  },
+  {
+    "riddle": "I kpa i ba shong ha khmat iing, haba wan u nongwei i pdiang da kaba kynshew ktien.",
+    "solution": "Ka Ksew (The Watchdog / कुत्ता)",
+    "english_hint": "Guardian of the traditional courtyard and hearth.",
+    "khasi": "I kpa i ba shong ha khmat iing, haba wan u nongwei i pdiang da kaba kynshew ktien.",
+    "english": "Father sitting in front of the house, greeting strangers with loud voice.",
+    "answer": "Ka Ksew (The Watchdog)"
+  },
+  {
+    "riddle": "Ka kmie ka shong ha pyrthei, ki khun ki kiew sha bneng da ka jingshai.",
+    "solution": "Ka Ding bad u Tdem (Fire and Smoke / आग और धुआँ)",
+    "english_hint": "Found in every traditional stone hearth (ka dpei).",
+    "khasi": "Ka kmie ka shong ha pyrthei, ki khun ki kiew sha bneng da ka jingshai.",
+    "english": "The mother sits on earth, while the children ascend to heaven with light.",
+    "answer": "Ka Ding bad u Tdem (Fire and Smoke)"
   }
 ]

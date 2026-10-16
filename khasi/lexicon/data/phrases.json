@@ -1391,5 +1391,40 @@
     "english": "Thank you very much for your cooperation!",
     "hindi": "आपके सहयोग के लिए बहुत-बहुत धन्यवाद!",
     "category": "gratitude"
+  },
+  {
+    "category": "conversation",
+    "khasi": "Ngan sa wan kai pat lashai.",
+    "english": "I will come visit again tomorrow.",
+    "hindi": "मैं कल फिर मिलने आऊँगा।",
+    "audio_hint": "Ngan sa wan kai pat lashai."
+  },
+  {
+    "category": "dining",
+    "khasi": "Ai sngewbha sa shi pliang u ja bad ka doh-shet.",
+    "english": "Please give another plate of rice and boiled meat.",
+    "hindi": "कृपया एक प्लेट चावल और उबला मांस और दें।",
+    "audio_hint": "Ai sngewbha sa shi pliang u ja bad ka doh-shet."
+  },
+  {
+    "category": "market",
+    "khasi": "Kato ka khoh-iew ka shong dor katno?",
+    "english": "How much does that market basket cost?",
+    "hindi": "उस बाज़ार की टोकरी की कीमत कितनी है?",
+    "audio_hint": "Kato ka khoh-iew ka shong dor katno?"
+  },
+  {
+    "category": "wisdom",
+    "khasi": "Ka akor ka burom ka long ka spah ba khraw tam.",
+    "english": "Good character and respect are the greatest wealth.",
+    "hindi": "सदाचार और सम्मान ही सबसे बड़ा धन है।",
+    "audio_hint": "Ka akor ka burom ka long ka spah ba khraw tam."
+  },
+  {
+    "category": "travel",
+    "khasi": "Da iaid suki ha surok ba dap da u lyoh.",
+    "english": "Walk carefully on the fog-covered road.",
+    "hindi": "कोहरे से ढकी सड़क पर ध्यान से चलें।",
+    "audio_hint": "Da iaid suki ha surok ba dap da u lyoh."
   }
 ]

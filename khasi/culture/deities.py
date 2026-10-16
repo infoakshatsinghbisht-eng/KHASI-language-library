@@ -260,6 +260,46 @@ DEITIES: List[Dict[str, Any]] = [
         "description": "The intrinsic spiritual aura and personal power granted by God to every human being. When a person lives righteously (Hok), their Rngiew shines brilliantly (Ksan Rngiew); when they commit sin or deceit, their Rngiew diminishes (Rem Rngiew).",
         "manifestation": "Moral courage, personal dignity, spiritual presence, charismatic leadership.",
         "worship_form": "Chants of Phawar Ksan Rngiew and ceremonial blessings by maternal uncles."
+    },
+    {
+        "id": "ka_lei_umiam",
+        "name": "Ka Lei Umïam",
+        "realm": "aquatic_sacred",
+        "title": "Goddess of the Umiam Waters & Weeping Lake",
+        "gender": "Feminine (Ka)",
+        "description": "The river deity born of the tears of the sorrowful sister who wept upon reaching the plains of Ri Bhoi, sanctified in foundational folk myth.",
+        "manifestation": "Umiam river gorge, emerald waters, river mist.",
+        "worship_form": "Traditional river libations and harvest prayers."
+    },
+    {
+        "id": "u_lei_shillong",
+        "name": "U Lei Shillong",
+        "realm": "mountain_sovereign",
+        "title": "Sovereign Mountain Protector of Shillong Peak",
+        "gender": "Masculine (U)",
+        "description": "The revered territorial deity guarding Lum Shillong, invoked by the royal Syiemships of Mylliem and Khyrim.",
+        "manifestation": "Shillong peak crest, sacred stone altar, pine groves.",
+        "worship_form": "State Pomblang goat sacrifice and royal blessings."
+    },
+    {
+        "id": "u_lei_biskorom",
+        "name": "U Lei Biskorom",
+        "realm": "terrestrial_nature",
+        "title": "Patron Spirit of Metallurgy, Blacksmiths & Craft",
+        "gender": "Masculine (U)",
+        "description": "Indigenous spirit of smithcraft, smelting, and toolmaking revered by Khasi artisans across ancient iron-smelting centers.",
+        "manifestation": "Forge fires, anvils, sharpened blades (Waitlam).",
+        "worship_form": "Traditional forge invocations and tool consecration."
+    },
+    {
+        "id": "ka_lei_longspah",
+        "name": "Ka Lei Longspah",
+        "realm": "wealth_providence",
+        "title": "Goddess of Abundance & Righteous Wealth",
+        "gender": "Feminine (Ka)",
+        "description": "The divine custodian of honest wealth and hearth prosperity granted only to those who live by righteous labor (Kamai ia ka hok).",
+        "manifestation": "Golden paddy ears, abundance in the family granary.",
+        "worship_form": "Kamai Ia Ka Hok prayers and honest hearth blessings."
     }
 ]
 

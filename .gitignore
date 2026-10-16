@@ -35,3 +35,4 @@ Thumbs.db
 *_dict.txt
 book_*.txt
 downloaded_raw/
+data/khasi_books/*.pdf

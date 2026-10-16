@@ -244,6 +244,27 @@ IDIOMS: List[Dict[str, Any]] = [
         "literal": "The blacksmith's hearth of knowledge",
         "meaning": "A venerable center of learning, rigorous debate, and philosophical inquiry.",
         "hindi": "ज्ञान और विचार-विमर्श की तपोभूमि / कार्यशाला।"
+    },
+    {
+        "idiom": "Ka ngap kaba thing",
+        "literal": "The bee that stings silently",
+        "meaning": "Deep and focused contemplation; concentrated inner thought.",
+        "usage": "Used in traditional lore for a quiet person with profound wisdom.",
+        "category": "character"
+    },
+    {
+        "idiom": "Khohwah kur-kur khmat kmur-kmur",
+        "literal": "Sturdy hill calves and sparkling bright eyes",
+        "meaning": "Vibrant health, agility, and youthful mountain vigor.",
+        "usage": "Folk admiration for hardworking mountain youth (Kumta Nga Rwai).",
+        "category": "vigor"
+    },
+    {
+        "idiom": "Tungtap dung, tungtap bam",
+        "literal": "Pounding fermented fish to share the feast",
+        "meaning": "Communal solidarity, sharing humble meals with pure joy.",
+        "usage": "Celebrates rustic hospitality across Khasi villages.",
+        "category": "hospitality"
     }
 ]
 
@@ -262,4 +283,4 @@ def get_idiom(query: str) -> Optional[Dict[str, Any]]:
 def by_category(cat: str) -> List[Dict[str, Any]]:
     """Filter idioms by category or type."""
     c = cat.lower().strip()
-    return [i for i in IDIOMS if c in i.get("type", "").lower()]
+    return [i for i in IDIOMS if c in i.get("type", "").lower() or c in i.get("category", "").lower()]

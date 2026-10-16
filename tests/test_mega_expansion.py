@@ -8,11 +8,11 @@ import khasi
 class TestMegaExpansion(unittest.TestCase):
 
     def test_books_expansion_to_300(self):
-        """Verify digitized whole books have reached at least 340."""
-        self.assertGreaterEqual(khasi.total_books(), 340)
+        """Verify digitized whole books have reached at least 370."""
+        self.assertGreaterEqual(khasi.total_books(), 370)
         self.assertEqual(len(khasi.books), khasi.total_books())
-        self.assertGreater(khasi.total_pages(), 21000)
-        self.assertGreater(khasi.total_words(), 6000000)
+        self.assertGreater(khasi.total_pages(), 25000)
+        self.assertGreater(khasi.total_words(), 7000000)
 
     def test_songs_expansion_to_300(self):
         """Verify songs collection has reached at least 300."""
@@ -73,9 +73,9 @@ class TestMegaExpansion(unittest.TestCase):
         self.assertGreaterEqual(len(females), 15)
 
     def test_botany_flora_expansion(self):
-        """Verify botanical database contains 100 species."""
+        """Verify botanical database contains 105 species."""
         plants = khasi.list_plants()
-        self.assertGreaterEqual(len(plants), 100)
+        self.assertGreaterEqual(len(plants), 105)
         self.assertEqual(khasi.total_plants(), len(plants))
 
         pitcher = khasi.get_plant("Nepenthes khasiana")
@@ -88,9 +88,9 @@ class TestMegaExpansion(unittest.TestCase):
         self.assertGreaterEqual(len(meds), 15)
 
     def test_wildlife_fauna_expansion(self):
-        """Verify wildlife zoological database contains over 75 species."""
+        """Verify wildlife zoological database contains 80 species."""
         wildlife = khasi.list_wildlife()
-        self.assertGreaterEqual(len(wildlife), 75)
+        self.assertGreaterEqual(len(wildlife), 80)
         self.assertEqual(khasi.total_wildlife(), len(wildlife))
 
         clouded = khasi.get_animal("khla-lyngngoh")
@@ -106,16 +106,16 @@ class TestMegaExpansion(unittest.TestCase):
         self.assertEqual(mahseer["class_type"], "Fish")
 
     def test_deities_and_culture(self):
-        """Verify traditional deities count reaches 25 and idioms reach 34."""
-        self.assertGreaterEqual(len(khasi.culture.deities.DEITIES), 25)
-        self.assertGreaterEqual(len(khasi.culture.idioms.IDIOMS), 34)
+        """Verify traditional deities count reaches 29 and idioms reach 37."""
+        self.assertGreaterEqual(len(khasi.culture.deities.DEITIES), 29)
+        self.assertGreaterEqual(len(khasi.culture.idioms.IDIOMS), 37)
 
     def test_lexicon_mega_wordbase(self):
-        """Verify massive headword dictionary reaches over 336,000 entries."""
+        """Verify massive headword dictionary reaches over 384,000 entries."""
         kd = khasi.KhasiDictionary()
-        self.assertGreaterEqual(len(kd.all_words()), 336000)
-        self.assertGreaterEqual(len(kd.all_phrases()), 200)
-        self.assertGreaterEqual(len(kd.all_riddles()), 45)
+        self.assertGreaterEqual(len(kd.all_words()), 384000)
+        self.assertGreaterEqual(len(kd.all_phrases()), 205)
+        self.assertGreaterEqual(len(kd.all_riddles()), 50)
 
 if __name__ == "__main__":
     unittest.main()
