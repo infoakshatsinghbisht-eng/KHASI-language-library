@@ -1,0 +1,79 @@
+{
+  "id": "ka_jingthrang_jong_ngi_wahlang",
+  "title": "Our Sacred Aspiration (Ka Jingthrang Jong Ngi)",
+  "khasi_title": "Ka Jingthrang Jong Ngi",
+  "category": "Highland Youth Anthem",
+  "composer": "D. N. S. Wahlang",
+  "year": 1964,
+  "cultural_context": "Inspirational anthem expressing the high intellectual, moral, and cultural aspirations of young Khasi scholars, from 'Ki Khasi Poems'.",
+  "instruments": [
+    "Duitara",
+    "Tangmuri",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Youth",
+    "Education & Enlightenment",
+    "Righteous Ambition",
+    "Nation Building"
+  ],
+  "lyrics_khasi": "Ka jingthrang jong ngi ka kiew sha bneng,\nBan wad ia ka stad ba shisha;\nBan pynphriang ia ka jingshai ha ka ri,\nBan beh noh ia ka jingdum baroh;\nNgi long ki samla ba don ka jingkyrmen,\nBa bat ia ka burom jong u Hynniewtrep;\nHa ki skul, ha ki khet, ha ki madan,\nNgin ieng ban trei na ka bynta ka ri.\n\nKhlem ka jingtieng, khlem ka jingshepteng,\nNgin kiew ia ki riat bad ki lum;\nKa ktien jong ngi kan don ka bor\nBan ring ia ka jingsuk ba pura;\nU Blei Uba Donbor Un kyrkhu ia ngi,\nUn pynskhem ia la ka kti;\nHaduh ba ka ri Khasi kan kiew\nHa ka nam bad ka spah ba shisha.",
+  "lyrics_english": "Our aspiration ascends unto the sky,\nTo seek out true enlightenment and knowledge;\nTo diffuse radiant light across the land,\nTo banish completely all ignorance and darkness;\nWe are the youths anchored in high hope,\nHolding high the honor of the Seven Huts;\nIn classrooms, in halls of state, on open fields,\nWe shall labor for the welfare of our country.\n\nWithout fear, without hesitation or dread,\nWe shall climb the sheer crags and peaks;\nOur mother tongue shall possess the power\nTo usher in lasting, untroubled peace;\nAlmighty God shall shower His blessings upon us,\nHe shall strengthen our hands for the task;\nUntil our beloved Khasi land ascends\nIn true renown and genuine spiritual riches.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka jingthrang jong ngi ka kiew sha bneng,",
+        "Ban wad ia ka stad ba shisha;",
+        "Ban pynphriang ia ka jingshai ha ka ri,",
+        "Ban beh noh ia ka jingdum baroh;",
+        "Ngi long ki samla ba don ka jingkyrmen,",
+        "Ba bat ia ka burom jong u Hynniewtrep;",
+        "Ha ki skul, ha ki khet, ha ki madan,",
+        "Ngin ieng ban trei na ka bynta ka ri."
+      ],
+      "english": [
+        "Our aspiration ascends unto the sky,",
+        "To seek out true enlightenment and knowledge;",
+        "To diffuse radiant light across the land,",
+        "To banish completely all ignorance and darkness;",
+        "We are the youths anchored in high hope,",
+        "Holding high the honor of the Seven Huts;",
+        "In classrooms, in halls of state, on open fields,",
+        "We shall labor for the welfare of our country."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Khlem ka jingtieng, khlem ka jingshepteng,",
+        "Ngin kiew ia ki riat bad ki lum;",
+        "Ka ktien jong ngi kan don ka bor",
+        "Ban ring ia ka jingsuk ba pura;",
+        "U Blei Uba Donbor Un kyrkhu ia ngi,",
+        "Un pynskhem ia la ka kti;",
+        "Haduh ba ka ri Khasi kan kiew",
+        "Ha ka nam bad ka spah ba shisha."
+      ],
+      "english": [
+        "Without fear, without hesitation or dread,",
+        "We shall climb the sheer crags and peaks;",
+        "Our mother tongue shall possess the power",
+        "To usher in lasting, untroubled peace;",
+        "Almighty God shall shower His blessings upon us,",
+        "He shall strengthen our hands for the task;",
+        "Until our beloved Khasi land ascends",
+        "In true renown and genuine spiritual riches."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jingthrang": "deep aspiration / longing / noble yearning",
+    "stad": "wisdom / learning / education",
+    "jingkyrmen": "hope / expectation",
+    "kyrkhu": "bless / bestow grace upon",
+    "riat": "precipice / rocky crag"
+  },
+  "word_count": 122
+}

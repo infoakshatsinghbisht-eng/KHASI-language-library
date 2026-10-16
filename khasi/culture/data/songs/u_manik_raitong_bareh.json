@@ -1,0 +1,78 @@
+{
+  "id": "u_manik_raitong_bareh",
+  "title": "Manik Raitong's Flute (U Manik Raitong)",
+  "khasi_title": "U Manik Raitong",
+  "category": "Tragic Ballad & Flute Song",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "The legend of Manik Raitong, the orphaned bard who invented the Sharati flute and leaped into the funeral pyre playing his final lament.",
+  "instruments": [
+    "Sharati",
+    "Duitara",
+    "Ksing"
+  ],
+  "themes": [
+    "Sharati Bamboo Flute",
+    "Orphan Bard",
+    "Tragic Love",
+    "Immortality of Music"
+  ],
+  "lyrics_khasi": "Ha miet ba kynjah jar,\nU Manik u kynud,\nKa sharati jong u\nKa pynsniew ki lyoh;\nSur pangnud ba shoh dohnud\nKa sawa ha ki them,\nKa Mahadei ka sngap\nNa la ka ling-syiem.\n\nKhlem khuslai ia ka jingiap,\nU buh la ka sharati,\nHa thlen ka ding ba meh\nU kiew khlem da shepteng;\nU rwai haduh ba kut\nSur ba im ha la ka ri,\nBa pynsah nam u Manik\nU nongrwai ba shisha.",
+  "lyrics_english": "In the deep silent night,\nManik softly piped,\nHis bamboo Sharati flute\nPiercing through the mist;\nA lament so heartbreaking\nEchoing across valleys,\nThe Queen stood listening\nFrom within the royal palace.\n\nWithout fear of impending death,\nHe held his sacred flute,\nOnto the flaming pyre\nHe stepped without trembling;\nSinging until the very end\nA tune immortal in our land,\nPreserving forever Manik's name,\nThe truest minstrel of our people.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha miet ba kynjah jar,",
+        "U Manik u kynud,",
+        "Ka sharati jong u",
+        "Ka pynsniew ki lyoh;",
+        "Sur pangnud ba shoh dohnud",
+        "Ka sawa ha ki them,",
+        "Ka Mahadei ka sngap",
+        "Na la ka ling-syiem."
+      ],
+      "english": [
+        "In the deep silent night,",
+        "Manik softly piped,",
+        "His bamboo Sharati flute",
+        "Piercing through the mist;",
+        "A lament so heartbreaking",
+        "Echoing across valleys,",
+        "The Queen stood listening",
+        "From within the royal palace."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Khlem khuslai ia ka jingiap,",
+        "U buh la ka sharati,",
+        "Ha thlen ka ding ba meh",
+        "U kiew khlem da shepteng;",
+        "U rwai haduh ba kut",
+        "Sur ba im ha la ka ri,",
+        "Ba pynsah nam u Manik",
+        "U nongrwai ba shisha."
+      ],
+      "english": [
+        "Without fear of impending death,",
+        "He held his sacred flute,",
+        "Onto the flaming pyre",
+        "He stepped without trembling;",
+        "Singing until the very end",
+        "A tune immortal in our land,",
+        "Preserving forever Manik's name,",
+        "The truest minstrel of our people."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "raitong": "destitute / orphan / wretched",
+    "sharati": "traditional bamboo flute of mourning and royalty",
+    "mahadei": "queen / royal consort",
+    "ding": "fire / flame",
+    "kynud": "hum / play softly / chant"
+  },
+  "word_count": 77
+}

@@ -1,0 +1,60 @@
+{
+  "id": "rwai_kumta_nga_rwai_mawrie",
+  "title": "Kumta Nga Rwai (Thus I Sing to My Motherland)",
+  "khasi_title": "Kumta Nga Rwai",
+  "category": "ballad_and_heritage",
+  "composer": "H. Onderson Mawrie",
+  "year": 1977,
+  "origin": "Khasi Hills",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing",
+    "Ka Tangmuri"
+  ],
+  "themes": [
+    "Love of Ri Khasi",
+    "Ancestral Virtue",
+    "Song of Devotion"
+  ],
+  "cultural_context": "Reflective patriotic ballad expressing an elder bard's profound reverence and devotion to the pine-clad hills of the Seven Huts.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Kumta nga rwai ia ka ri baieit,",
+        "Ha ki lum ba phyrnai bad ki them ba jyrngam,",
+        "Ka mynsiem ka sngewthuh ia ka jinglong tynrai,",
+        "Ba U Blei u la pynneh ha ri Hynniewtrep."
+      ],
+      "english": [
+        "Thus I sing unto my beloved land,",
+        "Across radiant hills and evergreen vales,",
+        "The spirit perceives the primordial essence,",
+        "Which God hath established in the land of the Seven Huts."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kynmaw ia ka burom ki kpa tymmen,",
+        "Wat pynsngewsih ia ka ktien u barim,",
+        "Pynneh ia ka akor ha man ki jingtrei,",
+        "Haduh ban da kiew ka sngi ba thoh ksiar."
+      ],
+      "english": [
+        "Remember the noble honor of our ancient fathers,",
+        "Grieve not the sacred speech of olden days,",
+        "Uphold refined decorum in every labor,",
+        "Until the golden-inscribed dawn arises."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jinglong-tynrai": "indigenous essence / primordial nature",
+    "sngi-thoh-ksiar": "golden written dawn / era of enlightenment"
+  },
+  "file": "rwai_kumta_nga_rwai_mawrie.json",
+  "lyrics_khasi": "Kumta nga rwai ia ka ri baieit,\nHa ki lum ba phyrnai bad ki them ba jyrngam,\nKa mynsiem ka sngewthuh ia ka jinglong tynrai,\nBa U Blei u la pynneh ha ri Hynniewtrep.\nKynmaw ia ka burom ki kpa tymmen,\nWat pynsngewsih ia ka ktien u barim,\nPynneh ia ka akor ha man ki jingtrei,\nHaduh ban da kiew ka sngi ba thoh ksiar.",
+  "lyrics_english": "Thus I sing unto my beloved land,\nAcross radiant hills and evergreen vales,\nThe spirit perceives the primordial essence,\nWhich God hath established in the land of the Seven Huts.\nRemember the noble honor of our ancient fathers,\nGrieve not the sacred speech of olden days,\nUphold refined decorum in every labor,\nUntil the golden-inscribed dawn arises.",
+  "word_count": 65
+}

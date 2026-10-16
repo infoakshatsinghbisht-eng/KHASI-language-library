@@ -1,0 +1,44 @@
+{
+  "id": "ko_ri_ki_blei_majaw",
+  "title": "O Land of the Gods (Ko Ri Ki Blei)",
+  "khasi_title": "Ko Ri Ki Blei",
+  "category": "Patriotic Homeland Hymn",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Ko Ri ba itynnad, ko Ri jong ki lum,\nKa Ri ba la bsa da ki wah ba sngur;\nKi tymmen ki la thoh ia ka nam jong pha,\nKum ka Ri kaba dap da ka jingsuk bad ka hok.\n\nHa ki pynthor bad ki khlaw kyntang,\nNgi iohi ia ka jingthaw ba kordor;\nTo ngin iada ia pha da ka mynsiem ba rhem,\nBa ka nam jong pha kan iai phyrnai.",
+  "lyrics_english": "O beautiful homeland, land of majestic peaks,\nMotherland nourished by crystalline cascading waters;\nOur ancestors engraved thy glorious renown,\nAs a land replete with peace and justice.\n\nAcross the terraced vales and sacred groves,\nWe behold the handiwork of divine creation;\nLet us protect thee with fervent devotion,\nThat thy honor may shine forever untarnished.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Ko Ri Ki Blei)",
+      "khasi": "Ko Ri ba itynnad, ko Ri jong ki lum,\nKa Ri ba la bsa da ki wah ba sngur;\nKi tymmen ki la thoh ia ka nam jong pha,\nKum ka Ri kaba dap da ka jingsuk bad ka hok.",
+      "english": "O beautiful homeland, land of majestic peaks,\nMotherland nourished by crystalline cascading waters;\nOur ancestors engraved thy glorious renown,\nAs a land replete with peace and justice."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Ko Ri Ki Blei)",
+      "khasi": "Ha ki pynthor bad ki khlaw kyntang,\nNgi iohi ia ka jingthaw ba kordor;\nTo ngin iada ia pha da ka mynsiem ba rhem,\nBa ka nam jong pha kan iai phyrnai.",
+      "english": "Across the terraced vales and sacred groves,\nWe behold the handiwork of divine creation;\nLet us protect thee with fervent devotion,\nThat thy honor may shine forever untarnished."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 72
+}

@@ -1,0 +1,43 @@
+{
+  "id": "u_khlur",
+  "title": "The Morning Star of Hope (U Khlur)",
+  "khasi_title": "U Khlur Shai Jingkyrmen",
+  "category": "Lyrical Allegory & Celestial Song",
+  "composer": "Soso Tham / H.W. Sten",
+  "year": 1936,
+  "cultural_context": "Classic allegory from Ka Duitara Ksiar celebrating the lone Morning Star (U Khlur Step) shining before sunrise over the eastern ridges of the Khasi plateau. Represents unwavering faith, truth, and hope that sustains travelers through the darkest nights.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Mieng"
+  ],
+  "themes": [
+    "Morning Star",
+    "Hope in Darkness",
+    "Dawn Awakening",
+    "Truth and Constancy"
+  ],
+  "lyrics_khasi": "Ha ka suin ba iong me tyngshain marwei,\nKo Khlur ba shai jong ka step-phyrngab!\nMe pyni ia ka lynti ia ki nongiaid-wir,\nMe ring ia ka jingshai ban pynpeh ia ka dum!\n\nLa ki lyoh ki tap ia ka pyrthei baroh,\nMe ieng triang khlem khih khlem phet;\nKa jingkyrmen jong ngi me pynim pat sa shisien,\nKo Khlur ba thiang jong ka Ri Khasi!",
+  "lyrics_english": "Across the dark velvet firmament thou shinest alone,\nO radiant Morning Star of early dawn!\nThou pointest out the hidden trail to weary wanderers,\nDrawing forth the morning light to scatter every shadow!\n\nThough dense mountain clouds shroud the sleeping world,\nThou standest steadfast, unmoved and unwavering;\nThou revivest our hope once more with radiant dawn,\nO sweet, pure Star of the Khasi hills!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "U Khlur Step-Phyrngab (The Dawn Star)",
+      "khasi": "Ha ka suin ba iong me tyngshain marwei,\nKo Khlur ba shai jong ka step-phyrngab!\nMe pyni ia ka lynti ia ki nongiaid-wir,\nMe ring ia ka jingshai ban pynpeh ia ka dum!",
+      "english": "In the dark night you shine solitary, bright star of early dawn! Showing lost wanderers the way, drawing light to banish darkness."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jingkyrmen ba Ieng Triang (Steadfast Hope)",
+      "khasi": "La ki lyoh ki tap ia ka pyrthei baroh,\nMe ieng triang khlem khih khlem phet;\nKa jingkyrmen jong ngi me pynim pat sa shisien,\nKo Khlur ba thiang jong ka Ri Khasi!",
+      "english": "Though clouds envelop the earth, you stand unshakable and true. Reviving our hope once more, sweet star of the Khasi land!"
+    }
+  ],
+  "vocabulary": {
+    "khlur": "Star, celestial luminary",
+    "step-phyrngab": "The very first break of dawn before sunrise; early morning twilight",
+    "nongiaid-wir": "Wanderer, pilgrim, traveler who has lost the mountain trail",
+    "ieng triang": "To stand firm, resolute, unshakable, unwavering"
+  },
+  "word_count": 68
+}

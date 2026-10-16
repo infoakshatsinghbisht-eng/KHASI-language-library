@@ -1,0 +1,42 @@
+{
+  "id": "u_tiew_pathaw",
+  "title": "The Wild Mountain Blossom (U Tiew Pathaw)",
+  "khasi_title": "U Tiew Pathaw ha Ri Lum",
+  "category": "Folk Lyric & Flora Metaphor",
+  "composer": "H.W. Sten",
+  "year": 1979,
+  "cultural_context": "Folk lyric celebrating the humble yellow wildflower growing on mountain stone crevices. Unlike pampered garden blossoms, it withstands fierce rainstorms and chilly winds without wilting, symbolizing the resilience, modesty (ka akor), and inner strength of the Khasi people.",
+  "instruments": [
+    "Mieng",
+    "Duitara"
+  ],
+  "themes": [
+    "Resilience",
+    "Modest Virtue",
+    "Highland Flora",
+    "Perseverance"
+  ],
+  "lyrics_khasi": "Ha ki mawsiang ba eh me mih khlem pisa,\nKo tiew-pathaw ba stem kum ka ksiar!\nLa ka erlang ka shoh, la ka slap ka theh,\nMe rkhie pynban ha la ka jinglong!\n\nYm don ba thung, ym don ba sumar,\nU Blei Nongthaw u ai ia ka bor;\nKumta to long ka akor jong ngi,\nBan neh triang ha ka Hok bad ka Sot!",
+  "lyrics_english": "Upon hard granite boulders thou sprouteth without complaint,\nO wild blossom glowing golden like pure amber!\nThough biting gale winds strike and heavy rains pour down,\nThou smilest still in gentle contentment!\n\nNo human hand planted thee, no gardener tended thee,\nGod the Creator alone imparted thy strength;\nEven so let our moral character stand,\nSteadfast forever in Righteousness and Truth!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "U Tiew-Pathaw ha Mawsiang (Blossom on the Rocks)",
+      "khasi": "Ha ki mawsiang ba eh me mih khlem pisa,\nKo tiew-pathaw ba stem kum ka ksiar!\nLa ka erlang ka shoh, la ka slap ka theh,\nMe rkhie pynban ha la ka jinglong!",
+      "english": "On hard rocks you sprout without sorrow, wild yellow flower bright as gold! Though gales buffet and rain drenches, you smile in serene grace."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Akor ba Neh Triang (Enduring Virtue)",
+      "khasi": "Ym don ba thung, ym don ba sumar,\nU Blei Nongthaw u ai ia ka bor;\nKumta to long ka akor jong ngi,\nBan neh triang ha ka Hok bad ka Sot!",
+      "english": "Unplanted by human hand, God alone gives you strength; so let our character endure, grounded in Truth and Righteousness!"
+    }
+  ],
+  "vocabulary": {
+    "tiew-pathaw": "Wild yellow rock flower, resilient indigenous mountain blossom",
+    "erlang": "Fierce gale-force mountain storm wind mixed with driving rain",
+    "akor": "Moral etiquette, decorum, polite behavior, internal character",
+    "sot": "Truth, purity of intention, integrity without deception"
+  },
+  "word_count": 66
+}

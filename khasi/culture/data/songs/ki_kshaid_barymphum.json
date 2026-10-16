@@ -1,0 +1,45 @@
+{
+  "id": "ki_kshaid_barymphum",
+  "title": "The Cascading Waterfalls of Ri Hynniewtrep (Ki Kshaid Barymphum)",
+  "khasi_title": "Ki Kshaid Barymphum",
+  "category": "Nature Ballad & Geography Hymn",
+  "composer": "H.W. Sten",
+  "year": 1979,
+  "cultural_context": "Poetic hymn praising the legendary waterfalls of Meghalaya—Nohkalikai, Dainthlen, Nohsngithiang (Seven Sisters), Kshaid Weinia, and Elephant Falls. Celebrates the roaring cascades plunging off sandstone precipices into deep turquoise pools, shrouded in rainbow mist (barymphum) and eternal legends.",
+  "instruments": [
+    "Duitara",
+    "Tangmuri",
+    "Maryngod",
+    "Ksing Shynrang"
+  ],
+  "themes": [
+    "Waterfalls",
+    "Rainbow Mist",
+    "Limestone Gorges",
+    "Living Waters",
+    "Highland Majesty"
+  ],
+  "lyrics_khasi": "Na ki riat ba jrong ki kshaid ki la noh,\nKum ki paila rupa ki jaw ruid ruid;\nKa Nohkalikai ka kynih ha ka them,\nKa Dainthlen ka phet ha ki mawsiang ba khraw!\n\nKi barymphum ksiar ki ieng ha ka suin,\nKa lyer ka pynkhih ia ka jingshai ka sngi;\nKi um ba kordor ki pynim ia ka ri,\nKa nam jong ki kshaid kan neh ha la tnum!",
+  "lyrics_english": "From dizzying rocky precipices the waterfalls plunge,\nLike cascading necklaces of shimmering silver beads;\nNohkalikai thunders into the deep forested basin,\nDainthlen races across ancient flat river boulders!\n\nRainbows of shimmering gold arch across the misty air,\nThe mountain breeze dances with the sunlight;\nThese precious living waters sustain our entire land,\nThe renown of these cataracts shall endure forever!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jingjaw ki Paila Rupa (Silver Cascades)",
+      "khasi": "Na ki riat ba jrong ki kshaid ki la noh,\nKum ki paila rupa ki jaw ruid ruid;\nKa Nohkalikai ka kynih ha ka them,\nKa Dainthlen ka phet ha ki mawsiang ba khraw!",
+      "english": "From high cliffs cascades plunge like strands of silver beads; Nohkalikai roars in the gorge, Dainthlen rushes over great stone beds!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "U Barymphum ha ka Suin (Rainbow in the Sky)",
+      "khasi": "Ki barymphum ksiar ki ieng ha ka suin,\nKa lyer ka pynkhih ia ka jingshai ka sngi;\nKi um ba kordor ki pynim ia ka ri,\nKa nam jong ki kshaid kan neh ha la tnum!",
+      "english": "Golden rainbows stand in mist; winds dance with the sun's light. Precious waters revive our land; their glory endures forever!"
+    }
+  ],
+  "vocabulary": {
+    "barymphum": "Rainbow created by water droplets in waterfall mist or rainfall",
+    "paila rupa": "Beaded silver traditional necklace worn by Khasi women during festivals",
+    "nohkalikai": "The celebrated 1,115-foot plunge waterfall near Sohra, named after Ka Likai",
+    "dainthlen": "Sacred waterfall where ancestral warriors slew the monstrous thlen serpent"
+  },
+  "word_count": 70
+}

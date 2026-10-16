@@ -1,0 +1,57 @@
+{
+  "id": "long_lang_bad_suk_majaw",
+  "title": "Long-Lang Bad Suk (Living in Peace and Harmony)",
+  "native_title": "Long-Lang Bad Suk",
+  "category": "phawar",
+  "author": "S. S. Majaw",
+  "origin": "Khasi Hills (Traditional Phawar)",
+  "collection": "Phawar Beh Sbai",
+  "description": "Archery and community festival phawar on unity, friendship, and collective well-being.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ko ri baieit ko lum ba jngum,",
+        "Ha phi ki kpa ki pynshong kur,",
+        "Ban sumar hok ia ka spah mariang,",
+        "Ban kyntiew burom ia ka jait ka kynja."
+      ],
+      "english": [
+        "O beloved land, O azure mountains,",
+        "Upon you the ancestors founded the clans,",
+        "To guard faithfully the wealth of nature,",
+        "To exalt the honor of the race."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ha ka dorbar kynmaw ia ka hok,",
+        "Wat ai kan jot ka ktien u barim,",
+        "Kamai ia ka burom da ka jingshlur,",
+        "Pynneh ia ka nam ha man ki pyntha."
+      ],
+      "english": [
+        "In the council remember righteousness,",
+        "Let not the tongue of the ancient perish,",
+        "Earn honor through bravery,",
+        "Preserve the good name across all valleys."
+      ]
+    }
+  ],
+  "cultural_context": "Chanted in traditional Khasi heptasyllabic and octosyllabic cadence during archery matches and communal assemblies.",
+  "musical_instruments": [
+    "Ka Ksing Kynthei",
+    "Ka Tangmuri",
+    "Ka Duitara"
+  ],
+  "vocabulary": {
+    "iap-tram": "to decay / languish in distress",
+    "men-guru": "ancient sage or master teacher",
+    "spah mariang": "natural heritage and wealth of creation"
+  },
+  "khasi_title": "Long-Lang Bad Suk",
+  "lyrics_khasi": "Ko ri baieit ko lum ba jngum,\nHa phi ki kpa ki pynshong kur,\nBan sumar hok ia ka spah mariang,\nBan kyntiew burom ia ka jait ka kynja.\nHa ka dorbar kynmaw ia ka hok,\nWat ai kan jot ka ktien u barim,\nKamai ia ka burom da ka jingshlur,\nPynneh ia ka nam ha man ki pyntha.",
+  "lyrics_english": "O beloved land, O azure mountains,\nUpon you the ancestors founded the clans,\nTo guard faithfully the wealth of nature,\nTo exalt the honor of the race.\nIn the council remember righteousness,\nLet not the tongue of the ancient perish,\nEarn honor through bravery,\nPreserve the good name across all valleys.",
+  "word_count": 59
+}

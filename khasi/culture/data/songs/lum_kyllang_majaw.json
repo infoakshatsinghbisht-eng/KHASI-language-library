@@ -1,0 +1,44 @@
+{
+  "id": "lum_kyllang_majaw",
+  "title": "The Granite Dome of Mount Kyllang (Lum Kyllang)",
+  "khasi_title": "Lum Kyllang",
+  "category": "Sacred Topography Ballad",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "U Lum Kyllang u ieng rasong ha suin,\nU mawsiang bakhraw bym ju khih da ka lyer;\nU sakhi ia ki thma bad ki por ba la leit,\nKum u syiem ba ap pahara ia ka Ri.\n\nWat la u slap u ther bad ka 'leilieh ka kyrthep,\nU Kyllang u ieng skhem klem da kynran dien;\nKumta u Khasi u dei ban ieng ha ka hok,\nKlem da sheptieng ia ki jingeh ka pyrthei.",
+  "lyrics_english": "Mount Kyllang towers majestic against the blue sky,\nA colossal granite dome unmoved by tempest winds;\nWitness to ancient wars and passing ages,\nLike a silent monarch standing sentinel over the land.\n\nThough monsoon deluges crash and thunderbolts flash,\nKyllang stands resolute without retreat;\nSo too must the Khasi stand firm in righteousness,\nDauntless before the tribulations of the world.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Lum Kyllang)",
+      "khasi": "U Lum Kyllang u ieng rasong ha suin,\nU mawsiang bakhraw bym ju khih da ka lyer;\nU sakhi ia ki thma bad ki por ba la leit,\nKum u syiem ba ap pahara ia ka Ri.",
+      "english": "Mount Kyllang towers majestic against the blue sky,\nA colossal granite dome unmoved by tempest winds;\nWitness to ancient wars and passing ages,\nLike a silent monarch standing sentinel over the land."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Lum Kyllang)",
+      "khasi": "Wat la u slap u ther bad ka 'leilieh ka kyrthep,\nU Kyllang u ieng skhem klem da kynran dien;\nKumta u Khasi u dei ban ieng ha ka hok,\nKlem da sheptieng ia ki jingeh ka pyrthei.",
+      "english": "Though monsoon deluges crash and thunderbolts flash,\nKyllang stands resolute without retreat;\nSo too must the Khasi stand firm in righteousness,\nDauntless before the tribulations of the world."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 75
+}

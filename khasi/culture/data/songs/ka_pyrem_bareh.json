@@ -1,0 +1,78 @@
+{
+  "id": "ka_pyrem_bareh",
+  "title": "Springtime in the Hills (Ka Pyrem)",
+  "khasi_title": "Ka Pyrem",
+  "category": "Seasonal Pastoral Ode",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Lyrical celebration of spring (Ka Pyrem) when cherry blossoms, rhododendrons, and wild violets carpet the Khasi highlands.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Spring Season",
+    "Blossoming Hills",
+    "Rebirth of Earth",
+    "Pastoral Joy"
+  ],
+  "lyrics_khasi": "Ka pyrem ka la wan\nHa ki lum jong ka Ri,\nKi khlaw ki la phong\nJain kup ba jyrngam;\nKi syntiew ki pait\nHa man ki sawdong them,\nU tiew diengngai u phuh\nHa syndah ki wahduid.\n\nKi ksuid tlang ki la phet,\nKa khriat ka la jah noh,\nKa jingim thymmai\nHa dohnud ka kynud;\nRwai lang, ko khun ka Ri,\nIa ka Meiramew ba bha,\nBa ai biang ka sngi\nBad ka jingshai ka pyrem.",
+  "lyrics_english": "Springtime has arrived\nAcross our hills of the Motherland,\nThe forests have donned\nTheir robes of emerald green;\nWild flowers burst open\nIn every fold of the valley,\nThe rhododendron blooms\nBeside the flowing rills.\n\nThe winter chills have fled,\nThe biting frost is gone,\nFresh renewed vitality\nHumming within the breast;\nSing together, children of the soil,\nPraising kind Mother Earth,\nWho bestows once more the sunlight\nAnd the golden glow of spring.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka pyrem ka la wan",
+        "Ha ki lum jong ka Ri,",
+        "Ki khlaw ki la phong",
+        "Jain kup ba jyrngam;",
+        "Ki syntiew ki pait",
+        "Ha man ki sawdong them,",
+        "U tiew diengngai u phuh",
+        "Ha syndah ki wahduid."
+      ],
+      "english": [
+        "Springtime has arrived",
+        "Across our hills of the Motherland,",
+        "The forests have donned",
+        "Their robes of emerald green;",
+        "Wild flowers burst open",
+        "In every fold of the valley,",
+        "The rhododendron blooms",
+        "Beside the flowing rills."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ki ksuid tlang ki la phet,",
+        "Ka khriat ka la jah noh,",
+        "Ka jingim thymmai",
+        "Ha dohnud ka kynud;",
+        "Rwai lang, ko khun ka Ri,",
+        "Ia ka Meiramew ba bha,",
+        "Ba ai biang ka sngi",
+        "Bad ka jingshai ka pyrem."
+      ],
+      "english": [
+        "The winter chills have fled,",
+        "The biting frost is gone,",
+        "Fresh renewed vitality",
+        "Humming within the breast;",
+        "Sing together, children of the soil,",
+        "Praising kind Mother Earth,",
+        "Who bestows once more the sunlight",
+        "And the golden glow of spring."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "pyrem": "spring season",
+    "jyrngam": "green / lush",
+    "tiew diengngai": "rhododendron flower",
+    "meiramew": "Mother Earth",
+    "tlang": "winter"
+  },
+  "word_count": 78
+}

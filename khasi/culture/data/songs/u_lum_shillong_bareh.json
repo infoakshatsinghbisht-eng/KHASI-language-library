@@ -1,0 +1,79 @@
+{
+  "id": "u_lum_shillong_bareh",
+  "title": "Shillong Peak: Throne of the Gods (U Lum Shillong)",
+  "khasi_title": "U Lum Shillong",
+  "category": "Sacred Mountain Anthem",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Anthem dedicated to the guardian mountain divinity U 'Lei Shillong, published in 'Ki Jingrwai Khasi'.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Ksing",
+    "Nakra"
+  ],
+  "themes": [
+    "Sacred Peak",
+    "Guardian Spirit",
+    "Highland Sovereignty",
+    "Ancestral Sanctuaries"
+  ],
+  "lyrics_khasi": "Ko Lum Shillong ba kynjai,\nBa ieng ha shiteng ri,\nKliar jong me ba tap da lyoh\nKa shong ka burom blei;\nMe peit ia ki khun ki hajar\nNaduh ba sdang pyrthei,\nMe synshar ia ki lyer\nBad ki wah ba tuid jai-jai.\n\nHa pneh jong me ngi ioh\nKa jingsuk bad ka spah,\nKi khlaw kyntang ba khuid\nBa buh ki kpa tymmen;\nWat ha ka pyrthei thymmai\nNgin bat la ka niam ka rukom,\nBan burom ia U Lum Shillong\nU kpa jong ka ri baroh.",
+  "lyrics_english": "O serene Shillong Peak,\nStanding at the centre of the land,\nYour summit veiled in clouds\nIs home to divine majesty;\nYou have watched over the populace\nFrom the dawn of creation,\nRuling over the mountain winds\nAnd the tranquil flowing rivers.\n\nIn your protective lap we find\nEnduring peace and wealth,\nThe sacred pristine groves\nHallowed by our forefathers;\nEven in this modern age\nWe shall hold our sacred tenets,\nHonouring Shillong Peak,\nThe guardian father of all the realm.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ko Lum Shillong ba kynjai,",
+        "Ba ieng ha shiteng ri,",
+        "Kliar jong me ba tap da lyoh",
+        "Ka shong ka burom blei;",
+        "Me peit ia ki khun ki hajar",
+        "Naduh ba sdang pyrthei,",
+        "Me synshar ia ki lyer",
+        "Bad ki wah ba tuid jai-jai."
+      ],
+      "english": [
+        "O serene Shillong Peak,",
+        "Standing at the centre of the land,",
+        "Your summit veiled in clouds",
+        "Is home to divine majesty;",
+        "You have watched over the populace",
+        "From the dawn of creation,",
+        "Ruling over the mountain winds",
+        "And the tranquil flowing rivers."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ha pneh jong me ngi ioh",
+        "Ka jingsuk bad ka spah,",
+        "Ki khlaw kyntang ba khuid",
+        "Ba buh ki kpa tymmen;",
+        "Wat ha ka pyrthei thymmai",
+        "Ngin bat la ka niam ka rukom,",
+        "Ban burom ia U Lum Shillong",
+        "U kpa jong ka ri baroh."
+      ],
+      "english": [
+        "In your protective lap we find",
+        "Enduring peace and wealth,",
+        "The sacred pristine groves",
+        "Hallowed by our forefathers;",
+        "Even in this modern age",
+        "We shall hold our sacred tenets,",
+        "Honouring Shillong Peak,",
+        "The guardian father of all the realm."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "lum shillong": "Shillong Peak",
+    "khun ki hajar": "subjects / citizens / the people",
+    "lawkyntang": "sacred grove",
+    "synshar": "rule / govern / oversee",
+    "kpa": "father / patriarch"
+  },
+  "word_count": 89
+}

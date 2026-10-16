@@ -1,0 +1,46 @@
+{
+  "id": "rwai_u_syiar_khasi_laloo",
+  "title": "Ka Jingrwai U Syiar Khasi (Ballad of the Sacred Solar Cock)",
+  "khasi_title": "Ka Jingrwai U Syiar Khasi",
+  "category": "mythological_and_sacred",
+  "composer": "Donbok T. Laloo",
+  "year": 1980,
+  "origin": "War & Sohra Traditions",
+  "instruments": [
+    "Ka Besli",
+    "Ka Ksing",
+    "Ka Duitara"
+  ],
+  "themes": [
+    "Cosmic Dawn",
+    "The Golden Sun",
+    "Sacred Mediator",
+    "Selfless Sacrifice"
+  ],
+  "cultural_context": "Sung during traditional ceremonies recounting how the rooster coaxed the sun goddess Ka Sngi to return from her cave, dispelling primeval darkness.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Khyllie ko syiar, kynmaw ia ka kular,",
+        "Kren ha ka lyndet pyrthei ba dum,",
+        "Kyrsiew ia ka Sngi ban wan phyrnai biang,",
+        "Ban pyniohi ia ka dur ka mariang."
+      ],
+      "english": [
+        "Awaken, O cock, remember the primordial covenant,",
+        "Speak across the darkness of the shrouded world,",
+        "Awaken the Sun to shine forth again,",
+        "Revealing once more the countenance of nature."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "syiar-kynmaw": "the remembering cock / herald of cosmic dawn",
+    "lyndet-pyrthei": "across the hidden depths of the world"
+  },
+  "file": "rwai_u_syiar_khasi_laloo.json",
+  "lyrics_khasi": "Khyllie ko syiar, kynmaw ia ka kular,\nKren ha ka lyndet pyrthei ba dum,\nKyrsiew ia ka Sngi ban wan phyrnai biang,\nBan pyniohi ia ka dur ka mariang.",
+  "lyrics_english": "Awaken, O cock, remember the primordial covenant,\nSpeak across the darkness of the shrouded world,\nAwaken the Sun to shine forth again,\nRevealing once more the countenance of nature.",
+  "word_count": 29
+}

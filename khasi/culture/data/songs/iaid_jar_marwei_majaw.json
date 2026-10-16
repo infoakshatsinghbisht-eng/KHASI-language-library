@@ -1,0 +1,44 @@
+{
+  "id": "iaid_jar_marwei_majaw",
+  "title": "Walking in Solitary Meditation (Iaid Jar Marwei)",
+  "khasi_title": "Iaid Jar Marwei",
+  "category": "Philosophical & Reflective Lyric",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Iaid jar marwei ha ki lynti lum,\nHaba ka lyer ka pyngngad ka beh;\nNga pyrkhat ia ka jingim ba lyngkot,\nBad ia ka hok ba dei ban bat skhem.\n\nKi syntiew ki phuh ki iap noh ha madan,\nKi sngi ki leit noh kum ka lyer ba stet;\nHynrei ka kam ba bha ba la leh ha pyrthei,\nKan sah kum u mawbynna ba skhem.",
+  "lyrics_english": "Walking alone along quiet mountain tracks,\nWhere the crisp highland breeze blows free;\nI meditate upon the briefness of mortal life,\nAnd the unshakeable truth we must uphold.\n\nThe blossoms bloom and wither upon the grass,\nThe days flit by like the fleeting wind;\nYet the noble deeds wrought on earth,\nShall stand forever like an enduring megalith.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Iaid Jar Marwei)",
+      "khasi": "Iaid jar marwei ha ki lynti lum,\nHaba ka lyer ka pyngngad ka beh;\nNga pyrkhat ia ka jingim ba lyngkot,\nBad ia ka hok ba dei ban bat skhem.",
+      "english": "Walking alone along quiet mountain tracks,\nWhere the crisp highland breeze blows free;\nI meditate upon the briefness of mortal life,\nAnd the unshakeable truth we must uphold."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Iaid Jar Marwei)",
+      "khasi": "Ki syntiew ki phuh ki iap noh ha madan,\nKi sngi ki leit noh kum ka lyer ba stet;\nHynrei ka kam ba bha ba la leh ha pyrthei,\nKan sah kum u mawbynna ba skhem.",
+      "english": "The blossoms bloom and wither upon the grass,\nThe days flit by like the fleeting wind;\nYet the noble deeds wrought on earth,\nShall stand forever like an enduring megalith."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 66
+}

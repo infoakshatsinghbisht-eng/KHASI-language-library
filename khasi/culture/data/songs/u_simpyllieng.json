@@ -1,0 +1,43 @@
+{
+  "id": "u_simpyllieng",
+  "title": "The Mountain Cuckoo (U Simpyllieng)",
+  "khasi_title": "Ka Sur U Simpyllieng",
+  "category": "Pastoral Birdsong & Folk Ballad",
+  "composer": "Soso Tham",
+  "year": 1925,
+  "cultural_context": "A masterwork of Khasi nature poetry. The calling of the simpyllieng (cuckoo) across the valleys in late April is the traditional sign for Khasi farmers that the season of planting has come. Tells farmers to prepare the terraced slopes and brings memories of ancestors who heard the very same call in centuries past.",
+  "instruments": [
+    "Sharati",
+    "Shyngwiang",
+    "Maryngod"
+  ],
+  "themes": [
+    "Birdsong",
+    "Farming Call",
+    "Valley Echoes",
+    "Ancestral Continuum"
+  ],
+  "lyrics_khasi": "Ha khap ki lum u kynih jam,\nKo simpyllieng ba rwai sngewtynnad!\nKa sur jong me ka pynkyndit ia ri,\nBan thung ia u kba ha ki lyngkha!\n\nMe pah na jngai ha ki khlaw ba rben,\nKa lyer ka kit ia ka sur sha ki them;\nKi tymmen ki sngap, ki samla ki mih,\nKa por ban rep ka la poi pat ha ri!",
+  "lyrics_english": "Along the forested rim of the mountains it calls clearly,\nThe gentle cuckoo singing its delightful tune!\nThy melodious cadence awakens the whole land,\nTo sow the seed-paddy across terraced slopes!\n\nThou callest from afar within the dense sacred forests,\nThe mountain wind carries thy song down to the valleys;\nThe elders pause to listen, the youth rise up to labor,\nThe blessed time for planting has returned to our hills!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Sur u Simpyllieng (Call of the Cuckoo)",
+      "khasi": "Ha khap ki lum u kynih jam,\nKo simpyllieng ba rwai sngewtynnad!\nKa sur jong me ka pynkyndit ia ri,\nBan thung ia u kba ha ki lyngkha!",
+      "english": "On mountain ridges it calls aloud, lovely cuckoo singing sweet notes! Your voice awakens the whole countryside to sow paddy in terraces."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Por Rep ha Ri (The Planting Season)",
+      "khasi": "Me pah na jngai ha ki khlaw ba rben,\nKa lyer ka kit ia ka sur sha ki them;\nKi tymmen ki sngap, ki samla ki mih,\nKa por ban rep ka la poi pat ha ri!",
+      "english": "You call from deep woods, winds carry notes to the vales; elders listen, youth march out, planting time has returned to our land!"
+    }
+  ],
+  "vocabulary": {
+    "simpyllieng": "The Indian cuckoo (Cuculus micropterus), traditional harbinger of agricultural sowing",
+    "kynih": "To crow, call out melodiously, chime (of birds or flutes)",
+    "khap lum": "Mountain ridge, edge of a highland plateau overlooking a valley",
+    "pah": "To chirp, sing, vocalize (of wild birds in forest groves)"
+  },
+  "word_count": 65
+}

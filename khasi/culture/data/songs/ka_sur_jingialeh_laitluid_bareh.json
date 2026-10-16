@@ -1,0 +1,78 @@
+{
+  "id": "ka_sur_jingialeh_laitluid_bareh",
+  "title": "Anthem of the Independent Hills (Ka Sur Jingialeh Laitluid)",
+  "khasi_title": "Ka Sur Jingialeh Laitluid",
+  "category": "Historical Freedom Anthem",
+  "composer": "Victor G. Bareh",
+  "year": 1979,
+  "cultural_context": "Solemn anthem from 'Ka Drama U Tirot Sing' sung by the Durbar of Chiefs affirming that native soil cannot be bartered or ceded to imperial foreign powers.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Tangmuri"
+  ],
+  "themes": [
+    "Sovereign Hills",
+    "Durbar Treaty",
+    "Ancestral Soil",
+    "Defiance of Tyranny"
+  ],
+  "lyrics_khasi": "Kane ka ri dei ka ri ki blei,\nKhlem da lah ban thied da ka spah;\nKi kpa tymmen ki la tei ia ka hima\nDa ka bor jong ka nia bad ka hok;\nTo bat ia ka kti, ko ki myntri,\nWat aiti ia ka snieh-ri jong ngi;\nKatba ka sngi ka dang tyngshain\nNgin ieng kum u mawsiang ba skhem.\n\nLada ngi hap ha ka thma ba jur,\nKa nam jong ngi kan im junom;\nKi pateng kin kynmaw da ka burom\nIa kito kiba la aiti la ka mynsiem;\nHa Lum Diengiei bad Lum Shillong\nKa lyer kan rwai ia ka jingjop;\nBa u Khasi um ju mane mraw\nHynrei tang ia U Blei Uba Khraw.",
+  "lyrics_english": "This highland soil is the realm of the gods,\nNever to be bought with foreign silver or gold;\nOur ancestors established this sovereign state\nBy the strength of righteous reason and justice;\nClasp hands firmly, O noble ministers,\nNever surrender our sacred native land;\nAs long as the sun illuminates the day,\nWe shall stand firm like immovable granite.\n\nThough we may fall in the fury of battle,\nOur glorious name shall live forever;\nGenerations shall recall with veneration\nThose who laid down their earthly lives;\nAcross Mount Diengiei and Shillong Peak\nThe mountain wind shall chant our victory:\nThat the Khasi bows to no earthly master,\nServing only the Supreme Almighty God.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Kane ka ri dei ka ri ki blei,",
+        "Khlem da lah ban thied da ka spah;",
+        "Ki kpa tymmen ki la tei ia ka hima",
+        "Da ka bor jong ka nia bad ka hok;",
+        "To bat ia ka kti, ko ki myntri,",
+        "Wat aiti ia ka snieh-ri jong ngi;",
+        "Katba ka sngi ka dang tyngshain",
+        "Ngin ieng kum u mawsiang ba skhem."
+      ],
+      "english": [
+        "This highland soil is the realm of the gods,",
+        "Never to be bought with foreign silver or gold;",
+        "Our ancestors established this sovereign state",
+        "By the strength of righteous reason and justice;",
+        "Clasp hands firmly, O noble ministers,",
+        "Never surrender our sacred native land;",
+        "As long as the sun illuminates the day,",
+        "We shall stand firm like immovable granite."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Lada ngi hap ha ka thma ba jur,",
+        "Ka nam jong ngi kan im junom;",
+        "Ki pateng kin kynmaw da ka burom",
+        "Ia kito kiba la aiti la ka mynsiem;",
+        "Ha Lum Diengiei bad Lum Shillong",
+        "Ka lyer kan rwai ia ka jingjop;",
+        "Ba u Khasi um ju mane mraw",
+        "Hynrei tang ia U Blei Uba Khraw."
+      ],
+      "english": [
+        "Though we may fall in the fury of battle,",
+        "Our glorious name shall live forever;",
+        "Generations shall recall with veneration",
+        "Those who laid down their earthly lives;",
+        "Across Mount Diengiei and Shillong Peak",
+        "The mountain wind shall chant our victory:",
+        "That the Khasi bows to no earthly master,",
+        "Serving only the Supreme Almighty God."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "snieh-ri": "sacred soil / territory of the motherland",
+    "myntri": "clan cabinet minister of the Khasi kingdom",
+    "mawsiang": "granite boulder / immovable crag",
+    "pateng": "generation / lineage",
+    "mane": "worship / bow down before"
+  },
+  "word_count": 119
+}

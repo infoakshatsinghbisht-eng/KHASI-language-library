@@ -1,0 +1,77 @@
+{
+  "id": "u_tyrkhang_iewbih_bareh",
+  "title": "The Fragrant Fern (U Tyrkhang Iewbih)",
+  "khasi_title": "U Tyrkhang Iewbih",
+  "category": "Highland Botany & Lyric",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Celebration of the wild fragrant mountain fern of Meghalaya, known for its sweet scent in rocky streams.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Highland Ferns",
+    "Secret Fragrance",
+    "Rocky Streams",
+    "Nature Simplicity"
+  ],
+  "lyrics_khasi": "U tyrkhang u iewbih\nHa thwei maw ba jylliew,\nKhlem da pyrto la ka nam,\nU pyniwbih ia u briew;\nKi sla ba jyrngam\nKi pdiang ia ka um,\nU sngewbha tang ban im\nHa pneh jong u lum.\n\nKumta to ngin long,\nKhlem ka sarong pyrthei,\nBan pynphriang ka jingbha\nSha ki kur ki kha;\nWat ha ka jaka ba rieh,\nLa ka hok to ai kan paw,\nKum u tyrkhang ba iwbih\nHa syndah u maw.",
+  "lyrics_english": "The fragrant wild fern smells sweet\nBeside deep mossy boulders,\nWithout boasting of its name,\nIt imparts sweetness to the wanderer;\nIts emerald fronds\nDrink in the mountain dew,\nContent simply to live\nIn the lap of the high hill.\n\nEven thus let us be,\nFree from worldly vanity,\nSpreading goodness and virtue\nUnto all our kin;\nEven in secluded paths,\nLet righteousness shine forth,\nLike the fragrant wild fern\nBeside the mountain stone.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "U tyrkhang u iewbih",
+        "Ha thwei maw ba jylliew,",
+        "Khlem da pyrto la ka nam,",
+        "U pyniwbih ia u briew;",
+        "Ki sla ba jyrngam",
+        "Ki pdiang ia ka um,",
+        "U sngewbha tang ban im",
+        "Ha pneh jong u lum."
+      ],
+      "english": [
+        "The fragrant wild fern smells sweet",
+        "Beside deep mossy boulders,",
+        "Without boasting of its name,",
+        "It imparts sweetness to the wanderer;",
+        "Its emerald fronds",
+        "Drink in the mountain dew,",
+        "Content simply to live",
+        "In the lap of the high hill."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kumta to ngin long,",
+        "Khlem ka sarong pyrthei,",
+        "Ban pynphriang ka jingbha",
+        "Sha ki kur ki kha;",
+        "Wat ha ka jaka ba rieh,",
+        "La ka hok to ai kan paw,",
+        "Kum u tyrkhang ba iwbih",
+        "Ha syndah u maw."
+      ],
+      "english": [
+        "Even thus let us be,",
+        "Free from worldly vanity,",
+        "Spreading goodness and virtue",
+        "Unto all our kin;",
+        "Even in secluded paths,",
+        "Let righteousness shine forth,",
+        "Like the fragrant wild fern",
+        "Beside the mountain stone."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "tyrkhang": "fern",
+    "iewbih": "fragrant / sweet-smelling",
+    "sarong": "arrogance / pride / vanity",
+    "sla": "leaf / frond",
+    "maw": "stone / rock"
+  },
+  "word_count": 78
+}

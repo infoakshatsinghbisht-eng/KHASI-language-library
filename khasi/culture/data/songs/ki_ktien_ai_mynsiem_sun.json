@@ -1,0 +1,77 @@
+{
+  "id": "ki_ktien_ai_mynsiem_sun",
+  "title": "Words of Spiritual Fortitude (Ki Ktien Ai Mynsiem)",
+  "khasi_title": "Ki Ktien Ai Mynsiem",
+  "category": "Highland Encouragement Ballad",
+  "composer": "Andreas Sun",
+  "year": 2006,
+  "cultural_context": "Ballad of moral fortitude urging perseverance through winter cold, grief, and trials, from 'Ki Sur Pangnud Na Krem Shadem'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Moral Fortitude",
+    "Perseverance",
+    "Inner Strength",
+    "Enduring Hope"
+  ],
+  "lyrics_khasi": "Wat lwait, wat tlot, ko mynsiem,\nHaba u slap u theh bad ka lyer ka suh;\nKa sngi kan mih biang pat ha u lum,\nBan pynkhie ia ka jingkyrmen thymmai;\nKi ktien ba ai mynsiem ki long\nKum ka um ba pynim ia u syntiew ba iap;\nKi pynskhem ia ki kjat ban iaid,\nSha khmat khlem da phai dien.\n\nU Blei Um ju iehnoh ia uba bat hok,\nU ieng ha syndah ban ai bor;\nMan ka jingjynjar ka don la ka kut,\nKa jingshai kan jop ia ka miet;\nTo bat skhem ia ka jingngeit,\nHa dohnud to rwai ka sur kmen,\nBa ka jingim jong me kan long\nKa nuksa babha ia ka ri.",
+  "lyrics_english": "Faint not, falter not, O weary soul,\nThough rain lashes down and winter winds chill;\nThe golden sun shall rise again above the mountain,\nAwakening anew fresh hope;\nWords of spiritual fortitude are\nLike refreshing dew reviving a wilting blossom;\nStrengthening the feet to walk firmly,\nPressing forward without looking back.\n\nGod never forsakes those who walk in truth,\nStanding beside them to impart great strength;\nEvery tribulation has its ordained end,\nThe dawn of light shall vanquish the dark night;\nHold steadfast to your faith,\nWithin your heart sing a melody of joy,\nSo that your life may shine\nAs an inspiring beacon for our motherland.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Wat lwait, wat tlot, ko mynsiem,",
+        "Haba u slap u theh bad ka lyer ka suh;",
+        "Ka sngi kan mih biang pat ha u lum,",
+        "Ban pynkhie ia ka jingkyrmen thymmai;",
+        "Ki ktien ba ai mynsiem ki long",
+        "Kum ka um ba pynim ia u syntiew ba iap;",
+        "Ki pynskhem ia ki kjat ban iaid,",
+        "Sha khmat khlem da phai dien."
+      ],
+      "english": [
+        "Faint not, falter not, O weary soul,",
+        "Though rain lashes down and winter winds chill;",
+        "The golden sun shall rise again above the mountain,",
+        "Awakening anew fresh hope;",
+        "Words of spiritual fortitude are",
+        "Like refreshing dew reviving a wilting blossom;",
+        "Strengthening the feet to walk firmly,",
+        "Pressing forward without looking back."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "U Blei Um ju iehnoh ia uba bat hok,",
+        "U ieng ha syndah ban ai bor;",
+        "Man ka jingjynjar ka don la ka kut,",
+        "Ka jingshai kan jop ia ka miet;",
+        "To bat skhem ia ka jingngeit,",
+        "Ha dohnud to rwai ka sur kmen,",
+        "Ba ka jingim jong me kan long",
+        "Ka nuksa babha ia ka ri."
+      ],
+      "english": [
+        "God never forsakes those who walk in truth,",
+        "Standing beside them to impart great strength;",
+        "Every tribulation has its ordained end,",
+        "The dawn of light shall vanquish the dark night;",
+        "Hold steadfast to your faith,",
+        "Within your heart sing a melody of joy,",
+        "So that your life may shine",
+        "As an inspiring beacon for our motherland."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ai mynsiem": "encourage / inspire / impart spirit",
+    "tlot": "weak / frail / faltering",
+    "jingngeit": "faith / belief",
+    "nuksa": "example / ideal / role model",
+    "jop": "conquer / triumph / overcome"
+  },
+  "word_count": 118
+}

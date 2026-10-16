@@ -1,0 +1,43 @@
+{
+  "id": "ka_lyer_ka_dang_sieng",
+  "title": "The Fragrant Highland Wind (Ka Lyer Ka Dang Sieng)",
+  "khasi_title": "Ka Lyer Ka Dang Sieng ha ki Lum",
+  "category": "Sensory Pastoral Lyric",
+  "composer": "H.W. Sten",
+  "year": 1979,
+  "cultural_context": "Celebrates the fresh, aromatic fragrance of the Khasi mountain air wafting sweet scents of highland pine needles, wild betel leaves, and blooming tree orchids. Evokes the ancient journeys of ancestors traversing the paved stone trails between Sohra, Pynursla, and Dawki along the southern escarpment.",
+  "instruments": [
+    "Sharati",
+    "Duitara",
+    "Ksing Padiah"
+  ],
+  "themes": [
+    "Highland Breeze",
+    "Fragrance of Pines",
+    "Stone Trading Trails",
+    "Mountain Slopes"
+  ],
+  "lyrics_khasi": "Ha ki tnum ba jrong ka lyer ka dang sieng,\nKa iathuh ia ka nam jong ka Ri ba pyngngad;\nKa sieng u dieng kseh, ka sieng u tiew-khlaw,\nKa pynim ia ka dohnud ba thait ha lynti!\n\nHa ki lynti-maw ba la tei ki tymmen,\nNgi iaid da ka kmen ryngkat ka sur rwai;\nKa lyer ka dang beh, ka sngi ka dang phyrnai,\nKa Ri Khasi kan neh ha ka suk ba kynjai!",
+  "lyrics_english": "Across the lofty ridges the wind still wafts sweet fragrance,\nProclaiming the glory of our cool, blessed homeland;\nScent of green highland pines, scent of wild mountain orchids,\nReviving the weary heart along the rugged trail!\n\nAlong ancient paved stone paths constructed by our ancestors,\nWe journey with rejoicing and songs upon our lips;\nThe mountain breeze still blows, the sun shines bright,\nThe Khasi homeland shall abide in peaceful serenity!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Lyer ba Dang Sieng (The Scented Wind)",
+      "khasi": "Ha ki tnum ba jrong ka lyer ka dang sieng,\nKa iathuh ia ka nam jong ka Ri ba pyngngad;\nKa sieng u dieng kseh, ka sieng u tiew-khlaw,\nKa pynim ia ka dohnud ba thait ha lynti!",
+      "english": "Across lofty ridges winds blow fragrant, telling of our cool land; scented with pine and wild orchid, reviving weary travelers on the trail!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ki Lynti-Maw Mynhyndai (Ancient Stone Trails)",
+      "khasi": "Ha ki lynti-maw ba la tei ki tymmen,\nNgi iaid da ka kmen ryngkat ka sur rwai;\nKa lyer ka dang beh, ka sngi ka dang phyrnai,\nKa Ri Khasi kan neh ha ka suk ba kynjai!",
+      "english": "Along stone paths paved by ancestors, we march joyful with song; breezes blow and the sun gleams, Khasi land endures in serene peace!"
+    }
+  ],
+  "vocabulary": {
+    "lyer-sieng": "Aromatic, fragrance-bearing breeze carrying mountain floral scents",
+    "tiew-khlaw": "Wild uncultivated jungle flower or epiphytic mountain orchid",
+    "lynti-maw": "Ancient stone-paved highland trading trails traversing valleys and root bridges",
+    "pynim dohnud": "To revive, invigorate, and refresh the weary heart and spirit"
+  },
+  "word_count": 77
+}

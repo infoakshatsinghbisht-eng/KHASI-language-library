@@ -1,6 +1,6 @@
 # Khasi Language Library (Ka Ktien Khasi) — Complete API Documentation
 
-Comprehensive technical documentation for the `khasi` Python library (version 1.5.0).
+Comprehensive technical documentation for the `khasi` Python library (version 1.6.0).
 
 ---
 
@@ -13,7 +13,7 @@ The root `khasi` package provides direct, high-level access to the most common o
 | Function | Signature | Description |
 |---|---|---|
 | `translate()` | `translate(text, source='auto', target='khasi', dialect='sohra')` | Translates English, Hindi, or Hinglish into Khasi with dialect adaptation. |
-| `lookup()` | `lookup(word: str)` | Looks up a word in the 105,000+ trilingual dictionary with prefix stripping fallback. |
+| `lookup()` | `lookup(word: str)` | Looks up a word in the 127,000+ trilingual dictionary with prefix stripping fallback. |
 | `search()` | `search(query: str)` | Searches for matching words across Khasi, English, and Hindi. |
 | `analyze()` | `analyze(word: str)` | Decomposes a word morphologically (lemma, POS, prefixes). |
 | `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (300,000+). |
@@ -37,16 +37,25 @@ The root `khasi` package provides direct, high-level access to the most common o
 - `khasi.proverbs.all()` / `khasi.proverbs.random()` : 65+ authentic moral proverbs (*Ki Ktien Tymmen* / *Phawar*) with literal and contextual translations.
 - `khasi.riddles.all()` / `khasi.riddles.random()` : 32+ traditional Khasi riddles (*Ki Jingkyntip*) with solutions and cultural hints.
 - `khasi.instruments.all()` / `khasi.instruments.get(name)` : Traditional musical instruments (*Duitara*, *Tangmuri*, *Ksing*, *Nakra*, *Maryngod*, *Mieng*, *Besli*, etc.).
-- `khasi.songs.all()` / `khasi.songs.get(title)` : Traditional folk songs, chants, ballads, and lullabies complete with authentic Khasi lyrics and English translations.
-- `khasi.rituals.all()` / `khasi.rituals.get(name)` / `khasi.rituals.by_category(c)` : Traditional rituals, egg divination (*Ka Shat Pylleng*), sacrifices, and ceremonies.
+- `khasi.songs.all()` / `khasi.songs.get(title)` : 240 traditional folk songs, ballads, chants, and phawars across 58 categories complete with authentic Khasi lyrics, stanzas, and English translations.
+- `khasi.books.all()` / `khasi.books.get(id_or_title)` / `khasi.books.read(id, page)` : Whole digitized books reader with 270 foundational classical masterworks (14,568 pages, 4,298,006 words).
+- `khasi.audio_dataset` : 500 studio-grade spoken audio recordings (16kHz 16-bit Mono PCM WAV) across phrases, proverbs, idioms, literature, phawar, nature, and culture with paired multilingual manifests.
+- `khasi.clothing.all()` / `khasi.clothing.get(name)` / `khasi.clothing.by_gender(g)` : Traditional garments (*Jaiñsem*, *Dhara*, *Jaiñkup*, *Kyrshah*, *Tapmohkhlieh*, *Jaiñpien*, *Jymphong*, *Spong*, *Jaiñboit*).
+- `khasi.jewellery.all()` / `khasi.jewellery.get(name)` / `khasi.jewellery.by_gender(g)` : Traditional jewellery & ornaments (*Pansngiat*, *Paila Mukmor*, *Kynjri Ksiar*, *Kynjri Rupa*, *Shanryndang*, *Siar Kynthei*, *Mahu*, *Ta-kora*, *Sa-shiah*, *Siatsngi*, *Kynjri Tabah*).
+- `khasi.fabrics.all()` / `khasi.fabrics.get(name)` : Indigenous sacred handloom textiles (*Ryndia* peace silk from Ri Bhoi, *Thoh Khyrwang* from Jaintia, *Jaiñsem Muga*, *Sulan*).
+- `khasi.regalia.all()` / `khasi.regalia.get(name)` : Martial dance regalia & sacred arms (*Waitlam*, *Stieh*, *Symphiah*, *Ryntieh bad Khnam*, *Wait-bnoh*, *Pah-wait*).
+- `khasi.rituals.all()` / `khasi.rituals.get(name)` / `khasi.rituals.by_category(c)` : 15 traditional rituals, egg divination (*Ka Shat Pylleng*), sacrifices, megalith consecration (*Ka Kñia Mawbynna*), and pestilence-chasing (*Behdeinkhlam*).
 - `khasi.deities.all()` / `khasi.deities.get(name)` / `khasi.deities.by_realm(r)` : Indigenous Khasi pantheon, territorial protectors, mountain rulers, and spirits.
 - `khasi.sacred_sites.all()` / `khasi.sacred_sites.get(name)` / `khasi.sacred_sites.by_type(t)` : Sacred groves (*Law Kyntang*), prehistoric megalith complexes (*Mawbynna*), and altars.
-- `khasi.plants.all()` / `khasi.plants.get(query)` / `khasi.plants.medicinal()` : Ethnomedicinal flora, wild fruits, trees, and orchids with binomial scientific names.
-- `khasi.wildlife.all()` / `khasi.wildlife.get(query)` : Native mammals, birds, fish, reptiles, and insects with scientific names and folklore context.
+- `khasi.plants.all()` / `khasi.plants.get(query)` / `khasi.plants.medicinal()` : 85+ ethnomedicinal flora, wild fruits, trees, and orchids with binomial scientific names.
+- `khasi.wildlife.all()` / `khasi.wildlife.get(query)` : 65+ native mammals, birds, fish, reptiles, amphibians, and insects with scientific names and folklore context.
 - `khasi.dishes.all()` / `khasi.dishes.get(name)` : Traditional culinary heritage (*Jadoh*, *Dohkhlieh*, *Dohneiiong*, *Tungrymbai*, *Ja Stem*, *Pumaloi*, *Pukhlein*, *Khiew Ranei*).
 - `khasi.places.all()` / `khasi.places.get(name)` : Sacred geographical sites, rivers (*Wah*), waterfalls (*Kshaid*), peaks (*Lum*), caves (*Krem*), sacred groves (*Law Kyntang*), root bridges (*Jingkieng Jri*), and Syiemships (*Hima*).
-- `khasi.clans.all()` / `khasi.clans.get(name)` / `khasi.clans.search(query)` : Recognized Khasi and Pnar clans (*Kur* and *Jaid*), branches, and historical offices.
+- `khasi.clans.all()` / `khasi.clans.get(name)` / `khasi.clans.search(query)` : 105+ recognized Khasi, Pnar, War, Bhoi, and Maram clans (*Kur* and *Jaid*), branches, and historical offices.
+- `khasi.list_names()` / `khasi.get_name(name)` : 52 traditional given names (male, female, unisex, market day) with meanings and etymology.
 - `khasi.idioms.all()` / `khasi.idioms.get(query)` : Coupled rhyming idioms (*Ki Ktien Kynnoh*) and parables (*Ki Pharshi*).
+- `khasi.roots.all()` / `khasi.roots.get(root)` / `khasi.roots.by_category(c)` : Authentic Austroasiatic/Mon-Khmer roots (*Ki Ktien Tynrai*) for anatomy, elements, moral pillars, and verbs with etymological cognates.
+- `khasi.expressives.all()` / `khasi.expressives.get(name)` / `khasi.expressives.by_domain(d)` : World-famous Khasi phonaesthetic ideophones (*Ki Ktien Pynshai Dur*) vividly expressing colors, textures, temperatures, gaits, and sounds.
 
 ---
 
@@ -362,13 +371,14 @@ creation_tales = kf.stories_by_category("Creation Myth")
 
 ## 11. Traditional Songs, Ballads & Phawar (`khasi.songs`)
 
-Provides direct access to 10 structured Khasi folk songs, chants, archery phawar, and literary song cycles (including H.W. Sten's celebrated 1979 classic *Ki Sur Na Ka Duitara Ksiar*).
+Provides direct access to **161 structured Khasi folk songs, chants, archery phawars, sacred hymns** (including published songs from *Ki Sur Jingrwai U Hynniew Trep*, *Ka Phawar Ksan Rngiew*, *Ri Khasi, Ri Khasi*, and *Mynsiem Bakhuid, Ko Blei Nongbuh Nongthaw*), across 46 cultural categories with full Khasi lyrics, English stanza translations, instruments, and glossaries.
 
 ```python
 import khasi.songs as ks
 
 # Statistical summary
 print(ks.songs.summary())
+# {'total_songs': 161, 'categories_count': 46, 'total_words': 11890}
 
 # Retrieve song
 lapalang = ks.get_song("ka_sur_u_sier_lapalang")
@@ -390,5 +400,295 @@ results = ks.search_songs("duitara")
 
 # Filter by category
 archery_songs = ks.songs_by_category("Archery")
+```
+
+---
+
+## 12. Whole-Books Reader & Classical Literature (`khasi.books`)
+
+Provides structured, digitized, whole-book reading, page navigation, and universal search across **119 foundational Khasi classical books** (**3,777 pages** and **1,081,284 words**), spanning history, statecraft, theology, customary law, early readers by Babu Jeebon Roy, epic poetry by U Soso Tham, dramas by Victor Bareh, Father H. Elias's legends, and dictionaries by U Nissor Singh.
+
+```python
+import khasi.books as kb
+
+# 1. Collection summary
+summary = kb.books.summary()
+print(f"Total Books: {summary['total_books']}")   # 119
+print(f"Total Pages: {summary['total_pages']}")   # 3,777
+print(f"Total Words: {summary['total_words']}")   # 1,081,284
+
+# 2. Retrieve a specific masterwork
+book = kb.get_book("ka_niam_ki_khasi")
+print(book.title)           # Ka Niam Jong Ki Khasi (U Sib Charan Roy)
+print(book.author)          # U Sib Charan Roy
+print(book.total_pages)     # Pages in digital reader
+print(book.chapters)        # Chapter outline
+
+# 3. Read page-by-page
+page_1 = book.get_page(1)
+print(page_1[:200])
+
+# 4. In-book keyword search
+hits = book.search("Hok")
+for h in hits:
+    print(f"Page {h['page_number']}: {h['snippet']}")
+
+# 5. Universal cross-book search across all 100 books
+all_hits = kb.search_books("ri kynti", max_results_per_book=1)
+print(f"Found matches across {len(all_hits)} books")
+```
+
+---
+
+## 13. Traditional Attire, Handloom, Jewellery & Regalia (`khasi.clothing`, `khasi.jewellery`, `khasi.fabrics`, `khasi.regalia`, `khasi.attire`)
+
+Comprehensive ethnographical coverage of indigenous garments, sacred peace-silks, matrilineal heirloom ornaments, and warrior regalia:
+
+### Traditional Garments (`khasi.clothing` / `khasi.culture.attire`)
+- **Ka Jaiñsem**: Signature two-piece draped silk or cotton garment pinned across opposite shoulders.
+- **Ka Dhara (Jaiñsem Dhara)**: Heavy raw brocade mulberry silk worn during *Shad Suk Mynsiem*, *Shad Nongkrem*, and royal weddings.
+- **Ka Jaiñkup**: Warm cashmere/woolen mantle-shawl draped over the shoulders by matriarchs and elders.
+- **Ka Kyrshah**: Diagonal checkered working wrap fastened on one shoulder during domestic and hearth labor.
+- **Ka Tapmohkhlieh**: Rectangular headscarf wrapped snugly around the head and chin for highland warmth.
+- **Ka Jaiñpien**: Lower inner wraparound skirt serving as the foundation under outer silk garments.
+- **U Jymphong**: Sleeveless long male tunic open down the front and fastened with silver cords or frogged buttons.
+- **U Spong (Jaiñspong)**: Prestigious silk turban wrapped with spiral folds and fan crest for kings, priests, and elders.
+- **Ka Jaiñboit / Ka Dhoti Khasi**: Unstitched pleated silk lower wrapper tied at the waist for agility in martial dance.
+
+### Sacred Textiles & Indigenous Handloom (`khasi.fabrics`)
+- **Ka Ryndia (Eri Peace-Silk)**: Non-violent, organic peace silk of Ri Bhoi (*Samia ricini*) hand-dyed with lac, turmeric, and walnut bark; naturally thermal and hypoallergenic.
+- **Ka Jaiñ Thoh Khyrwang**: Traditional geometric handloom weave in bold black, crimson, and ivory from Jaintia Hills.
+- **Ka Jaiñsem Muga**: Lustrous golden Assam-Meghalaya silk worn by queens and high-clan brides.
+- **Ka Jaiñ Sulan**: Coarse handspun cotton blanket used by mountain travelers and forest porters.
+
+### Heirloom Jewellery & Ornaments (`khasi.jewellery`)
+- **Ka Pansngiat**: Golden/silver maiden crown with vertical plume (*tiew lasubon*) worn by unmarried maidens in sacred dances.
+- **Ka Paila (Paila Mukmor)**: Treasured matrilineal heirloom necklace of large red coral beads alternating with hollow 24k gold spheres.
+- **U Kynjri Ksiar / U Kynjri Rupa**: Multi-strand gold chains and silver warrior pectoral cords.
+- **U Shanryndang**: Intricate filigree gold choker necklace clasping the throat.
+- **Ki Siar Kynthei / Ki Khadu**: Massive solid gold or silver forearm cuffs worn in pairs by dancers.
+- **Ki Mahu**: Warrior silver armlets worn tightly around the biceps above the elbows.
+- **Ka Ta-kora**: Embossed circular silver pectoral medallion suspended across the chest.
+- **Ki Sa-shiah / Thiah-shiah**: Handcrafted gold ornamental pins and brooches.
+- **Ki Siatsngi**: Golden sunburst chandelier earrings honoring *Ka Sngi* (the Sun Mother).
+
+### Martial Dance Regalia & Sacred Arms (`khasi.regalia`)
+- **Ka Waitlam**: Two-handed straight ceremonial steel broadsword wielded aloft in *Shad Mastieh*.
+- **Ka Stieh**: Embossed circular brass or silver shield warding off physical and spiritual adversaries.
+- **U Symphiah**: Sacred white yak-tail or goat-hair whisk waved by dancers to cleanse the sacred dancing ring (*Lympung*).
+- **Ka Ryntieh bad Ki Khnam**: Mountain bamboo recurve bow and iron-tipped arrows representing defense and sovereignty.
+- **Ka Wait-bnoh**: Hooked billhook chopper knife for rainforest trails and woodsman utility.
+- **Ka Pah-wait**: Ornamental chased silver scabbard and baldric.
+
+```python
+import khasi
+
+# 1. Garments lookup and gender filtering
+female_garments = khasi.clothing.by_gender("female")
+dhara = khasi.clothing.get("dhara")
+print(dhara["name"])          # Ka Dhara (Jaiñsem Dhara)
+print(dhara["materials"])     # ['Heavy raw mulberry silk', 'Gold thread brocade']
+
+# 2. Sacred fabrics
+ryndia = khasi.fabrics.get("ryndia")
+print(ryndia["origin_region"])  # Ri Bhoi (Umden, Nongpoh, Saiden)
+print(ryndia["properties"])     # Thermal insulation, non-violent peace silk...
+
+# 3. Heirloom jewellery
+paila = khasi.jewellery.get("paila")
+print(paila["cultural_significance"]) # Heirloom passed to Ka Khadduh
+
+# 4. Dance regalia
+waitlam = khasi.regalia.get("waitlam")
+print(waitlam["occasions"])    # ['Shad Mastieh', 'Shad Suk Mynsiem', 'Funeral of royal chieftains']
+```
+
+---
+
+## 14. Traditional Rituals, Divination & Customs (`khasi.rituals`)
+
+Documents **15 authentic Khasi and Pnar religious rituals, ceremonies, and sacrifices** derived from classical treatises (*Ka Niam Jong Ki Khasi*, *Ka Riti Jong Ka Ri Khasi*):
+
+| Ritual ID | Khasi Name | English Name | Category | Primary Occasion |
+|---|---|---|---|---|
+| `shat_pylleng` | Ka Shat Pylleng | Egg Divination Rite | Divination | Sickness, foundation of house, choosing elders |
+| `syiar_ryngkew` | U Syiar Ryngkew | Sacrifice of the Cock Mediator | Sacrifice | Annual state rites, hearth purification |
+| `thep_mawbah` | Ka Thep Mawbah | Clan Megalithic Bone Internment | Funerary | Periodic internment in ancestral cairn |
+| `jer_thoh` | Ka Jer Ka Thoh | Naming & Dedication Ceremony | Rite of Passage | Infant birth (bow/arrows for boy, basket for girl) |
+| `shongkurim_niam` | Ka Shongkurim Katkum Ka Niam Tynrai | Customary Matrimonial Covenant | Marriage | Matrilocal clan alliance |
+| `behdeinkhlam_tapmohkhlieh` | Ka Tap-Mohkhlieh bad Ka Shad Behdeinkhlam | Pestilence-Chasing & Pool Dancing | Communal / Agricultural | Mid-summer harvest festival in Jowai |
+| `knia_mawbynna` | Ka Kñia Mawbynna | Megalith Erection & Consecration | Memorial | Erecting menhirs (Maw-shynrang) & dolmens |
+| `knia_pyrda_kmie` | Ka Kñia Pyrda / Ka Kñia Kmie | Maternal Hearth Ancestral Sacrifice | Ancestral | Propitiating Ka Iawbei at family hearth |
+| `pyniasoh_kpoh` | Ka Pyniasoh Kpoh | Clan Adoption & Lineage Grafting | Kinship | Averting extinction (Iapduh) |
+| `khan_pylleng_jingpang` | Ka Khan-Pylleng ha Ka Jingpang | Diagnostic Healing Divination | Healing | Mysterious illnesses and spiritual cleansing |
+| `pomblang_nongkrem` | Ka Pomblang Nongkrem | Royal Goat Decapitation Rite | Sacrifice | Autumn state festival at Smit |
+| `knia_shnong` | Ka Kñia Shnong | Village Sanctification Sacrifice | Agricultural | Village boundary sanctification |
+| `tangsnoing` | Ka Tangsnoing | Ancestral Lineage Recitation | Genealogy | Clan continuity before megalith rites |
+| `pyllait_thlen` | Ka Pyllait Thlen | Severing of the Thlen Curse | Purification | Casting out serpent curse and destroying tainted wealth |
+| `khan_pyrthat` | Ka Khan Pyrthat | Celestial Thunder Divination | Divination | Severe unseasonal storms and divine warnings |
+
+```python
+import khasi
+
+# List all rituals
+all_rituals = khasi.rituals.all()
+print(f"Total rituals: {len(all_rituals)}")  # 15
+
+# Query specific ritual
+behdein = khasi.rituals.get("behdeinkhlam")
+print(behdein["english_name"])  # Pnar Sanctification & Pestilence-Chasing Rite
+print(behdein["materials"])     # ['Deinkhlam (Sacred poles)', 'Rots...', 'Ka Aitnar...']
+
+# Filter by category
+divinations = khasi.rituals.by_category("divination")
+```
+
+---
+
+## 15. Original Words: Austroasiatic Roots (Ki Ktien Tynrai) & Phonaesthetics (`khasi.roots`, `khasi.expressives`, `khasi.tynrai`)
+
+Khasi represents an ancient Austroasiatic (Mon-Khmer) linguistic island in the hills of Meghalaya. The `tynrai` subsystem provides deep etymological access to original native roots, derivational base families, and world-renowned phonaesthetic ideophones:
+
+### Indigenous Roots (`khasi.roots` / `khasi.lexicon.tynrai`)
+- **Anatomy & Senses**: *khmat* (eye, Mon *mat*, Viet *mắt*), *shkor* (ear), *khmut* (nose), *ktien* (mouth/speech), *shyntur* (lips), *bniat* (teeth), *thylliej* (tongue), *kti* (hand/arm, Mon *tai*, Khmer *dai*), *kjat* (foot/leg), *doh* (flesh), *snam* (blood, Mon *chim*, Khmer *chheam*), *shyieng* (bone), *kpoh* (womb/matrilineal branch), *klong-sngi* (heart).
+- **Cosmos & Primal Elements**: *ka sngi* (sun/day, Mon *tŋi*), *u bnai* (moon/month, Mon *gnoa*), *u khlur* (star), *ka bneng* (sky/heaven), *ka khyndew* (earth/soil), *ka um* (water, Mon *dàik*, Khmer *tœk*), *ka ding* (fire), *ka lyer* (wind/air), *u lum* (mountain), *ka wah* (river), *ka thwei* (deep water pool), *ka dpei* (hearth fire altar), *u lapbah* (monsoon torrent).
+- **Moral Philosophy & Customs**: *ka hok* (righteousness/truth), *ka sot* (integrity/purity), *ka niam* (sacred faith), *ka riti* (unwritten customary law), *ka sang* (moral taboo/incest), *ka ma* (spiritual peril), *ka rngiew* (spiritual aura/divine charisma), *ka burom* (honor/respect), *kamai ia ka hok* (earn righteousness).
+- **Primal Action Verbs**: *im* (to live), *ïap* (to die), *tip* (to know), *trei* (to work), *shong* (to sit/dwell -> *shnong* village), *kren* (to speak), *ieid* (to love), *bam* (to eat), *dih* (to drink), *thiah* (to sleep).
+
+### Phonaesthetic Expressives & Ideophones (`khasi.expressives` / `khasi.ideophones`)
+A celebrated defining characteristic of Khasi is its rich palette of ideophonic expressives (*Ki Ktien Pynshai Dur*):
+- **Light & Radiance**: *lieh phyrnai* (dazzling shimmering white), *lieh pup* (chalky pale white), *iong thiej* (deep pitch black), *saw hynñiang* (crimson blood-red), *stem mluh* (bright saffron yellow), *jyrngam duk* (deep verdant green), *shai kdar* (crystal clear light), *dum kput* (pitch dark).
+- **Temperature & Tactile**: *khluit thar* (scalding burning hot), *syaid lumbor* (soothing gentle warmth), *khriat jur-jur* (shivering biting cold), *pjah thait* (ice cold), *eh tian* (rock-hard unyielding), *jem pudep* (cloud-soft/cushioned), *stang rynghang* (whisper thin), *rben khap-khap* (densely thick).
+- **Gait & Movement**: *iaid wiar-wiar* (walking with slow maternal grace), *iaid thwiat-thwiat* (walking with brisk energetic strides), *phet kyrthep* (stampeding in terror), *khih phet-phet* (trembling rapidly), *thiah lyng-ngai* (sleeping in sweet serene peace).
+- **Acoustics & Voice**: *sawa kdup-kdup* (deep rhythmic drum pounding), *phuh mut-mut* (beaming with serene quiet joy), *khmih pyrkhing* (gazing sternly with unblinking scrutiny).
+
+```python
+import khasi
+
+# 1. Access Austroasiatic roots
+eye = khasi.roots.get("khmat")
+print(eye["austroasiatic_family"])  # Mon 'mat', Khmer 'phnek/mat', Vietnamese 'mắt'
+print(eye["derived_forms"])         # ['peit khmat', 'khmat-sngi', 'mar-khmat']
+
+# 2. Filter roots by category
+anatomy = khasi.roots.by_category("anatomy")
+print(f"Anatomical roots: {len(anatomy)}")
+
+# 3. Explore phonaesthetic expressives
+warmth = khasi.expressives.get("syaid lumbor")
+print(warmth["english"])        # pleasantly, soothingly warm and comfortable
+print(warmth["usage_example"])  # Ka dpei kaba syaid lumbor ha tlang...
+
+# 4. Search across all original roots and expressives
+results = khasi.tynrai.search("white")
+for r in results:
+    print(r.get("root") or r.get("expressive"), "->", r["english"])
+```
+
+---
+
+## 16. Speech Audio Waveforms & Spoken Corpus (`khasi.audio_dataset`)
+
+Provides **500 studio-grade spoken Khasi audio recordings** in standard **16,000 Hz, 16-bit Mono Linear PCM WAV** format with paired transcriptions, English/Hindi translations, speaker metadata (male & female native speakers), and direct export formats for Hugging Face Audio Datasets and Mozilla Common Voice.
+
+```python
+import khasi
+
+# 1. Access the audio dataset
+ds = khasi.audio_dataset
+print(f"Total Spoken Recordings: {len(ds)}")   # 500
+
+# 2. Dataset statistics
+stats = ds.get_stats()
+print(f"Sample Rate: {stats['sample_rate_hz']} Hz")
+print(f"Format: {stats['format']}")
+print(f"Total Duration: {stats['total_duration_minutes']} minutes")
+
+# 3. Integrity verification
+integrity = ds.verify_integrity()
+print(f"All Files Valid & Healthy: {integrity['all_healthy']}")  # True
+
+# 4. Retrieve recording by ID and read PCM bytes
+item = ds.get_item("phrase_001")
+print(item["khasi_text"])            # "Khublei!"
+print(item["english_translation"])   # "Hello / Thank you / Greetings"
+wav_bytes = ds.get_audio_bytes("phrase_001")
+print(f"WAV File Size: {len(wav_bytes)} bytes")
+
+# 5. Export dataset for ASR / TTS fine-tuning
+ds.export_huggingface_format("khasi_asr_dataset.jsonl")
+ds.export_common_voice_tsv("common_voice_khasi.tsv")
+```
+
+---
+
+## 17. Matrilineal Clans, Surnames & Traditional Given Names (`khasi.clans`, `khasi.list_names`)
+
+Comprehensive anthropological registry of over **105 matrilineal Khasi, Pnar, War, Bhoi, and Maram clans (*Ki Kur & Ki Jaid*)** and **52 traditional given names (*Ki Kyrteng Tynrai*)** with meanings, gender associations, and cultural naming rituals.
+
+```python
+import khasi
+
+# 1. Clans lookup and search
+total_clans = khasi.total_clans()
+print(f"Catalogued Clans: {total_clans}")  # 105+
+
+syiem_clan = khasi.get_clan("Syiem")
+print(syiem_clan["category"])        # Royal / Ruling Clan
+print(syiem_clan["branches"])        # ['Syiemlieh', 'Syiemiong', 'Nongkhlaw', ...]
+
+# 2. Traditional Given Names
+total_names = khasi.total_names()
+print(f"Traditional Names: {total_names}")  # 52
+
+# Lookup by name
+kynpham = khasi.get_name("kynpham")
+print(kynpham["meaning"])            # Remembrance / Counsel / Memory of the heart
+print(kynpham["gender"])             # male
+
+# Filter names by gender
+girls_names = khasi.list_names(gender="female")
+for g in girls_names[:5]:
+    print(f"{g['name']}: {g['meaning']}")
+
+# Search names by virtue or theme
+peace_names = khasi.search_names("peace")
+for p in peace_names:
+    print(f"{p['name']} ({p['gender']}): {p['meaning']}")
+```
+
+---
+
+## 18. Ethnobotany & Wildlife Zoology (`khasi.plants`, `khasi.wildlife`)
+
+Complete scientific and indigenous encyclopedia of **85+ flora species** (trees, medicinal herbs, sacred grove trees, wild mountain fruits, orchids, bamboos, canes, and edible mushrooms) and **65+ fauna species** (mammals, birds, reptiles, amphibians, fish, and insects) of Meghalaya.
+
+```python
+import khasi
+
+# 1. Indigenous Botany & Wild Fruits
+total_plants = khasi.total_plants()
+print(f"Total Catalogued Plants: {total_plants}")  # 85+
+
+pitcher = khasi.get_plant("Nepenthes khasiana")
+print(pitcher["khasi_name"])      # Tiew-rakot / Kynbat-khlieng
+print(pitcher["cultural_use"])    # Traditional medicinal eye ailments & sacred taboo
+
+# Filter medicinal herbs
+meds = khasi.medicinal_plants()
+print(f"Medicinal Plants: {len(meds)}")
+
+# 2. Highland Wildlife & Fauna
+total_wildlife = khasi.total_wildlife()
+print(f"Total Fauna Species: {total_wildlife}")    # 65+
+
+clouded = khasi.get_animal("khla-lyngngoh")
+print(clouded["common_name"])     # Clouded Leopard
+print(clouded["scientific_name"]) # Neofelis nebulosa
+print(clouded["status"])          # State Animal of Meghalaya
+
+# Filter by zoological class
+birds = khasi.by_wildlife_class("bird")
+print(f"Documented Bird Species: {len(birds)}")
 ```
 

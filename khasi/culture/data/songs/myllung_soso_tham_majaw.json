@@ -1,0 +1,44 @@
+{
+  "id": "myllung_soso_tham_majaw",
+  "title": "Ode to Bard Soso Tham (Myllung Soso Tham)",
+  "khasi_title": "Myllung Soso Tham",
+  "category": "Bardic Elegy & Homage",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Ko Myllung Soso Tham ba sawa ka sur,\nHa ki lum Khasi pha la pynim ia ka ktien;\nKa Duitara Ksiar ka la kynud ba thiang,\nBan pynsah ia ka nam jong u Hynniewtrep.\n\nWadei la sep ka sngi jong ka jingim,\nKa nam jong pha kam ju duh kam ju rim;\nHa ki dohnud ki samla ka ri,\nKa sur jong pha kan iai sawa junom.",
+  "lyrics_english": "O Bard Soso Tham whose melodious strain resounds,\nAcross the Khasi hills thou gavest living voice to our tongue;\nThy Golden Duitara strummed sweet and clear,\nImmortalizing the name of the Seven Huts.\n\nThough the sun of thy earthly life has set,\nThy renown shall never perish nor decay;\nWithin the hearts of our homeland's youth,\nThy melody shall echo forevermore.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Myllung Soso Tham)",
+      "khasi": "Ko Myllung Soso Tham ba sawa ka sur,\nHa ki lum Khasi pha la pynim ia ka ktien;\nKa Duitara Ksiar ka la kynud ba thiang,\nBan pynsah ia ka nam jong u Hynniewtrep.",
+      "english": "O Bard Soso Tham whose melodious strain resounds,\nAcross the Khasi hills thou gavest living voice to our tongue;\nThy Golden Duitara strummed sweet and clear,\nImmortalizing the name of the Seven Huts."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Myllung Soso Tham)",
+      "khasi": "Wadei la sep ka sngi jong ka jingim,\nKa nam jong pha kam ju duh kam ju rim;\nHa ki dohnud ki samla ka ri,\nKa sur jong pha kan iai sawa junom.",
+      "english": "Though the sun of thy earthly life has set,\nThy renown shall never perish nor decay;\nWithin the hearts of our homeland's youth,\nThy melody shall echo forevermore."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 67
+}

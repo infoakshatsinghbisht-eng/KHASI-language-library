@@ -1,0 +1,52 @@
+{
+  "id": "kynjai_ha_la_ri",
+  "title": "Serenity in Our Homeland (Kynjai Ha La Ri)",
+  "khasi_title": "Kynjai Ha La Ri",
+  "category": "Bardic Lyric & Homeland Elegy",
+  "composer": "Soso Tham / H.W. Sten",
+  "year": 1936,
+  "cultural_context": "One of the crowning lyrical achievements of modern Khasi literature, from Soso Tham's Ka Duitara Ksiar (1936) and analyzed extensively in H.W. Sten's musical treatise. Expresses the tranquil joy, spiritual calm (kynjai), and unhurried freedom of living in one's own mountain homeland surrounded by murmuring pine groves and sacred rivers.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Mieng (bamboo mouth harp)"
+  ],
+  "themes": [
+    "Homeland Peace",
+    "Highland Solitude",
+    "Pine Forests",
+    "Quiet Joy",
+    "Nature Harmony"
+  ],
+  "lyrics_khasi": "Kynjai ha la ri, ha la tnum ba pyngngad,\nYm don ba khuslai, ym don ba pynsalat;\nKi dieng kseh ki kynih ha ka erpyngngad,\nKa dohnud ka kmen ha ka suk ba kynjai.\n\nKi wahduid ki tuid da ka sur ba jemnud,\nKi mawsiang ki sngap ia ka parom mynhyndai;\nHa tnum u Lum Shillong ka lyer ka dang beh,\nKa nam jong ka Ri kan ym ju klet noh!\n\nLa ngi long kiba duk, kiba rit ha pyrthei,\nHa la ri ngi long kiba kmen bad shongkhrein;\nU kba u la heh ha ki lyngkha ba iar,\nU Duitara u tem ha ka sur ba phyrnai!",
+  "lyrics_english": "Serenity in our own land, beneath our cool highland roof,\nNo sorrow troubles us, no harsh distraction disturbs our peace;\nThe tall pine trees murmur in the refreshing mountain breeze,\nThe heart rejoices in unhurried, tranquil serenity.\n\nThe clear mountain brooks ripple with a gentle melody,\nThe ancient granite monoliths listen to legends of old;\nUpon the ridge of Shillong Peak the breeze still blows soft,\nThe renown of our homeland shall never be forgotten!\n\nThough we be humble and small in the eyes of the wide world,\nIn our native hills we dwell majestic and content;\nThe golden paddy stands tall across wide terraced fields,\nAnd the golden Duitara plucks its shimmering melody!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Suk ba Kynjai (Peaceful Tranquility)",
+      "khasi": "Kynjai ha la ri, ha la tnum ba pyngngad,\nYm don ba khuslai, ym don ba pynsalat;\nKi dieng kseh ki kynih ha ka erpyngngad,\nKa dohnud ka kmen ha ka suk ba kynjai.",
+      "english": "Serenity in our homeland, under cool roofs; no worries disturb us. Pine trees whisper in gentle breezes, the soul rejoices in tranquil peace."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ki Wahduid bad ki Mawsiang (Brooks and Monoliths)",
+      "khasi": "Ki wahduid ki tuid da ka sur ba jemnud,\nKi mawsiang ki sngap ia ka parom mynhyndai;\nHa tnum u Lum Shillong ka lyer ka dang beh,\nKa nam jong ka Ri kan ym ju klet noh!",
+      "english": "Mountain streams ripple in tender melodies; stones listen to ancient legends. On Shillong Peak winds blow gentle; homeland honor never fades."
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Jingkmen ha la Shnong (Joy in Native Soil)",
+      "khasi": "La ngi long kiba duk, kiba rit ha pyrthei,\nHa la ri ngi long kiba kmen bad shongkhrein;\nU kba u la heh ha ki lyngkha ba iar,\nU Duitara u tem ha ka sur ba phyrnai!",
+      "english": "Though poor and humble before the world, in our land we dwell joyful and proud; paddy grows tall in wide fields, the Duitara resonates in bright tones!"
+    }
+  ],
+  "vocabulary": {
+    "kynjai": "State of absolute peaceful serenity, tranquil leisure, unhurried ease",
+    "dieng kseh": "Khasi highland pine (Pinus kesiya), iconic evergreen of Meghalaya",
+    "wahduid": "Small murmuring mountain brook cascading over pebbles",
+    "mawsiang": "Massive granite monolith or flat stone altar",
+    "shongkhrein": "Dignified, majestic, holding oneself with self-respecting grace",
+    "parom": "Ancient oral folklore, fable, or historical ancestral narrative"
+  },
+  "word_count": 108
+}

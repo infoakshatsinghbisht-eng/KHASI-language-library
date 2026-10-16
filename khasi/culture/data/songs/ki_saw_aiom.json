@@ -1,0 +1,61 @@
+{
+  "id": "ki_saw_aiom",
+  "title": "Song of the Four Seasons (Ki Saw Aiom)",
+  "khasi_title": "Ki Saw Aiom: Pyrem, Lyiur, Synrai, Tlang",
+  "category": "Seasonal Pastoral & Nature Cycle",
+  "composer": "Soso Tham / H.W. Sten",
+  "year": 1962,
+  "cultural_context": "Celebrates the four distinct climatic and agricultural seasons of the Khasi Hills: Ka Pyrem (Spring, with blossoming cherry trees and wild orchids), Ka Lyiur (Monsoon, with majestic thunderstorms and flooding waterfalls), Ka Synrai (Autumn, with golden paddy harvest and festive dances), and U Tlang (Winter, with morning frosts, hearthside storytelling, and archery contests).",
+  "instruments": [
+    "Sharati",
+    "Duitara",
+    "Tangmuri",
+    "Ksing Padiah"
+  ],
+  "themes": [
+    "Four Seasons",
+    "Agricultural Rhythm",
+    "Monsoon Thunder",
+    "Autumn Harvest",
+    "Winter Hearth"
+  ],
+  "lyrics_khasi": "Ka Pyrem ka la wan ryngkat u tiew kulab,\nKi sim ki la rwai ha ki tnat ba jyrngam;\nKa Mariang ka la pynphuh ia la ka sopti,\nKi samla ki la mih ban rep ha madan!\n\nKa Lyiur ka la wan ryngkat ka slapbah,\nKi pyrthat ki la rih, ki kshaid ki la sawa;\nKi thwei ki la shlei, ki um ki la tuid,\nKa ri lum ka la pyngngad baroh shi lyiur!\n\nKa Synrai ka la wan ryngkat u kba ksiar,\nKi lyngkha ki la tiew ha ka rong ba sngur;\nKi tymmen ki kmen, ki khunlung ki rkhie,\nNgin lum ia u kba sha ki thiar ba khraw!\n\nU Tlang u la wan ryngkat ka erkyrkha,\nKa thah ka la sop ia ki phlang ha madan;\nHa rympei ngin shong ban sngap ia ka parom,\nKi ksing bad ki sharati kin sawa pat ha pyrem!",
+  "lyrics_english": "Springtime has arrived accompanied by wild mountain roses,\nThe forest birds sing upon verdant leafy boughs;\nMother Nature has arrayed her resplendent mantle,\nAnd the youth step forth to cultivate the fertile fields!\n\nSummer Monsoon has arrived with torrential rains,\nThe thunder rumbles deep, the waterfalls roar across the cliffs;\nThe gorges overflow, crystal waters tumble free,\nAnd the mountain land rests cool throughout the wet season!\n\nAutumn has arrived laden with golden ripened paddy,\nThe terraced fields glow in pure radiant amber hue;\nThe elders rejoice, the children laugh in delight,\nAs we gather the harvest into the great ancestral granaries!\n\nWinter has arrived with chilly mountain winds,\nWhite frost carpets the meadow grasses in the dawn;\nBeside the hearth fire we gather to hear the ancient lore,\nUntil drums and sweet flutes resound once more in Spring!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Pyrem (Spring Renewal)",
+      "khasi": "Ka Pyrem ka la wan ryngkat u tiew kulab,\nKi sim ki la rwai ha ki tnat ba jyrngam;\nKa Mariang ka la pynphuh ia la ka sopti,\nKi samla ki la mih ban rep ha madan!",
+      "english": "Spring arrives with wild roses; birds sing on green boughs. Nature puts on her blossoms, and youth step forth to plow."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Lyiur (Summer Monsoon)",
+      "khasi": "Ka Lyiur ka la wan ryngkat ka slapbah,\nKi pyrthat ki la rih, ki kshaid ki la sawa;\nKi thwei ki la shlei, ki um ki la tuid,\nKa ri lum ka la pyngngad baroh shi lyiur!",
+      "english": "Monsoon brings torrential rains; thunder roars and waterfalls echo. Rivers swell and the highlands stay cool all season."
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Synrai (Autumn Harvest)",
+      "khasi": "Ka Synrai ka la wan ryngkat u kba ksiar,\nKi lyngkha ki la tiew ha ka rong ba sngur;\nKi tymmen ki kmen, ki khunlung ki rkhie,\nNgin lum ia u kba sha ki thiar ba khraw!",
+      "english": "Autumn brings golden paddy; fields glow in amber beauty. Elders rejoice and children laugh as granaries fill with rice."
+    },
+    {
+      "stanza_number": 4,
+      "title": "U Tlang (Winter Hearth)",
+      "khasi": "U Tlang u la wan ryngkat ka erkyrkha,\nKa thah ka la sop ia ki phlang ha madan;\nHa rympei ngin shong ban sngap ia ka parom,\nKi ksing bad ki sharati kin sawa pat ha pyrem!",
+      "english": "Winter brings biting breezes; white frost covers the highland meadows. Around hearth fires we listen to ancient tales until flutes welcome Spring."
+    }
+  ],
+  "vocabulary": {
+    "aiom": "Season, climatic period of the annual astronomical cycle",
+    "pyrem": "Springtime, season of blossoming and sowing (March to May)",
+    "lyiur": "Summer monsoon, season of heavy rains (June to August)",
+    "synrai": "Autumn harvest season, season of golden grain (September to November)",
+    "tlang": "Winter, season of cold mountain breezes and hearth gatherings (December to February)",
+    "thah": "Frost, white ice crystals covering morning vegetation",
+    "thiar": "Traditional woven bamboo granary for storing harvested unhusked rice (kba)",
+    "rympei": "The sacred three-stone matrilineal kitchen hearth fire"
+  },
+  "word_count": 148
+}

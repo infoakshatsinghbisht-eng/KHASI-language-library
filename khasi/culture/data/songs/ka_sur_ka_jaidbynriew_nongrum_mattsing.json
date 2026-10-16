@@ -1,0 +1,79 @@
+{
+  "id": "ka_sur_ka_jaidbynriew_nongrum_mattsing",
+  "title": "The Voice of the Nation (Ka Sur Ka Jaidbynriew)",
+  "khasi_title": "Ka Sur Ka Jaidbynriew",
+  "category": "National Solidarity Anthem",
+  "composer": "Mattsing Nongrum",
+  "year": 1998,
+  "cultural_context": "Stirring call for unity across all Khasi sub-tribes (Khynriam, Pnar, Bhoi, War, Maram) into one cohesive cultural brotherhood, from 'Ki Sur Ka Mynnor Bad Mynta'.",
+  "instruments": [
+    "Ksing",
+    "Tangmuri",
+    "Sharati",
+    "Nakra"
+  ],
+  "themes": [
+    "Highland Unity",
+    "One Brotherhood",
+    "Pnar War Bhoi Maram",
+    "National Voice"
+  ],
+  "lyrics_khasi": "Sngap ia ka sur jong ka jaidbynriew,\nBa sawa na Kupli haduh Titos;\nU Khynriam, u Pnar, u Bhoi bad u War,\nU Maram ba shlur ha ki them bad ki lum;\nNgi long shi-kpa bad shi-kmie,\nKi khun u Hynniewtrep baroh;\nKawei ka snam, kawei ka nia,\nBa pyniatylli ia ngi ha ka hok.\n\nTo phet noh ka jingpait jingpra,\nKa jingiapher ktien kam dei ban pynduh;\nHa ka dohnud ka shong kawei ka sur,\nBa kwah ia ka jingsuk jong ka ri;\nIeng, ko ki khun ka Bri U Hynniewtrep,\nNgin rwai ka sur jong ka jingkyrmen,\nBan pynkhlain ia ka lawei\nJong ka pateng ba dang wan.",
+  "lyrics_english": "Hark to the united voice of the nation,\nEchoing from Kopili river unto the Titos;\nThe Khynriam of the plateau, Pnar of Jaintia, Bhoi of the plains, War of the cliffs,\nAnd valiant Maram of the western ranges;\nWe share one common father and one mother,\nAll children of the Seven Huts together;\nOne sacred blood, one righteous cause,\nUniting us in justice and truth.\n\nLet division and factional discord flee away,\nDifferences in dialect must never sever our bond;\nIn every breast beats one identical chord,\nYearning for the enduring peace of our motherland;\nArise, children of the Sacred Realm of Seven Huts,\nLet us raise together the anthem of high hope,\nTo fortify the destiny\nOf generations yet to be born.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Sngap ia ka sur jong ka jaidbynriew,",
+        "Ba sawa na Kupli haduh Titos;",
+        "U Khynriam, u Pnar, u Bhoi bad u War,",
+        "U Maram ba shlur ha ki them bad ki lum;",
+        "Ngi long shi-kpa bad shi-kmie,",
+        "Ki khun u Hynniewtrep baroh;",
+        "Kawei ka snam, kawei ka nia,",
+        "Ba pyniatylli ia ngi ha ka hok."
+      ],
+      "english": [
+        "Hark to the united voice of the nation,",
+        "Echoing from Kopili river unto the Titos;",
+        "The Khynriam of the plateau, Pnar of Jaintia, Bhoi of the plains, War of the cliffs,",
+        "And valiant Maram of the western ranges;",
+        "We share one common father and one mother,",
+        "All children of the Seven Huts together;",
+        "One sacred blood, one righteous cause,",
+        "Uniting us in justice and truth."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "To phet noh ka jingpait jingpra,",
+        "Ka jingiapher ktien kam dei ban pynduh;",
+        "Ha ka dohnud ka shong kawei ka sur,",
+        "Ba kwah ia ka jingsuk jong ka ri;",
+        "Ieng, ko ki khun ka Bri U Hynniewtrep,",
+        "Ngin rwai ka sur jong ka jingkyrmen,",
+        "Ban pynkhlain ia ka lawei",
+        "Jong ka pateng ba dang wan."
+      ],
+      "english": [
+        "Let division and factional discord flee away,",
+        "Differences in dialect must never sever our bond;",
+        "In every breast beats one identical chord,",
+        "Yearning for the enduring peace of our motherland;",
+        "Arise, children of the Sacred Realm of Seven Huts,",
+        "Let us raise together the anthem of high hope,",
+        "To fortify the destiny",
+        "Of generations yet to be born."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "khynriam": "highland plateau Khasi people",
+    "pnar": "Jaintia Hills Khasi people",
+    "bhoi": "northern valleys Khasi people",
+    "war": "southern slopes/gorge Khasi people",
+    "bri u hynniewtrep": "the sacred domain/realm of the Seven Huts"
+  },
+  "word_count": 110
+}

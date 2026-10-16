@@ -1,0 +1,45 @@
+{
+  "id": "ka_pyrem",
+  "title": "Vernal Awakening (Ka Pyrem)",
+  "khasi_title": "Ka Jingrwai jong Ka Pyrem",
+  "category": "Spring Celebration & Floral Lyric",
+  "composer": "H.W. Sten",
+  "year": 1962,
+  "cultural_context": "A beloved lyrical celebration of Spring in Meghalaya. Describes the awakening of mountain flora, the blooming of the pink Himalayan cherry blossoms (tiew-doh-maw) and wild yellow orchids (tiew-pathaw), the playful calling of the forest cuckoo, and the renewal of love and hope in highland villages.",
+  "instruments": [
+    "Sharati",
+    "Mieng",
+    "Duitara",
+    "Ksing Padiah"
+  ],
+  "themes": [
+    "Spring Awakening",
+    "Mountain Orchids",
+    "Birdsong",
+    "Youthful Love",
+    "Vernal Rebirth"
+  ],
+  "lyrics_khasi": "Ha ki riat ba rben ki syntiew ki phuh,\nKa Pyrem ka la wan ban pynkmen ia ngi!\nU tiew-doh-maw u la pynpaw la ka khmat,\nKa sngi ka la shai ha ka dur ba phyrnai.\n\nKi sim-tyngwieng ki rwai ha ki tnat dieng,\nKa lyer-pyrem ka beh ha ka sur ba bang;\nKo samla ba shlur, to mih noh sha rep,\nBa ka ri kan ai ia ka spah ba paka!",
+  "lyrics_english": "Along the steep rocky gorges the mountain flowers bloom,\nSweet Spring has arrived to gladden our hearts!\nThe wild rock orchid reveals its radiant face,\nThe morning sun shines in brilliant resplendence.\n\nThe swallows warble upon leafy branches,\nThe gentle spring breeze wafts in delicious sweetness;\nO brave young cultivators, go forth unto the fields,\nThat our beloved homeland may yield her richest bounty!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Jingphuh ki Syntiew (Blossoming of Flowers)",
+      "khasi": "Ha ki riat ba rben ki syntiew ki phuh,\nKa Pyrem ka la wan ban pynkmen ia ngi!\nU tiew-doh-maw u la pynpaw la ka khmat,\nKa sngi ka la shai ha ka dur ba phyrnai.",
+      "english": "In deep gorges blossoms awaken; Spring arrives bringing joy! Rock orchids unveil their faces, the sun shines in sparkling radiance."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Sur ka Lyer-Pyrem (Melody of the Spring Wind)",
+      "khasi": "Ki sim-tyngwieng ki rwai ha ki tnat dieng,\nKa lyer-pyrem ka beh ha ka sur ba bang;\nKo samla ba shlur, to mih noh sha rep,\nBa ka ri kan ai ia ka spah ba paka!",
+      "english": "Swallows sing on high tree limbs; spring breezes blow sweet. Rise up, valiant youth, to cultivate the land for bountiful harvest!"
+    }
+  ],
+  "vocabulary": {
+    "tiew-doh-maw": "Native wild epiphytic orchid clinging to mossy mountain rocks",
+    "sim-tyngwieng": "Highland swallow or swift bird darting across river ravines",
+    "lyer-pyrem": "Gentle vernal breeze carrying forest flower pollen",
+    "riat ba rben": "Deep, heavily forested highland ravine or limestone canyon"
+  },
+  "word_count": 76
+}

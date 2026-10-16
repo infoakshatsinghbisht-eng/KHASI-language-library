@@ -1,0 +1,44 @@
+{
+  "id": "u_nongrep_majaw",
+  "title": "The Highland Cultivator (U Nongrep)",
+  "khasi_title": "U Nongrep",
+  "category": "Agrarian Harvest Ballad",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Na ka step kynjat shai u nongrep u mih,\nDa ka mohkhiew ha ka tyrpeng u leit sha lyngkha;\nU trei da ka jingkmen ha ka shit ka kynriat,\nBan bsa ia la ka iing ka sem bad ka ri.\n\nYnda wan ka por ba thiew ia u kba,\nKa madan ka kylla ksiar lut baroh;\nU nongrep u ainguh ia U Blei Nongthaw,\nNamar ka jingai ba kordor jong ka mariang.",
+  "lyrics_english": "At the first glimmer of dawn the cultivator departs,\nWith his iron hoe upon his shoulder he journeys to the field;\nHe labors with delight in the scorching sun and cold rains,\nTo nourish his hearth, his clan, and his land.\n\nWhen the season of rice reaping arrives,\nThe terraces turn entirely into radiant gold;\nThe cultivator offers thanksgiving to God the Creator,\nFor the bountiful harvest of Mother Nature.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (U Nongrep)",
+      "khasi": "Na ka step kynjat shai u nongrep u mih,\nDa ka mohkhiew ha ka tyrpeng u leit sha lyngkha;\nU trei da ka jingkmen ha ka shit ka kynriat,\nBan bsa ia la ka iing ka sem bad ka ri.",
+      "english": "At the first glimmer of dawn the cultivator departs,\nWith his iron hoe upon his shoulder he journeys to the field;\nHe labors with delight in the scorching sun and cold rains,\nTo nourish his hearth, his clan, and his land."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (U Nongrep)",
+      "khasi": "Ynda wan ka por ba thiew ia u kba,\nKa madan ka kylla ksiar lut baroh;\nU nongrep u ainguh ia U Blei Nongthaw,\nNamar ka jingai ba kordor jong ka mariang.",
+      "english": "When the season of rice reaping arrives,\nThe terraces turn entirely into radiant gold;\nThe cultivator offers thanksgiving to God the Creator,\nFor the bountiful harvest of Mother Nature."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 72
+}

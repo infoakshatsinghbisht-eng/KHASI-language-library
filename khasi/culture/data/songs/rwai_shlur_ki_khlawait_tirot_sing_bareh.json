@@ -1,0 +1,79 @@
+{
+  "id": "rwai_shlur_ki_khlawait_tirot_sing_bareh",
+  "title": "Warrior Song of Tirot Sing's Freedom Fighters (Rwai Shlur Ki Khla-Wait)",
+  "khasi_title": "Rwai Shlur Ki Khla-Wait U Tirot Sing",
+  "category": "Patriotic Heroic War Chant",
+  "composer": "Victor G. Bareh",
+  "year": 1979,
+  "cultural_context": "The rousing battle chant sung by the warriors (Khla-Wait) of Nongkhlaw before the march to defend the Khasi Hills, from Victor G. Bareh's classic play 'Ka Drama U Tirot Sing'.",
+  "instruments": [
+    "Nakra",
+    "Ksing Shynrang",
+    "Sharati",
+    "Waitlam"
+  ],
+  "themes": [
+    "U Tirot Sing",
+    "Heroic Freedom",
+    "Warriors of Nongkhlaw",
+    "Sacred Motherland"
+  ],
+  "lyrics_khasi": "Ieng, ko khla-wait jong ka ri,\nBat la ka waitlam ba shlur;\nU Tirot Sing u ialam shaphrang,\nBan iada ia ka ri bad ka khet;\nWat rieh, wat shepteng hakhmat ka thma,\nKham bha ban iap kum u rangbah,\nBan ia kaba shong kum u mraw\nHa la ka ri ba la buh u Blei.\n\nKi lum ki wah kin phla ia ka hok,\nKa snam jong ngi kan pynim ia ka ri;\nNaduh Nongkhlaw haduh Sohra ba phriang,\nKa sur jong ka jinglaitluid kan sawa;\nU Syiem u ieng ha ka nia ba skhem,\nU Hynniewtrep un ym pyndem;\nHa khmat u Nongthaw ngin aiti la ka met,\nBan pynsah ia ka burom ka jaidbynriew.",
+  "lyrics_english": "Arise, O valiant warriors of our motherland,\nGrasp your fearless double-edged blades;\nTirot Sing leads the vanguard,\nTo defend our land and royal throne;\nFlinch not, dread not before the clash of war,\nFar nobler to die as a free man,\nThan to live as a subjugated slave\nIn our native land ordained by God.\n\nThe crags and rivers shall bear witness to our cause,\nOur blood shall water the liberty of the land;\nFrom Nongkhlaw unto the heights of Sohra,\nThe roar of freedom shall echo forth;\nOur King stands on unwavering truth,\nThe Seven Huts shall never bow the knee;\nBefore the Creator we offer up our mortal lives,\nTo preserve the immortal honor of our people.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ieng, ko khla-wait jong ka ri,",
+        "Bat la ka waitlam ba shlur;",
+        "U Tirot Sing u ialam shaphrang,",
+        "Ban iada ia ka ri bad ka khet;",
+        "Wat rieh, wat shepteng hakhmat ka thma,",
+        "Kham bha ban iap kum u rangbah,",
+        "Ban ia kaba shong kum u mraw",
+        "Ha la ka ri ba la buh u Blei."
+      ],
+      "english": [
+        "Arise, O valiant warriors of our motherland,",
+        "Grasp your fearless double-edged blades;",
+        "Tirot Sing leads the vanguard,",
+        "To defend our land and royal throne;",
+        "Flinch not, dread not before the clash of war,",
+        "Far nobler to die as a free man,",
+        "Than to live as a subjugated slave",
+        "In our native land ordained by God."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ki lum ki wah kin phla ia ka hok,",
+        "Ka snam jong ngi kan pynim ia ka ri;",
+        "Naduh Nongkhlaw haduh Sohra ba phriang,",
+        "Ka sur jong ka jinglaitluid kan sawa;",
+        "U Syiem u ieng ha ka nia ba skhem,",
+        "U Hynniewtrep un ym pyndem;",
+        "Ha khmat u Nongthaw ngin aiti la ka met,",
+        "Ban pynsah ia ka burom ka jaidbynriew."
+      ],
+      "english": [
+        "The crags and rivers shall bear witness to our cause,",
+        "Our blood shall water the liberty of the land;",
+        "From Nongkhlaw unto the heights of Sohra,",
+        "The roar of freedom shall echo forth;",
+        "Our King stands on unwavering truth,",
+        "The Seven Huts shall never bow the knee;",
+        "Before the Creator we offer up our mortal lives,",
+        "To preserve the immortal honor of our people."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "khla-wait": "warrior / knight / tiger of the sword",
+    "tirot sing": "U Tirot Sing Syiem (national hero of Khasi independence)",
+    "waitlam": "traditional double-edged steel sword",
+    "mraw": "slave / bondsman",
+    "laitluid": "free / independent / sovereign"
+  },
+  "word_count": 117
+}

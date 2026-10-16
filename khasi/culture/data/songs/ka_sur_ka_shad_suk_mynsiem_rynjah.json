@@ -1,0 +1,81 @@
+{
+  "id": "ka_sur_ka_shad_suk_mynsiem_rynjah",
+  "title": "Melody of the Spring Dance of Peaceful Hearts (Ka Sur Ka Shad Suk Mynsiem)",
+  "khasi_title": "Ka Sur Ka Shad Suk Mynsiem",
+  "category": "Sacred Spring Festival Anthem",
+  "composer": "Sweetymon Rynjah",
+  "year": 2000,
+  "cultural_context": "The festive liturgical song accompanying the national Khasi spring thanksgiving dance (Shad Suk Mynsiem) celebrated at Weiking, from Sweetymon Rynjah's landmark 2000 book.",
+  "instruments": [
+    "Ksing Kynthei",
+    "Ksing Shynrang",
+    "Tangmuri",
+    "Nakra",
+    "Shakuria"
+  ],
+  "themes": [
+    "Shad Suk Mynsiem",
+    "Thanksgiving",
+    "Royal Attire",
+    "Weiking Arena",
+    "Spring Harvest"
+  ],
+  "lyrics_khasi": "Ha ka por pyrem haba ki syntiew ki phuh,\nNgi wan sha madan Weiking ba kyntang;\nBan ai nguh ia U Blei Nongthaw Nongbuh,\nIa ka snem ba la leit bad ka sngi ba la rung;\nKi thei-sotti ki phong ka dhara ba itynnad,\nKi samla ki bat ka waitlam bad ka stieh;\nKa ksing ka sawa pynkhie mynsiem,\nHa ka Shad Suk Mynsiem ba kmen.\n\nKa jingsuk mynsiem dei ka spah bakordor,\nBa u Blei u la theh ha ka ri;\nWat la ngi iaid ha ki lynti ba kylliang,\nNgin bat ia kane ka akor ba bha;\nTo rwai, to shad, ko khun u Hynniewtrep,\nHa ryngkat ka kmen ba shisha,\nBa ka burom jong ka ri Khasi\nKan im ha man ka jingshai.",
+  "lyrics_english": "In springtime when all highland blossoms flower,\nWe gather at the sacred arena of Weiking;\nTo offer thanksgiving unto God the Supreme Creator,\nFor the bounties of the past year and the blessings ahead;\nVirtuous maidens don resplendent silk dharas,\nValiant youths wield the double-edged sword and shield;\nThe drumbeats thunder, awakening the soul,\nIn the joyful Dance of Peaceful Hearts.\n\nPeace of heart is the most priceless treasure,\nWhich God has poured down upon our homeland;\nThough our footsteps travel changing paths,\nWe shall uphold this noble decorum;\nSing on, dance on, children of the Seven Huts,\nIn harmony of genuine spiritual delight,\nSo that the majesty of the Khasi realm\nShall thrive in every dawn.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha ka por pyrem haba ki syntiew ki phuh,",
+        "Ngi wan sha madan Weiking ba kyntang;",
+        "Ban ai nguh ia U Blei Nongthaw Nongbuh,",
+        "Ia ka snem ba la leit bad ka sngi ba la rung;",
+        "Ki thei-sotti ki phong ka dhara ba itynnad,",
+        "Ki samla ki bat ka waitlam bad ka stieh;",
+        "Ka ksing ka sawa pynkhie mynsiem,",
+        "Ha ka Shad Suk Mynsiem ba kmen."
+      ],
+      "english": [
+        "In springtime when all highland blossoms flower,",
+        "We gather at the sacred arena of Weiking;",
+        "To offer thanksgiving unto God the Supreme Creator,",
+        "For the bounties of the past year and the blessings ahead;",
+        "Virtuous maidens don resplendent silk dharas,",
+        "Valiant youths wield the double-edged sword and shield;",
+        "The drumbeats thunder, awakening the soul,",
+        "In the joyful Dance of Peaceful Hearts."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ka jingsuk mynsiem dei ka spah bakordor,",
+        "Ba u Blei u la theh ha ka ri;",
+        "Wat la ngi iaid ha ki lynti ba kylliang,",
+        "Ngin bat ia kane ka akor ba bha;",
+        "To rwai, to shad, ko khun u Hynniewtrep,",
+        "Ha ryngkat ka kmen ba shisha,",
+        "Ba ka burom jong ka ri Khasi",
+        "Kan im ha man ka jingshai."
+      ],
+      "english": [
+        "Peace of heart is the most priceless treasure,",
+        "Which God has poured down upon our homeland;",
+        "Though our footsteps travel changing paths,",
+        "We shall uphold this noble decorum;",
+        "Sing on, dance on, children of the Seven Huts,",
+        "In harmony of genuine spiritual delight,",
+        "So that the majesty of the Khasi realm",
+        "Shall thrive in every dawn."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "shad suk mynsiem": "the dance of peaceful hearts (annual spring thanksgiving)",
+    "dhara": "traditional golden-yellow pure mulberry silk saree/wrap",
+    "weiking": "historic sacred arena of the annual Shad Suk Mynsiem in Shillong",
+    "spah bakordor": "priceless wealth / sacred treasure",
+    "pyrem": "springtime"
+  },
+  "word_count": 126
+}

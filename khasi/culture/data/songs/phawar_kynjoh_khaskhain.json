@@ -1,0 +1,57 @@
+{
+  "id": "phawar_kynjoh_khaskhain",
+  "title": "Phawar of the Wedding & Archery Grounds (Phawar Kynjoh Khaskhain)",
+  "khasi_title": "Phawar Kynjoh Khaskhain bad Ka Siat Khnam",
+  "category": "Rhyming Phawar & Festive Chants",
+  "composer": "Oral Phawar Masters (Ki Nongphawar) of Sohra & Khyrim",
+  "year": "Traditional Folk",
+  "cultural_context": "Ka Phawar is the indigenous Khasi rhymed poetic banter and call-and-response couplet chanted with jubilant shouts of 'Hoiw-kiw!' during archery competitions (Ka Siat Khnam), victory celebrations, harvest feasts, and wedding processions (Ka Shongkurim). Each couplet balances a humorous or nature-derived opening line with a sharp, moral, or congratulatory punchline.",
+  "instruments": [
+    "Ksing Padiah (small high-tuned drum)",
+    "Tangmuri",
+    "Hand clapping & jubilant vocal shouts ('Hoiw-kiw!')"
+  ],
+  "themes": [
+    "Phawar (Rhymed Couplets)",
+    "Ka Siat Khnam (Archery)",
+    "Shongkurim (Weddings)",
+    "Village Merriment",
+    "Hoiw-Kiw (Victory Chant)"
+  ],
+  "lyrics_khasi": "Ko kynjoh khaskhaiñ, ka pylleng ka 'iar-kpa!\nIap phet ki ksew, phai khmat ki myrsiang;\nHoiw-kiw! To siat beit beit sha ka thong!\nU khnam u la thwet, u la ngam ha pdeng!\n\nKa thwei ka kynjah, ka ktieh ka ba-jylliew,\nU shynrang bashlur u la jop ia ka thong;\nHoiw-kiw! Kiew spah kiew phew ka kur ka jait,\nKa burom ka nam kan sah pateng la pateng!\n\nKa tympew ka dula, u kwai u ba-thiang,\nU kñi u la wan pyniasoh ia ka kur;\nHoiw-kiw! Ka shongkurim ba-khuid ba-sbun,\nBan roi ka kpoh, ban bun ki khun ki kti!\n\nKa wah um ba sngur, ka rupa ka ksiar,\nKa jingsuk kan shong ha ka dpei jong ka Ri;\nHoiw-kiw! Kynjoh khaskhaiñ baroh shikur,\nHa ka hok ka sot ngin iai shong suk!",
+  "lyrics_english": "Hail the rhyming phawar, the egg of the rooster bird!\nFlee the stray dogs, turn the wild mountain foxes;\nHoiw-kiw! Shoot straight and true toward the target circle!\nThe feathered arrow hath flown and pierced the very center bullseye!\n\nDeep is the mountain pool, soft is the river mud,\nThe valiant youth hath conquered the target tournament;\nHoiw-kiw! May wealth and fortune multiply for the matrilineal clan,\nMay honor and fame endure across generations unbroken!\n\nFragrant is the betel vine, sweet is the fresh areca nut,\nThe maternal uncle hath arrived to weave the clan alliance covenant;\nHoiw-kiw! A marriage pure, gracious, and sacred,\nMay the ancestral womb flourish and bear many children and descendants!\n\nClear is the mountain spring stream, precious are silver and gold,\nMay heavenly peace abide upon the hearthfires of the realm;\nHoiw-kiw! Let the whole clan chant the rhyming phawar together,\nIn truth and righteousness we shall ever dwell in peace!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Siat Khnam (The Archery Target Shot)",
+      "khasi": "Ko kynjoh khaskhaiñ, ka pylleng ka 'iar-kpa!\nIap phet ki ksew, phai khmat ki myrsiang;\nHoiw-kiw! To siat beit beit sha ka thong!\nU khnam u la thwet, u la ngam ha pdeng!",
+      "english": "Chant the phawar! Shoot straight toward the target; the arrow has struck the center bullseye to cheers of Hoiw-kiw!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Nam Ka Burom (Clan Honor and Victory)",
+      "khasi": "Ka thwei ka kynjah, ka ktieh ka ba-jylliew,\nU shynrang bashlur u la jop ia ka thong;\nHoiw-kiw! Kiew spah kiew phew ka kur ka jait,\nKa burom ka nam kan sah pateng la pateng!",
+      "english": "The brave youth wins the tournament; clan wealth and fame shall flourish generation after generation."
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Shongkurim (The Wedding Covenant)",
+      "khasi": "Ka tympew ka dula, u kwai u ba-thiang,\nU kñi u la wan pyniasoh ia ka kur;\nHoiw-kiw! Ka shongkurim ba-khuid ba-sbun,\nBan roi ka kpoh, ban bun ki khun ki kti!",
+      "english": "With betel nut and leaf the maternal uncle seals the clan marriage; may the matrilineal womb flourish with many children."
+    },
+    {
+      "stanza_number": 4,
+      "title": "Ka Jingsuk Ha Ka Dpei (Peace on the Hearth)",
+      "khasi": "Ka wah um ba sngur, ka rupa ka ksiar,\nKa jingsuk kan shong ha ka dpei jong ka Ri;\nHoiw-kiw! Kynjoh khaskhaiñ baroh shikur,\nHa ka hok ka sot ngin iai shong suk!",
+      "english": "May peace abide upon the hearths of the fatherland; let all clans chant together, dwelling forever in truth and harmony."
+    }
+  ],
+  "vocabulary": {
+    "phawar": "Rhymed couplet chant or poetic banter recited rhythmically during archery matches, feasts, and ceremonies",
+    "kynjoh khaskhain": "The traditional opening invocation and rhythmic exclamation signaling the start of phawar",
+    "hoiw-kiw": "The triumphant Khasi victory roar and cheer raised in unison",
+    "ka thong": "The target or bullseye in archery competitions (Ka Siat Khnam)",
+    "ka shongkurim": "Matrimony; customary marriage alliance between two exogamous matrilineal clans"
+  },
+  "word_count": 133
+}

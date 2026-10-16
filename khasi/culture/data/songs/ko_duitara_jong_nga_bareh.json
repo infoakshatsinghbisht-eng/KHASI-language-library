@@ -1,0 +1,76 @@
+{
+  "id": "ko_duitara_jong_nga_bareh",
+  "title": "O My Duitara (Ko Duitara Jong Nga)",
+  "khasi_title": "Ko Duitara Jong Nga",
+  "category": "Bardic Instrument Ode",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Celebration of the four-stringed Khasi lute (Duitara) as the voice of the bard's soul, from 'Ki Jingrwai Khasi'.",
+  "instruments": [
+    "Duitara"
+  ],
+  "themes": [
+    "Duitara Lute",
+    "Silk Strings",
+    "Bardic Calling",
+    "Soul of Song"
+  ],
+  "lyrics_khasi": "Ko duitara jong nga\nBa la thaw na u dieng shnong,\nKi saw tylli ki ksai\nKi pynim la ka dohnud;\nHaba nga ktah ia ki,\nKi pynpaw ka sur kynjai,\nBa pynklet ia ki jynjar\nBad pynwan ka jingshai.\n\nHa kyntoit, ha pynthor,\nMynba iaid marwei,\nMe long u paralok\nUba iaineh junom;\nRwai lang bad nga, ko duitara,\nIa ka nam u Hynniewtrep,\nHaduh ba ngan da poi\nSha dwar ka jingim ba kut.",
+  "lyrics_english": "O my beloved Duitara,\nCarved from indigenous village timber,\nYour four resonant strings\nBring life unto my spirit;\nWhenever my fingers pluck them,\nThey whisper serenity,\nCausing sorrows to fade away\nAnd ushering in the light.\n\nIn village lanes, in valley fields,\nWhen journeying alone,\nYou are the faithful companion\nConstant throughout all time;\nSing alongside me, O Duitara,\nPraising the glory of the Seven Huts,\nUntil my earthly steps arrive\nAt the final threshold of life.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ko duitara jong nga",
+        "Ba la thaw na u dieng shnong,",
+        "Ki saw tylli ki ksai",
+        "Ki pynim la ka dohnud;",
+        "Haba nga ktah ia ki,",
+        "Ki pynpaw ka sur kynjai,",
+        "Ba pynklet ia ki jynjar",
+        "Bad pynwan ka jingshai."
+      ],
+      "english": [
+        "O my beloved Duitara,",
+        "Carved from indigenous village timber,",
+        "Your four resonant strings",
+        "Bring life unto my spirit;",
+        "Whenever my fingers pluck them,",
+        "They whisper serenity,",
+        "Causing sorrows to fade away",
+        "And ushering in the light."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ha kyntoit, ha pynthor,",
+        "Mynba iaid marwei,",
+        "Me long u paralok",
+        "Uba iaineh junom;",
+        "Rwai lang bad nga, ko duitara,",
+        "Ia ka nam u Hynniewtrep,",
+        "Haduh ba ngan da poi",
+        "Sha dwar ka jingim ba kut."
+      ],
+      "english": [
+        "In village lanes, in valley fields,",
+        "When journeying alone,",
+        "You are the faithful companion",
+        "Constant throughout all time;",
+        "Sing alongside me, O Duitara,",
+        "Praising the glory of the Seven Huts,",
+        "Until my earthly steps arrive",
+        "At the final threshold of life."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "duitara": "four-stringed Khasi fretless lute",
+    "ksai": "string / cord",
+    "dieng": "wood / tree",
+    "pynthor": "valley rice paddy",
+    "paralok": "friend / companion"
+  },
+  "word_count": 76
+}

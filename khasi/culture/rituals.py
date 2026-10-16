@@ -110,6 +110,56 @@ RITUALS: List[Dict[str, Any]] = [
         "materials": ["Nar ba sait shit (Red-hot iron)", "Klong um (Gourd filled with holy water)"],
         "officiant": "U Lyngdoh / Assembly of village elders",
         "occasions": ["Casting off spiritual affliction"]
+    },
+    {
+        "id": "behdeinkhlam_tapmohkhlieh",
+        "name": "Ka Tap-Mohkhlieh bad Ka Shad Behdeinkhlam",
+        "english_name": "Pnar Sanctification & Pestilence-Chasing Rite",
+        "category": "agricultural_communal",
+        "significance": "The sacred Jaintia ritual where young men beat the roofs of every house with polished wooden poles (Khlam) to chase away pestilence, plague, and malevolent spirits, followed by dancing in the sacred muddy pool Aitnar and immersing towering colourful 'Raths' (Rots) to invoke bountiful harvest.",
+        "materials": ["Deinkhlam (Sacred poles)", "Rots (Towering paper bamboo towers)", "Kiad (Sacred rice libation)", "Ka Aitnar (Holy pool)"],
+        "officiant": "U Daloi bad u Langdoh (Pnar Chieftain and Chief Priest)",
+        "occasions": ["Mid-summer monsoons in Jowai (July)"]
+    },
+    {
+        "id": "knia_mawbynna",
+        "name": "Ka Kñia Mawbynna",
+        "english_name": "Megalith Erection & Consecration Rite",
+        "category": "memorial",
+        "significance": "Solemn ritual performed when erecting memorial monoliths (Mawbynna / Maw-shynrang) and dolmens (Mawkynthai / Maw-kynthei). Prayers and libations are offered to immortalize renowned maternal uncles, ancestral chiefs, and mothers, bridging the realm of the living with the spirit world.",
+        "materials": ["Maw-bynna (Granite monolith)", "Maw-kynthei (Flat dolmen stone)", "Syiar (Rooster)", "Kiad hiar (Distilled rice libation)"],
+        "officiant": "U Kñi Rangbah bad Ki Tymmen Shnong (Senior maternal uncle and elders)",
+        "occasions": ["After clan funerary rites", "Commemorating heroic ancestors"]
+    },
+    {
+        "id": "knia_pyrda_kmie",
+        "name": "Ka Kñia Pyrda / Ka Kñia Kmie",
+        "english_name": "Maternal Hearth Ancestral Sacrifice to Ka Iawbei",
+        "category": "ancestral",
+        "significance": "Sacred domestic sacrifice conducted at the family hearth (Ka Dpei) to propitiate Ka Iawbei (the founding primal mother of the clan) and ancestral spirits. Fowl or animal offerings and sacred rice are consecrated to ensure maternal fertility, familial harmony, and continuous blessing upon the lineage.",
+        "materials": ["Ka Dpei (Sacred hearth fire)", "Syiar kynthei (Consecrated hen)", "Ja khuid (Pure consecrated rice)", "Klong kiad (Gourd of rice beer)"],
+        "officiant": "Ka Khadduh (Youngest daughter/priestess) bad U Kñi (Maternal uncle)",
+        "occasions": ["Ancestral memorial days", "Before building a home", "Resolving family discord"]
+    },
+    {
+        "id": "pyniasoh_kpoh",
+        "name": "Ka Pyniasoh Kpoh",
+        "english_name": "Clan Adoption & Lineage Grafting Covenant",
+        "category": "kinship",
+        "significance": "A rare customary legal and religious rite wherein a family without female heirs (Ka Iap-duh) formally adopts and grafts a daughter from an allied related clan into their matrilineal womb (Kpoh), preserving the lineage, hearth rites, and clan inheritance from extinction.",
+        "materials": ["Kwai bad tympew (Betel nut and leaf covenants)", "Klong kiad", "Sla lakait (Plantain leaves)"],
+        "officiant": "Ki Kñi jong baroh arliang bad Ki Myntri (Maternal uncles and state magistrates)",
+        "occasions": ["Imminent clan extinction (Iapduh)", "Lineage preservation"]
+    },
+    {
+        "id": "khan_pylleng_jingpang",
+        "name": "Ka Khan-Pylleng ha Ka Jingpang",
+        "english_name": "Diagnostic Healing Divination & Spiritual Appeasement",
+        "category": "healing_divination",
+        "significance": "Performed when medicine fails to alleviate illness. An egg is broken upon the board to discover whether the sickness is caused by an offended territorial spirit (U Ryngkew U Basa), broken moral vow (Ka Sngewbha / Ka Sngewlem), or ancestral displeasure, determining the precise atonement sacrifice needed.",
+        "materials": ["Pylleng (Egg)", "Dieng shat pylleng (Divination board)", "Dewstem (Sacred red-yellow earth)"],
+        "officiant": "U Nongkhan / U Nongshat (Master diviner)",
+        "occasions": ["Chronic illness", "Sudden mysterious affliction"]
     }
 ]
 

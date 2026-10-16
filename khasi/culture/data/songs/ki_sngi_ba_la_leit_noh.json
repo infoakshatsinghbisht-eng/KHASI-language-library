@@ -1,0 +1,43 @@
+{
+  "id": "ki_sngi_ba_la_leit_noh",
+  "title": "Days of Yore (Ki Sngi Ba La Leit Noh)",
+  "khasi_title": "Ki Sngi Ba La Leit Noh",
+  "category": "Elegiac Ballad & Ancestral Memory",
+  "composer": "H.W. Sten",
+  "year": 1979,
+  "cultural_context": "A poignant, nostalgic reflection upon ancestral times and youthful camaraderie. Recalls the peaceful simplicity of village childhood, gatherings around the hearth fire, and venerates the memory of elders who have passed into the ancestral realm.",
+  "instruments": [
+    "Maryngod",
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Nostalgia",
+    "Ancestral Remembrance",
+    "Passing of Time",
+    "Highland Heritage"
+  ],
+  "lyrics_khasi": "Kumno ngan klet ia kito ki sngi,\nBa nga dang ialehkai ha la ka shnong;\nKi sngi ba shai, ki por ba suk,\nHaba ka dohnud ka dang lui-lui!\n\nKi tymmen mynhyndai ki iathuh parom,\nHa rympei dingshan ha ka miet ba daitthah;\nLa ki sngi ki la leit noh kum ka lyer,\nKa jingkynmaw ia ki kan ym duh lano lano!",
+  "lyrics_english": "How can I ever forget those golden days of old,\nWhen I used to play innocently in my native village;\nThose bright days, those peaceful times,\nWhen the youthful heart knew only gentle innocence!\n\nThe elders of ancient times shared beloved folklore,\nBeside the warm hearth on bitterly cold frosty nights;\nThough those days have drifted away like the passing mountain wind,\nTheir sacred memory shall never, ever fade away!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ki Sngi Khunlung (Days of Childhood)",
+      "khasi": "Kumno ngan klet ia kito ki sngi,\nBa nga dang ialehkai ha la ka shnong;\nKi sngi ba shai, ki por ba suk,\nHaba ka dohnud ka dang lui-lui!",
+      "english": "How could I forget those golden days when I played in my native village; bright peaceful times when the heart knew only gentle joy!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jingkynmaw ha Rympei (Memories by the Hearth)",
+      "khasi": "Ki tymmen mynhyndai ki iathuh parom,\nHa rympei dingshan ha ka miet ba daitthah;\nLa ki sngi ki la leit noh kum ka lyer,\nKa jingkynmaw ia ki kan ym duh lano lano!",
+      "english": "Elders told legends by warm hearths on frosty nights; though days have fled like wind, memories will never perish!"
+    }
+  ],
+  "vocabulary": {
+    "sngi ba la leit noh": "Days gone by; the cherished ancestral past",
+    "daitthah": "Biting cold frost on a clear highland winter night",
+    "dingshan": "Hearth fire stoked with oak and pine logs",
+    "lui-lui": "Pure, simple, gentle, guileless, innocent"
+  },
+  "word_count": 63
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rwai_ha_jylli_ka_rynsan_laloo",
+  "title": "Ha Jylli Ka Rynsan (Within the Circle of the Stage)",
+  "native_title": "Ha Jylli Ka Rynsan",
+  "category": "ballad_and_drama",
+  "composer": "Minimon Laloo",
+  "year": 1982,
+  "origin": "Shillong Cultural Circle",
+  "instruments": [
+    "Ka Nakra",
+    "Ka Ksing",
+    "Ka Tangmuri"
+  ],
+  "themes": [
+    "Cultural Drama",
+    "Ancestral Virtue",
+    "Honor",
+    "Performance"
+  ],
+  "description": "Ceremonial overture and choral prologue sung before traditional Khasi folk dramas and moral pageants.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha jylli ka rynsan ngi ieng lang,",
+        "Ban pynpaw ka akor ki tymmen barim,",
+        "Ban pyni ka hok bad ka tip-kur tip-kha,",
+        "Ban kyrsiew ia ka mynsiem ka jaitbynriew."
+      ],
+      "english": [
+        "Within the circle of the stage we stand together,",
+        "To portray the refined manners of the ancient elders,",
+        "To manifest righteousness and kinship reverence,",
+        "To awaken the soul of the mother race."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jylli-rynsan": "stage circle / traditional amphitheater platform",
+    "kyrsiew-mynsiem": "awakening the spirit / cultural revival"
+  },
+  "file": "rwai_ha_jylli_ka_rynsan_laloo.json",
+  "khasi_title": "Ha Jylli Ka Rynsan",
+  "cultural_context": "Ceremonial overture and choral prologue sung before traditional Khasi folk dramas and moral pageants.",
+  "lyrics_khasi": "Ha jylli ka rynsan ngi ieng lang,\nBan pynpaw ka akor ki tymmen barim,\nBan pyni ka hok bad ka tip-kur tip-kha,\nBan kyrsiew ia ka mynsiem ka jaitbynriew.",
+  "lyrics_english": "Within the circle of the stage we stand together,\nTo portray the refined manners of the ancient elders,\nTo manifest righteousness and kinship reverence,\nTo awaken the soul of the mother race.",
+  "word_count": 29
+}

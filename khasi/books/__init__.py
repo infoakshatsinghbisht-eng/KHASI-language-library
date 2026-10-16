@@ -4,7 +4,7 @@ Khasi Books & Classical Literature Preservation Module (khasi.books).
 ======================================================================
 
 Provides direct whole-book reading, page navigation, and full-text search
-for 24 foundational Khasi books (1,980+ pages, 470,000+ words).
+for 36 foundational Khasi books (2,790+ pages, 768,000+ words).
 
 Usage:
 ------

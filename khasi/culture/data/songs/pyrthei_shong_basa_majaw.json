@@ -1,0 +1,44 @@
+{
+  "id": "pyrthei_shong_basa_majaw",
+  "title": "This Earth a Temporary Inn (Pyrthei Shong Basa)",
+  "khasi_title": "Pyrthei Shong Basa",
+  "category": "Philosophical Song",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Kane ka pyrthei ka long tang ka shong basa,\nNgim ju sah junom ha kane ka jaka;\nNgi wan kum ki nongleit nongwan ba iaid lynti,\nBan kamai ia ka hok shuwa ban leit phai.\n\nTo kynmaw ia ka akor bad ka burom,\nTo leh bha ia uba duk bad uba dukhi;\nNamar haba la khot u Blei ia ka mynsiem,\nTang ka hok kaba lah ban leit ryngkat.",
+  "lyrics_english": "This world is but a temporary resting inn,\nWe abide not forever in this mortal realm;\nWe arrive as wayfarers traveling on our journey,\nTo earn righteousness before returning home.\n\nRemember therefore virtue and noble manners,\nAct kindly toward the poor and the afflicted;\nFor when God summons the spirit to depart,\nRighteousness alone shall accompany the soul.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Pyrthei Shong Basa)",
+      "khasi": "Kane ka pyrthei ka long tang ka shong basa,\nNgim ju sah junom ha kane ka jaka;\nNgi wan kum ki nongleit nongwan ba iaid lynti,\nBan kamai ia ka hok shuwa ban leit phai.",
+      "english": "This world is but a temporary resting inn,\nWe abide not forever in this mortal realm;\nWe arrive as wayfarers traveling on our journey,\nTo earn righteousness before returning home."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Pyrthei Shong Basa)",
+      "khasi": "To kynmaw ia ka akor bad ka burom,\nTo leh bha ia uba duk bad uba dukhi;\nNamar haba la khot u Blei ia ka mynsiem,\nTang ka hok kaba lah ban leit ryngkat.",
+      "english": "Remember therefore virtue and noble manners,\nAct kindly toward the poor and the afflicted;\nFor when God summons the spirit to depart,\nRighteousness alone shall accompany the soul."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 69
+}

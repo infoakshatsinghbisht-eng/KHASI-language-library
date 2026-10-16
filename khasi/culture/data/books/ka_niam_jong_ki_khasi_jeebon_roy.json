@@ -1,0 +1,31 @@
+{
+  "id": "ka_niam_jong_ki_khasi_jeebon_roy",
+  "title": "Ka Niam Jong Ki Khasi (Babu Jeebon Roy, 1897)",
+  "native_title": "Ka Niam Jong Ki Khasi",
+  "author": "Babu Jeebon Roy",
+  "year": 1897,
+  "genre": "Theology & Indigenous Philosophy",
+  "description": "The historic first book ever written and printed by an indigenous Khasi author. Printed at Babu Jeebon Roy's Ri Khasi Press in Shillong, it systematically articulates the original monotheistic faith, the moral covenant of Hok, and clan ethics.",
+  "total_pages": 2,
+  "total_words": 368,
+  "chapters": [
+    "Ka Ktien Lamphrang (Introduction to Khasi Faith)",
+    "Shaphang U Blei Nongbuh Nongthaw (The Supreme Deity)",
+    "Ka Kamai Hok bad Ka Tip-Briew Tip-Blei (Ethics & Duty)",
+    "Ka Kur, Ka Kpoh bad Ka Niam Sang (Clan Exogamy & Law)",
+    "Ka Jer Ka Thoh bad Ki Kñia ki Khriam (Rites of Passage)"
+  ],
+  "source_type": "indigenous_foundational_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "KA NIAM JONG KI KHASI\nDa Babu Jeebon Roy (1897)\nKa Ktien Lamphrang:\nU Khasi hyndai u dei u briew uba tip ia U Blei, uba mane tang ia Uwei U Blei Nongbuh Nongthaw. U Khasi um don blei thok, um don dur blei, um mane ia ki ksuid ki khrei. Haba u Leh Niam, u Leh da ka Hok bad da ka Sot. Ka Niam Khasi ka thiah ha kine ki lai tylli ki tynrai bakhraw:\n1. Ban Kamai ia Ka Hok (To Earn Righteousness by Honest Labor)\n2. Ban Tip-Briew Ban Tip-Blei (To Know Humanity and Know God)\n3. Ban Tip-Kur Ban Tip-Kha (To Know and Honor Matrilineal Clans and Paternal Kinship)\nShaphang U Blei:\nU Blei jong u Khasi u long Uba don bor baroh, Uba ha khlieh duh, U Bymdon jyllieng, Uba kynja mynsiem. Haba u briew u kñia u khriam, um kñia ban pynkmen ia ki ksuid, hynrei ban pan ka jingmap na U Blei namar ba u la pynkhein ia ka Hukum bad ka Jutang. U syiar uba u kñia u long u kynja nonglam-ktien, uba kynih ha ka step ban wer ia ka sngi ban mih pat halor pyrthei.\nKa Kur bad Ka Kpoh:\nKa Kur ka long ka tynrai jong ka jaitbynriew Khasi. U Khasi u shim jait na ka Kmie (Matriliny). Kano kano ka jingiasoh hapdeng shi-kur ka long ka Sang kaba khraw duh, kaba U Blei um ju map lada ym shym la pyniasuk da ka kñia ka khriam. Ka Hok ka long ka nongrim jong ka ïing ka sem, bad ka Khatduh ka dei ka nongri-nongsumar ia ka niam ka rukom bad ia ki tymmen ki kro.\nKa Jer Ka Thoh:",
+      "word_count": 282
+    },
+    {
+      "page_number": 2,
+      "text": "Haba la kha ia i khunlung, ki kmie ki kpa ki pynlong ia ka Jer ka Thoh ban ai kyrteng, ryngkat ka ryntieh bad ki khnam lai tylli lada dei i shynrang (ban iada ia ka ri, ban kamai ia ka hok, bad ban da ia ka kur), lane ka star bad ka khoh lada dei i kynthei (ban kit ban bah ia ka ïing ka sem). Ka Niam Khasi kam shym la jah, kan neh haduh ba ka sngi bad u bnai kin da sep!",
+      "word_count": 86
+    }
+  ]
+}

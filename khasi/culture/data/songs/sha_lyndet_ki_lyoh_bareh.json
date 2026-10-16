@@ -1,0 +1,77 @@
+{
+  "id": "sha_lyndet_ki_lyoh_bareh",
+  "title": "Beyond the Clouds (Sha Lyndet Ki Lyoh)",
+  "khasi_title": "Sha Lyndet Ki Lyoh",
+  "category": "Mystical Celestial Ballad",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Contemplative ballad gazing past the rainy mists of the Khasi plateau toward the eternal celestial abode.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Beyond the Mist",
+    "Eternal Hope",
+    "Celestial Realm",
+    "Highland Sky"
+  ],
+  "lyrics_khasi": "Sha lyndet ki lyoh ba thaba,\nDon ka khet ba phyrnai,\nHangta ka jingsuk\nKam ju wai shuh jai-jai;\nKi khmat ki peit sha suiñ,\nHaba sngi ka la sep,\nBan wad ia ka shnong\nBa u Blei u la pynkhreh.\n\nWat suh ki eriong,\nWat hap u slap u phria,\nKa dohnud kan iaineh\nHa ka hok ka jingshisha;\nSha lyndet ki lyoh\nNgin ioh ka jingmad\nIa ka burom bathymmai\nBa u Blei u kular.",
+  "lyrics_english": "Beyond the shining white clouds,\nThere lies a radiant throne,\nWhere lasting tranquility\nNever ceases or fades;\nOur eyes gaze into the azure sky,\nWhen the evening sun sinks,\nSeeking that celestial homeland\nWhich God has prepared.\n\nThough mountain gales may blow,\nThough hail and rain may fall,\nThe steadfast heart shall hold\nTo righteousness and truth;\nBeyond the swirling clouds\nWe shall taste the blessing\nOf renewal and majesty\nPromised by our God.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Sha lyndet ki lyoh ba thaba,",
+        "Don ka khet ba phyrnai,",
+        "Hangta ka jingsuk",
+        "Kam ju wai shuh jai-jai;",
+        "Ki khmat ki peit sha suiñ,",
+        "Haba sngi ka la sep,",
+        "Ban wad ia ka shnong",
+        "Ba u Blei u la pynkhreh."
+      ],
+      "english": [
+        "Beyond the shining white clouds,",
+        "There lies a radiant throne,",
+        "Where lasting tranquility",
+        "Never ceases or fades;",
+        "Our eyes gaze into the azure sky,",
+        "When the evening sun sinks,",
+        "Seeking that celestial homeland",
+        "Which God has prepared."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat suh ki eriong,",
+        "Wat hap u slap u phria,",
+        "Ka dohnud kan iaineh",
+        "Ha ka hok ka jingshisha;",
+        "Sha lyndet ki lyoh",
+        "Ngin ioh ka jingmad",
+        "Ia ka burom bathymmai",
+        "Ba u Blei u kular."
+      ],
+      "english": [
+        "Though mountain gales may blow,",
+        "Though hail and rain may fall,",
+        "The steadfast heart shall hold",
+        "To righteousness and truth;",
+        "Beyond the swirling clouds",
+        "We shall taste the blessing",
+        "Of renewal and majesty",
+        "Promised by our God."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "lyndet": "beyond / behind",
+    "lyoh": "cloud / mist",
+    "phyrnai": "bright / radiant",
+    "eriong": "tempest / squall",
+    "kular": "promise / covenant"
+  },
+  "word_count": 77
+}

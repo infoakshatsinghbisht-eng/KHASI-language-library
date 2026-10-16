@@ -1,0 +1,78 @@
+{
+  "id": "ki_men_guru_majaw",
+  "title": "The Master Bards (Ki Men Guru)",
+  "khasi_title": "Ki Men Guru",
+  "category": "Bardic Phawar & Chant",
+  "composer": "S. S. Majaw",
+  "year": 1997,
+  "cultural_context": "Honorific phawar paying homage to the master village philosophers and archers, published in 'Ka Phawar Beh Sbai' (1997).",
+  "instruments": [
+    "Sharati",
+    "Ksing",
+    "Duitara"
+  ],
+  "themes": [
+    "Master Mentors",
+    "Village Sages",
+    "Oral Lore",
+    "Phawar Chants"
+  ],
+  "lyrics_khasi": "Ieng rwai, ieng phawar,\nKo ki Men Guru ba shida,\nHa ling-shad, ha lyngkha,\nKi thoh ki tar ba phyrnai;\nLa don ka stad ka jynrap\nHa kyntien ba ki kren,\nBan pynkhlain ia ka jaidbynriew\nHa ka hok bad ka jingshisha.\n\nKi la iehnoh ka spah\nBa palat ban ia ka ksiar,\nKato ka akor babha\nBa ri u Hynniew Trep;\nTo kynmaw ia ki,\nHaba ngi rwai phawar,\nBan pynim ia ka ktien\nHa ki paitbah baroh.",
+  "lyrics_english": "Arise and chant, arise and rhyme,\nO master bards of humble heart,\nIn dancing arenas and farming fields,\nTheir verses sparkle bright;\nWisdom and understanding dwell\nIn every word they utter,\nStrengthening the nation\nIn righteousness and truth.\n\nThey bequeathed a treasure\nPriceless beyond gold,\nThat pristine moral conduct\nCherished by the Seven Huts;\nLet us remember them\nWhenever we chant our phawars,\nTo keep alive our language\nAmong all the populace.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ieng rwai, ieng phawar,",
+        "Ko ki Men Guru ba shida,",
+        "Ha ling-shad, ha lyngkha,",
+        "Ki thoh ki tar ba phyrnai;",
+        "La don ka stad ka jynrap",
+        "Ha kyntien ba ki kren,",
+        "Ban pynkhlain ia ka jaidbynriew",
+        "Ha ka hok bad ka jingshisha."
+      ],
+      "english": [
+        "Arise and chant, arise and rhyme,",
+        "O master bards of humble heart,",
+        "In dancing arenas and farming fields,",
+        "Their verses sparkle bright;",
+        "Wisdom and understanding dwell",
+        "In every word they utter,",
+        "Strengthening the nation",
+        "In righteousness and truth."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ki la iehnoh ka spah",
+        "Ba palat ban ia ka ksiar,",
+        "Kato ka akor babha",
+        "Ba ri u Hynniew Trep;",
+        "To kynmaw ia ki,",
+        "Haba ngi rwai phawar,",
+        "Ban pynim ia ka ktien",
+        "Ha ki paitbah baroh."
+      ],
+      "english": [
+        "They bequeathed a treasure",
+        "Priceless beyond gold,",
+        "That pristine moral conduct",
+        "Cherished by the Seven Huts;",
+        "Let us remember them",
+        "Whenever we chant our phawars,",
+        "To keep alive our language",
+        "Among all the populace."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "men guru": "master teacher / traditional mentor",
+    "phawar": "traditional rhythmic rhyming chant",
+    "shida": "humble / modest / simple",
+    "ling-shad": "traditional dancing ground",
+    "spah": "wealth / treasure"
+  },
+  "word_count": 79
+}

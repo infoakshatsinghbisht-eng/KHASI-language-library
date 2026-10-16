@@ -1,0 +1,78 @@
+{
+  "id": "jingrwai_ban_kiew_sha_bneng_roy",
+  "title": "Ascension Hymn to the Skies (Jingrwai Ban Kiew Sha Bneng)",
+  "khasi_title": "Jingrwai Ban Kiew Sha Bneng",
+  "category": "Eschatological Celestial Hymn",
+  "composer": "Binod Behari Roy",
+  "year": 1930,
+  "cultural_context": "Solemn eschatological hymn singing of the spiritual homecoming when the righteous soul ascends to the golden realm beyond the clouds, from 'Ki Jingrwai Ai-nguh Blei'.",
+  "instruments": [
+    "Sharati",
+    "Duitara",
+    "Ksing"
+  ],
+  "themes": [
+    "Soul's Ascension",
+    "Celestial Realm",
+    "Return to Creator",
+    "Eternal Rest"
+  ],
+  "lyrics_khasi": "Nga peit sha kliar ki lum ba jrong,\nSha khet ba phyrnai u Blei ha suiñ;\nNga kwah ban kiew sha lyndet ki lyoh,\nSha shnong ba kyntang ka jingsuk;\nHangta kam don shuh ka jingpang jingiap,\nKi ummat kin jah baroh phar;\nU Blei Un pdiang ia la ki khun\nHa ka burom ba phuh ba neh.\n\nKatba nga dang im ha kane ka ri,\nNgan rwai ia ka nam jong U Blei;\nNgan kamai ia ka hok da ka mynsiem ba khuid,\nBan pynkhreh ia la ka lynti;\nHaba ka por kan poi ban khlad,\nNgan kiew khlem da shepteng;\nBan shong ha pneh U Nongthaw\nHa ka jingshai ba kynja blei.",
+  "lyrics_english": "I gaze toward the summits of the highest peaks,\nUnto the radiant throne of God in heaven;\nI yearn to ascend beyond the shining mists,\nUnto the sacred city of eternal peace;\nThere sickness and mortal death are known no more,\nAll sorrowful tears shall be wiped away;\nGod shall welcome His faithful children\nInto glory that blossoms and endures forever.\n\nWhile I still dwell within this mortal realm,\nI shall sing the praises of Almighty God;\nI shall earn righteousness with an unspotted heart,\nTo prepare my destined pathway home;\nWhen the hour arrives for me to depart,\nI shall ascend without trembling or dread;\nTo rest in the embrace of the Creator\nIn the everlasting light of heaven.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Nga peit sha kliar ki lum ba jrong,",
+        "Sha khet ba phyrnai u Blei ha suiñ;",
+        "Nga kwah ban kiew sha lyndet ki lyoh,",
+        "Sha shnong ba kyntang ka jingsuk;",
+        "Hangta kam don shuh ka jingpang jingiap,",
+        "Ki ummat kin jah baroh phar;",
+        "U Blei Un pdiang ia la ki khun",
+        "Ha ka burom ba phuh ba neh."
+      ],
+      "english": [
+        "I gaze toward the summits of the highest peaks,",
+        "Unto the radiant throne of God in heaven;",
+        "I yearn to ascend beyond the shining mists,",
+        "Unto the sacred city of eternal peace;",
+        "There sickness and mortal death are known no more,",
+        "All sorrowful tears shall be wiped away;",
+        "God shall welcome His faithful children",
+        "Into glory that blossoms and endures forever."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Katba nga dang im ha kane ka ri,",
+        "Ngan rwai ia ka nam jong U Blei;",
+        "Ngan kamai ia ka hok da ka mynsiem ba khuid,",
+        "Ban pynkhreh ia la ka lynti;",
+        "Haba ka por kan poi ban khlad,",
+        "Ngan kiew khlem da shepteng;",
+        "Ban shong ha pneh U Nongthaw",
+        "Ha ka jingshai ba kynja blei."
+      ],
+      "english": [
+        "While I still dwell within this mortal realm,",
+        "I shall sing the praises of Almighty God;",
+        "I shall earn righteousness with an unspotted heart,",
+        "To prepare my destined pathway home;",
+        "When the hour arrives for me to depart,",
+        "I shall ascend without trembling or dread;",
+        "To rest in the embrace of the Creator",
+        "In the everlasting light of heaven."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "kiew sha bneng": "ascend unto heaven / return to the skies",
+    "shnong ba kyntang": "the holy city / celestial homeland",
+    "jingpang jingiap": "sickness and death",
+    "pynkhreh": "prepare / make ready",
+    "kynja blei": "divine / heavenly"
+  },
+  "word_count": 114
+}

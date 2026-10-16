@@ -1,0 +1,78 @@
+{
+  "id": "na_thymmei_ngi_kiew_nongrum_mattsing",
+  "title": "From the Ancestral Root We Ascend (Na Thymmei Ngi Kiew)",
+  "khasi_title": "Na Thymmei Ngi Kiew",
+  "category": "Historical Heritage Ballad",
+  "composer": "Mattsing Nongrum",
+  "year": 1998,
+  "cultural_context": "Historical ballad celebrating the roots (Thymmei) of the Khasi people from the golden era of the Seven Huts to the present, from 'Ki Sur Ka Mynnor Bad Mynta' (1998).",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Ancestral Roots",
+    "Lum Sohpetbneng",
+    "Golden Age",
+    "Continuity of Lineage"
+  ],
+  "lyrics_khasi": "Na thymmei u Lum Sohpetbneng ngi la mih,\nKi hynniew trep kiba sotti bad ba khuid;\nKi kpa tymmen ki la buh ka thoh ka tar\nHa ka dohnud, ha ki maw bad ki wah;\nNgi kiew na ka por sha ka por,\nKhlem da pait ka snieh-jaid jong ngi;\nKa thymmei ka long ka nongrim ba skhem\nBa tei ia ka burom ka jaidbynriew.\n\nLada u dieng u duh la ka thied,\nUn kyllon haba suh ka eriong;\nKumta u briew uba klet la ka thymmei,\nUn sah khlem thied ha ka pyrthei;\nTo ngin bat ia la ka tynrai,\nIa ka ktien bad ka akor ba bha,\nBa ngin kiew kum u mawsiang\nUba neh ha man ka por.",
+  "lyrics_english": "From the navel peak of Lum Sohpetbneng we arose,\nThe Seven Huts pristine and pure;\nThe ancient fathers inscribed our laws\nUpon human hearts, upon monoliths, and rushing waters;\nWe have ascended from era to era,\nOur cultural lineage unbroken and whole;\nThe primal root is the rock-solid foundation\nThat builds the majesty of our nation.\n\nIf a great tree loses its taproot,\nIt must crash when the tempest blows;\nEven so a person who forgets their roots\nShall drift without anchor in the world;\nLet us cling to our ancestral root,\nTo our mother tongue and noble conduct,\nThat we may rise like the immovable crag\nEnduring through all waves of time.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Na thymmei u Lum Sohpetbneng ngi la mih,",
+        "Ki hynniew trep kiba sotti bad ba khuid;",
+        "Ki kpa tymmen ki la buh ka thoh ka tar",
+        "Ha ka dohnud, ha ki maw bad ki wah;",
+        "Ngi kiew na ka por sha ka por,",
+        "Khlem da pait ka snieh-jaid jong ngi;",
+        "Ka thymmei ka long ka nongrim ba skhem",
+        "Ba tei ia ka burom ka jaidbynriew."
+      ],
+      "english": [
+        "From the navel peak of Lum Sohpetbneng we arose,",
+        "The Seven Huts pristine and pure;",
+        "The ancient fathers inscribed our laws",
+        "Upon human hearts, upon monoliths, and rushing waters;",
+        "We have ascended from era to era,",
+        "Our cultural lineage unbroken and whole;",
+        "The primal root is the rock-solid foundation",
+        "That builds the majesty of our nation."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Lada u dieng u duh la ka thied,",
+        "Un kyllon haba suh ka eriong;",
+        "Kumta u briew uba klet la ka thymmei,",
+        "Un sah khlem thied ha ka pyrthei;",
+        "To ngin bat ia la ka tynrai,",
+        "Ia ka ktien bad ka akor ba bha,",
+        "Ba ngin kiew kum u mawsiang",
+        "Uba neh ha man ka por."
+      ],
+      "english": [
+        "If a great tree loses its taproot,",
+        "It must crash when the tempest blows;",
+        "Even so a person who forgets their roots",
+        "Shall drift without anchor in the world;",
+        "Let us cling to our ancestral root,",
+        "To our mother tongue and noble conduct,",
+        "That we may rise like the immovable crag",
+        "Enduring through all waves of time."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "thymmei": "source / origin / taproot / fountainhead",
+    "lum sohpetbneng": "naval of heaven mountain (Khasi cradle of creation)",
+    "thied": "root / vein",
+    "tynrai": "indigenous origin / root / core essence",
+    "kyllon": "fall down / collapse"
+  },
+  "word_count": 121
+}

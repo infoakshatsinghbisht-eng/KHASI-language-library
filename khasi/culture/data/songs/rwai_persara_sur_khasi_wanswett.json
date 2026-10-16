@@ -1,0 +1,46 @@
+{
+  "id": "rwai_persara_sur_khasi_wanswett",
+  "title": "Ka Persara Ki Sur Khasi (The Fragrant Garden of Khasi Melodies)",
+  "khasi_title": "Ka Persara Ki Sur Khasi",
+  "category": "nature_and_lyrical",
+  "composer": "E. Brektist R. Wanswett",
+  "year": 1980,
+  "origin": "Central Khasi Highlands",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Besli",
+    "Ka Maryngod"
+  ],
+  "themes": [
+    "Folk Melodies",
+    "Highland Flowers",
+    "Singing Bards",
+    "Springtime"
+  ],
+  "cultural_context": "Lyrical ballad in classical Khasi celebrating the blossoming flowers (*ki persara syntiew*) and mountain breezes of Meghalaya.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha ka persara ki sur ba thiang,",
+        "Ki syntiew ki phuh ha rynsan ka ri,",
+        "Ka duitara ka tied ia u ksai ba tyngshain,",
+        "Ban pynbyrngia ia ka mynsiem ba dap da ka jingsuk."
+      ],
+      "english": [
+        "Within the fragrant garden of sweet melodies,",
+        "The blossoms unfold upon the terraces of the homeland,",
+        "The four-stringed duitara plucks its shining cord,",
+        "To bring serene solace to the soul filled with peace."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "persara": "fragrant floral garden / aromatic nursery",
+    "ksai-tyngshain": "glistening resonant string of the harp"
+  },
+  "file": "rwai_persara_sur_khasi_wanswett.json",
+  "lyrics_khasi": "Ha ka persara ki sur ba thiang,\nKi syntiew ki phuh ha rynsan ka ri,\nKa duitara ka tied ia u ksai ba tyngshain,\nBan pynbyrngia ia ka mynsiem ba dap da ka jingsuk.",
+  "lyrics_english": "Within the fragrant garden of sweet melodies,\nThe blossoms unfold upon the terraces of the homeland,\nThe four-stringed duitara plucks its shining cord,\nTo bring serene solace to the soul filled with peace.",
+  "word_count": 34
+}

@@ -1,0 +1,78 @@
+{
+  "id": "u_tiewdohmaw_ha_shiteng_riat_bareh",
+  "title": "The Wild Orchid on the Cliffside (U Tiewdohmaw Ha Shiteng Riat)",
+  "khasi_title": "U Tiewdohmaw Ha Shiteng Riat",
+  "category": "Floral Allegory & Highland Ballad",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Poetic masterpiece using the rare cliff-clinging orchid (Tiewdohmaw) as an emblem of enduring modest virtue, from 'Ki Jingrwai Khasi'.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Tangmuri"
+  ],
+  "themes": [
+    "Highland Flora",
+    "Unreachable Beauty",
+    "Modesty",
+    "Sacred Cliffs"
+  ],
+  "lyrics_khasi": "Ha shiteng riat ba piah\nU tiewdohmaw u phuh,\nKhlem thapbalang ban thiah,\nKhlem briew ban leit kynruh;\nU sngewbha tang ban paw\nHa kliar u mawsiang;\nU kynud sur jingshai\nHa lyer ba pyngngad.\n\nWat la lyndet u lyoh\nU shong ha ka jingjar,\nKa suid-tiew jong u don\nKa jingiwbih ba thiang;\nKi blei lum ki sngewbha\nBan iohi ia u;\nKum u tiew dohmaw shisha\nMan ka dohnud bakhuid.",
+  "lyrics_english": "Midway down the sheer cliff\nThe wild rock-orchid blooms,\nWithout butterflies to rest on it,\nWithout human hands to touch it;\nContent merely to shine\nUpon the rocky ledge;\nHumming a melody of light\nIn the pure refreshing breeze.\n\nThough behind veil of clouds\nIt dwells in sacred quietude,\nThe gentle nectar of its blossom\nCarries the sweetest fragrance;\nThe deities of the peaks rejoice\nTo gaze upon its grace;\nLike the true cliff orchid\nIs every pure, virtuous heart.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha shiteng riat ba piah",
+        "U tiewdohmaw u phuh,",
+        "Khlem thapbalang ban thiah,",
+        "Khlem briew ban leit kynruh;",
+        "U sngewbha tang ban paw",
+        "Ha kliar u mawsiang;",
+        "U kynud sur jingshai",
+        "Ha lyer ba pyngngad."
+      ],
+      "english": [
+        "Midway down the sheer cliff",
+        "The wild rock-orchid blooms,",
+        "Without butterflies to rest on it,",
+        "Without human hands to touch it;",
+        "Content merely to shine",
+        "Upon the rocky ledge;",
+        "Humming a melody of light",
+        "In the pure refreshing breeze."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la lyndet u lyoh",
+        "U shong ha ka jingjar,",
+        "Ka suid-tiew jong u don",
+        "Ka jingiwbih ba thiang;",
+        "Ki blei lum ki sngewbha",
+        "Ban iohi ia u;",
+        "Kum u tiew dohmaw shisha",
+        "Man ka dohnud bakhuid."
+      ],
+      "english": [
+        "Though behind veil of clouds",
+        "It dwells in sacred quietude,",
+        "The gentle nectar of its blossom",
+        "Carries the sweetest fragrance;",
+        "The deities of the peaks rejoice",
+        "To gaze upon its grace;",
+        "Like the true cliff orchid",
+        "Is every pure, virtuous heart."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "tiewdohmaw": "cliff-clinging wild orchid",
+    "shiteng riat": "midway down the cliff / precipice",
+    "mawsiang": "rocky ledge / cliff face",
+    "iwbih": "sweet fragrance / scent",
+    "blei lum": "deity of the mountain peaks"
+  },
+  "word_count": 72
+}

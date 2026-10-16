@@ -1,0 +1,79 @@
+{
+  "id": "katba_dang_neh_ka_shad_khasi_nongrum",
+  "title": "As Long as Khasi Dance Endures (Katba Dang Neh Ka Shad Khasi)",
+  "khasi_title": "Katba Dang Neh Ka Shad Khasi",
+  "category": "Cultural Survival & Dance Anthem",
+  "composer": "Kitbor W. Nongrum",
+  "year": 1992,
+  "cultural_context": "Patriotic cultural anthem proclaiming that as long as the drums roll and the maiden dance circles the ground, the Khasi identity shall never perish, from 'Ki Sur Ba Dang Sawa' (1992).",
+  "instruments": [
+    "Ksing Kynthei",
+    "Ksing Shynrang",
+    "Tangmuri",
+    "Sharati"
+  ],
+  "themes": [
+    "Cultural Survival",
+    "Traditional Dance",
+    "Sacred Drums",
+    "Highland Heritage"
+  ],
+  "lyrics_khasi": "Katba dang neh ka Shad Khasi,\nKa jaidbynriew kan neh dor-dor;\nKi ksing ki nakra haba ki kynud,\nKa pynim biang ia ka mynsiem;\nKi kynthei ki phong la ka pansngiat ksiar,\nKi samla ki bat la ka waitlam ba shlur,\nHa madan shad ki ieng da ka burom\nBan pynsah nam ia ka ri baroh.\n\nWat la ki por ki kylliang ki kylla,\nKa sur ki kpa kam ju lah ban jah;\nHa man ka step, ha man ka janmiet,\nKa lyer ka pyrsad ia ka jingshisha;\nTo kynmaw, ko khun u Hynniewtrep,\nIa ka nongrim ba la buh u Blei,\nKatba dang sawa ka tangmuri\nKa burom jong ngi kan tyngshain.",
+  "lyrics_english": "As long as Khasi traditional dance endures,\nOur nation shall remain steadfast and strong;\nWhen the sacred drums and nakras rumble,\nThey breathe new life into the soul;\nMaidens adorn their crowns of pure gold,\nYouths grasp their valiant swords of steel,\nUpon the sacred dancing arena they stand with dignity\nTo uphold the glory of the whole motherland.\n\nThough eras shift and worlds transform,\nThe voice of the forefathers can never fade;\nIn every dawn, in every twilight,\nThe mountain wind whispers the truth;\nRemember, O children of the Seven Huts,\nThe foundation laid by God Almighty,\nAs long as the Tangmuri pipe resounds,\nOur honor shall radiate forever.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Katba dang neh ka Shad Khasi,",
+        "Ka jaidbynriew kan neh dor-dor;",
+        "Ki ksing ki nakra haba ki kynud,",
+        "Ka pynim biang ia ka mynsiem;",
+        "Ki kynthei ki phong la ka pansngiat ksiar,",
+        "Ki samla ki bat la ka waitlam ba shlur,",
+        "Ha madan shad ki ieng da ka burom",
+        "Ban pynsah nam ia ka ri baroh."
+      ],
+      "english": [
+        "As long as Khasi traditional dance endures,",
+        "Our nation shall remain steadfast and strong;",
+        "When the sacred drums and nakras rumble,",
+        "They breathe new life into the soul;",
+        "Maidens adorn their crowns of pure gold,",
+        "Youths grasp their valiant swords of steel,",
+        "Upon the sacred dancing arena they stand with dignity",
+        "To uphold the glory of the whole motherland."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la ki por ki kylliang ki kylla,",
+        "Ka sur ki kpa kam ju lah ban jah;",
+        "Ha man ka step, ha man ka janmiet,",
+        "Ka lyer ka pyrsad ia ka jingshisha;",
+        "To kynmaw, ko khun u Hynniewtrep,",
+        "Ia ka nongrim ba la buh u Blei,",
+        "Katba dang sawa ka tangmuri",
+        "Ka burom jong ngi kan tyngshain."
+      ],
+      "english": [
+        "Though eras shift and worlds transform,",
+        "The voice of the forefathers can never fade;",
+        "In every dawn, in every twilight,",
+        "The mountain wind whispers the truth;",
+        "Remember, O children of the Seven Huts,",
+        "The foundation laid by God Almighty,",
+        "As long as the Tangmuri pipe resounds,",
+        "Our honor shall radiate forever."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "shad khasi": "traditional Khasi dance",
+    "pansngiat ksiar": "traditional crown of pure gold",
+    "waitlam": "double-edged ceremonial steel sword",
+    "tangmuri": "traditional wooden double-reed oboe/pipe",
+    "jaidbynriew": "race / people / nation"
+  },
+  "word_count": 113
+}

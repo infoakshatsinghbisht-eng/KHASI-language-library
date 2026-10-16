@@ -80,8 +80,18 @@ class TestKhasiFolkloreAndSongs(unittest.TestCase):
 
     def test_songs_by_category_and_summary(self):
         summary = ks.songs.summary()
-        self.assertEqual(summary["total_songs"], 10)
-        self.assertGreater(summary["total_words"], 500)
+        self.assertGreaterEqual(summary["total_songs"], 25)
+        self.assertGreater(summary["total_words"], 1500)
+
+        # Check newly added iconic songs
+        ri_khasi = ks.get_song("ri_khasi_ri_khasi")
+        self.assertIsNotNone(ri_khasi)
+        self.assertIn("Ri Khasi", ri_khasi.title)
+        self.assertGreaterEqual(len(ri_khasi.stanzas), 4)
+
+        blei = ks.get_song("blei_nongbuh_nongthaw")
+        self.assertIsNotNone(blei)
+        self.assertIn("Nongbuh Nongthaw", blei.khasi_title)
 
     def test_cultural_lexicon_enrichment(self):
         # Verify newly added words from folklore and songs are searchable in dictionary
@@ -95,7 +105,11 @@ class TestKhasiFolkloreAndSongs(unittest.TestCase):
             "diengiei",
             "jamlu",
             "symphiah",
-            "ryntieh"
+            "ryntieh",
+            "umpohliew",
+            "nongbuh nongthaw",
+            "kynjai",
+            "laho"
         ]
         for w in words_to_check:
             res = khasi.lookup(w)

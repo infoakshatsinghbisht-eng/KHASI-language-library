@@ -1,0 +1,78 @@
+{
+  "id": "arphew_san_snem_phawar_majaw",
+  "title": "Phawar of the Twenty-Five Years (Arphew San Snem)",
+  "khasi_title": "Arphew San Snem",
+  "category": "Jubilee Commemoration Phawar",
+  "composer": "S. S. Majaw",
+  "year": 1997,
+  "cultural_context": "Jubilee phawar celebrating a quarter-century of statehood, cultural revival, and linguistic preservation, from 'Ka Phawar Beh Sbai'.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Nakra"
+  ],
+  "themes": [
+    "Silver Jubilee",
+    "Statehood Commemoration",
+    "Language Preservation",
+    "Highland Pride"
+  ],
+  "lyrics_khasi": "Hoi-kiw! Arphew san snem ki la leit noh,\nNaduh ba ngi ioh la ka ri;\nKi lum ki wah ki risaw da ka kmen,\nHa kane ka sngi ba phyrnai;\nNgi kynmaw ia ki kpa ba la trei,\nBan pynioh ia ka jinglaitluid;\nKi la buh ia ka nongrim ba skhem\nBa ka ri kan kiew sha khmat.\n\nPhawar, ko samla, phawar da ka kmen,\nWat klet ia la ka ktien tynrai;\nKa ktien dei ka mynsiem ka jaidbynriew,\nBa pynneh ia ka burom baroh;\nHa ki arphew san snem ba dang wan,\nNgin iatylli ha kawei ka nia,\nBan pynriewspah ia ka ri Khasi\nHa ka hok bad ka jingshisha.",
+  "lyrics_english": "Hoi-kiw! Five and twenty years have marched by,\nSince our statehood was won in peace;\nThe crags and rivers ring out with jubilation,\nUpon this radiant anniversary day;\nWe remember the leaders who labored selflessly,\nTo secure our regional autonomy and liberty;\nThey established a firm and enduring rock\nFor our motherland to march boldly forward.\n\nChant your phawar, youths, chant with glad hearts,\nNever forget your mother tongue;\nFor language is the living soul of a people,\nPreserving its dignity throughout the ages;\nIn the five and twenty years that lie ahead,\nWe shall stand united in one righteous cause,\nTo enrich our beloved Khasi land\nIn justice, righteousness, and truth.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Hoi-kiw! Arphew san snem ki la leit noh,",
+        "Naduh ba ngi ioh la ka ri;",
+        "Ki lum ki wah ki risaw da ka kmen,",
+        "Ha kane ka sngi ba phyrnai;",
+        "Ngi kynmaw ia ki kpa ba la trei,",
+        "Ban pynioh ia ka jinglaitluid;",
+        "Ki la buh ia ka nongrim ba skhem",
+        "Ba ka ri kan kiew sha khmat."
+      ],
+      "english": [
+        "Hoi-kiw! Five and twenty years have marched by,",
+        "Since our statehood was won in peace;",
+        "The crags and rivers ring out with jubilation,",
+        "Upon this radiant anniversary day;",
+        "We remember the leaders who labored selflessly,",
+        "To secure our regional autonomy and liberty;",
+        "They established a firm and enduring rock",
+        "For our motherland to march boldly forward."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Phawar, ko samla, phawar da ka kmen,",
+        "Wat klet ia la ka ktien tynrai;",
+        "Ka ktien dei ka mynsiem ka jaidbynriew,",
+        "Ba pynneh ia ka burom baroh;",
+        "Ha ki arphew san snem ba dang wan,",
+        "Ngin iatylli ha kawei ka nia,",
+        "Ban pynriewspah ia ka ri Khasi",
+        "Ha ka hok bad ka jingshisha."
+      ],
+      "english": [
+        "Chant your phawar, youths, chant with glad hearts,",
+        "Never forget your mother tongue;",
+        "For language is the living soul of a people,",
+        "Preserving its dignity throughout the ages;",
+        "In the five and twenty years that lie ahead,",
+        "We shall stand united in one righteous cause,",
+        "To enrich our beloved Khasi land",
+        "In justice, righteousness, and truth."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "arphew san snem": "twenty-five years / silver jubilee",
+    "ktien tynrai": "indigenous mother tongue / root language",
+    "mynsiem": "soul / spirit / breath of life",
+    "iatylli": "unite / stand together",
+    "pynriewspah": "enrich / prosper"
+  },
+  "word_count": 111
+}

@@ -1,0 +1,77 @@
+{
+  "id": "akor_shong_iing_shong_sem_phawar_berry",
+  "title": "Phawar of the Family Hearth (Akor Shong Iing Shong Sem)",
+  "khasi_title": "Akor Shong Iing Shong Sem",
+  "category": "Domestic Hearth & Family Etiquette",
+  "composer": "Radhon Singh Berry",
+  "year": 1902,
+  "cultural_context": "Rhyming maxims instructing family members on domestic harmony, filial piety, and hospitality around the clay hearth (*Rympei*), from 'Ka Jingsneng Tymmen'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Domestic Harmony",
+    "Clay Hearth",
+    "Hospitality",
+    "Filial Devotion"
+  ],
+  "lyrics_khasi": "Ha iing ha sem to ai kan shong,\nKa jingsuk bad ka jingshlur;\nU kpa u trei da ka hok,\nKa kmie ka ri da ka jingieit;\nKi khun ki kohnguh da ka akor,\nKi burom ia ki mawbyrsiew;\nHangta ka dpei ka syaid jai-jai,\nHa ka jingkmen ba u Blei u ai.\n\nPdiang sngewbha ia uba wan kai,\nAi kwai, ai tympew da ka mynsiem ba shai;\nKa jingbha jong ka ling ka sem\nKam dei ha ka spah ba kynrei;\nHynrei ha ka akor bad ka hok,\nBa pynlong ia ka ling kum ka khet;\nTo ngin sumar ia kane ka tnum\nBa kan tyngshain ha la ka shnong.",
+  "lyrics_english": "Within the family home let there dwell,\nAbiding peace and moral fortitude;\nThe father labors with honest sweat,\nThe mother nurtures with selfless love;\nThe children obey with graceful etiquette,\nHonoring the sacred three hearthstones;\nThere the family hearth glows warm and bright,\nBathed in the joy bestowed by God.\n\nWelcome the guest with a cheerful and generous countenance,\nOffer betel nut and fresh leaf with an open, loving heart;\nThe true excellence of a home and household\nConsists not in hoards of silver or gold;\nRather in upright decorum and integrity,\nTransforming the humble dwelling into a royal throne;\nLet us protect and preserve this ancestral roof\nThat it may shine as a light in our village.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha iing ha sem to ai kan shong,",
+        "Ka jingsuk bad ka jingshlur;",
+        "U kpa u trei da ka hok,",
+        "Ka kmie ka ri da ka jingieit;",
+        "Ki khun ki kohnguh da ka akor,",
+        "Ki burom ia ki mawbyrsiew;",
+        "Hangta ka dpei ka syaid jai-jai,",
+        "Ha ka jingkmen ba u Blei u ai."
+      ],
+      "english": [
+        "Within the family home let there dwell,",
+        "Abiding peace and moral fortitude;",
+        "The father labors with honest sweat,",
+        "The mother nurtures with selfless love;",
+        "The children obey with graceful etiquette,",
+        "Honoring the sacred three hearthstones;",
+        "There the family hearth glows warm and bright,",
+        "Bathed in the joy bestowed by God."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Pdiang sngewbha ia uba wan kai,",
+        "Ai kwai, ai tympew da ka mynsiem ba shai;",
+        "Ka jingbha jong ka ling ka sem",
+        "Kam dei ha ka spah ba kynrei;",
+        "Hynrei ha ka akor bad ka hok,",
+        "Ba pynlong ia ka ling kum ka khet;",
+        "To ngin sumar ia kane ka tnum",
+        "Ba kan tyngshain ha la ka shnong."
+      ],
+      "english": [
+        "Welcome the guest with a cheerful and generous countenance,",
+        "Offer betel nut and fresh leaf with an open, loving heart;",
+        "The true excellence of a home and household",
+        "Consists not in hoards of silver or gold;",
+        "Rather in upright decorum and integrity,",
+        "Transforming the humble dwelling into a royal throne;",
+        "Let us protect and preserve this ancestral roof",
+        "That it may shine as a light in our village."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "iing sem": "home / household / family estate",
+    "dpei": "hearth / fireplace embers",
+    "pdiang": "welcome / receive guests",
+    "kwai bad tympew": "betel nut and betel leaf (sacred emblem of Khasi hospitality)",
+    "tnum": "thatched roof / ancestral house"
+  },
+  "word_count": 111
+}

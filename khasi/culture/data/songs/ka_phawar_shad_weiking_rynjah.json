@@ -1,0 +1,79 @@
+{
+  "id": "ka_phawar_shad_weiking_rynjah",
+  "title": "Royal Dance Phawar of Weiking (Ka Phawar Shad Weiking)",
+  "khasi_title": "Ka Phawar Shad Weiking",
+  "category": "Royal Archival Festival Phawar",
+  "composer": "Sweetymon Rynjah",
+  "year": 2000,
+  "cultural_context": "The ceremonial phawar chanted at the opening and closing of the annual royal dance at the Weiking arena, from Sweetymon Rynjah's landmark 2000 monograph.",
+  "instruments": [
+    "Ksing",
+    "Nakra",
+    "Tangmuri",
+    "Shakuria"
+  ],
+  "themes": [
+    "Weiking Arena",
+    "Royal Dance Phawar",
+    "Khyrim & Mylliem Syiemships",
+    "National Blessing"
+  ],
+  "lyrics_khasi": "Hoi-kiw! Hoi-kiw! Risaw ko madan Weiking,\nHa ka sngi ba donburom u Hynniewtrep;\nKi Syiem, ki Myntri, ki Lyngdoh ki wan,\nBan pynkyntang ia ka shad ba kmen;\nKa tangmuri ka sawa sha ki suiñ,\nKi ksing ki nakra ki pynkhih ia ka khyndew;\nKi khun ki hajar ki kmen sngewbha,\nBan pynneh ia ka niam bad ka akor.\n\nKupar ba kynrei U Blei Un theh,\nHa ki pynthor, ha ki kper bad ki lum;\nBan roi ka spah, ban roi ka jaid,\nBan man ka kba bad u sohkymphor;\nAi ba ka jingsuk kan shong junom,\nHa man ki tnum, ha man ki dpei,\nKatba dang ieng u Lum Shillong\nKa Ri kan im ha ka hok.",
+  "lyrics_english": "Hoi-kiw! Hoi-kiw! Ring out, O arena of Weiking,\nUpon this noble day of the Seven Huts;\nThe Syiems, the Ministers, the High Priests arrive,\nTo consecrate the joyous festival dance;\nThe Tangmuri oboe soars into the sky,\nThe thunderous drums vibrate through the earth;\nThe entire populace rejoices together,\nPreserving our sacred faith and righteous conduct.\n\nAbundant divine favor may God pour down,\nUpon valley paddies, upon orchards and mountains;\nMay our families prosper, may our clans multiply,\nMay the rice flourish and the fruit trees bend low;\nMay everlasting peace make its dwelling,\nBeneath every thatched roof, around every hearth,\nAs long as Shillong Peak stands tall,\nOur Motherland shall thrive in righteousness.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Hoi-kiw! Hoi-kiw! Risaw ko madan Weiking,",
+        "Ha ka sngi ba donburom u Hynniewtrep;",
+        "Ki Syiem, ki Myntri, ki Lyngdoh ki wan,",
+        "Ban pynkyntang ia ka shad ba kmen;",
+        "Ka tangmuri ka sawa sha ki suiñ,",
+        "Ki ksing ki nakra ki pynkhih ia ka khyndew;",
+        "Ki khun ki hajar ki kmen sngewbha,",
+        "Ban pynneh ia ka niam bad ka akor."
+      ],
+      "english": [
+        "Hoi-kiw! Hoi-kiw! Ring out, O arena of Weiking,",
+        "Upon this noble day of the Seven Huts;",
+        "The Syiems, the Ministers, the High Priests arrive,",
+        "To consecrate the joyous festival dance;",
+        "The Tangmuri oboe soars into the sky,",
+        "The thunderous drums vibrate through the earth;",
+        "The entire populace rejoices together,",
+        "Preserving our sacred faith and righteous conduct."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kupar ba kynrei U Blei Un theh,",
+        "Ha ki pynthor, ha ki kper bad ki lum;",
+        "Ban roi ka spah, ban roi ka jaid,",
+        "Ban man ka kba bad u sohkymphor;",
+        "Ai ba ka jingsuk kan shong junom,",
+        "Ha man ki tnum, ha man ki dpei,",
+        "Katba dang ieng u Lum Shillong",
+        "Ka Ri kan im ha ka hok."
+      ],
+      "english": [
+        "Abundant divine favor may God pour down,",
+        "Upon valley paddies, upon orchards and mountains;",
+        "May our families prosper, may our clans multiply,",
+        "May the rice flourish and the fruit trees bend low;",
+        "May everlasting peace make its dwelling,",
+        "Beneath every thatched roof, around every hearth,",
+        "As long as Shillong Peak stands tall,",
+        "Our Motherland shall thrive in righteousness."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "weiking": "sacred grounds of the annual Shad Suk Mynsiem in Shillong",
+    "myntri": "traditional clan cabinet minister of a Khasi Hima",
+    "lyngdoh": "traditional clan priest / spiritual magistrate",
+    "pynthor": "valley rice paddy",
+    "roi": "prosper / multiply / flourish"
+  },
+  "word_count": 118
+}

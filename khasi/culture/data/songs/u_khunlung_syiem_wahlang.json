@@ -1,0 +1,78 @@
+{
+  "id": "u_khunlung_syiem_wahlang",
+  "title": "The Royal Infant (U Khunlung Syiem)",
+  "khasi_title": "U Khunlung Syiem",
+  "category": "Royal Lullaby & Dynastic Verse",
+  "composer": "D. N. S. Wahlang",
+  "year": 1964,
+  "cultural_context": "Royal matriarchal lullaby dedicated to the newborn prince of the Syiem lineage, invoking guardian spirits, from 'Ki Khasi Poems'.",
+  "instruments": [
+    "Sharati",
+    "Duitara",
+    "Besli"
+  ],
+  "themes": [
+    "Royal Infant",
+    "Syiem Lineage",
+    "Matriarchal Blessing",
+    "Lullaby"
+  ],
+  "lyrics_khasi": "Thiah suk, ko khunlung syiem,\nHa pneh ba syaid jong ka kmie;\nKi blei lum ki da ia me,\nNa man ka jingsniew ba wan;\nMe long ka jingkyrmen ka hima,\nKa khet ba kyntang ka ap;\nHaba me san ban long u rangbah,\nMe dei ban kamai ia ka hok.\n\nKa ksing ka sawa jai-jai,\nBan pynthiah ia la i khun;\nKa paila mukmor bad ka ksiar\nKi thaba ha pneh jong me;\nKo khunlung, to kynmaw junom,\nIa ki khun ki hajar ka ri;\nBa me long u kpa ban sumar,\nHa ka hok bad ka jingshisha.",
+  "lyrics_english": "Sleep peacefully, O royal infant child,\nIn the warm tender embrace of your mother;\nThe guardian spirits of the peaks watch over you,\nShielding you from every approaching harm;\nYou are the rising hope of our principality,\nThe sacred council stool awaits you;\nWhen you grow into manhood,\nYou must rule by righteousness alone.\n\nThe gentle drums murmur softly,\nLulling the darling infant to sleep;\nThe coral beads and royal gold\nGlimmer gently upon your chest;\nO child, remember throughout your life,\nThe humble subjects of the realm;\nYou are called to be a protective father,\nIn justice, righteousness, and truth.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Thiah suk, ko khunlung syiem,",
+        "Ha pneh ba syaid jong ka kmie;",
+        "Ki blei lum ki da ia me,",
+        "Na man ka jingsniew ba wan;",
+        "Me long ka jingkyrmen ka hima,",
+        "Ka khet ba kyntang ka ap;",
+        "Haba me san ban long u rangbah,",
+        "Me dei ban kamai ia ka hok."
+      ],
+      "english": [
+        "Sleep peacefully, O royal infant child,",
+        "In the warm tender embrace of your mother;",
+        "The guardian spirits of the peaks watch over you,",
+        "Shielding you from every approaching harm;",
+        "You are the rising hope of our principality,",
+        "The sacred council stool awaits you;",
+        "When you grow into manhood,",
+        "You must rule by righteousness alone."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ka ksing ka sawa jai-jai,",
+        "Ban pynthiah ia la i khun;",
+        "Ka paila mukmor bad ka ksiar",
+        "Ki thaba ha pneh jong me;",
+        "Ko khunlung, to kynmaw junom,",
+        "Ia ki khun ki hajar ka ri;",
+        "Ba me long u kpa ban sumar,",
+        "Ha ka hok bad ka jingshisha."
+      ],
+      "english": [
+        "The gentle drums murmur softly,",
+        "Lulling the darling infant to sleep;",
+        "The coral beads and royal gold",
+        "Glimmer gently upon your chest;",
+        "O child, remember throughout your life,",
+        "The humble subjects of the realm;",
+        "You are called to be a protective father,",
+        "In justice, righteousness, and truth."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "khunlung syiem": "royal infant / child of the kingly clan",
+    "hima": "traditional Khasi state / kingdom",
+    "khet": "throne / council seat",
+    "khun ki hajar": "subjects / citizens",
+    "thiah suk": "sleep peacefully"
+  },
+  "word_count": 99
+}

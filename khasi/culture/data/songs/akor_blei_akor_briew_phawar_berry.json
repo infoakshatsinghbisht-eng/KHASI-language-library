@@ -1,0 +1,78 @@
+{
+  "id": "akor_blei_akor_briew_phawar_berry",
+  "title": "Phawar of Reverence to God and Humankind (Akor Blei Akor Briew)",
+  "khasi_title": "Akor Blei Akor Briew",
+  "category": "Spiritual Duty & Moral Philosophy Phawar",
+  "composer": "Radhon Singh Berry",
+  "year": 1902,
+  "cultural_context": "The culminating philosophical phawar of 'Ka Jingsneng Tymmen' summarizing the totality of Khasi religious ethics: reverence toward God above and justice toward all human beings.",
+  "instruments": [
+    "Sharati",
+    "Ksing",
+    "Duitara"
+  ],
+  "themes": [
+    "Duty to God",
+    "Justice to Humanity",
+    "Summum Bonum",
+    "Kamai Ia Ka Hok"
+  ],
+  "lyrics_khasi": "Mane ia U Blei Nongbuh Nongthaw,\nDa ka dohnud kaba sotti bad ba khuid;\nU long Uba iohi ia man ka lynti,\nUba donbor ha suiñ bad ha khyndew;\nBurom ia u briew uba Me ia shem,\nWat niewpoh ia uba duk ba rangli;\nDei kane ka akor ba u Blei u kwah,\nBan pynim ia ka pyrthei baroh.\n\nKamai ia ka hok ha man ka sngi,\nWat thwet ia ka spah ba pait dohnud;\nKa hok kan neh kum u mawsiang,\nHaba ka pyrthei baroh ka la wai;\nKo khun u Hynniewtrep to bat skhem,\nIa kane ka jingsneng ba kyntang;\nBa ka nam jong pha kan sah junom\nHa ka khet jong U Blei ba khraw.",
+  "lyrics_english": "Worship God, the Supreme Creator and Architect,\nWith an inner heart that is honest, righteous, and pure;\nHe is the Omniscient One who observes every path,\nAlmighty in the heavens and upon the earth;\nRespect every fellow human being you encounter,\nNever despise the poor or the destitute;\nThis is the supreme conduct that God desires,\nTo sustain and preserve the whole human world.\n\nEarn your living through righteousness each day,\nPursue no ill-gotten wealth that corrupts the soul;\nFor righteousness shall stand firm like solid granite,\nWhen all the transient world has passed away;\nO children of the Seven Huts, hold steadfast,\nTo this sacred, timeless ancestral counsel;\nSo that your honorable name may endure forever\nBefore the eternal throne of Almighty God.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Mane ia U Blei Nongbuh Nongthaw,",
+        "Da ka dohnud kaba sotti bad ba khuid;",
+        "U long Uba iohi ia man ka lynti,",
+        "Uba donbor ha suiñ bad ha khyndew;",
+        "Burom ia u briew uba Me ia shem,",
+        "Wat niewpoh ia uba duk ba rangli;",
+        "Dei kane ka akor ba u Blei u kwah,",
+        "Ban pynim ia ka pyrthei baroh."
+      ],
+      "english": [
+        "Worship God, the Supreme Creator and Architect,",
+        "With an inner heart that is honest, righteous, and pure;",
+        "He is the Omniscient One who observes every path,",
+        "Almighty in the heavens and upon the earth;",
+        "Respect every fellow human being you encounter,",
+        "Never despise the poor or the destitute;",
+        "This is the supreme conduct that God desires,",
+        "To sustain and preserve the whole human world."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kamai ia ka hok ha man ka sngi,",
+        "Wat thwet ia ka spah ba pait dohnud;",
+        "Ka hok kan neh kum u mawsiang,",
+        "Haba ka pyrthei baroh ka la wai;",
+        "Ko khun u Hynniewtrep to bat skhem,",
+        "Ia kane ka jingsneng ba kyntang;",
+        "Ba ka nam jong pha kan sah junom",
+        "Ha ka khet jong U Blei ba khraw."
+      ],
+      "english": [
+        "Earn your living through righteousness each day,",
+        "Pursue no ill-gotten wealth that corrupts the soul;",
+        "For righteousness shall stand firm like solid granite,",
+        "When all the transient world has passed away;",
+        "O children of the Seven Huts, hold steadfast,",
+        "To this sacred, timeless ancestral counsel;",
+        "So that your honorable name may endure forever",
+        "Before the eternal throne of Almighty God."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "mane": "worship / revere / adore",
+    "nongbuh nongthaw": "the Supreme Creator and Ordainer",
+    "kamai ia ka hok": "earning righteousness / moral livelihood",
+    "duk rangli": "poor / destitute / orphan / needy",
+    "khet u blei": "the throne of God"
+  },
+  "word_count": 118
+}

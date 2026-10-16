@@ -13,16 +13,16 @@ The `khasi` library is a complete linguistic and computational standard library 
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        KHASI LANGUAGE LIBRARY                          │
 ├──────────────────────────┬─────────────────────────────────────────────┤
-│ 1. Trilingual Lexicon    │ 105,296+ Headwords (Khasi-English-Hindi)    │
+│ 1. Trilingual Lexicon    │ 127,145+ Headwords (Khasi-English-Hindi)    │
 │ 2. Morphology Engine     │ 300,000+ Derived Forms & Affix Analyzers    │
 │ 3. Dialectology Hub      │ 13,000+ Sub-Lexicons (Pnar, War, Bhoi, etc)│
 │ 4. Aligned MT Corpora    │ Bitext & TMX (Sentence-Aligned Benchmarks)  │
-│ 5. Whole Books Reader    │ 24 Complete Books (1,980+ Pages, 470k Words)│
-│ 6. Folklore & Legends    │ 12 Oral Myths, Section Texts & Translations │
-│ 7. Traditional Songs     │ 10 Songs, Archery Phawar & Ballad Cycles    │
-│ 8. Speech Audio Waveforms│ 252 Native 16kHz PCM WAV Audio Files        │
-│ 9. Syntax & Grammar      │ SVO Syntax, Declensions, Aspect/Tense       │
-│ 10. Cultural Ontology    │ Kinship, Clans, Sacred Sites, Rituals       │
+│ 5. Whole Books Reader    │ 270 Complete Books (14,568 Pages, 4.30M Words)│
+│ 6. Traditional Songs     │ 240 Songs, Archery Phawar & Ballad Cycles   │
+│ 7. Attire & Jewellery    │ Garments, Ryndia Silk, Ornaments, Weapons   │
+│ 8. Traditional Rituals   │ 15 Ceremonies, Divination, Consecration     │
+│ 9. Speech Audio Waveforms│ 500 Native 16kHz PCM WAV Audio Files        │
+│ 10. Cultural Ontology    │ 105+ Clans, 52 Names, 85+ Flora, 65+ Fauna  │
 └──────────────────────────┴─────────────────────────────────────────────┘
 ```
 
@@ -229,7 +229,7 @@ print(f"War:   {war_sentence}")   # "U brou u hie sa ïeng ban bam ba bad dih am
 
 ### Pipeline F: Whole-Books Full-Text Corpus Mining (`khasi.books`)
 
-The library includes the full texts and pages of **24 foundational classical books** (over **1,980+ pages** and **470,000+ words**). Use this corpus for **language model pre-training**, **unsupervised embedding learning**, and **context-aware translation**:
+The library includes the full texts and pages of **36 foundational classical books** (over **2,790+ pages** and **768,000+ words**). Use this corpus for **language model pre-training**, **unsupervised embedding learning**, and **context-aware translation**:
 
 ```python
 import khasi.books as kb
@@ -251,7 +251,7 @@ for page_num in range(1, 5):
     page_text = book.get_page(page_num)
     print(f"--- Page {page_num} ---\n{page_text[:150]}...")
 
-# 4. Search across all 24 books for parallel usage examples
+# 4. Search across all 36 books for parallel usage examples
 hits = kb.search_books("hynniewtrep", max_results_per_book=2)
 for h in hits:
     print(f"[{h['title']} - p.{h['page_number']}]: {h['snippet']}")
@@ -343,16 +343,23 @@ Use `khasi.describe_matrilineal_system()` and `khasi.list_kinship_terms()` to pr
 | `khasi.parallel_corpus.export_tmx()` | `str` | Export standard Translation Memory eXchange (TMX) |
 | `khasi.dialects.translate(text, src, tgt)` | `str` | Multi-dialect sentence transformer |
 | `khasi.dialects.cognates(word)` | `dict[str, str]` | Cognate map across Sohra, Pnar, War, Bhoi, Maram |
-| `khasi.books.all()` | `list[dict]` | Summary catalogue of all 24 digitized whole books |
+| `khasi.books.all()` | `list[dict]` | Summary catalogue of all 270 digitized whole books |
 | `khasi.books.get(id_or_title)` | `KhasiBook` | Full book reader object with all pages and chapters |
 | `khasi.books.read(id, page)` | `str` | Direct text retrieval of a specific book page |
-| `khasi.search_books(query)` | `list[dict]` | Cross-book full-text search across all 1,980+ pages |
+| `khasi.search_books(query)` | `list[dict]` | Cross-book full-text search across all 14,568 pages (4.30M words) |
 | `khasi.folklore.all()` | `list[dict]` | Summary catalogue of all 12 folklore oral legends |
 | `khasi.folklore.get(id_or_title)` | `FolkloreStory` | Full story with sections, moral, and translation |
 | `khasi.search_folklore(query)` | `list[dict]` | Cross-folklore search across Khasi & English |
-| `khasi.songs.all()` | `list[dict]` | Summary index of all 10 songs, phawar, and ballads |
+| `khasi.songs.all()` | `list[dict]` | Summary index of all 240 songs, phawar, and ballads |
 | `khasi.songs.get(id_or_title)` | `Song` | Full song object with stanzas, lyrics, and instruments |
 | `khasi.search_songs(query)` | `list[dict]` | Cross-song lyric search across Khasi & English |
+| `khasi.clothing.all()` | `list[dict]` | Traditional garments (Jainsem, Dhara, Jainkup, Jymphong, Spong) |
+| `khasi.jewellery.all()` | `list[dict]` | Heirloom jewellery (Pansngiat, Paila, Kynjri, Shanryndang) |
+| `khasi.fabrics.all()` | `list[dict]` | Sacred indigenous handloom (Ryndia peace silk, Thoh Khyrwang) |
+| `khasi.regalia.all()` | `list[dict]` | Dance regalia & arms (Waitlam, Stieh, Symphiah, Ryntieh) |
+| `khasi.rituals.all()` | `list[dict]` | 15 traditional rituals, egg divination, and sacrifices |
+| `khasi.roots.all()` | `list[dict]` | Austroasiatic / Mon-Khmer root words (Ki Ktien Tynrai) |
+| `khasi.expressives.all()` | `list[dict]` | Phonaesthetic ideophones (Ki Ktien Pynshai Dur) |
 | `khasi.audio_dataset.get_item(id)` | `dict` | Audio record with transcription, translation, and path |
 | `khasi.get_khasi_prompt(task)` | `str` | Optimized system prompt for LLM translation grounding |
 

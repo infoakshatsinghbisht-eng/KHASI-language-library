@@ -1,0 +1,78 @@
+{
+  "id": "rwai_ieit_hima_mawrie",
+  "title": "Ballad of the Homeland of Love (Rwai Ieit Hima)",
+  "khasi_title": "Rwai Ieit Hima",
+  "category": "Pastoral Love & Devotion Ballad",
+  "composer": "H. O. Mawrie",
+  "year": 1980,
+  "cultural_context": "Lyrical song from H. O. Mawrie's 'Ha Ka Hima Jong Ka Jingieit' expressing selfless devotion, marital fidelity, and spiritual harmony.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Selfless Love",
+    "Spiritual Harmony",
+    "Hearthside Loyalty",
+    "Matriarchal Grace"
+  ],
+  "lyrics_khasi": "Ha ka hima jong ka jingieit ba shisha,\nKam don ka sarong ne ka jingmut ar-sap;\nKawei ka dohnud kawei ka jingthrang,\nBan pynsuk ia u para-bynriew;\nKum ka um ba tuid na kliar lum,\nBa pynpyngngad ia man uba sliang;\nDei ka jingieit ba kyntang\nBa pynim ia ka ri baroh.\n\nLada ngi im ha kane ka jingieit,\nKa iing jong ngi kan long kum ka bneng;\nKi khun ki kti kin san ha ka akor,\nKin bat ia ka hok ba la buh ki kpa;\nHa pneh ka Mei-ri ngin shong suk,\nKhlem da don ba lah ban pynpait;\nKa jingieit ba shisha kan iaineh\nKum u khlur ba tyngshain junom.",
+  "lyrics_english": "In the true realm of authentic love,\nThere is no pride nor double-dealing mind;\nOne common heart, one harmonious desire,\nTo bring comfort unto fellow humankind;\nLike the clear stream flowing from mountain heights,\nQuenching the thirst of every weary wanderer;\nIt is this sacred divine love\nThat gives life to the whole motherland.\n\nIf we abide in this sacred love,\nOur home shall be a haven like heaven;\nOur children shall grow in noble etiquette,\nHolding fast to truth bequeathed by the fathers;\nIn the lap of our Motherland we shall dwell in peace,\nWith none possessing power to divide our bond;\nTrue love shall endure unchanging\nLike the star that shines throughout eternity.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha ka hima jong ka jingieit ba shisha,",
+        "Kam don ka sarong ne ka jingmut ar-sap;",
+        "Kawei ka dohnud kawei ka jingthrang,",
+        "Ban pynsuk ia u para-bynriew;",
+        "Kum ka um ba tuid na kliar lum,",
+        "Ba pynpyngngad ia man uba sliang;",
+        "Dei ka jingieit ba kyntang",
+        "Ba pynim ia ka ri baroh."
+      ],
+      "english": [
+        "In the true realm of authentic love,",
+        "There is no pride nor double-dealing mind;",
+        "One common heart, one harmonious desire,",
+        "To bring comfort unto fellow humankind;",
+        "Like the clear stream flowing from mountain heights,",
+        "Quenching the thirst of every weary wanderer;",
+        "It is this sacred divine love",
+        "That gives life to the whole motherland."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Lada ngi im ha kane ka jingieit,",
+        "Ka iing jong ngi kan long kum ka bneng;",
+        "Ki khun ki kti kin san ha ka akor,",
+        "Kin bat ia ka hok ba la buh ki kpa;",
+        "Ha pneh ka Mei-ri ngin shong suk,",
+        "Khlem da don ba lah ban pynpait;",
+        "Ka jingieit ba shisha kan iaineh",
+        "Kum u khlur ba tyngshain junom."
+      ],
+      "english": [
+        "If we abide in this sacred love,",
+        "Our home shall be a haven like heaven;",
+        "Our children shall grow in noble etiquette,",
+        "Holding fast to truth bequeathed by the fathers;",
+        "In the lap of our Motherland we shall dwell in peace,",
+        "With none possessing power to divide our bond;",
+        "True love shall endure unchanging",
+        "Like the star that shines throughout eternity."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jingieit": "love / affection / devotion",
+    "ar-sap": "hypocrisy / deceit / two-facedness",
+    "para-bynriew": "fellow human being / neighbor",
+    "bneng": "heaven / sky",
+    "khlur": "star"
+  },
+  "word_count": 113
+}

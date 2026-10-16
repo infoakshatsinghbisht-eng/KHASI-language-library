@@ -1,0 +1,43 @@
+{
+  "id": "ka_rwai_lum_kyllang_symper",
+  "title": "The Ballad of Mount Kyllang and Mount Symper",
+  "khasi_title": "Ka Jingrwai U Lum Kyllang bad U Lum Symper",
+  "category": "Epic Mythological Ballad",
+  "composer": "Ancient Oral Lore / Bardic Verses",
+  "year": "Traditional",
+  "cultural_context": "Recounts the famous mythological duel between two giant mountain brothers: U Lum Kyllang (a gigantic red granite dome monolith in West Khasi Hills) and U Lum Symper (a dramatic limestone mountain in Maharam). Jealous of each other's height, they hurled colossal boulders and chunks of earth at each other across the sky until Symper was scarred with deep pockmarks and Kyllang stood victorious and smooth.",
+  "instruments": [
+    "Duitara",
+    "Tangmuri",
+    "Ksing Padiah"
+  ],
+  "themes": [
+    "Mythological Giants",
+    "Geological Origins",
+    "Brotherly Rivalry",
+    "Highland Landmarks"
+  ],
+  "lyrics_khasi": "U Lum Kyllang bad u Lum Symper,\nKi arlei kynrem ha ka Ri Khasi;\nKi la ialeh ban pyni bor,\nBan tip uba kham jrong halor pyrthei!\n\nU Kyllang u la pynher ia ki mawsiang,\nU Symper u la kyntait da ka khyndew;\nKi riat ki la kynkhih, ka bneng ka la sawa,\nHaduh ba u Kyllang u la jop ha ka nam!\n\nHynrei mynta ki shong suk ha la ri,\nKi sakhi ia ka nam jong u Hynniewtrep!",
+  "lyrics_english": "Mount Kyllang and Mount Symper,\nTwo colossal brothers upon the Khasi hills;\nThey contended fiercely to prove their might,\nTo see who was tallest and proudest beneath the heavens!\n\nKyllang hurled massive granite boulders through the sky,\nSymper flung back sods of red highland earth;\nThe ravines shook, the heavens echoed with the thunder,\nUntil Kyllang stood triumphant in enduring granite glory!\n\nYet today both mountains rest in peace across our land,\nEternal witnesses to the greatness of the Children of the Seven Huts!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ki Ar Kynrem (Two Giant Brothers)",
+      "khasi": "U Lum Kyllang bad u Lum Symper,\nKi arlei kynrem ha ka Ri Khasi;\nKi la ialeh ban pyni bor,\nBan tip uba kham jrong halor pyrthei!",
+      "english": "Mount Kyllang and Mount Symper, two majestic peaks in Khasi land; contending in power to prove who was tallest upon the earth!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jingiatur Maw (Hurling of Boulders)",
+      "khasi": "U Kyllang u la pynher ia ki mawsiang,\nU Symper u la kyntait da ka khyndew;\nKi riat ki la kynkhih, ka bneng ka la sawa,\nHaduh ba u Kyllang u la jop ha ka nam!",
+      "english": "Kyllang hurled giant stones, Symper returned mud and earth; gorges trembled and heavens echoed until Kyllang stood victorious!"
+    }
+  ],
+  "vocabulary": {
+    "lum kyllang": "Colossal granite rock dome (over 5,600 ft) in West Khasi Hills",
+    "lum symper": "Famous jagged limestone mountain peak in Maharam Syiemship",
+    "pynher maw": "To hurl or launch giant stone boulders through the air in ancient warfare",
+    "hynniewtrep": "The primordial Seven Celestial Families who populated the Khasi Hills"
+  },
+  "word_count": 79
+}

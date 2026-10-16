@@ -1,0 +1,78 @@
+{
+  "id": "sur_ka_synrai_majaw",
+  "title": "Autumn Song of the Harvest Moon (Sur Ka Synrai)",
+  "khasi_title": "Sur Ka Synrai",
+  "category": "Seasonal Harvest Ode",
+  "composer": "S. S. Majaw",
+  "year": 1993,
+  "cultural_context": "Lyrical ode celebrating autumn (Ka Synrai) when golden paddy waves on terrace fields and the harvest moon shines, from 'Ka Tragoidia Bad Ki Poim'.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Autumn Harvest",
+    "Golden Paddy",
+    "Clear Skies",
+    "Thanksgiving"
+  ],
+  "lyrics_khasi": "Ka synrai ka la wan ha ka ri,\nU kba u la ih ha ki pynthor;\nU phalang kum ka ksiar ba tyngshain,\nHaba ka lyer ka pyrsad jai-jai;\nKi nongrep ki kmen ban ot kba,\nHa ryngkat ka sur ba sawa kynjai;\nKi theh ia ka ja sotti ba thiang\nBan pynkmen ia ki tnum baroh.\n\nU bnai synrai u phyrnai ha suiñ,\nU pynshai ia ki khlaw bad ki wah;\nKi khun ki kti ki ia kmen lang,\nBan burom ia U Blei Nongbuh;\nKupar ba kynrei ngi la ioh,\nNa ka kpoh jong ka Meiramew;\nNgin ri ia ka hok bad ka jingsuk\nHaduh ba ka sngi kan wai.",
+  "lyrics_english": "Autumn has arrived upon our hills,\nThe paddy stands ripe in golden terraces;\nShimmering like molten gold in the sun,\nWhen gentle breezes sweep the fields;\nThe cultivators rejoice to reap the harvest,\nSinging melodious pastoral chants;\nServing fragrant indigenous rice\nBringing joy to every village home.\n\nThe autumn moon gleams bright in the sky,\nIlluminating forests and mountain streams;\nFamilies and kindred gather in gladness,\nTo venerate God, the Great Giver of Life;\nBountiful harvests we have received,\nFrom the fertile womb of Mother Earth;\nWe shall safeguard righteousness and peace\nUntil our allotted days are complete.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka synrai ka la wan ha ka ri,",
+        "U kba u la ih ha ki pynthor;",
+        "U phalang kum ka ksiar ba tyngshain,",
+        "Haba ka lyer ka pyrsad jai-jai;",
+        "Ki nongrep ki kmen ban ot kba,",
+        "Ha ryngkat ka sur ba sawa kynjai;",
+        "Ki theh ia ka ja sotti ba thiang",
+        "Ban pynkmen ia ki tnum baroh."
+      ],
+      "english": [
+        "Autumn has arrived upon our hills,",
+        "The paddy stands ripe in golden terraces;",
+        "Shimmering like molten gold in the sun,",
+        "When gentle breezes sweep the fields;",
+        "The cultivators rejoice to reap the harvest,",
+        "Singing melodious pastoral chants;",
+        "Serving fragrant indigenous rice",
+        "Bringing joy to every village home."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "U bnai synrai u phyrnai ha suiñ,",
+        "U pynshai ia ki khlaw bad ki wah;",
+        "Ki khun ki kti ki ia kmen lang,",
+        "Ban burom ia U Blei Nongbuh;",
+        "Kupar ba kynrei ngi la ioh,",
+        "Na ka kpoh jong ka Meiramew;",
+        "Ngin ri ia ka hok bad ka jingsuk",
+        "Haduh ba ka sngi kan wai."
+      ],
+      "english": [
+        "The autumn moon gleams bright in the sky,",
+        "Illuminating forests and mountain streams;",
+        "Families and kindred gather in gladness,",
+        "To venerate God, the Great Giver of Life;",
+        "Bountiful harvests we have received,",
+        "From the fertile womb of Mother Earth;",
+        "We shall safeguard righteousness and peace",
+        "Until our allotted days are complete."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "synrai": "autumn season",
+    "kba": "paddy / unhusked rice",
+    "ot kba": "reap / harvest the paddy",
+    "nongrep": "farmer / cultivator",
+    "pynthor": "valley rice paddy terrace"
+  },
+  "word_count": 112
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rwai_ka_kot_rep_pugh",
+  "title": "Rwai Rep Ri Lum (Song of the Mountain Cultivator)",
+  "khasi_title": "Rwai Rep Ri Lum",
+  "category": "harvest_and_labor",
+  "composer": "B. M. Pugh",
+  "year": 1974,
+  "origin": "Khasi Highlands (Nongkrem & Mylliem)",
+  "instruments": [
+    "Ka Ksing Padiah",
+    "Ka Besli"
+  ],
+  "themes": [
+    "Farming",
+    "Terraces",
+    "Oranges",
+    "Sweet Potatoes"
+  ],
+  "cultural_context": "Agrarian chant sung by terrace farmers tilling orange groves, betel plantations, and highland crops.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha ki lum ba phyrnai ngi bet ia u symbai,",
+        "U slap u wan slap ban pyndap ka um,",
+        "Ka khyndew ka ai ia u soh uba thiang,",
+        "Ban pynbiang ka jingbam ia ki khun ki kti."
+      ],
+      "english": [
+        "On the radiant hills we sow the seeds,",
+        "The showers fall to fill the fresh streams,",
+        "The fertile earth yields sweet highland fruits,",
+        "Providing wholesome nourishment for our offspring."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "bet-symbai": "to sow seeds with prayerful hope",
+    "soh-thiang": "sweet highland harvest"
+  },
+  "file": "rwai_ka_kot_rep_pugh.json",
+  "lyrics_khasi": "Ha ki lum ba phyrnai ngi bet ia u symbai,\nU slap u wan slap ban pyndap ka um,\nKa khyndew ka ai ia u soh uba thiang,\nBan pynbiang ka jingbam ia ki khun ki kti.",
+  "lyrics_english": "On the radiant hills we sow the seeds,\nThe showers fall to fill the fresh streams,\nThe fertile earth yields sweet highland fruits,\nProviding wholesome nourishment for our offspring.",
+  "word_count": 37
+}

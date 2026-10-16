@@ -1,0 +1,30 @@
+{
+  "id": "ka_niam_tynrai_seng_khasi",
+  "title": "Indigenous Religion and Sacred Philosophy of the Khasi",
+  "native_title": "Ka Niam Tynrai jong Ka Ri Khasi (Tip-Briew Tip-Blei)",
+  "author": "U Rash Mohon Roy & U Babu Jeebon Roy",
+  "year": 1899,
+  "genre": "Philosophy & Ethics",
+  "description": "Foundational theological scripture explaining the three sacred moral pillars of Khasi ancestral faith: Kamai ia ka Hok, Tip-Briew Tip-Blei, and Tip-Kur Tip-Kha.",
+  "total_pages": 2,
+  "total_words": 221,
+  "chapters": [
+    "Kamai ia ka Hok ha ka Pyrthei",
+    "Tip-Briew Tip-Blei kum ka Nongrim",
+    "Tip-Kur Tip-Kha bad Ka Sang Ka Ma",
+    "Ka Pomblang bad Ka Shad Suk Mynsiem"
+  ],
+  "source_type": "indigenous_literature_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "KA NIAM TYNRAI JONG KA RI KHASI\nDa U Rash Mohon Roy & U Babu Jeebon Roy (1899)\n\nKa Bynta I: Kamai ia ka Hok\nU Khasi um ngeit ha ka jingngeit biej ne ka jingleh jubor. Ka niam Khasi ka ieng halor kawei ka nongrim bakhraw: ban 'Kamai ia ka Hok'. Haba u briew u im ha pyrthei, u dei ban kyntait ia ka thok, ka shukor, bad ka jingkwan spah.\n\nTip-Briew Tip-Blei:\nBan tip ia U Blei, u briew u dei shuwa ban tip ban burom ia la u para-briew. Uba lehbein ia uba duk, uba thombor ia ka kynthei, um pat tip ia U Blei. Ka jingburom mar-bud ka long ka jingkhuid jong ka dohnud.",
+      "word_count": 118
+    },
+    {
+      "page_number": 2,
+      "text": "Ka Bynta II: Tip-Kur Tip-Kha\nKa kur ka dei ka snam ka kti; u briew u dei ban burom ia ka kmie bad ki hynmen para. Ka Sang ka Ma ka long ka pop kaba khraw tam lada u briew u pynkhein ia ka niam kur.\n\nKa Jingduwai bad Ka Shad Ainguh:\nHa ka Niam Khasi, ym don jingkhein ba U Blei u don dur; U Blei u long Uba Thaw, Uba Buh, U Kynrad bakhraw. Haba ki Khasi ki shad ha Shad Suk Mynsiem, ki ainguh ia U Blei halor ka jingai kba, ka jingkoit jingkhiah, bad ka jingsuk ha ka Hima.",
+      "word_count": 103
+    }
+  ]
+}

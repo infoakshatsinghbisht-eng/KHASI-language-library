@@ -1,0 +1,79 @@
+{
+  "id": "u_thlen_bad_ka_wanduh_bareh",
+  "title": "The Thlen Serpent and the Orphan (U Thlen Bad Ka Wanduh)",
+  "khasi_title": "U Thlen Bad Ka Wanduh",
+  "category": "Heroic Legend & Epic Ballad",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "The epic confrontation between the evil man-eating dragon/serpent U Thlen of Dainthlen and the heroic youth who slayed it to liberate the Khasi people.",
+  "instruments": [
+    "Nakra",
+    "Ksing",
+    "Sharati",
+    "Tangmuri"
+  ],
+  "themes": [
+    "Dainthlen Gorge",
+    "Slaying Evil",
+    "Bravery of the Poor",
+    "Liberation"
+  ],
+  "lyrics_khasi": "Ha Dainthlen ha krem ba dum,\nU thlen u rieh ban nguid ia u briew,\nU kpa u kpa u la leit noh,\nKa pyrthei baroh ka la rieh;\nHynrei u wanduh ba shlur\nU la shim la ka tari ba nep,\nBan pynduh ia u ksuid basniew\nBa wan pynjot ia ka ri.\n\nDa ka nar ba syaid ba la thang,\nU la pynnguid ia u thlen ba khraw,\nKa mawsiang ka la pait,\nKa kshaid ka la pashat um;\nLa kut ka jingsheptieng u briew,\nLa laitluid u Hynniewtrep,\nKa nam jong u khlur ba shlur\nKan im ha man ka jingshai.",
+  "lyrics_english": "At Dainthlen within the dark cavern,\nThe Thlen serpent lurked to devour mankind,\nGeneration upon generation had perished,\nThe entire populace cowered in fear;\nYet the brave impoverished orphan\nTook up his sharp-tempered iron blade,\nTo vanquish the demonic monster\nThat brought devastation upon the land.\n\nWith red-hot irons glowing from fire,\nHe fed the ravenous monster,\nThe giant rocks split asunder,\nThe waterfall surged with foam;\nMankind's mortal terror was broken,\nThe Seven Huts walked free again,\nThe name of that courageous warrior\nShall live in every morning light.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha Dainthlen ha krem ba dum,",
+        "U thlen u rieh ban nguid ia u briew,",
+        "U kpa u kpa u la leit noh,",
+        "Ka pyrthei baroh ka la rieh;",
+        "Hynrei u wanduh ba shlur",
+        "U la shim la ka tari ba nep,",
+        "Ban pynduh ia u ksuid basniew",
+        "Ba wan pynjot ia ka ri."
+      ],
+      "english": [
+        "At Dainthlen within the dark cavern,",
+        "The Thlen serpent lurked to devour mankind,",
+        "Generation upon generation had perished,",
+        "The entire populace cowered in fear;",
+        "Yet the brave impoverished orphan",
+        "Took up his sharp-tempered iron blade,",
+        "To vanquish the demonic monster",
+        "That brought devastation upon the land."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Da ka nar ba syaid ba la thang,",
+        "U la pynnguid ia u thlen ba khraw,",
+        "Ka mawsiang ka la pait,",
+        "Ka kshaid ka la pashat um;",
+        "La kut ka jingsheptieng u briew,",
+        "La laitluid u Hynniewtrep,",
+        "Ka nam jong u khlur ba shlur",
+        "Kan im ha man ka jingshai."
+      ],
+      "english": [
+        "With red-hot irons glowing from fire,",
+        "He fed the ravenous monster,",
+        "The giant rocks split asunder,",
+        "The waterfall surged with foam;",
+        "Mankind's mortal terror was broken,",
+        "The Seven Huts walked free again,",
+        "The name of that courageous warrior",
+        "Shall live in every morning light."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "thlen": "legendary vampiric serpent/dragon of Khasi lore",
+    "dainthlen": "the rock where the serpent was cut asunder",
+    "wanduh": "poor orphan / destitute young person",
+    "tari": "traditional curved utility knife/dagger",
+    "laitluid": "liberated / free"
+  },
+  "word_count": 104
+}

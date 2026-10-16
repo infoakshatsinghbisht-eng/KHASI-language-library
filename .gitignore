@@ -34,5 +34,4 @@ Thumbs.db
 # Large raw corpus downloads
 *_dict.txt
 book_*.txt
-
-
+downloaded_raw/

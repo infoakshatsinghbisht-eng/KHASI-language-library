@@ -1,0 +1,77 @@
+{
+  "id": "ka_sur_myllung_na_krem_shadem_sun",
+  "title": "Bardic Melody from the Heart's Cavern (Ka Sur Myllung Na Krem Shadem)",
+  "khasi_title": "Ka Sur Myllung Na Krem Shadem",
+  "category": "Meditative Soul Lyric",
+  "composer": "Andreas Sun",
+  "year": 2006,
+  "cultural_context": "Introspective philosophical ballad from Andreas Sun's 2006 work, exploring the inner spiritual temple of the human heart as an altar of truth.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Heart's Cavern",
+    "Inner Temple",
+    "Spiritual Solitude",
+    "Philosophical Melodies"
+  ],
+  "lyrics_khasi": "Na krem shadem ba jylliew,\nKa mih ka sur kaba jar-jar;\nKam don ka jingkhihwin pyrthei,\nHynrei ka jingshai ba kynja blei;\nHangta nga shem ia la ka mynsiem,\nBa sngap ia ka ktien jong U Blei;\nSur myllung ba pynklet ia ka khuslai,\nBa theh ka jingsuk ba pura.\n\nHaba ka pyrthei ka shon ia nga,\nNga leit sha kane ka krem ba rieh;\nU Blei U don hangta ban pyntngen,\nBan ai ka bor ban ieng biang pat;\nKumta to ngin sumar ia la ka dohnud,\nBa kan khuid kum u mawlynnai,\nBa ka sur na krem shadem\nKan sawa ka hok junom.",
+  "lyrics_english": "From the deep cavern of the human chest,\nThere rises a quiet, serene melody;\nUntainted by the clatter of the world,\nBearing the sacred light of divinity;\nThere my soul finds sanctuary,\nListening to the gentle voice of God;\nA melodious song that banishes earthly worry,\nPouring down unblemished peace.\n\nWhenever worldly tribulations weigh me down,\nI retreat into this quiet inner cavern;\nGod is present there to comfort me,\nImparting renewed strength to rise again;\nSo let us keep vigil over our hearts,\nThat they remain pure as clear crystal,\nSo that the song from within the chest\nMay echo righteousness throughout all time.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Na krem shadem ba jylliew,",
+        "Ka mih ka sur kaba jar-jar;",
+        "Kam don ka jingkhihwin pyrthei,",
+        "Hynrei ka jingshai ba kynja blei;",
+        "Hangta nga shem ia la ka mynsiem,",
+        "Ba sngap ia ka ktien jong U Blei;",
+        "Sur myllung ba pynklet ia ka khuslai,",
+        "Ba theh ka jingsuk ba pura."
+      ],
+      "english": [
+        "From the deep cavern of the human chest,",
+        "There rises a quiet, serene melody;",
+        "Untainted by the clatter of the world,",
+        "Bearing the sacred light of divinity;",
+        "There my soul finds sanctuary,",
+        "Listening to the gentle voice of God;",
+        "A melodious song that banishes earthly worry,",
+        "Pouring down unblemished peace."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Haba ka pyrthei ka shon ia nga,",
+        "Nga leit sha kane ka krem ba rieh;",
+        "U Blei U don hangta ban pyntngen,",
+        "Ban ai ka bor ban ieng biang pat;",
+        "Kumta to ngin sumar ia la ka dohnud,",
+        "Ba kan khuid kum u mawlynnai,",
+        "Ba ka sur na krem shadem",
+        "Kan sawa ka hok junom."
+      ],
+      "english": [
+        "Whenever worldly tribulations weigh me down,",
+        "I retreat into this quiet inner cavern;",
+        "God is present there to comfort me,",
+        "Imparting renewed strength to rise again;",
+        "So let us keep vigil over our hearts,",
+        "That they remain pure as clear crystal,",
+        "So that the song from within the chest",
+        "May echo righteousness throughout all time."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "krem shadem": "cavern of the chest / inner soul / heart",
+    "sur myllung": "melodious, poetic song of the bards",
+    "pyntngen": "comfort / console / bring solace",
+    "mawlynnai": "pure clear crystal / jewel",
+    "kynja blei": "divine / heavenly"
+  },
+  "word_count": 105
+}

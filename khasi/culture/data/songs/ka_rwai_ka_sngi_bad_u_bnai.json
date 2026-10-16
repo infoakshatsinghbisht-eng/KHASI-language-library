@@ -1,0 +1,59 @@
+{
+  "id": "ka_rwai_ka_sngi_bad_u_bnai",
+  "title": "Ballad of the Sun Maiden and the Moon Brother (Ka Rwai Ka Sngi bad U Bnai)",
+  "khasi_title": "Ka Rwai Ka Sngi bad U Bnai",
+  "category": "Cosmological Ballad & Folk Legend",
+  "composer": "Classical Khasi Mythological Oral Tradition",
+  "year": "Traditional Ancient",
+  "cultural_context": "In Khasi cosmology, the Sun (Ka Sngi) is female—the glorious maternal source of life and truth—while the Moon (U Bnai) is her younger brother. According to the ancient myth celebrated in song, the young brother developed improper desires toward his sister. In righteous indignation, Ka Sngi cast a handful of hot fireplace ashes (Dpei) directly across his face, permanently blemishing his visage with dark grey spots. Shamed, U Bnai retreated to traverse only the cool, solitary darkness of the night, while Ka Sngi reigns over radiant daylight.",
+  "instruments": [
+    "Duitara",
+    "Maryngod (bowed lute)",
+    "Sharati (flute)",
+    "Mieng (bamboo jaw harp)"
+  ],
+  "themes": [
+    "Ka Sngi (Sun Maiden)",
+    "U Bnai (Moon Brother)",
+    "Clan Taboo (Ka Sang Ka Ma)",
+    "Hearth Ashes (Ka Dpei)",
+    "Cosmic Origins",
+    "Matriarchal Purity"
+  ],
+  "lyrics_khasi": "Ko Ka Sngi ba phyrnai, ko Mei ka jingshai,\nMei-rad jong ka bneng, ka pyrthei Me pynim;\nHa suin Me phriang ki kjat sngi ba kordor,\nBan bsa ia ki sim, ki syntiew, ki briew.\n\nU Bnai uba rit, u hymmen ba bieit,\nU kwah ban leh bakla ia la ka jong ka hynmen;\nKa Sngi ka la bitar, ka shim ia ka dpei,\nKha-khi ka theh halor ka khmat jong u bnai!\n\nKumta u Bnai u kylla pait-lieh pait-iong,\nU lehrain ban mih ha ka sngi ba shai kdar;\nU iaid tang mynmiet ha ka dum ka syngken,\nDa ka khmat ba thoh-dpei ba sniew ka dur.\n\nKo Mei Ka Sngi, to iai ai ka jingshai,\nBan pynneh ia ka Hok, ban kyntait ia ka Sang;\nHa pyrthei to iai sawa ka nam jong Ka Sngi,\nKa kmie ka kynrad ba bsa ia ka Ri!",
+  "lyrics_english": "O radiant Sun Maiden, Mother of eternal light,\nGreat mother of the heavens, giving life to all the earth;\nAcross the blue vault Thou spreadest Thy golden beams,\nNourishing the birds, the flowers, and mortal beings.\n\nYoung Moon, foolish and undisciplined brother,\nConceived forbidden desire toward his own elder sister;\nThe Sun blazed in wrath, seized hearthside ashes,\nAnd hurled them blazing across the face of the Moon!\n\nHence the Moon became stained with dark blemish,\nAshamed forever to appear in broad golden daylight;\nHe wanders alone in the chill silence of the night,\nBearing forever the ash-stained mark of shame.\n\nO Mother Sun, continually grant us Thy celestial light,\nTo preserve our righteousness and cast out moral transgression;\nThroughout the earth let the renown of the Sun Maiden resound,\nThe queen and mother who sustains the sacred land!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Sngi Ka Kmie Jong Ka Jingshai (The Sun Mother of Light)",
+      "khasi": "Ko Ka Sngi ba phyrnai, ko Mei ka jingshai,\nMei-rad jong ka bneng, ka pyrthei Me pynim;\nHa suin Me phriang ki kjat sngi ba kordor,\nBan bsa ia ki sim, ki syntiew, ki briew.",
+      "english": "O radiant Sun Maiden, mother of heavens and light, nourishing blossoms, beasts, and mankind with Thy golden rays."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Dpei Halor U Bnai (Ashes upon the Moon's Face)",
+      "khasi": "U Bnai uba rit, u hymmen ba bieit,\nU kwah ban leh bakla ia la ka jong ka hynmen;\nKa Sngi ka la bitar, ka shim ia ka dpei,\nKha-khi ka theh halor ka khmat jong u bnai!",
+      "english": "When the foolish brother overstepped clan boundaries, the Sun Maiden in holy wrath cast fireplace ashes across his face."
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Jingiaid Mynmiet (The Nightly Solitary Wanderer)",
+      "khasi": "Kumta u Bnai u kylla pait-lieh pait-iong,\nU lehrain ban mih ha ka sngi ba shai kdar;\nU iaid tang mynmiet ha ka dum ka syngken,\nDa ka khmat ba thoh-dpei ba sniew ka dur.",
+      "english": "Ash-spotted and ashamed to behold the day, the Moon traverses alone through the cold nocturnal shadows."
+    },
+    {
+      "stanza_number": 4,
+      "title": "Ka Jingiaroh ia Ka Sngi (Praise to the Sun Mother)",
+      "khasi": "Ko Mei Ka Sngi, to iai ai ka jingshai,\nBan pynneh ia ka Hok, ban kyntait ia ka Sang;\nHa pyrthei to iai sawa ka nam jong Ka Sngi,\nKa kmie ka kynrad ba bsa ia ka Ri!",
+      "english": "O Mother Sun, preserve truth and banish incestuous taboo; let Thy glory shine forever across the motherland!"
+    }
+  ],
+  "vocabulary": {
+    "ka sngi": "The sun; female deity and maternal life-giver in Khasi theology",
+    "u bnai": "The moon; male celestial entity, brother to the sun",
+    "dpei": "Hearth fire ashes; domestic fireplace",
+    "ka sang": "Moral taboo, incest, or cardinal spiritual violation in Khasi law",
+    "thoh-dpei": "Spotted or stained with gray ashes"
+  },
+  "word_count": 146
+}

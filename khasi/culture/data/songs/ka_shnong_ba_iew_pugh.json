@@ -1,0 +1,78 @@
+{
+  "id": "ka_shnong_ba_iew_pugh",
+  "title": "The Market Day Town (Ka Shnong Ba-Iew)",
+  "khasi_title": "Ka Shnong Ba-Iew",
+  "category": "Market Day & Civic Phawar",
+  "composer": "Frank M. Pugh",
+  "year": 1973,
+  "cultural_context": "Vivid phawar depicting the eight-day market cycle (Iewduh, Iewbah, Iewrynghep) of the Khasi hills, from 'Ka Phawar-rwai Khasi' (1973).",
+  "instruments": [
+    "Ksing",
+    "Tangmuri",
+    "Duitara"
+  ],
+  "themes": [
+    "Eight-Day Market Cycle",
+    "Commerce",
+    "Highland Traders",
+    "Vibrant Gatherings"
+  ],
+  "lyrics_khasi": "Hoi-kiw! Wan sha ka iew,\nHa ka sngi ba la buh,\nKi tymmen ki samla\nKi kiew na man ki shnong;\nKi kit khoh, ki kit shang,\nKi wan die kwai bad tympew,\nU sohkymphor, u sohphlang,\nBad u sohpetbeng ba thiang.\n\nKa iew ka sawa kynjai,\nKi ktien kmen ki pait,\nHangne ki paralok\nKi ia shem bad ia dait;\nKa iew u Khasi\nKam dei tang ka nong,\nHynrei ka kynhun\nBa pyniatylli ia ka ri.",
+  "lyrics_english": "Hoi-kiw! Come to the marketplace,\nUpon the designated market day,\nElders and youths alike\nAscend from every hillside hamlet;\nCarrying woven conical baskets (Khoh),\nSelling betel nut and fresh pan leaf,\nMountain apples, edible crisp tubers,\nAnd luscious wild berries.\n\nThe bazaar hums with spirited life,\nLaughter and greetings ring out,\nHere long-parted friends\nMeet and share betel quid;\nThe Khasi traditional market\nIs more than mere trade,\nIt is the living bond\nThat unites the entire motherland.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Hoi-kiw! Wan sha ka iew,",
+        "Ha ka sngi ba la buh,",
+        "Ki tymmen ki samla",
+        "Ki kiew na man ki shnong;",
+        "Ki kit khoh, ki kit shang,",
+        "Ki wan die kwai bad tympew,",
+        "U sohkymphor, u sohphlang,",
+        "Bad u sohpetbeng ba thiang."
+      ],
+      "english": [
+        "Hoi-kiw! Come to the marketplace,",
+        "Upon the designated market day,",
+        "Elders and youths alike",
+        "Ascend from every hillside hamlet;",
+        "Carrying woven conical baskets (Khoh),",
+        "Selling betel nut and fresh pan leaf,",
+        "Mountain apples, edible crisp tubers,",
+        "And luscious wild berries."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ka iew ka sawa kynjai,",
+        "Ki ktien kmen ki pait,",
+        "Hangne ki paralok",
+        "Ki ia shem bad ia dait;",
+        "Ka iew u Khasi",
+        "Kam dei tang ka nong,",
+        "Hynrei ka kynhun",
+        "Ba pyniatylli ia ka ri."
+      ],
+      "english": [
+        "The bazaar hums with spirited life,",
+        "Laughter and greetings ring out,",
+        "Here long-parted friends",
+        "Meet and share betel quid;",
+        "The Khasi traditional market",
+        "Is more than mere trade,",
+        "It is the living bond",
+        "That unites the entire motherland."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "iew": "market / bazaar",
+    "khoh": "conical woven bamboo backpack basket",
+    "kwai": "areca nut / betel nut",
+    "tympew": "betel leaf",
+    "sohphlang": "Flemingia vestita (crisp sweet highland tuber)"
+  },
+  "word_count": 78
+}

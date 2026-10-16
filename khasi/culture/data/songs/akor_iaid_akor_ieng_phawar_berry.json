@@ -1,0 +1,78 @@
+{
+  "id": "akor_iaid_akor_ieng_phawar_berry",
+  "title": "Phawar of Demeanor and Gait (Akor Iaid Akor Ieng)",
+  "khasi_title": "Akor Iaid Akor Ieng Ha Ka Rukom Rwai Phawar",
+  "category": "Ethical Conduct & Phawar Chant",
+  "composer": "Radhon Singh Berry",
+  "year": 1902,
+  "cultural_context": "The classical opening rhyming chant (Rwai Phawar) of Radhon Singh Berry's monumental 1902 work 'Ka Jingsneng Tymmen', instructing youth on dignified physical comportment.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Duitara"
+  ],
+  "themes": [
+    "Akor Khasi",
+    "Dignified Comportment",
+    "Modesty",
+    "Ancestral Manners"
+  ],
+  "lyrics_khasi": "Haba phi iaid ha ka lynti,\nWat iaid khia kti khia kjat shuh;\nWat peit suh khmat sha pnah bneng,\nIaid beit, iaid suk da ka akor;\nKa rukom iaid ka pynpaw bha,\nIa ka dohnud ba don ha poh;\nUba iaid da ka burom briew\nU ioh ka nam kaba tyngshain.\n\nWat ksaid ha ling, wat khie bitar,\nWat kren da ka ktien ba pait dohnud;\nKi tymmen ki peit da ka jingstad,\nBan sneng ban bthah ia la ki khun;\nKa akor babha dei ka spah ksiar,\nBa ri u Hynniewtrep baroh;\nHaduh ba sngi jong ngi kan sep\nTo ngin bat skhem ia kane ka nia.",
+  "lyrics_english": "Whenever your footsteps walk the road,\nTread not heavily with boisterous gait;\nCast not haughty eyes toward the clouds,\nWalk direct and peacefully with upright decorum;\nThe manner of one's stride clearly reveals\nThe inner spirit that dwells within;\nHe who walks with human dignity\nEarns an honorable name that shines.\n\nFume not within the hearth, rise not in wrath,\nUtter no harsh word that fractures the soul;\nThe elders observe with deep wisdom,\nTo counsel and guide their children;\nGood character is true treasure of gold,\nCherished by all the Seven Huts;\nUntil the final sun of our life shall set\nLet us cling steadfastly to this truth.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Haba phi iaid ha ka lynti,",
+        "Wat iaid khia kti khia kjat shuh;",
+        "Wat peit suh khmat sha pnah bneng,",
+        "Iaid beit, iaid suk da ka akor;",
+        "Ka rukom iaid ka pynpaw bha,",
+        "Ia ka dohnud ba don ha poh;",
+        "Uba iaid da ka burom briew",
+        "U ioh ka nam kaba tyngshain."
+      ],
+      "english": [
+        "Whenever your footsteps walk the road,",
+        "Tread not heavily with boisterous gait;",
+        "Cast not haughty eyes toward the clouds,",
+        "Walk direct and peacefully with upright decorum;",
+        "The manner of one's stride clearly reveals",
+        "The inner spirit that dwells within;",
+        "He who walks with human dignity",
+        "Earns an honorable name that shines."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat ksaid ha ling, wat khie bitar,",
+        "Wat kren da ka ktien ba pait dohnud;",
+        "Ki tymmen ki peit da ka jingstad,",
+        "Ban sneng ban bthah ia la ki khun;",
+        "Ka akor babha dei ka spah ksiar,",
+        "Ba ri u Hynniewtrep baroh;",
+        "Haduh ba sngi jong ngi kan sep",
+        "To ngin bat skhem ia kane ka nia."
+      ],
+      "english": [
+        "Fume not within the hearth, rise not in wrath,",
+        "Utter no harsh word that fractures the soul;",
+        "The elders observe with deep wisdom,",
+        "To counsel and guide their children;",
+        "Good character is true treasure of gold,",
+        "Cherished by all the Seven Huts;",
+        "Until the final sun of our life shall set",
+        "Let us cling steadfastly to this truth."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "akor": "etiquette / moral character / noble manners",
+    "iaid": "walk / tread",
+    "dohnud": "heart / inner spirit",
+    "bitar": "anger / wrath",
+    "spah ksiar": "wealth of gold / precious treasure"
+  },
+  "word_count": 109
+}

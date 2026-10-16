@@ -1,0 +1,64 @@
+{
+  "id": "rwai_ka_melody_kharlukhi",
+  "title": "Ka Melody Jong Ka Ri (Melody of the Homeland)",
+  "native_title": "Ka Melody Jong Ka Ri",
+  "category": "nature_and_lyrical",
+  "composer": "Khraw Kupar Kharlukhi",
+  "year": 1985,
+  "origin": "Khasi Hills",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing",
+    "Ka Maryngod"
+  ],
+  "themes": [
+    "Homeland",
+    "Melody",
+    "Hills",
+    "Pine Forests"
+  ],
+  "description": "Lyrical ballad in classical Khasi praising the streams, whistling pine breezes, and rolling green hills.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha ki lum ki them ba phyrnai,",
+        "Rwai ko sur ka duitara ksiar,",
+        "Sngewthuh ko para baieit ka ri,",
+        "Ha u slap bad ka jingshai ka sngi."
+      ],
+      "english": [
+        "Across the radiant hills and valleys,",
+        "Sing, O melody of the golden duitara,",
+        "Hearken, O beloved children of the motherland,",
+        "Through the rain and the golden sunshine."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ki khlaw kyntang ki phuh ki syntiew,",
+        "Ka um sunon ka tuid jai jai,",
+        "Pynneh ia ka burom u Hynniewtrep,",
+        "Haduh ban da wai ki aïom pyrthei."
+      ],
+      "english": [
+        "In the sacred groves the flowers bloom,",
+        "The crystal river flows gently and clear,",
+        "Preserve the honor of the Seven Huts,",
+        "Until the seasons of the world have run their course."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "duitara-ksiar": "golden lute / traditional four-string harp",
+    "um-sunon": "pure crystal clear mountain brook",
+    "hynniewtrep": "the Seven Huts / original primordial Khasi ancestors"
+  },
+  "file": "rwai_ka_melody_kharlukhi.json",
+  "khasi_title": "Ka Melody Jong Ka Ri",
+  "cultural_context": "Lyrical ballad in classical Khasi praising the streams, whistling pine breezes, and rolling green hills.",
+  "lyrics_khasi": "Ha ki lum ki them ba phyrnai,\nRwai ko sur ka duitara ksiar,\nSngewthuh ko para baieit ka ri,\nHa u slap bad ka jingshai ka sngi.\nKi khlaw kyntang ki phuh ki syntiew,\nKa um sunon ka tuid jai jai,\nPynneh ia ka burom u Hynniewtrep,\nHaduh ban da wai ki aïom pyrthei.",
+  "lyrics_english": "Across the radiant hills and valleys,\nSing, O melody of the golden duitara,\nHearken, O beloved children of the motherland,\nThrough the rain and the golden sunshine.\nIn the sacred groves the flowers bloom,\nThe crystal river flows gently and clear,\nPreserve the honor of the Seven Huts,\nUntil the seasons of the world have run their course.",
+  "word_count": 54
+}

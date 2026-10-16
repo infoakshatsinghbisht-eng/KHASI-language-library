@@ -1,0 +1,44 @@
+{
+  "id": "meirad_die_kwai_majaw",
+  "title": "Old Grandmother Selling Betel Nut (Meirad Die Kwai)",
+  "khasi_title": "Meirad Die Kwai",
+  "category": "Folk Phawar & Hearth Ballad",
+  "composer": "S. S. Majaw",
+  "year": 2000,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Ha rud ka surok I Mei-rad I shong,\nDa ka shang ba dap da u kwai bad u tympew;\nI khmied da ka khmat ba phuh samrkhie,\nBan ai ia u kwai ia ki nongleit nongwan.\n\n'Wan shim ko khun ia u kwai uba thiang,\nU kwai ba pyniasoh ia ka jingialok;'\nKumta I kren da ka ktien ba jemnud,\nKaba pynkmen ia ka mynsiem jong baroh.",
+  "lyrics_english": "Beside the village path sitting gently is the grandmother,\nWith her woven basket full of betel nut and fresh pepper leaves;\nShe gazes with smiling, welcoming eyes,\nOffering the token of Kwai to every passing traveler.\n\n'Come partake, my child, of the sweet fresh nut,\nThe Kwai that knits the bonds of brotherhood;'\nThus she speaks in tender gentle accents,\nCheering the weary spirits of all who pass by.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Meirad Die Kwai)",
+      "khasi": "Ha rud ka surok I Mei-rad I shong,\nDa ka shang ba dap da u kwai bad u tympew;\nI khmied da ka khmat ba phuh samrkhie,\nBan ai ia u kwai ia ki nongleit nongwan.",
+      "english": "Beside the village path sitting gently is the grandmother,\nWith her woven basket full of betel nut and fresh pepper leaves;\nShe gazes with smiling, welcoming eyes,\nOffering the token of Kwai to every passing traveler."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Meirad Die Kwai)",
+      "khasi": "'Wan shim ko khun ia u kwai uba thiang,\nU kwai ba pyniasoh ia ka jingialok;'\nKumta I kren da ka ktien ba jemnud,\nKaba pynkmen ia ka mynsiem jong baroh.",
+      "english": "'Come partake, my child, of the sweet fresh nut,\nThe Kwai that knits the bonds of brotherhood;'\nThus she speaks in tender gentle accents,\nCheering the weary spirits of all who pass by."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 67
+}

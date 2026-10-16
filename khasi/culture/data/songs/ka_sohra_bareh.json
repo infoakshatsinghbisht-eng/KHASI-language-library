@@ -1,0 +1,78 @@
+{
+  "id": "ka_sohra_bareh",
+  "title": "Sohra: Cradle of Rain and Cascades (Ka Sohra)",
+  "khasi_title": "Ka Sohra",
+  "category": "Highland Landscape Lyric",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Poetic ode to Sohra (Cherrapunji), renowned for roaring waterfalls, swirling mist, and historic kings.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Sohra Tableland",
+    "Highland Mist",
+    "Cascading Waterfalls",
+    "Historic Capital"
+  ],
+  "lyrics_khasi": "Ko Sohra, ko hima ka mariang,\nHaba u lyoh u sop ia ki kliar,\nKi kshaid jong pha ki pashat rupa\nSha ki them ba jylliew bad jngai;\nPha long ka kmie jong ki puriskam,\nKa shnong ki syiem ba radbah,\nHa pneh jong pha u slap u theh\nKupar ba kynrei na bneng.\n\nNohsngithiang bad Nohkalikai\nKi kiew kum ki khlur ba sawa,\nKi mawlynnai ha them Shella\nKi phriang la ka jingphyrnai;\nSah junom, ko Sohra ba suk,\nHa dohnud jong ngi ba rwai,\nKa ri ka burom bad ka akor\nBa ri u Hynniew Trep.",
+  "lyrics_english": "O Sohra, realm of sacred nature,\nWhen thick mists blanket your crests,\nYour cascades splash ribbons of silver\nDown into deep, distant canyons;\nYou are mother to ancient fables,\nSeat of legendary kings,\nInto your lap the rains pour down\nBountiful blessings from heaven.\n\nNohsngithiang and Nohkalikai falls\nRoar forth like singing stars,\nThe limestone jewels of Shella canyon\nSpreading their radiant glow;\nAbide forever, tranquil Sohra,\nIn our hearts as we sing,\nLand of nobility and decorum\nGuarded by the Seven Huts.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ko Sohra, ko hima ka mariang,",
+        "Haba u lyoh u sop ia ki kliar,",
+        "Ki kshaid jong pha ki pashat rupa",
+        "Sha ki them ba jylliew bad jngai;",
+        "Pha long ka kmie jong ki puriskam,",
+        "Ka shnong ki syiem ba radbah,",
+        "Ha pneh jong pha u slap u theh",
+        "Kupar ba kynrei na bneng."
+      ],
+      "english": [
+        "O Sohra, realm of sacred nature,",
+        "When thick mists blanket your crests,",
+        "Your cascades splash ribbons of silver",
+        "Down into deep, distant canyons;",
+        "You are mother to ancient fables,",
+        "Seat of legendary kings,",
+        "Into your lap the rains pour down",
+        "Bountiful blessings from heaven."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Nohsngithiang bad Nohkalikai",
+        "Ki kiew kum ki khlur ba sawa,",
+        "Ki mawlynnai ha them Shella",
+        "Ki phriang la ka jingphyrnai;",
+        "Sah junom, ko Sohra ba suk,",
+        "Ha dohnud jong ngi ba rwai,",
+        "Ka ri ka burom bad ka akor",
+        "Ba ri u Hynniew Trep."
+      ],
+      "english": [
+        "Nohsngithiang and Nohkalikai falls",
+        "Roar forth like singing stars,",
+        "The limestone jewels of Shella canyon",
+        "Spreading their radiant glow;",
+        "Abide forever, tranquil Sohra,",
+        "In our hearts as we sing,",
+        "Land of nobility and decorum",
+        "Guarded by the Seven Huts."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "sohra": "Cherrapunji (historic Khasi capital)",
+    "kshaid": "waterfall / cascade",
+    "lyoh": "cloud / mountain mist",
+    "nohsngithiang": "Seven Sisters Falls",
+    "nohkalikai": "Nohkalikai Falls (highest plunge waterfall in India)"
+  },
+  "word_count": 98
+}

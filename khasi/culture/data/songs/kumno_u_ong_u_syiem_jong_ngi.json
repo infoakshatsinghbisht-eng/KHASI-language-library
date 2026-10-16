@@ -1,0 +1,44 @@
+{
+  "id": "kumno_u_ong_u_syiem_jong_ngi",
+  "title": "What Spoke Our Ancient Sovereign (Kumno U Ong U Syiem Jong Ngi)",
+  "khasi_title": "Kumno U Ong U Syiem Jong Ngi",
+  "category": "Heroic & Historical Ballad",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Kumno u ong u Syiem jong ngi hyndai,\nHaba u ieng ha ka Durbar bakhraw?\n'Kamai ia ka hok, kyntait ia ka sang,\nIada ia ka Ri haduh ban da iap!'\n\nKi waitlam ki la phyrnai ha ka kti,\nKi stieh ki la pynkhih ia ka madan;\nKi rangbah shlur ki la kular da ka snam,\nBan pynneh ia ka laitluid jong ka jaitbynriew.",
+  "lyrics_english": "What spoke our sovereign ruler of old,\nAs he addressed the great assembly of state?\n'Earn your life in righteousness, banish moral taboo,\nAnd defend the motherland unto your dying breath!'\n\nThe broadswords flashed bright in their hands,\nThe bronze shields rattled across the field;\nThe brave warriors covenanted in blood,\nTo preserve forever the freedom of our people.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Kumno U Ong U Syiem Jong Ngi)",
+      "khasi": "Kumno u ong u Syiem jong ngi hyndai,\nHaba u ieng ha ka Durbar bakhraw?\n'Kamai ia ka hok, kyntait ia ka sang,\nIada ia ka Ri haduh ban da iap!'",
+      "english": "What spoke our sovereign ruler of old,\nAs he addressed the great assembly of state?\n'Earn your life in righteousness, banish moral taboo,\nAnd defend the motherland unto your dying breath!'"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Kumno U Ong U Syiem Jong Ngi)",
+      "khasi": "Ki waitlam ki la phyrnai ha ka kti,\nKi stieh ki la pynkhih ia ka madan;\nKi rangbah shlur ki la kular da ka snam,\nBan pynneh ia ka laitluid jong ka jaitbynriew.",
+      "english": "The broadswords flashed bright in their hands,\nThe bronze shields rattled across the field;\nThe brave warriors covenanted in blood,\nTo preserve forever the freedom of our people."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 64
+}

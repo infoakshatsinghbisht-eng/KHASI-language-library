@@ -1,0 +1,25 @@
+{
+  "id": "ka_kitab_khasi_kaba_lai",
+  "title": "Ka Kitab Khasi Kaba Lai (Third Khasi Reader, 1900)",
+  "native_title": "Ka Kitab Khasi Kaba Lai: Ban Pule ha Ki Skul Pdeng",
+  "author": "Babu Jeebon Roy",
+  "year": 1900,
+  "genre": "Literature & Intermediate Reader",
+  "description": "Intermediate school reader exploring megalithic stones (Mawbynna), Dorbar democracy, terrace farming, and ancestral values.",
+  "total_pages": 1,
+  "total_words": 199,
+  "chapters": [
+    "Lynnong 1: Ki Mawbynna ha Ri Khasi",
+    "Lynnong 2: Ka Dorbar Shnong bad Ka Hok",
+    "Lynnong 3: Ka Jingrep Kba ha Ri Lum",
+    "Lynnong 4: Ka Jingkyrkhu ia Ka Ri Hynniewtrep"
+  ],
+  "source_type": "indigenous_school_reader",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "KA KITAB KHASI KABA LAI\nDa Babu Jeebon Roy (1900)\nLynnong 1: Ki Mawbynna ha Ri Khasi:\nKylleng ka Ri Khasi bad Jaintia ngi iohi ia ki mawsiang kiba jrong kiba ieng ha madan. Kine ki dei ki Mawbynna kiba ki kpa mynhyndai ki la tei ban kynmaw ia ki kñi ki kpa, ia ki thma ba la jop, bad ban buh burom ia ki kur. Kine ki maw kim ju thut la ki spah snem ki la leit noh.\nLynnong 2: Ka Dorbar Shnong:\nKa Dorbar Shnong ka long ka kynja synshar kaba u Khasi u la pyniaid naduh hyndai hynniewtrep. Ha ka Dorbar, baroh ki rangbah ki don ka hok ban kren bad ban ai jingmut. Ym don ba lah ban leh jubor; baroh ka shong ha ka rai jong ka Dorbar kaba ieng halor ka Hok.\nLynnong 3: Ka Jingrep Kba ha Ri Lum:\nU kba u long u jingbam ba kordor duh jong ngi. Ki nongrep ki trei shitom naduh ka pyrem haduh ka synrai ban lur, ban thung, bad ban ot ia u kba. Haba ka por ot ka la poi, ka shnong baroh ka kmen bad ka nguh ia U Blei Nongbuh Nongthaw.",
+      "word_count": 199
+    }
+  ]
+}

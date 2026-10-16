@@ -1,0 +1,79 @@
+{
+  "id": "ki_shad_ki_rang_bad_thei_sotti_nongrum",
+  "title": "Dance of Virtuous Maidens and Valiant Youths (Ki Shad Ki Rang Bad Thei-Sotti)",
+  "khasi_title": "Ki Shad Ki Rang Bad Thei-Sotti",
+  "category": "Royal Arena & Spring Festival Ode",
+  "composer": "Kitbor W. Nongrum",
+  "year": 1992,
+  "cultural_context": "Vivid lyric describing the circular ceremonial choreography where maidens glide with downcast modest eyes inside while warriors dance guard on the outer perimeter, from 'Ki Sur Ba Dang Sawa'.",
+  "instruments": [
+    "Ksing",
+    "Nakra",
+    "Tangmuri",
+    "Cymbals (Shakuria)"
+  ],
+  "themes": [
+    "Virtuous Maidens",
+    "Warrior Guardians",
+    "Circular Harmony",
+    "Sacred Spring"
+  ],
+  "lyrics_khasi": "Ki shad ki rang bad ki thei-sotti,\nHa khet ba kyntang ka Weiking;\nKi thei-sotti ki peit sha madan,\nDa ka akor ba donburom bad ba jar-jar;\nKi rangbah ki shad sawdong jong ki,\nKum ki nongiada ba ieng skhem;\nKi symphiah rupa ki kynshoit suiñ,\nHa ka sngi ba phyrnai ka pyrem.\n\nKa paila mukmor ka kyrsoi jingshai,\nKi kynjri ksiar ki sawa jai-jai;\nHapdeng ka ksing ba kiew bad hiar,\nKa dohnud ka dap da ka kmen;\nDei kane ka shad ba buh ki kpa,\nBan pynkyntang ia ka ri,\nBan pynpaw ka hok bad ka jingsotti\nHa khmat u Blei Nongbuh Nongthaw.",
+  "lyrics_english": "The youths and virtuous maidens dance,\nUpon the sacred ground of Weiking;\nThe virtuous maidens look modestly downward,\nWith quiet grace and noble etiquette;\nThe brave youths dance encircling them,\nStanding as steadfast guardians;\nTheir silver yak-tail whisks sweep through the air,\nBeneath the radiant sunshine of springtime.\n\nThe coral-bead necklaces gleam with light,\nThe golden filigree chains whisper rhythmically;\nAmidst the rising and falling beats of the drum,\nThe heart overflows with pure joy;\nThis is the sacred dance ordained by the ancestors,\nTo consecrate the entire land,\nTo manifest righteousness and purity\nBefore God, the Supreme Creator and Architect.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ki shad ki rang bad ki thei-sotti,",
+        "Ha khet ba kyntang ka Weiking;",
+        "Ki thei-sotti ki peit sha madan,",
+        "Da ka akor ba donburom bad ba jar-jar;",
+        "Ki rangbah ki shad sawdong jong ki,",
+        "Kum ki nongiada ba ieng skhem;",
+        "Ki symphiah rupa ki kynshoit suiñ,",
+        "Ha ka sngi ba phyrnai ka pyrem."
+      ],
+      "english": [
+        "The youths and virtuous maidens dance,",
+        "Upon the sacred ground of Weiking;",
+        "The virtuous maidens look modestly downward,",
+        "With quiet grace and noble etiquette;",
+        "The brave youths dance encircling them,",
+        "Standing as steadfast guardians;",
+        "Their silver yak-tail whisks sweep through the air,",
+        "Beneath the radiant sunshine of springtime."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ka paila mukmor ka kyrsoi jingshai,",
+        "Ki kynjri ksiar ki sawa jai-jai;",
+        "Hapdeng ka ksing ba kiew bad hiar,",
+        "Ka dohnud ka dap da ka kmen;",
+        "Dei kane ka shad ba buh ki kpa,",
+        "Ban pynkyntang ia ka ri,",
+        "Ban pynpaw ka hok bad ka jingsotti",
+        "Ha khmat u Blei Nongbuh Nongthaw."
+      ],
+      "english": [
+        "The coral-bead necklaces gleam with light,",
+        "The golden filigree chains whisper rhythmically;",
+        "Amidst the rising and falling beats of the drum,",
+        "The heart overflows with pure joy;",
+        "This is the sacred dance ordained by the ancestors,",
+        "To consecrate the entire land,",
+        "To manifest righteousness and purity",
+        "Before God, the Supreme Creator and Architect."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "thei-sotti": "virtuous, chaste unmarried maiden",
+    "paila mukmor": "traditional thick red coral necklace",
+    "symphiah": "ceremonial silver whisks held by dancing warriors",
+    "weiking": "historic sacred dancing grounds in Shillong",
+    "nongbuh nongthaw": "the Supreme Creator who ordains all things"
+  },
+  "word_count": 105
+}

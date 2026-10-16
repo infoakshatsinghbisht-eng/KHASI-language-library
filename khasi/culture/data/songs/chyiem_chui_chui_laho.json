@@ -1,0 +1,44 @@
+{
+  "id": "chyiem_chui_chui_laho",
+  "title": "Pnar Laho Dance Song (Chyiem Chui-Chui)",
+  "khasi_title": "Chyiem Chui-Chui: Rwai Shad Laho",
+  "category": "Pnar Folk Dance Song (Laho)",
+  "composer": "Jaintia / Pnar Oral Tradition",
+  "year": "Traditional Ancient",
+  "cultural_context": "The traditional dance song of the Pnar people of Jowai and the Jaintia Hills. During the Laho dance festival, a maiden dances between two male partners with linked arms, moving gracefully in rhythm without drums, accompanied solely by the traditional bamboo flute (shyngwiang) and vocal rhyming chants marked by the cheerful refrain 'Chui-chui, chyiem chui-chui'.",
+  "instruments": [
+    "Shyngwiang (Pnar flute)",
+    "Maryngod",
+    "Vocal Rhythmic Refrain"
+  ],
+  "themes": [
+    "Pnar Tradition",
+    "Laho Dance",
+    "Communal Harmony",
+    "Jaintia Pride",
+    "Youth Fellowship"
+  ],
+  "lyrics_khasi": "Chyiem chui-chui, chyiem chui-chui!\nIa kynjoh kti ban shad ha madan;\nKa kynthei hapdeng, ki shynrang harud,\nHa ka sur Laho ba sawa thiang!\n\nU shyngwiang u pyrsad ha ki lum Jowai,\nKi khun ka Ri Jaintia ki la kmen;\nKhlem ksing khlem nakra ngi shad da ka sur,\nKa akor ba bha ngin pynneh ha tnum!\n\nChyiem chui-chui, ia kynjoh ban kmen,\nKa nam u Pnar kan neh ha pyrthei!",
+  "lyrics_english": "Chyiem chui-chui, chyiem chui-chui!\nLink hands together to dance upon the field;\nThe maiden in the center, the young men on either flank,\nStepping to the sweet melodious cadence of Laho!\n\nThe bamboo shyngwiang flute breathes upon the hills of Jowai,\nThe sons and daughters of Jaintia rejoice in unity;\nWithout heavy drums or kettle-drums we dance to human melody,\nPreserving our honorable ancestral traditions forever!\n\nChyiem chui-chui, step together in high delight,\nThe honorable name of the Pnar shall endure across the earth!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Shad Laho ha Madan (The Laho Dance)",
+      "khasi": "Chyiem chui-chui, chyiem chui-chui!\nIa kynjoh kti ban shad ha madan;\nKa kynthei hapdeng, ki shynrang harud,\nHa ka sur Laho ba sawa thiang!",
+      "english": "Chyiem chui-chui! Join hands to dance upon the grass; maiden in the middle, men at her sides, moving to sweet Laho melodies!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "U Shyngwiang ha Jowai (Flute of Jowai)",
+      "khasi": "U shyngwiang u pyrsad ha ki lum Jowai,\nKi khun ka Ri Jaintia ki la kmen;\nKhlem ksing khlem nakra ngi shad da ka sur,\nKa akor ba bha ngin pynneh ha tnum!",
+      "english": "The bamboo flute blows over Jowai hills, Jaintia youth rejoice; without heavy drums we dance to sweet singing, honoring ancestral grace!"
+    }
+  ],
+  "vocabulary": {
+    "chyiem chui-chui": "Traditional rhythmic refrain chanted during Pnar Laho folk dances",
+    "laho": "The graceful festival dance of the Pnar people of Jowai and Jaintia Hills",
+    "shyngwiang": "Traditional Pnar transverse bamboo flute with delicate ethereal tone",
+    "kynjoh kti": "To link arms or clasp hands in synchronized communal dancing line"
+  },
+  "word_count": 74
+}

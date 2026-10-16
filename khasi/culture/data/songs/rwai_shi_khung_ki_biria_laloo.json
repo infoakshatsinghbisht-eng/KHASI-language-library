@@ -1,0 +1,46 @@
+{
+  "id": "rwai_shi_khung_ki_biria_laloo",
+  "title": "Shi Khung Ki Biria (Ballad of Village Wit and Festive Merriment)",
+  "khasi_title": "Shi Khung Ki Biria",
+  "category": "festive_and_humor",
+  "composer": "Minimon Laloo",
+  "year": 1983,
+  "origin": "Khasi Rural Assemblies",
+  "instruments": [
+    "Ka Ksing Kynthei",
+    "Ka Duitara",
+    "Ka Tangmuri"
+  ],
+  "themes": [
+    "Humor",
+    "Festive Gaiety",
+    "Village Wit",
+    "Rejoicing"
+  ],
+  "cultural_context": "Lighthearted folk ballad sung at market days (*Sngi Iew*) and harvest celebrations to lift community spirits with traditional wit (*ka biria*).",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Samrkhie ko para, pynsalit ia ka jingsngewsih,",
+        "Da ka biria ba shongkun ki kpa barim,",
+        "Ha madan iew ngi ia kynduh lang,",
+        "Ban pynkmen ia ka mynsiem da ka sur ba thiang."
+      ],
+      "english": [
+        "Laugh together, O kin, dispel all sorrow and gloom,",
+        "With the genial wit and humor of the ancient fathers,",
+        "Upon the village market square we meet as one,",
+        "To gladden the spirit with sweet melody."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "biria-shongkun": "refined, dignified, traditional humor and wit",
+    "madan-iew": "open market square / assembly ground"
+  },
+  "file": "rwai_shi_khung_ki_biria_laloo.json",
+  "lyrics_khasi": "Samrkhie ko para, pynsalit ia ka jingsngewsih,\nDa ka biria ba shongkun ki kpa barim,\nHa madan iew ngi ia kynduh lang,\nBan pynkmen ia ka mynsiem da ka sur ba thiang.",
+  "lyrics_english": "Laugh together, O kin, dispel all sorrow and gloom,\nWith the genial wit and humor of the ancient fathers,\nUpon the village market square we meet as one,\nTo gladden the spirit with sweet melody.",
+  "word_count": 32
+}

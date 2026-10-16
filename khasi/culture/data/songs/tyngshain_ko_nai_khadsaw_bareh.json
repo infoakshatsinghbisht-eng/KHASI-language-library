@@ -1,0 +1,78 @@
+{
+  "id": "tyngshain_ko_nai_khadsaw_bareh",
+  "title": "Shine On, O Fourteenth Full Moon (Tyngshain Ko Nai-khadsaw)",
+  "khasi_title": "Tyngshain Ko Nai-khadsaw Synnia",
+  "category": "Nocturnal Lunar Ballad",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Ode to the fourteenth night full moon (Nai-khadsaw) illuminating highland pine ridges and monoliths.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Full Moon",
+    "Nocturnal Highland",
+    "Silver Pine Needles",
+    "Peaceful Solitude"
+  ],
+  "lyrics_khasi": "Tyngshain, ko nai-khadsaw synnia,\nHa kliar u Lum Shillong,\nMe pynshai ia ki kshaid\nBad ki madan ka shnong;\nKi diengkseh ki thaba rupa\nHaba jingshai jong me ka hap,\nKa miet ka kynjah jar,\nHa ka jingkmen ba dap.\n\nHapdeng ka jingshai jong me,\nU minstrel u rwai duitara,\nSur thiang ka sawa jai-jai\nHa man ki sawdong pneh;\nTyngshain, ko bnai ba bha,\nAi jingsuk ha ka ri,\nPynklet ia man ka khuslai\nHaduh ba sngi kan mih.",
+  "lyrics_english": "Shine brightly, O fourteenth-night moon,\nAbove the crest of Shillong Peak,\nYou illuminate the waterfalls\nAnd the village meadows below;\nThe pine trees shimmer like silver\nWhere your soft lunar rays fall,\nThe night reposes in deep hush,\nFilled with peaceful joy.\n\nBathed within your soft light,\nThe minstrel plays his Duitara,\nSweet melodies echoing gently\nAcross each hillside fold;\nShine on, O gentle moon,\nBring peace unto our land,\nBanish all human worries\nUntil the morrow's sun shall rise.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Tyngshain, ko nai-khadsaw synnia,",
+        "Ha kliar u Lum Shillong,",
+        "Me pynshai ia ki kshaid",
+        "Bad ki madan ka shnong;",
+        "Ki diengkseh ki thaba rupa",
+        "Haba jingshai jong me ka hap,",
+        "Ka miet ka kynjah jar,",
+        "Ha ka jingkmen ba dap."
+      ],
+      "english": [
+        "Shine brightly, O fourteenth-night moon,",
+        "Above the crest of Shillong Peak,",
+        "You illuminate the waterfalls",
+        "And the village meadows below;",
+        "The pine trees shimmer like silver",
+        "Where your soft lunar rays fall,",
+        "The night reposes in deep hush,",
+        "Filled with peaceful joy."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Hapdeng ka jingshai jong me,",
+        "U minstrel u rwai duitara,",
+        "Sur thiang ka sawa jai-jai",
+        "Ha man ki sawdong pneh;",
+        "Tyngshain, ko bnai ba bha,",
+        "Ai jingsuk ha ka ri,",
+        "Pynklet ia man ka khuslai",
+        "Haduh ba sngi kan mih."
+      ],
+      "english": [
+        "Bathed within your soft light,",
+        "The minstrel plays his Duitara,",
+        "Sweet melodies echoing gently",
+        "Across each hillside fold;",
+        "Shine on, O gentle moon,",
+        "Bring peace unto our land,",
+        "Banish all human worries",
+        "Until the morrow's sun shall rise."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "nai-khadsaw": "fourteenth lunar night (full moon)",
+    "synnia": "nighttime / midnight",
+    "diengkseh": "Khasi pine tree (Pinus kesiya)",
+    "bnai": "moon / month",
+    "jingsuk": "peace / serenity"
+  },
+  "word_count": 80
+}

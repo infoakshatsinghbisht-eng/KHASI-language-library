@@ -1,0 +1,59 @@
+{
+  "id": "ka_rwai_u_thlen",
+  "title": "Ballad of the Slaying of U Thlen (Ka Rwai U Thlen ha Dainthlen)",
+  "khasi_title": "Ka Rwai U Thlen ha Dainthlen",
+  "category": "Epic Folk Ballad & Mythic Chants",
+  "composer": "Ancient Oral Bardic Tradition / U Soso Tham & U Rabon Singh",
+  "year": "Traditional Ancient",
+  "cultural_context": "The seminal epic folk ballad of the Khasi highlands recount the collective uprising of courageous ancestors led by U Suidnoh against the man-eating serpent Thlen residing in the deep gorges of Dainthlen near Sohra. U Suidnoh befriended the monster with roasted goat meat before thrusting red-hot tongs of pig iron down its throat. The serpent was hauled upon the flat rocks at Dainthlen, cut into pieces, and consumed by all clans, establishing the eternal triumph of tip-briew tip-blei over greed and evil.",
+  "instruments": [
+    "Duitara (four-stringed lute)",
+    "Tangmuri (shehnai-pipe)",
+    "Ksing Padiah (drum)",
+    "Sharati (bamboo mourning flute)"
+  ],
+  "themes": [
+    "Slaying of U Thlen",
+    "Dainthlen Waterfall",
+    "Ancestral Courage",
+    "Defeating Greed",
+    "Moral Triumph",
+    "Tip-Briew Tip-Blei"
+  ],
+  "lyrics_khasi": "Ha krung ka krem ba-dum bajiw ha Dain-thlen,\nU shong u Thlen u ksuid bamsap bamdoh;\nU klun ia ki rangbah, ki kynthei, ki khunlung,\nKa ri ka iam, ka khuslai, ka byrngia.\n\nTe mih U Suidnoh, u 'rang rangbah ka Ri,\nDa ka buit, da ka jingshlur u leit rung ha krem;\nDa u nar ba sait saw, u thang pynshit ding,\nU thep ha u pdot ka sniang thlen ba bampoh!\n\nKynrup ki paidbah, ring pait u pyllon,\nHa kliar mawleiphu ha Dain-thlen ki dain;\nOt tukra-tukra, bam lut ki kur baroh,\nBan jah ka jingeh, ban khuid ka Ri-Khasi!\n\nWat sheptieng shuh ko khun ka Ri Lum,\nBa ka jingshai ka la jop ia ka dum;\nTo bat ia ka Hok, to bat ia ka Riti,\nKhublei ko Blei Nongthaw ba pynim ia ngi!",
+  "lyrics_english": "In the deep, dark cavernous gorge of Dainthlen,\nDwelled U Thlen, the greedy devourer of human flesh;\nSwallowing warriors, maidens, and tender babes,\nThe land wept in anguish, sorrow, and despair.\n\nThen arose U Suidnoh, the fearless hero of the realm,\nWith sharp cunning and valor he stepped into the cave;\nWith iron rods forged glowing red in roaring flames,\nHe thrust down the throat of the beast the burning steel!\n\nThen surged the united populace, dragging the serpent,\nUpon the broad flat rock of Dainthlen they smote it down;\nCutting it into pieces, all clans consumed their share,\nThat the scourge be extinguished and Khasi land made pure!\n\nFear no more, O children of the Sacred Hills,\nFor the eternal Light hath conquered the darkness;\nHold fast unto Truth, hold fast unto Custom,\nPraise be to God the Creator who hath delivered our people!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Krem U Thlen (The Cavern of the Serpent)",
+      "khasi": "Ha krung ka krem ba-dum bajiw ha Dain-thlen,\nU shong u Thlen u ksuid bamsap bamdoh;\nU klun ia ki rangbah, ki kynthei, ki khunlung,\nKa ri ka iam, ka khuslai, ka byrngia.",
+      "english": "In the deep dark chasm of Dainthlen dwelled the serpent Thlen, swallowing travelers; the whole land wept in sorrow."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Buit U Suidnoh (The Valor and Cunning of Suidnoh)",
+      "khasi": "Te mih U Suidnoh, u 'rang rangbah ka Ri,\nDa ka buit, da ka jingshlur u leit rung ha krem;\nDa u nar ba sait saw, u thang pynshit ding,\nU thep ha u pdot ka sniang thlen ba bampoh!",
+      "english": "Then rose hero Suidnoh; with cunning and courage he fed the monster glowing red-hot iron, mortally burning its throat."
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Jingpynduh ia U Thlen ha Dainthlen (The Slaying at Dainthlen Rocks)",
+      "khasi": "Kynrup ki paidbah, ring pait u pyllon,\nHa kliar mawleiphu ha Dain-thlen ki dain;\nOt tukra-tukra, bam lut ki kur baroh,\nBan jah ka jingeh, ban khuid ka Ri-Khasi!",
+      "english": "The clans united, dragged out the monster, sliced it on the Dainthlen rocks and feasted, purifying the sacred hills."
+    },
+    {
+      "stanza_number": 4,
+      "title": "Ka Jingjop Jong Ka Jingshai (Triumph of the Light)",
+      "khasi": "Wat sheptieng shuh ko khun ka Ri Lum,\nBa ka jingshai ka la jop ia ka dum;\nTo bat ia ka Hok, to bat ia ka Riti,\nKhublei ko Blei Nongthaw ba pynim ia ngi!",
+      "english": "Fear not children of the Highlands; light has conquered darkness; hold to righteousness and honor God who delivered us."
+    }
+  ],
+  "vocabulary": {
+    "dainthlen": "The cutting or slicing of the serpent Thlen; also the name of the famous waterfall near Sohra",
+    "suidnoh": "The legendary hero who outsmarted and slain U Thlen using heated red iron",
+    "krem": "Cave, subterranean chasm, or limestone cavern",
+    "bamsap": "Corrupt, avaricious, devouring illegally",
+    "nar ba sait saw": "Red-hot glowing iron forged in fire"
+  },
+  "word_count": 137
+}

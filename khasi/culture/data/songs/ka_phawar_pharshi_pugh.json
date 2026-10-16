@@ -1,0 +1,77 @@
+{
+  "id": "ka_phawar_pharshi_pugh",
+  "title": "The Parable Chant (Ka Phawar Pharshi)",
+  "khasi_title": "Ka Phawar Pharshi",
+  "category": "Allegorical Wisdom Phawar",
+  "composer": "Frank M. Pugh",
+  "year": 1973,
+  "cultural_context": "Traditional didactic phawar using highland allegories (Pharshi) to teach wisdom and prudence, from 'Ka Phawar-rwai Khasi'.",
+  "instruments": [
+    "Ksing",
+    "Sharati"
+  ],
+  "themes": [
+    "Highland Parables",
+    "Moral Prudence",
+    "Phawar Metaphor",
+    "Ancestral Counsel"
+  ],
+  "lyrics_khasi": "Hoi-kiw! Sngap ko samla,\nIa ka phawar ba thoh,\nWat peit tang ia ka dur\nBa shyrkhei ha ka shnong;\nU ksew uba wiar\nUm ju dait ia u briew,\nU sim ba kiew sha bneng\nU la dei ban hiar pat.\n\nUba thung ia ka hok\nUn kheit ia ka jingsuk,\nUba thung ia ka bamsap\nUn ioh tang ka sniew;\nTo bat ia ka akor\nHa man ki sngi jong ka jingim,\nBa ka nam jong pha kan sah\nKum u mawkordor ba shai.",
+  "lyrics_english": "Hoi-kiw! Listen, young ones,\nTo the rhyming parable written,\nJudge not merely by outward display\nThat causes a stir in the village;\nThe hound that barks aloud\nRarely bites the passerby,\nThe bird that ascends highest in sky\nMust eventually alight on earth.\n\nHe who sows righteousness\nShall reap tranquility,\nHe who sows corruption\nShall harvest only shame;\nHold fast to good manners\nAll the days of your earthly life,\nSo that your good name endures\nLike an unblemished jewel.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Hoi-kiw! Sngap ko samla,",
+        "Ia ka phawar ba thoh,",
+        "Wat peit tang ia ka dur",
+        "Ba shyrkhei ha ka shnong;",
+        "U ksew uba wiar",
+        "Um ju dait ia u briew,",
+        "U sim ba kiew sha bneng",
+        "U la dei ban hiar pat."
+      ],
+      "english": [
+        "Hoi-kiw! Listen, young ones,",
+        "To the rhyming parable written,",
+        "Judge not merely by outward display",
+        "That causes a stir in the village;",
+        "The hound that barks aloud",
+        "Rarely bites the passerby,",
+        "The bird that ascends highest in sky",
+        "Must eventually alight on earth."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Uba thung ia ka hok",
+        "Un kheit ia ka jingsuk,",
+        "Uba thung ia ka bamsap",
+        "Un ioh tang ka sniew;",
+        "To bat ia ka akor",
+        "Ha man ki sngi jong ka jingim,",
+        "Ba ka nam jong pha kan sah",
+        "Kum u mawkordor ba shai."
+      ],
+      "english": [
+        "He who sows righteousness",
+        "Shall reap tranquility,",
+        "He who sows corruption",
+        "Shall harvest only shame;",
+        "Hold fast to good manners",
+        "All the days of your earthly life,",
+        "So that your good name endures",
+        "Like an unblemished jewel."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "pharshi": "parable / allegory / metaphor",
+    "samla": "youth / young generation",
+    "thung": "plant / sow",
+    "kheit": "pluck / reap / harvest",
+    "mawkordor": "precious gemstone"
+  },
+  "word_count": 86
+}

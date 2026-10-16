@@ -1,0 +1,77 @@
+{
+  "id": "jingrwai_shaphang_ka_jingsuk_roy",
+  "title": "Hymn of Everlasting Peace (Jingrwai Shaphang Ka Jingsuk)",
+  "khasi_title": "Jingrwai Shaphang Ka Jingsuk",
+  "category": "Sacred Peace Hymn",
+  "composer": "Binod Behari Roy",
+  "year": 1930,
+  "cultural_context": "Meditative devotional hymn on the peace (*Jingsuk*) that transcends all earthly fear and tribulation, from 'Ki Jingrwai Ai-nguh Blei'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Everlasting Peace",
+    "Spiritual Serenity",
+    "Freedom from Dread",
+    "Divine Sanctuary"
+  ],
+  "lyrics_khasi": "Ka jingsuk ba u Blei u la ai,\nKa long kum ka wah kaba tuid jai-jai;\nKam ju khihwin ha ki eriong ba jur,\nHynrei ka iaineh ha ka dohnud;\nHaba ka pyrthei ka pynkhuslai ia ngi,\nKane ka jingsuk ka pynpyngngad;\nKa ai ia ka bor ban kmen,\nWat hapdeng ka jingjynjar.\n\nTo ai kane ka jingsuk kan shong,\nHa man ki kur bad ki kha jong ngi;\nBan pynphriang ia ka jingieit ha ka ri,\nBan pyniatylli ia u Hynniewtrep;\nAi nguh ia U Blei Trai Kynrad,\nUba ai ia kane ka spah bakordor;\nNgin rwai ia ka burom jong U\nHa man ka step bad ka miet.",
+  "lyrics_english": "The sacred peace bestowed by God,\nIs like a river flowing tranquilly and calm;\nDisturbed not by the wildest mountain gales,\nDwelling steadfast within the human heart;\nWhen the world burdens us with sorrow and grief,\nThis divine peace brings cooling solace;\nImparting renewed strength to rejoice,\nEven amidst earthly trials and distress.\n\nMay this peace take up its permanent abode,\nAmong all our maternal clans and paternal kin;\nDiffusing brotherly love across the land,\nUniting all children of the Seven Huts;\nGive praise unto God, our Sovereign Lord,\nWho has gifted us this most priceless treasure;\nWe shall sing of His majesty and glory\nThrough every morning dawn and twilight night.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka jingsuk ba u Blei u la ai,",
+        "Ka long kum ka wah kaba tuid jai-jai;",
+        "Kam ju khihwin ha ki eriong ba jur,",
+        "Hynrei ka iaineh ha ka dohnud;",
+        "Haba ka pyrthei ka pynkhuslai ia ngi,",
+        "Kane ka jingsuk ka pynpyngngad;",
+        "Ka ai ia ka bor ban kmen,",
+        "Wat hapdeng ka jingjynjar."
+      ],
+      "english": [
+        "The sacred peace bestowed by God,",
+        "Is like a river flowing tranquilly and calm;",
+        "Disturbed not by the wildest mountain gales,",
+        "Dwelling steadfast within the human heart;",
+        "When the world burdens us with sorrow and grief,",
+        "This divine peace brings cooling solace;",
+        "Imparting renewed strength to rejoice,",
+        "Even amidst earthly trials and distress."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "To ai kane ka jingsuk kan shong,",
+        "Ha man ki kur bad ki kha jong ngi;",
+        "Ban pynphriang ia ka jingieit ha ka ri,",
+        "Ban pyniatylli ia u Hynniewtrep;",
+        "Ai nguh ia U Blei Trai Kynrad,",
+        "Uba ai ia kane ka spah bakordor;",
+        "Ngin rwai ia ka burom jong U",
+        "Ha man ka step bad ka miet."
+      ],
+      "english": [
+        "May this peace take up its permanent abode,",
+        "Among all our maternal clans and paternal kin;",
+        "Diffusing brotherly love across the land,",
+        "Uniting all children of the Seven Huts;",
+        "Give praise unto God, our Sovereign Lord,",
+        "Who has gifted us this most priceless treasure;",
+        "We shall sing of His majesty and glory",
+        "Through every morning dawn and twilight night."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jingsuk": "peace / tranquility / serenity",
+    "wah ba tuid": "flowing river",
+    "eriong": "mountain gale / tempest",
+    "trai kynrad": "Sovereign Lord / Supreme Master",
+    "spah bakordor": "priceless wealth / sacred treasure"
+  },
+  "word_count": 110
+}

@@ -21,7 +21,7 @@ Quick Start:
 {'khasi': 'khublei', 'hindi': 'नमस्ते / धन्यवाद / प्रणाम', 'english': 'hello / thank you / greetings', 'pos': 'interjection'}
 """
 
-__version__ = "1.5.0"
+__version__ = "1.6.0"
 __author__ = "Akshat Singh Bisht"
 __email__ = "infoakshatsinghbisht@gmail.com"
 __maintainer__ = "Akshat Singh Bisht"
@@ -174,10 +174,14 @@ from .culture import (
     get_plant,
     by_plant_type,
     medicinal_plants,
+    search_plants,
+    total_plants,
     WILDLIFE,
     list_wildlife,
     get_animal,
     by_wildlife_class,
+    search_wildlife,
+    total_wildlife,
     DISHES,
     list_dishes,
     get_dish,
@@ -190,6 +194,12 @@ from .culture import (
     list_clans,
     get_clan,
     search_clans,
+    total_clans,
+    TRADITIONAL_NAMES,
+    list_names,
+    get_name,
+    search_names,
+    total_names,
     IDIOMS,
     list_idioms,
     get_idiom,
@@ -228,6 +238,23 @@ from .culture import (
     songs_by_category,
     total_songs,
     SongManager,
+    attire,
+    AttireManager,
+    TRADITIONAL_GARMENTS,
+    TEXTILES_AND_FABRICS,
+    JEWELLERY_AND_ORNAMENTS,
+    REGALIA_AND_WEAPONS,
+    ALL_ATTIRE,
+    list_garments,
+    get_garment,
+    list_jewellery,
+    get_jewellery,
+    list_fabrics,
+    get_fabric,
+    list_regalia,
+    get_regalia,
+    search_attire,
+    list_all_attire,
 )
 
 # Voice & Speech Synthesis
@@ -242,6 +269,17 @@ from .lexicon.dialects import (
     translate_dialect,
     find_cognates,
     get_dialect_statistics,
+)
+
+from .lexicon.tynrai import (
+    tynrai,
+    TynraiManager,
+    INDIGENOUS_ROOTS,
+    PHONAESTHETIC_EXPRESSIVES,
+    list_indigenous_roots,
+    get_indigenous_root,
+    list_expressives,
+    get_expressive,
 )
 
 # Aligned Parallel Corpora & MT Benchmarks
@@ -265,6 +303,13 @@ idioms = type("Idioms", (), {"all": staticmethod(list_idioms), "get": staticmeth
 rituals = type("Rituals", (), {"all": staticmethod(list_rituals), "get": staticmethod(get_ritual), "by_category": staticmethod(rituals_by_category)})()
 deities = type("Deities", (), {"all": staticmethod(list_deities), "get": staticmethod(get_deity), "by_realm": staticmethod(deities_by_realm)})()
 sacred_sites = type("SacredSites", (), {"all": staticmethod(list_sacred_sites), "get": staticmethod(get_sacred_site), "by_type": staticmethod(sites_by_type)})()
+clothing = type("Clothing", (), {"all": staticmethod(list_garments), "get": staticmethod(get_garment), "by_gender": staticmethod(lambda g: list_garments(gender=g))})()
+jewellery = type("Jewellery", (), {"all": staticmethod(list_jewellery), "get": staticmethod(get_jewellery), "by_gender": staticmethod(lambda g: list_jewellery(gender=g))})()
+fabrics = type("Fabrics", (), {"all": staticmethod(list_fabrics), "get": staticmethod(get_fabric)})()
+regalia = type("Regalia", (), {"all": staticmethod(list_regalia), "get": staticmethod(get_regalia)})()
+roots = type("Roots", (), {"all": staticmethod(list_indigenous_roots), "get": staticmethod(get_indigenous_root), "by_category": staticmethod(lambda c: list_indigenous_roots(category=c))})()
+expressives = type("Expressives", (), {"all": staticmethod(list_expressives), "get": staticmethod(get_expressive), "by_domain": staticmethod(lambda d: list_expressives(domain=d))})()
+ideophones = expressives
 
 # Dialects, Audio & Corpus top-level facades
 dialects = type("Dialects", (), {
@@ -319,12 +364,19 @@ __all__ = [
     "phrases", "proverbs", "riddles",
     "instruments", "songs", "plants", "wildlife", "dishes", "places", "clans", "idioms",
     "rituals", "deities", "sacred_sites",
+    "clothing", "jewellery", "fabrics", "regalia", "attire", "AttireManager",
+    "roots", "expressives", "ideophones", "tynrai", "TynraiManager",
+    "INDIGENOUS_ROOTS", "PHONAESTHETIC_EXPRESSIVES",
+    "list_indigenous_roots", "get_indigenous_root", "list_expressives", "get_expressive",
+    "TRADITIONAL_GARMENTS", "TEXTILES_AND_FABRICS", "JEWELLERY_AND_ORNAMENTS", "REGALIA_AND_WEAPONS", "ALL_ATTIRE",
+    "list_garments", "get_garment", "list_jewellery", "get_jewellery", "list_fabrics", "get_fabric", "list_regalia", "get_regalia", "search_attire", "list_all_attire",
     "list_instruments", "get_instrument", "list_songs", "get_song", "list_musicians",
-    "list_plants", "get_plant", "medicinal_plants",
-    "list_wildlife", "get_animal", "by_wildlife_class",
+    "list_plants", "get_plant", "medicinal_plants", "search_plants", "total_plants",
+    "list_wildlife", "get_animal", "by_wildlife_class", "search_wildlife", "total_wildlife",
     "list_dishes", "get_dish", "by_cuisine_category",
     "list_places", "get_place", "by_geography_type",
-    "list_clans", "get_clan", "search_clans",
+    "list_clans", "get_clan", "search_clans", "total_clans",
+    "TRADITIONAL_NAMES", "list_names", "get_name", "search_names", "total_names",
     "list_idioms", "get_idiom",
     "list_rituals", "get_ritual", "rituals_by_category", "RITUALS",
     "list_deities", "get_deity", "deities_by_realm", "DEITIES",

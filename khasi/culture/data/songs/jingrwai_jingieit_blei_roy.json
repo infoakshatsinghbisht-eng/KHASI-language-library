@@ -1,0 +1,78 @@
+{
+  "id": "jingrwai_jingieit_blei_roy",
+  "title": "Hymn of Divine Love (Jingrwai Jingieit Blei)",
+  "khasi_title": "Jingrwai Jingieit Blei",
+  "category": "Sacred Devotional Hymn",
+  "composer": "Binod Behari Roy",
+  "year": 1930,
+  "cultural_context": "Classic devotional hymn singing of the omnipresent love and sustaining grace of God Almighty throughout the hills, from 'Ki Jingrwai Ai-nguh Blei' (1930).",
+  "instruments": [
+    "Duitara",
+    "Ksing",
+    "Sharati"
+  ],
+  "themes": [
+    "Divine Love",
+    "Creator's Grace",
+    "Omnipresence",
+    "Sacred Solace"
+  ],
+  "lyrics_khasi": "Ka jingieit jong Me, ko Blei,\nKa jylliew palat ban ia ki duriaw;\nKa kiew sha lyndet ki khlur ba shai,\nKa tap ia ki lum bad ki madan;\nMe ai ka jingshai ha ka miet ba dum,\nMe pynkhie ia ka dohnud ba tlot;\nNgi ai nguh ia Me da ka kmen,\nKo Nongthaw jong ngi baroh.\n\nWat la ki por ki la kylliang noh,\nKa jingisynei jong Me kam ju kut;\nMe ri ia ngi kum ki khun ba ieit,\nHa pneh ba syaid jong ka hok;\nTo pynskhem ia ka jingngeit jong ngi,\nBan im da ka akor ba kyntang;\nHaduh ba ngin da poi sha Me\nHa ka khet ba phyrnai junom.",
+  "lyrics_english": "Your divine love, O God Almighty,\nIs deeper far than the deepest seas;\nAscending beyond the glittering stars,\nEmbracing every mountain ridge and plain;\nYou bestow radiant light in the pitch-dark night,\nYou revive and awaken the weary heart;\nWe offer our thanksgiving in joyful praise,\nO supreme Creator of us all.\n\nThough eras shift and generations pass away,\nYour boundless compassion never has an end;\nYou shelter us as Your beloved children,\nWithin the warm sanctuary of Your righteousness;\nStrengthen our steadfast faith,\nTo live in sacred and upright conduct;\nUntil we arrive at last before You\nAt Your radiant throne throughout eternity.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka jingieit jong Me, ko Blei,",
+        "Ka jylliew palat ban ia ki duriaw;",
+        "Ka kiew sha lyndet ki khlur ba shai,",
+        "Ka tap ia ki lum bad ki madan;",
+        "Me ai ka jingshai ha ka miet ba dum,",
+        "Me pynkhie ia ka dohnud ba tlot;",
+        "Ngi ai nguh ia Me da ka kmen,",
+        "Ko Nongthaw jong ngi baroh."
+      ],
+      "english": [
+        "Your divine love, O God Almighty,",
+        "Is deeper far than the deepest seas;",
+        "Ascending beyond the glittering stars,",
+        "Embracing every mountain ridge and plain;",
+        "You bestow radiant light in the pitch-dark night,",
+        "You revive and awaken the weary heart;",
+        "We offer our thanksgiving in joyful praise,",
+        "O supreme Creator of us all."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la ki por ki la kylliang noh,",
+        "Ka jingisynei jong Me kam ju kut;",
+        "Me ri ia ngi kum ki khun ba ieit,",
+        "Ha pneh ba syaid jong ka hok;",
+        "To pynskhem ia ka jingngeit jong ngi,",
+        "Ban im da ka akor ba kyntang;",
+        "Haduh ba ngin da poi sha Me",
+        "Ha ka khet ba phyrnai junom."
+      ],
+      "english": [
+        "Though eras shift and generations pass away,",
+        "Your boundless compassion never has an end;",
+        "You shelter us as Your beloved children,",
+        "Within the warm sanctuary of Your righteousness;",
+        "Strengthen our steadfast faith,",
+        "To live in sacred and upright conduct;",
+        "Until we arrive at last before You",
+        "At Your radiant throne throughout eternity."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jingieit blei": "divine love of God",
+    "jingisynei": "mercy / divine compassion",
+    "duriaw": "ocean / vast deep sea",
+    "nongthaw": "the Creator",
+    "jingngeit": "faith / spiritual trust"
+  },
+  "word_count": 116
+}

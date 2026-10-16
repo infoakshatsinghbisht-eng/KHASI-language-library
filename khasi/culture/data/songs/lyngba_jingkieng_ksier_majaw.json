@@ -1,0 +1,44 @@
+{
+  "id": "lyngba_jingkieng_ksier_majaw",
+  "title": "Across the Golden Ladder (Lyngba Jingkieng Ksiar)",
+  "khasi_title": "Lyngba Jingkieng Ksiar",
+  "category": "Cosmological Ballad",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Lyngba ka jingkieng ksier ba donburom,\nKi Hynniewtrep ki la kiew la hiar;\nHa Lum Sohpetbneng ka ri ba pyngngad,\nBan ri ia ka hok bad ban kamai ia ka spah.\n\nMynsiem bakhuid ko Blei U Kynrad,\nTo da to synran ia la ki khun;\nBa kin ym thut ha lynti ba khim,\nBan neh ha ka burom jong ka jaitbynriew.",
+  "lyrics_english": "Across the glorious golden ladder of old,\nThe Seven Celestial Huts traversed between earth and sky;\nUpon Mount Sohpetbneng in the tranquil highlands,\nTo guard sacred righteousness and earn true life.\n\nHoly Creator and Sovereign Lord,\nProtect and guide Thy mortal children;\nThat they stumble not upon the narrow path,\nPreserving forever the honor of their ancestral race.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Lyngba Jingkieng Ksiar)",
+      "khasi": "Lyngba ka jingkieng ksier ba donburom,\nKi Hynniewtrep ki la kiew la hiar;\nHa Lum Sohpetbneng ka ri ba pyngngad,\nBan ri ia ka hok bad ban kamai ia ka spah.",
+      "english": "Across the glorious golden ladder of old,\nThe Seven Celestial Huts traversed between earth and sky;\nUpon Mount Sohpetbneng in the tranquil highlands,\nTo guard sacred righteousness and earn true life."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Lyngba Jingkieng Ksiar)",
+      "khasi": "Mynsiem bakhuid ko Blei U Kynrad,\nTo da to synran ia la ki khun;\nBa kin ym thut ha lynti ba khim,\nBan neh ha ka burom jong ka jaitbynriew.",
+      "english": "Holy Creator and Sovereign Lord,\nProtect and guide Thy mortal children;\nThat they stumble not upon the narrow path,\nPreserving forever the honor of their ancestral race."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 61
+}

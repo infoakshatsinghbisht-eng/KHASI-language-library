@@ -1,0 +1,78 @@
+{
+  "id": "ka_umkhen_bad_umiam_bareh",
+  "title": "The Twin Sisters: Umkhen and Umiam (Ka Umkhen Bad Umiam)",
+  "khasi_title": "Ka Umkhen Bad Umiam",
+  "category": "River Myth Ballad",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "The ancient mythological ballad of two sister rivers racing from the heights of Shillong Peak down toward the plains.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Twin Rivers",
+    "Sister Rivalry",
+    "Umiam & Umkhen",
+    "Highland Geography"
+  ],
+  "lyrics_khasi": "Arngut ki shipara,\nKa Umkhen bad Umiam,\nKi la mih na Lum Shillong\nBan ia phet sha madan;\nKawei ka la phet sting\nHa ryngkat ka jingkmen,\nKawei pat ka la klet\nBan iaid beit sha la thmuh.\n\nHaba Umiam ka la poi\nBad iohi ba la kut ka jingphet,\nKa la jaw ki ummat\nBa sngewsih ha la dohnud;\nKi ummat jong ka\nKi la pynlong ia ka wah,\nBa ngi khot Ka Umiam\nWah ba tuid jong ki jingrwai.",
+  "lyrics_english": "Two river sisters born of one mother,\nUmkhen and Umiam,\nSet forth from Shillong Peak\nTo race toward the plains below;\nOne dashed swift and nimble\nAmid joyous laughter,\nWhile the other tarried\nMeandering along the cliffs.\n\nWhen Umiam reached the valley\nAnd saw the race was lost,\nShe shed copious tears\nGrieving in her heart;\nThose precious tears of hers\nFormed the magnificent river,\nWhich we call Umiam,\nThe waters of immortal song.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Arngut ki shipara,",
+        "Ka Umkhen bad Umiam,",
+        "Ki la mih na Lum Shillong",
+        "Ban ia phet sha madan;",
+        "Kawei ka la phet sting",
+        "Ha ryngkat ka jingkmen,",
+        "Kawei pat ka la klet",
+        "Ban iaid beit sha la thmuh."
+      ],
+      "english": [
+        "Two river sisters born of one mother,",
+        "Umkhen and Umiam,",
+        "Set forth from Shillong Peak",
+        "To race toward the plains below;",
+        "One dashed swift and nimble",
+        "Amid joyous laughter,",
+        "While the other tarried",
+        "Meandering along the cliffs."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Haba Umiam ka la poi",
+        "Bad iohi ba la kut ka jingphet,",
+        "Ka la jaw ki ummat",
+        "Ba sngewsih ha la dohnud;",
+        "Ki ummat jong ka",
+        "Ki la pynlong ia ka wah,",
+        "Ba ngi khot Ka Umiam",
+        "Wah ba tuid jong ki jingrwai."
+      ],
+      "english": [
+        "When Umiam reached the valley",
+        "And saw the race was lost,",
+        "She shed copious tears",
+        "Grieving in her heart;",
+        "Those precious tears of hers",
+        "Formed the magnificent river,",
+        "Which we call Umiam,",
+        "The waters of immortal song."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "umkhen": "Umkhen river (eastern river of Meghalaya)",
+    "umiam": "Umiam river (river of weeping/tears)",
+    "shipara": "siblings / sisters",
+    "ummat": "tears",
+    "wah": "river"
+  },
+  "word_count": 81
+}

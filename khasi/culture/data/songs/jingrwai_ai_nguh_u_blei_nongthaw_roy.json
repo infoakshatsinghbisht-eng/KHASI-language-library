@@ -1,0 +1,79 @@
+{
+  "id": "jingrwai_ai_nguh_u_blei_nongthaw_roy",
+  "title": "Thanksgiving to God the Creator (Jingrwai Ai-nguh U Blei Nongthaw)",
+  "khasi_title": "Jingrwai Ai-nguh U Blei Nongthaw",
+  "category": "Highland Creator Praise Hymn",
+  "composer": "Binod Behari Roy",
+  "year": 1930,
+  "cultural_context": "Vocal choral hymn giving praise to God for creating the pine mountains, waterfalls, rivers, and seasonal harvests, from 'Ki Jingrwai Ai-nguh Blei'.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Tangmuri",
+    "Duitara"
+  ],
+  "themes": [
+    "Praise of the Creator",
+    "Created Wonders",
+    "Highland Waterfalls",
+    "Harvest Blessings"
+  ],
+  "lyrics_khasi": "Ai nguh ia U Blei Nongthaw Nongbuh,\nBa la pynlong ia ki lum bad ki wah;\nKi diengkseh ba rben, ki kshaid ba sawa,\nKi kynud ka burom jong U;\nU la ai ia ka sngi ban pynshai,\nIa u slap ban pynroi ia ka ri;\nTo ngin kyntiew la ki sur ba thiang\nBan rwai ia ka nam jong U.\n\nKupar ba kynrei U theh ha ka ri,\nHa ki pynthor, ha ki kper bad ki shnong;\nKi kur ki kha ki ia im suk lang,\nHapdeng ka akor babha;\nAi ba ka burom kan long sha U Blei,\nU Kpa jong u Hynniewtrep baroh;\nHaduh ba ka pyrthei kan da wai\nKa nam jong U kan phyrnai.",
+  "lyrics_english": "Give thanks unto God, the Creator and Sustainer,\nWho brought forth the mountains and crystal rivers;\nThe dense whispering pines, the thundering waterfalls,\nAll sing forth of His glorious majesty;\nHe gave the warm sun to illuminate our days,\nHe poured down the rain to make the valleys fruitful;\nLet us lift our voices in sweetest melodies\nTo praise His holy name.\n\nAbundant divine favor He pours upon our land,\nUpon paddy fields, fruit orchards, and villages;\nMaternal clans and paternal kin dwell in harmony,\nGuided by noble ancestral character;\nLet all majesty and honor belong unto God,\nThe Father of all the Seven Huts forever;\nUntil the world itself shall pass away,\nHis glorious name shall shine.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ai nguh ia U Blei Nongthaw Nongbuh,",
+        "Ba la pynlong ia ki lum bad ki wah;",
+        "Ki diengkseh ba rben, ki kshaid ba sawa,",
+        "Ki kynud ka burom jong U;",
+        "U la ai ia ka sngi ban pynshai,",
+        "Ia u slap ban pynroi ia ka ri;",
+        "To ngin kyntiew la ki sur ba thiang",
+        "Ban rwai ia ka nam jong U."
+      ],
+      "english": [
+        "Give thanks unto God, the Creator and Sustainer,",
+        "Who brought forth the mountains and crystal rivers;",
+        "The dense whispering pines, the thundering waterfalls,",
+        "All sing forth of His glorious majesty;",
+        "He gave the warm sun to illuminate our days,",
+        "He poured down the rain to make the valleys fruitful;",
+        "Let us lift our voices in sweetest melodies",
+        "To praise His holy name."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kupar ba kynrei U theh ha ka ri,",
+        "Ha ki pynthor, ha ki kper bad ki shnong;",
+        "Ki kur ki kha ki ia im suk lang,",
+        "Hapdeng ka akor babha;",
+        "Ai ba ka burom kan long sha U Blei,",
+        "U Kpa jong u Hynniewtrep baroh;",
+        "Haduh ba ka pyrthei kan da wai",
+        "Ka nam jong U kan phyrnai."
+      ],
+      "english": [
+        "Abundant divine favor He pours upon our land,",
+        "Upon paddy fields, fruit orchards, and villages;",
+        "Maternal clans and paternal kin dwell in harmony,",
+        "Guided by noble ancestral character;",
+        "Let all majesty and honor belong unto God,",
+        "The Father of all the Seven Huts forever;",
+        "Until the world itself shall pass away,",
+        "His glorious name shall shine."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "nongthaw nongbuh": "the Creator and Arranger of the Cosmos",
+    "kshaid ba sawa": "thundering waterfall",
+    "kper": "orchard / garden",
+    "shnong": "village / town",
+    "kpa": "father / protector"
+  },
+  "word_count": 119
+}

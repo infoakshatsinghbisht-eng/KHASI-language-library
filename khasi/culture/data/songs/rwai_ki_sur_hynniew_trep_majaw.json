@@ -1,0 +1,61 @@
+{
+  "id": "rwai_ki_sur_hynniew_trep_majaw",
+  "title": "Ki Sur Jingrwai U Hynniew Trep (Melodies of the Seven Huts)",
+  "khasi_title": "Ki Sur Jingrwai U Hynniew Trep",
+  "category": "ballad_and_heritage",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1983,
+  "origin": "Khasi & Jaintia Hills",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing",
+    "Ka Tangmuri"
+  ],
+  "themes": [
+    "Sacred Heritage",
+    "Seven Huts",
+    "Ancestral Golden Age",
+    "Tip-Kur Tip-Kha"
+  ],
+  "cultural_context": "Chanted in communal gathering celebrating the primordial covenant between God and the Sixteen Huts upon Lum Sohpetbneng.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Na kliar u Lum Sohpetbneng ba thiang,",
+        "U kynjri ksier u hiar na bneng sha khyndew,",
+        "Ki Hynniew Trep ki wan shong neh ha ri,",
+        "Ban pynriewspah ia ka sneng ka akor."
+      ],
+      "english": [
+        "From the sweet crown of Lum Sohpetbneng,",
+        "The golden celestial ladder descended to earth,",
+        "The Seven Huts came to dwell in this land,",
+        "To enrich the divine wisdom and moral conduct."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "U Blei Nongbuh u kyrkhu ia ka hima,",
+        "Ynda ngi bat ia ka hok bad ka jingshisha,",
+        "Kamai ia ka hok ha madan bad ha them,",
+        "Pynsah ia ka nam ba phyrnai haduh bynrei."
+      ],
+      "english": [
+        "God the Arranger blesses the sovereign realm,",
+        "When we hold fast to righteousness and truth,",
+        "Earn righteousness upon the highlands and valleys,",
+        "Leaving a shining name for generations yet to come."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "kynjri-ksier": "golden celestial umbilical cord / ladder of communion",
+    "hynniew-trep": "the Seven Huts / Khasi ancestral race"
+  },
+  "file": "rwai_ki_sur_hynniew_trep_majaw.json",
+  "lyrics_khasi": "Na kliar u Lum Sohpetbneng ba thiang,\nU kynjri ksier u hiar na bneng sha khyndew,\nKi Hynniew Trep ki wan shong neh ha ri,\nBan pynriewspah ia ka sneng ka akor.\nU Blei Nongbuh u kyrkhu ia ka hima,\nYnda ngi bat ia ka hok bad ka jingshisha,\nKamai ia ka hok ha madan bad ha them,\nPynsah ia ka nam ba phyrnai haduh bynrei.",
+  "lyrics_english": "From the sweet crown of Lum Sohpetbneng,\nThe golden celestial ladder descended to earth,\nThe Seven Huts came to dwell in this land,\nTo enrich the divine wisdom and moral conduct.\nGod the Arranger blesses the sovereign realm,\nWhen we hold fast to righteousness and truth,\nEarn righteousness upon the highlands and valleys,\nLeaving a shining name for generations yet to come.",
+  "word_count": 66
+}

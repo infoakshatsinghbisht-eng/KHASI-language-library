@@ -1,0 +1,78 @@
+{
+  "id": "ha_ka_iasiat_ha_ka_iathong_nongrum",
+  "title": "In the Archery Tournament (Ha Ka Iasiat Ha Ka Iathong)",
+  "khasi_title": "Ha Ka Iasiat Ha Ka Iathong",
+  "category": "Archery Victory Phawar",
+  "composer": "Kitbor W. Nongrum",
+  "year": 1992,
+  "cultural_context": "Rousing traditional archery phawar chanted by archers and villagers around the circular grass target (Skum) during tournament contests, from 'Ki Sur Ba Dang Sawa'.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Archery Bow & Bamboo Arrows"
+  ],
+  "themes": [
+    "Archery Contests",
+    "Bamboo Arrows",
+    "Highland Sportsmanship",
+    "Victory Phawar"
+  ],
+  "lyrics_khasi": "Hoi-kiw! Ha ka iasiat ha ka iathong,\nKi ranglieng ki ieng beit thik;\nKa ryntieh siej-lieng ba la pynkhreh,\nU khnam u her kum ka leilieh;\nU sam beit ha u skum ba la buh,\nKi kynhun ki risaw da ka jingkmen;\nDei ka bor ka kti bad ka jingshai ka khmat\nBa ai nam ia u samla ba shlur.\n\nPhawar, ko paralok, phawar da ka hok,\nWat kren ia ka ktien ba pynshun;\nKa iasiat u Hynniewtrep\nKam dei ban pynpait ia ka shnong;\nHynrei ban pynkhlain ia ka met,\nBan pyniatylli ia ki kur ki kha,\nBan ri ia ka akor u kpa tymmen\nHaduh ba sngi kan sep.",
+  "lyrics_english": "Hoi-kiw! In the contest of the flying arrows,\nThe archers stand straight and steady;\nThe bow of seasoned bamboo drawn tight,\nThe feather-fletched arrow flies swift as lightning;\nStriking dead center into the woven grass target,\nThe cheering village rings out in triumph;\nIt is the steady hand and sharp, keen eye\nThat wins renown for the courageous youth.\n\nChant your phawar, comrades, chant with sporting honor,\nUtter no harsh word that breeds hostility;\nThe archery of the Seven Huts\nIs never meant to divide the village;\nRather to forge physical strength,\nTo bind together maternal and paternal kin,\nTo preserve the noble conduct of our ancestors\nUntil the sun sinks into dusk.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Hoi-kiw! Ha ka iasiat ha ka iathong,",
+        "Ki ranglieng ki ieng beit thik;",
+        "Ka ryntieh siej-lieng ba la pynkhreh,",
+        "U khnam u her kum ka leilieh;",
+        "U sam beit ha u skum ba la buh,",
+        "Ki kynhun ki risaw da ka jingkmen;",
+        "Dei ka bor ka kti bad ka jingshai ka khmat",
+        "Ba ai nam ia u samla ba shlur."
+      ],
+      "english": [
+        "Hoi-kiw! In the contest of the flying arrows,",
+        "The archers stand straight and steady;",
+        "The bow of seasoned bamboo drawn tight,",
+        "The feather-fletched arrow flies swift as lightning;",
+        "Striking dead center into the woven grass target,",
+        "The cheering village rings out in triumph;",
+        "It is the steady hand and sharp, keen eye",
+        "That wins renown for the courageous youth."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Phawar, ko paralok, phawar da ka hok,",
+        "Wat kren ia ka ktien ba pynshun;",
+        "Ka iasiat u Hynniewtrep",
+        "Kam dei ban pynpait ia ka shnong;",
+        "Hynrei ban pynkhlain ia ka met,",
+        "Ban pyniatylli ia ki kur ki kha,",
+        "Ban ri ia ka akor u kpa tymmen",
+        "Haduh ba sngi kan sep."
+      ],
+      "english": [
+        "Chant your phawar, comrades, chant with sporting honor,",
+        "Utter no harsh word that breeds hostility;",
+        "The archery of the Seven Huts",
+        "Is never meant to divide the village;",
+        "Rather to forge physical strength,",
+        "To bind together maternal and paternal kin,",
+        "To preserve the noble conduct of our ancestors",
+        "Until the sun sinks into dusk."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "iasiat khnam": "traditional Khasi archery contest",
+    "ryntieh": "traditional bamboo bow",
+    "siej-lieng": "indigenous mountain bamboo variety used for bows",
+    "skum": "small cylindrical woven target",
+    "khnam": "arrow"
+  },
+  "word_count": 111
+}

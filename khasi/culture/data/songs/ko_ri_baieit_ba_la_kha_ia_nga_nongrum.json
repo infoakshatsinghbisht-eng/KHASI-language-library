@@ -1,0 +1,78 @@
+{
+  "id": "ko_ri_baieit_ba_la_kha_ia_nga_nongrum",
+  "title": "O Beloved Motherland of My Birth (Ko Ri Baieit Ba La Kha Ia Nga)",
+  "khasi_title": "Ko Ri Baieit Ba La Kha Ia Nga",
+  "category": "Patriotic Homeland Hymn",
+  "composer": "Kitbor W. Nongrum",
+  "year": 1992,
+  "cultural_context": "National hymn of reverence for the hills, valleys, clear watercourses, and indigenous freedoms of Meghalaya, published in 'Ki Sur Ba Dang Sawa'.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Beloved Motherland",
+    "Hills of Heritage",
+    "Patriotic Devotion",
+    "Sacred Waters"
+  ],
+  "lyrics_khasi": "Ko Ri baieit ba la kha ia nga,\nMei-ri baitynnad bad ba suk,\nKi lum jong pha kiba tap da ki diengkseh,\nKi wah jong pha kiba tuid kum ka rupa;\nHa man ka kyrdon, ha man ka them,\nKa dohnud jong nga ka kynud,\nIa ka jingieit ba ngam lah ban thew\nIa pha, ko Ri baieit jong nga.\n\nWat la nga phet sha lyndet duriaw,\nSha ki shnong ba spah jong kiwei,\nKa mynsiem kam ju lah ban klet\nIa ki krem, ki kshaid bad ki syntiew;\nHa pha nga kwah ban im bad iap,\nHa pneh jong pha ban thiah suk,\nKo Ri u Hynniewtrep ba kyntang,\nKyrteng jong pha kan sah junom.",
+  "lyrics_english": "O beloved Motherland where I was born,\nSweet, serene, and beautiful land,\nYour rolling ridges crowned with whispering pines,\nYour clear waters flowing like ribbons of silver;\nOn every mountain ledge, in every quiet vale,\nMy inner spirit hums a song,\nOf boundless devotion beyond measure\nUnto you, my beloved Motherland.\n\nEven should I travel far across distant oceans,\nTo foreign lands of glittering wealth,\nMy spirit could never forget\nYour sacred caves, your waterfalls, and wild blossoms;\nIn your soil I desire to live and die,\nIn your embrace to repose in peace,\nO hallowed land of the Seven Huts,\nYour name shall endure forever.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ko Ri baieit ba la kha ia nga,",
+        "Mei-ri baitynnad bad ba suk,",
+        "Ki lum jong pha kiba tap da ki diengkseh,",
+        "Ki wah jong pha kiba tuid kum ka rupa;",
+        "Ha man ka kyrdon, ha man ka them,",
+        "Ka dohnud jong nga ka kynud,",
+        "Ia ka jingieit ba ngam lah ban thew",
+        "Ia pha, ko Ri baieit jong nga."
+      ],
+      "english": [
+        "O beloved Motherland where I was born,",
+        "Sweet, serene, and beautiful land,",
+        "Your rolling ridges crowned with whispering pines,",
+        "Your clear waters flowing like ribbons of silver;",
+        "On every mountain ledge, in every quiet vale,",
+        "My inner spirit hums a song,",
+        "Of boundless devotion beyond measure",
+        "Unto you, my beloved Motherland."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la nga phet sha lyndet duriaw,",
+        "Sha ki shnong ba spah jong kiwei,",
+        "Ka mynsiem kam ju lah ban klet",
+        "Ia ki krem, ki kshaid bad ki syntiew;",
+        "Ha pha nga kwah ban im bad iap,",
+        "Ha pneh jong pha ban thiah suk,",
+        "Ko Ri u Hynniewtrep ba kyntang,",
+        "Kyrteng jong pha kan sah junom."
+      ],
+      "english": [
+        "Even should I travel far across distant oceans,",
+        "To foreign lands of glittering wealth,",
+        "My spirit could never forget",
+        "Your sacred caves, your waterfalls, and wild blossoms;",
+        "In your soil I desire to live and die,",
+        "In your embrace to repose in peace,",
+        "O hallowed land of the Seven Huts,",
+        "Your name shall endure forever."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "mei-ri": "Motherland / Mother Soil",
+    "diengkseh": "Khasi pine trees (Pinus kesiya)",
+    "duriaw": "ocean / sea",
+    "krem": "cave / limestone cavern",
+    "kshaid": "waterfall"
+  },
+  "word_count": 116
+}

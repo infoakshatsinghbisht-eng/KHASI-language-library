@@ -1,0 +1,77 @@
+{
+  "id": "akor_kren_akor_khana_phawar_berry",
+  "title": "Phawar of Noble Speech (Akor Kren Akor Khana)",
+  "khasi_title": "Akor Kren Akor Khana",
+  "category": "Verbal Etiquette & Wisdom Chant",
+  "composer": "Radhon Singh Berry",
+  "year": 1902,
+  "cultural_context": "Radhon Singh Berry's foundational rhyming rules governing speech, prohibiting slander, deceit, and arrogance, from 'Ka Jingsneng Tymmen'.",
+  "instruments": [
+    "Sharati",
+    "Duitara"
+  ],
+  "themes": [
+    "Noble Speech",
+    "Truthfulness",
+    "Prohibition of Slander",
+    "Verbal Decorum"
+  ],
+  "lyrics_khasi": "Ka ktien kaba thiang ka pynjem dohnud,\nKa ktien kaba khor ka pynkhih ding;\nWat kren lamwir ha khmat uba bun,\nWat pyniapher ia ki kur ki kha;\nKren beit da ka hok bad ka jingshisha,\nKum u mawkordor ba la pynkhuid;\nUba nang ban bat ia la ka shyntur\nUn ioh ka jingsuk ha ka pyrthei.\n\nWat leh khyllah ban kynthoh briew,\nWat buh jingmut basniew ha dohnud;\nKa ktien ba la mih na ka shyntur\nKam ju lah ban phai pat sha ling;\nTo bthah ia la ka mynsiem baroh,\nBan ri ia ka akor ba kyntang;\nBa ka ktien jong pha kan ai jingim\nSha kito kiba don ha ka jynjar.",
+  "lyrics_english": "A gentle, sweet word softens the hardest heart,\nA venomous word kindles a consuming fire;\nSpeak not deceitfully before the council of the people,\nSow no discord between maternal and paternal kin;\nSpeak directly with righteousness and truth,\nLike an unblemished jewel purified from dross;\nHe who knows how to guard his tongue\nShall inherit peace throughout the earth.\n\nCommit no foolish fault by slandering others,\nHarbor no bitter malice in your breast;\nA spoken word that has flown from the lips\nCan never be recalled back home;\nAdmonish your whole soul and mind,\nTo safeguard sacred, upright decorum;\nSo that your words may impart life and hope\nUnto those weighed down by sorrow and distress.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka ktien kaba thiang ka pynjem dohnud,",
+        "Ka ktien kaba khor ka pynkhih ding;",
+        "Wat kren lamwir ha khmat uba bun,",
+        "Wat pyniapher ia ki kur ki kha;",
+        "Kren beit da ka hok bad ka jingshisha,",
+        "Kum u mawkordor ba la pynkhuid;",
+        "Uba nang ban bat ia la ka shyntur",
+        "Un ioh ka jingsuk ha ka pyrthei."
+      ],
+      "english": [
+        "A gentle, sweet word softens the hardest heart,",
+        "A venomous word kindles a consuming fire;",
+        "Speak not deceitfully before the council of the people,",
+        "Sow no discord between maternal and paternal kin;",
+        "Speak directly with righteousness and truth,",
+        "Like an unblemished jewel purified from dross;",
+        "He who knows how to guard his tongue",
+        "Shall inherit peace throughout the earth."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat leh khyllah ban kynthoh briew,",
+        "Wat buh jingmut basniew ha dohnud;",
+        "Ka ktien ba la mih na ka shyntur",
+        "Kam ju lah ban phai pat sha ling;",
+        "To bthah ia la ka mynsiem baroh,",
+        "Ban ri ia ka akor ba kyntang;",
+        "Ba ka ktien jong pha kan ai jingim",
+        "Sha kito kiba don ha ka jynjar."
+      ],
+      "english": [
+        "Commit no foolish fault by slandering others,",
+        "Harbor no bitter malice in your breast;",
+        "A spoken word that has flown from the lips",
+        "Can never be recalled back home;",
+        "Admonish your whole soul and mind,",
+        "To safeguard sacred, upright decorum;",
+        "So that your words may impart life and hope",
+        "Unto those weighed down by sorrow and distress."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ktien": "word / language / speech",
+    "khor": "bitter / harsh / cutting",
+    "shyntur": "lips / mouth",
+    "lamwir": "falsity / deceit / erratic speech",
+    "jingshisha": "truth / verity"
+  },
+  "word_count": 114
+}

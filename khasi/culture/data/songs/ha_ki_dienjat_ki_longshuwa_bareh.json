@@ -1,0 +1,79 @@
+{
+  "id": "ha_ki_dienjat_ki_longshuwa_bareh",
+  "title": "In the Footsteps of the Ancestors (Ha Ki Dienjat Ki Longshuwa)",
+  "khasi_title": "Ha Ki Dienjat Ki Longshuwa",
+  "category": "Ancestral Heritage Hymn",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Veneration of the virtues, monoliths (Mawbynna), and ethics left behind by the ancient ancestors (Ki Longshuwa).",
+  "instruments": [
+    "Duitara",
+    "Ksing",
+    "Sharati"
+  ],
+  "themes": [
+    "Ancestral Footsteps",
+    "Monoliths",
+    "Tip-Kur Tip-Kha",
+    "Moral Lineage"
+  ],
+  "lyrics_khasi": "Ha ki dienjat ki longshuwa\nTo ngin iaid da ka akor,\nKi mawbyrsiew ki mawbynna\nKi ieng ban ai ka bor;\nKi la buh ia ka niam ka rukom\nBan tip-kur bad tip-kha,\nBan im da ka hok ka sot\nHa khmat u Blei Uba Khraw.\n\nWat bamsap, wat phriang nia lamwir,\nBat skhem ia la ka kti,\nKa sniehkoh jong ka Ri\nKam ju let ia ka jingshisha;\nKi sngi ki la leit,\nHynrei ka nongrim ka sah,\nHa dienjat ki kpa tymmen\nKa Ri kan kiew sha khmat.",
+  "lyrics_english": "In the footsteps of our ancestors\nLet us walk with upright etiquette,\nThe hearthstones and memorial monoliths\nStand to impart great strength;\nThey established religious customs\nTo know one's clan and paternal kin,\nTo live in righteousness and truth\nBefore the Almighty God.\n\nDo not bribe, do not spread deceit,\nHold steadfastly to your integrity,\nThe sacred soil of our Motherland\nNever forgets the truth;\nThe years may pass away,\nYet the foundation remains,\nIn the footsteps of the elders\nOur Motherland shall march ahead.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha ki dienjat ki longshuwa",
+        "To ngin iaid da ka akor,",
+        "Ki mawbyrsiew ki mawbynna",
+        "Ki ieng ban ai ka bor;",
+        "Ki la buh ia ka niam ka rukom",
+        "Ban tip-kur bad tip-kha,",
+        "Ban im da ka hok ka sot",
+        "Ha khmat u Blei Uba Khraw."
+      ],
+      "english": [
+        "In the footsteps of our ancestors",
+        "Let us walk with upright etiquette,",
+        "The hearthstones and memorial monoliths",
+        "Stand to impart great strength;",
+        "They established religious customs",
+        "To know one's clan and paternal kin,",
+        "To live in righteousness and truth",
+        "Before the Almighty God."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat bamsap, wat phriang nia lamwir,",
+        "Bat skhem ia la ka kti,",
+        "Ka sniehkoh jong ka Ri",
+        "Kam ju let ia ka jingshisha;",
+        "Ki sngi ki la leit,",
+        "Hynrei ka nongrim ka sah,",
+        "Ha dienjat ki kpa tymmen",
+        "Ka Ri kan kiew sha khmat."
+      ],
+      "english": [
+        "Do not bribe, do not spread deceit,",
+        "Hold steadfastly to your integrity,",
+        "The sacred soil of our Motherland",
+        "Never forgets the truth;",
+        "The years may pass away,",
+        "Yet the foundation remains,",
+        "In the footsteps of the elders",
+        "Our Motherland shall march ahead."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "longshuwa": "ancestors / forebears",
+    "dienjat": "footsteps / tracks",
+    "mawbynna": "commemorative upright monolith",
+    "tip-kur tip-kha": "knowing maternal clan and paternal kin (core Khasi moral pillar)",
+    "hok": "righteousness / justice",
+    "sot": "truth / purity"
+  },
+  "word_count": 90
+}

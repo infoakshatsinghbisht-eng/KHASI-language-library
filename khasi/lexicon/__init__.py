@@ -18,6 +18,17 @@ from .dialects import (
     get_dialect_statistics,
 )
 
+from .tynrai import (
+    tynrai,
+    TynraiManager,
+    INDIGENOUS_ROOTS,
+    PHONAESTHETIC_EXPRESSIVES,
+    list_indigenous_roots,
+    get_indigenous_root,
+    list_expressives,
+    get_expressive,
+)
+
 __all__ = [
     "KhasiDictionary",
     "KhasiMorphologyEngine",
@@ -30,4 +41,13 @@ __all__ = [
     "translate_dialect",
     "find_cognates",
     "get_dialect_statistics",
+    "tynrai",
+    "TynraiManager",
+    "INDIGENOUS_ROOTS",
+    "PHONAESTHETIC_EXPRESSIVES",
+    "list_indigenous_roots",
+    "get_indigenous_root",
+    "list_expressives",
+    "get_expressive",
 ]
+

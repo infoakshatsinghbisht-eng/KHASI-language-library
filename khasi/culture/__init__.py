@@ -58,12 +58,16 @@ from .botany import (
     get_plant,
     by_plant_type,
     medicinal_plants,
+    search_plants,
+    total_plants,
 )
 from .wildlife import (
     WILDLIFE,
     list_wildlife,
     get_animal,
     by_class as by_wildlife_class,
+    search_wildlife,
+    total_wildlife,
 )
 from .cuisine import (
     DISHES,
@@ -82,6 +86,12 @@ from .clans import (
     list_clans,
     get_clan,
     search_clans,
+    total_clans,
+    TRADITIONAL_NAMES,
+    list_names,
+    get_name,
+    search_names,
+    total_names,
 )
 from .idioms import (
     IDIOMS,
@@ -136,6 +146,25 @@ from .songs import (
     songs_by_category,
     total_songs,
     SongManager,
+)
+from .attire import (
+    attire,
+    AttireManager,
+    TRADITIONAL_GARMENTS,
+    TEXTILES_AND_FABRICS,
+    JEWELLERY_AND_ORNAMENTS,
+    REGALIA_AND_WEAPONS,
+    ALL_ATTIRE,
+    list_garments,
+    get_garment,
+    list_jewellery,
+    get_jewellery,
+    list_fabrics,
+    get_fabric,
+    list_regalia,
+    get_regalia,
+    search_attire,
+    list_all_attire,
 )
 
 catalogue = BibliographyCatalogue()
@@ -213,6 +242,12 @@ __all__ = [
     "list_clans",
     "get_clan",
     "search_clans",
+    "total_clans",
+    "TRADITIONAL_NAMES",
+    "list_names",
+    "get_name",
+    "search_names",
+    "total_names",
     # Idioms & Ktien Kynnoh (NEW)
     "IDIOMS",
     "list_idioms",
@@ -260,4 +295,22 @@ __all__ = [
     "songs_by_category",
     "total_songs",
     "SongManager",
+    # Traditional Attire, Textiles, Jewellery & Regalia (NEW)
+    "attire",
+    "AttireManager",
+    "TRADITIONAL_GARMENTS",
+    "TEXTILES_AND_FABRICS",
+    "JEWELLERY_AND_ORNAMENTS",
+    "REGALIA_AND_WEAPONS",
+    "ALL_ATTIRE",
+    "list_garments",
+    "get_garment",
+    "list_jewellery",
+    "get_jewellery",
+    "list_fabrics",
+    "get_fabric",
+    "list_regalia",
+    "get_regalia",
+    "search_attire",
+    "list_all_attire",
 ]

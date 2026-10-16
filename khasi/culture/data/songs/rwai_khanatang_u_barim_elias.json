@@ -1,0 +1,46 @@
+{
+  "id": "rwai_khanatang_u_barim_elias",
+  "title": "Ki Khanatang U Barim (Tales of the Ancients)",
+  "khasi_title": "Ki Khanatang U Barim",
+  "category": "ballad_and_heritage",
+  "composer": "Fr. H. Elias",
+  "year": 1972,
+  "origin": "Highland Oral Lore",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing",
+    "Ka Maryngod"
+  ],
+  "themes": [
+    "Oral Lore",
+    "Megaliths",
+    "Covenants",
+    "Clan Lineage"
+  ],
+  "cultural_context": "Recited by village bards around the hearth (*ka dpei*) passing down ancestral genealogy and moral wisdom.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Sngap ko khun samla ia ka khanatang,",
+        "Ba ki tymmen barim ki la buh ryntih,",
+        "Ha ki mawbynna ba ieng ha shnong,",
+        "Ha ka ktien ba phyrnai kaba ngi ieit."
+      ],
+      "english": [
+        "Listen, O youthful children, to the ancient tales,",
+        "Which the elders of old arranged in order,",
+        "Upon the upright megaliths standing in the village,",
+        "In the radiant language that we hold dear."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "khanatang": "sacred oral legend / mythological history",
+    "mawbynna": "commemorative monolith standing stone"
+  },
+  "file": "rwai_khanatang_u_barim_elias.json",
+  "lyrics_khasi": "Sngap ko khun samla ia ka khanatang,\nBa ki tymmen barim ki la buh ryntih,\nHa ki mawbynna ba ieng ha shnong,\nHa ka ktien ba phyrnai kaba ngi ieit.",
+  "lyrics_english": "Listen, O youthful children, to the ancient tales,\nWhich the elders of old arranged in order,\nUpon the upright megaliths standing in the village,\nIn the radiant language that we hold dear.",
+  "word_count": 30
+}

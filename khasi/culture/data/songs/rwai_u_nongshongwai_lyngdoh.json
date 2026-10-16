@@ -1,0 +1,64 @@
+{
+  "id": "rwai_u_nongshongwai_lyngdoh",
+  "title": "Sur U Nongshongwai (Ballad of the Highland Tenant Farmer)",
+  "native_title": "Sur U Nongshongwai",
+  "category": "harvest_and_labor",
+  "composer": "O. Lyngdoh",
+  "year": 1978,
+  "origin": "Central Khasi Hills",
+  "instruments": [
+    "Ka Ksing Padiah",
+    "Ka Besli",
+    "Ka Tangmuri"
+  ],
+  "themes": [
+    "Labor",
+    "Paddy Fields",
+    "Honest Work",
+    "Humility"
+  ],
+  "description": "Traditional agrarian work song expressing the resilience and endurance of Khasi farmers tilling ancestral slopes.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Nga rep ia u kba ha ki pynthor,",
+        "Da ka jingsyep ha madan riat,",
+        "Ban bsa ia ki khun ki ksiew ha ïing,",
+        "Kamai ia ka hok da ka met ba shait."
+      ],
+      "english": [
+        "I cultivate the paddy on terraced slopes,",
+        "With honest sweat upon the hillside earth,",
+        "To nurture children and grandchildren at home,",
+        "Earning righteousness through strong and healthy limbs."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "U kba u la ih ha ka aïom synrai,",
+        "Shad lehkmen ko ki kur ki kha,",
+        "Ainguh ia U Blei Nongbuh Nongthaw,",
+        "Ba ai ia ka kyrkhu ha man ka sngi."
+      ],
+      "english": [
+        "The paddy has ripened in the autumn season,",
+        "Dance with joy, O maternal and paternal clans,",
+        "Give thanks to God the Creator and Arranger,",
+        "Who grants blessing upon each passing day."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "nongshongwai": "tenant cultivator / humble farmer",
+    "jingsyep": "honest perspiration / toil of the brow",
+    "aïom synrai": "autumn harvest season"
+  },
+  "file": "rwai_u_nongshongwai_lyngdoh.json",
+  "khasi_title": "Sur U Nongshongwai",
+  "cultural_context": "Traditional agrarian work song expressing the resilience and endurance of Khasi farmers tilling ancestral slopes.",
+  "lyrics_khasi": "Nga rep ia u kba ha ki pynthor,\nDa ka jingsyep ha madan riat,\nBan bsa ia ki khun ki ksiew ha ïing,\nKamai ia ka hok da ka met ba shait.\nU kba u la ih ha ka aïom synrai,\nShad lehkmen ko ki kur ki kha,\nAinguh ia U Blei Nongbuh Nongthaw,\nBa ai ia ka kyrkhu ha man ka sngi.",
+  "lyrics_english": "I cultivate the paddy on terraced slopes,\nWith honest sweat upon the hillside earth,\nTo nurture children and grandchildren at home,\nEarning righteousness through strong and healthy limbs.\nThe paddy has ripened in the autumn season,\nDance with joy, O maternal and paternal clans,\nGive thanks to God the Creator and Arranger,\nWho grants blessing upon each passing day.",
+  "word_count": 63
+}

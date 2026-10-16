@@ -1,0 +1,77 @@
+{
+  "id": "kor_i_tungtap_majaw",
+  "title": "Praise of the Hearth & Tungtap (Kor I Tungtap)",
+  "khasi_title": "Kor I Tungtap",
+  "category": "Rustic Culinary Phawar",
+  "composer": "S. S. Majaw",
+  "year": 1997,
+  "cultural_context": "Humorous and affectionate traditional domestic phawar celebrating fermented fish chutney (Tungtap) eaten around the clay hearth.",
+  "instruments": [
+    "Ksing",
+    "Duitara"
+  ],
+  "themes": [
+    "Highland Cuisine",
+    "Tungtap",
+    "Hearth Gatherings",
+    "Village Mirth"
+  ],
+  "lyrics_khasi": "Haba sngi ka la sep\nBad u slap u la hap,\nNgi shong sawdong rympei\nBan bam ja bad tungtap;\nIiwbih thiang ba bang,\nU sohmynken u sat,\nKa ja sotti ba syaid\nKa pynkmen ia ka kpoh.\n\nWat la ngi don ha ri thor,\nNe ha kyllood ki shnong,\nKa sur jong i tungtap\nKa ring ia ka mynsiem;\nNgi kynmaw la ka tnum,\nKa dpei jong ka mei-rad,\nHangta ka jingsuk\nBa u Blei u la theh.",
+  "lyrics_english": "When the sun has set\nAnd the rain pours down,\nWe sit encircling the hearth\nTo eat warm rice and tungtap;\nSavory pungent aroma,\nFiery wild chilies,\nSteaming indigenous hill-rice\nBringing joy to the belly.\n\nThough we may travel to distant plains,\nOr roam faraway towns,\nThe taste of humble tungtap\nDraws back the longing heart;\nWe remember our thatched roof,\nThe hearth of our grandmother,\nWhere true peace resides\nPoured down by God above.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Haba sngi ka la sep",
+        "Bad u slap u la hap,",
+        "Ngi shong sawdong rympei",
+        "Ban bam ja bad tungtap;",
+        "Iiwbih thiang ba bang,",
+        "U sohmynken u sat,",
+        "Ka ja sotti ba syaid",
+        "Ka pynkmen ia ka kpoh."
+      ],
+      "english": [
+        "When the sun has set",
+        "And the rain pours down,",
+        "We sit encircling the hearth",
+        "To eat warm rice and tungtap;",
+        "Savory pungent aroma,",
+        "Fiery wild chilies,",
+        "Steaming indigenous hill-rice",
+        "Bringing joy to the belly."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la ngi don ha ri thor,",
+        "Ne ha kyllood ki shnong,",
+        "Ka sur jong i tungtap",
+        "Ka ring ia ka mynsiem;",
+        "Ngi kynmaw la ka tnum,",
+        "Ka dpei jong ka mei-rad,",
+        "Hangta ka jingsuk",
+        "Ba u Blei u la theh."
+      ],
+      "english": [
+        "Though we may travel to distant plains,",
+        "Or roam faraway towns,",
+        "The taste of humble tungtap",
+        "Draws back the longing heart;",
+        "We remember our thatched roof,",
+        "The hearth of our grandmother,",
+        "Where true peace resides",
+        "Poured down by God above."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "tungtap": "fermented fish paste/chutney (staple Khasi delicacy)",
+    "rympei": "family hearth",
+    "sohmynken": "chili pepper",
+    "dpei": "fireplace ashes / hearthside",
+    "mei-rad": "grandmother"
+  },
+  "word_count": 79
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rwai_u_manik_raitong_flute",
+  "title": "Melancholy Flute Song of Manik Raitong",
+  "khasi_title": "Rwai U Manik Raitong",
+  "category": "Elegies, Nature & Folk Narrative Ballads",
+  "composer": "Traditional Khasi-Pnar Oral Literature",
+  "year": "Traditional",
+  "cultural_context": "Laments tragic legends and honors sacred rivers, peaks, and monoliths. Passed down orally through generations of Khasi and Pnar families across Meghalaya.",
+  "instruments": [
+    "Maryngod",
+    "Sharati",
+    "Duitara"
+  ],
+  "themes": [
+    "River Umngot",
+    "Beloved Maiden",
+    "Unfading Love"
+  ],
+  "lyrics_khasi": "Ha rud ka wah Umngot ba sngur,\nNga iohi ia la ka samla ba bhabriew;\nKa khmat ka shai kum u bnai ba pura,\nKa jingieit jong ka kam ju rim.",
+  "lyrics_english": "Beside the crystal waters of the Umngot stream,\nI beheld my beloved adorned in grace;\nHer countenance shines like the radiant full moon,\nHer love shall never fade or grow cold.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Nyngkong (Rwai U Manik Raitong)",
+      "khasi": "Ha rud ka wah Umngot ba sngur,\nNga iohi ia la ka samla ba bhabriew;\nKa khmat ka shai kum u bnai ba pura,\nKa jingieit jong ka kam ju rim.",
+      "english": "Beside the crystal waters of the Umngot stream,\nI beheld my beloved adorned in grace;\nHer countenance shines like the radiant full moon,\nHer love shall never fade or grow cold."
+    }
+  ],
+  "vocabulary": {
+    "pyngngad": "cool / refreshing mountain breeze",
+    "mynsiem": "soul / inner spirit",
+    "ka hok": "righteousness / truth / justice",
+    "ka ri": "motherland / sovereign territory"
+  },
+  "word_count": 31
+}

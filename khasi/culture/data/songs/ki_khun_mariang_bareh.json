@@ -1,0 +1,79 @@
+{
+  "id": "ki_khun_mariang_bareh",
+  "title": "Children of Nature (Ki Khun Mariang)",
+  "khasi_title": "Ki Khun Mariang",
+  "category": "Indigenous Identity Anthem",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Patriotic anthem declaring the spiritual brotherhood and kinship between the Khasi people and mother nature.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Duitara",
+    "Tangmuri"
+  ],
+  "themes": [
+    "Children of the Soil",
+    "Indigenous Identity",
+    "Highland Brotherhood",
+    "Ecology"
+  ],
+  "lyrics_khasi": "Ngi long ki khun ka Mariang,\nBa san ha pneh u lum,\nNgi sngewthuh ia ka ktien\nJong ki sim bad ki um;\nKi khlaw kiba rben\nKi ai ia ngi ka sem,\nKi mawlynnai ba shai\nKi don ha man ka them.\n\nNgin sumar ia ka ri,\nIa ki wah bad ki dieng,\nBan ri ia ka spah mariang\nBa ki kpa ki la iehnoh;\nKum ki khun u Hynniewtrep\nNgin ieng ha kawei ka nia,\nBan pynneh ia ka nam\nJong ka Ri ki Blei.",
+  "lyrics_english": "We are the children of Nature,\nReared in the lap of mountains,\nWe understand the language\nOf forest birds and running streams;\nThe dense verdant woods\nOffer us shelter and home,\nThe sparkling jewels of nature\nDwell in every valley.\n\nWe shall protect our land,\nOur waterways and forests,\nTo safeguard nature's riches\nBequeathed by our ancestors;\nAs true progeny of the Seven Huts\nWe stand on one righteous cause,\nTo preserve the glorious name\nOf our Land of the Gods.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ngi long ki khun ka Mariang,",
+        "Ba san ha pneh u lum,",
+        "Ngi sngewthuh ia ka ktien",
+        "Jong ki sim bad ki um;",
+        "Ki khlaw kiba rben",
+        "Ki ai ia ngi ka sem,",
+        "Ki mawlynnai ba shai",
+        "Ki don ha man ka them."
+      ],
+      "english": [
+        "We are the children of Nature,",
+        "Reared in the lap of mountains,",
+        "We understand the language",
+        "Of forest birds and running streams;",
+        "The dense verdant woods",
+        "Offer us shelter and home,",
+        "The sparkling jewels of nature",
+        "Dwell in every valley."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ngin sumar ia ka ri,",
+        "Ia ki wah bad ki dieng,",
+        "Ban ri ia ka spah mariang",
+        "Ba ki kpa ki la iehnoh;",
+        "Kum ki khun u Hynniewtrep",
+        "Ngin ieng ha kawei ka nia,",
+        "Ban pynneh ia ka nam",
+        "Jong ka Ri ki Blei."
+      ],
+      "english": [
+        "We shall protect our land,",
+        "Our waterways and forests,",
+        "To safeguard nature's riches",
+        "Bequeathed by our ancestors;",
+        "As true progeny of the Seven Huts",
+        "We stand on one righteous cause,",
+        "To preserve the glorious name",
+        "Of our Land of the Gods."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "khun mariang": "children of nature",
+    "ri ki blei": "land of the gods (traditional title of Khasi homeland)",
+    "spah mariang": "natural heritage / wealth of nature",
+    "sumar": "protect / take care of / preserve",
+    "hynniewtrep": "the Seven Huts / Khasi nation"
+  },
+  "word_count": 87
+}

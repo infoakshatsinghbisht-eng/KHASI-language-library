@@ -1,0 +1,69 @@
+{
+  "id": "ri_khasi_ri_khasi",
+  "title": "Patriotic Anthem of Khasi Land (Ri Khasi, Ri Khasi)",
+  "khasi_title": "Ri Khasi, Ri Khasi, Nga Ieid Ia Pha",
+  "category": "Patriotic Anthem & National Song",
+  "composer": "Rev. Dr. John Roberts / D.S. Khongdup",
+  "year": 1895,
+  "cultural_context": "The venerated national and patriotic anthem of the Khasi people. Traditionally sung at community gatherings, Dorbar assemblies, school commencements, and national celebrations. It honors the ancient ancestors, the misty hills, the crystal mountain springs that never run dry even in winter, and the shared quest to drink deeply from the fountain of wisdom (umpohliew jingstad).",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Choir Harmonies",
+    "Piano"
+  ],
+  "themes": [
+    "Patriotism",
+    "Homeland Love",
+    "Ancestral Memory",
+    "Mountain Springs",
+    "Wisdom and Progress"
+  ],
+  "lyrics_khasi": "Ri Khasi, Ri Khasi, nga ieid ïa pha,\nKa Ri kaba ieid uba rim uba jah;\nKi tymmen mynhyndai la ngam ïohi shuh,\nJingkynmaw ïa ki kan ym duh.\n\nLum Khasi, Lum Khasi, kat phi ym ju don,\nKa lyer ba sngewtynnad ngi bam katba mon;\nKa um kaba shngiam ka tuid ha ki wah,\nKam rngad myntlang ruh ka sah.\n\nLang:—\nRi, Ri, nga ieit thoin thoin la ka ri!\nNgin kiew sha khlieh, sha phrang ngin mih,\nUmpohliew jingstad ngin ïadih!\n\nKi lum ba pyngngad, ki them ba jyrngam,\nHa tnum jong ki ngi ieng da ka nam;\nKa Hok bad ka Sot ngin kdup ha ka shadem,\nHa pyrthei baroh ka nam kan heh kmen!\n\nShaphrang ngin kiew raieh raidain,\nSha tlong ba mih ki umpohliew,\nJingstad ngin dih ha kliar sangaria,\nKo Meirilung, ki khun ki ksiew!",
+  "lyrics_english": "Ri Khasi, Ri Khasi, I love thee dearly,\nBeloved homeland of our ancient ancestors who have gone before;\nThough our eyes behold no longer the elders of old,\nThe living memory of them shall never fade away.\n\nO Khasi Mountains, Khasi Hills, none can compare with thee,\nThe sweet bracing mountain breeze we breathe as freely as we desire;\nThe crystal pure water flows sweetly down the rocky streams,\nIt never dries up, remaining cool even through winter's chill.\n\nChorus:—\nHomeland, O Homeland, with tender deepest devotion I love my native land!\nWe shall climb to the summit, forward we shall march,\nFrom the deep fountain of wisdom we all shall drink!\n\nCool highlands of peace, emerald green valleys below,\nUpon thy sacred soil we stand with honored renown;\nRighteousness and Truth we embrace within our breasts,\nAcross the entire world our fame shall echo in joy!\n\nForward we shall advance, shoulder to shoulder,\nUnto the sacred source where eternal fountains spring,\nWisdom we shall drink upon the highest summits,\nO Mother Land, for all thy children and descendants!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Ri Ki Tymmen (Homeland of the Elders)",
+      "khasi": "Ri Khasi, Ri Khasi, nga ieid ïa pha,\nKa Ri kaba ieid uba rim uba jah;\nKi tymmen mynhyndai la ngam ïohi shuh,\nJingkynmaw ïa ki kan ym duh.",
+      "english": "Ri Khasi, Ri Khasi, I love thee! Beloved land of our ancient elders; though we see them no more, their sacred memory shall never die."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ki Lum bad ki Wah (Hills and Streams)",
+      "khasi": "Lum Khasi, Lum Khasi, kat phi ym ju don,\nKa lyer ba sngewtynnad ngi bam katba mon;\nKa um kaba shngiam ka tuid ha ki wah,\nKam rngad myntlang ruh ka sah.",
+      "english": "Khasi hills, nothing on earth compares with you! We breathe your sweet air freely; sweet mountain water flows in streams, never running dry even in winter."
+    },
+    {
+      "stanza_number": 3,
+      "title": "Ka Sur Lang (Chorus of Unity)",
+      "khasi": "Ri, Ri, nga ieit thoin thoin la ka ri!\nNgin kiew sha khlieh, sha phrang ngin mih,\nUmpohliew jingstad ngin ïadih!",
+      "english": "Homeland, Homeland, with pure tender love I cherish thee! We shall climb to the heights, march forward, and drink from the fountain of wisdom!"
+    },
+    {
+      "stanza_number": 4,
+      "title": "Ka Hok bad ka Nam (Righteousness and Renown)",
+      "khasi": "Ki lum ba pyngngad, ki them ba jyrngam,\nHa tnum jong ki ngi ieng da ka nam;\nKa Hok bad ka Sot ngin kdup ha ka shadem,\nHa pyrthei baroh ka nam kan heh kmen!",
+      "english": "Cool mountains, verdant valleys, on your ridges we stand in honor; holding Righteousness and Truth close to our hearts, our renown shines through all the earth!"
+    },
+    {
+      "stanza_number": 5,
+      "title": "Meirilung (Descendants of the Motherland)",
+      "khasi": "Shaphrang ngin kiew raieh raidain,\nSha tlong ba mih ki umpohliew,\nJingstad ngin dih ha kliar sangaria,\nKo Meirilung, ki khun ki ksiew!",
+      "english": "Forward we march arm in arm, to the sacred spring whence waters flow, drinking wisdom on high crags, O Mother Earth, for every child and grandchild!"
+    }
+  ],
+  "vocabulary": {
+    "umpohliew": "Living natural spring flowing perpetually from highland rock aquifers",
+    "jingkynmaw": "Ancestral remembrance, cherished collective memory",
+    "shngiam": "Sweet, refreshing, delicious to the palate (especially of mountain water)",
+    "rngad": "To dry up, run dry, evaporate into drought",
+    "thoin-thoin": "With profound, tender, passionate devotion",
+    "raieh-raidain": "Side-by-side, linked arm-in-arm in united communal harmony",
+    "kliar": "The very pinnacle, crest, or summit of a highland peak",
+    "sangaria": "High rocky precipice overlooking deep forested canyons",
+    "meirilung": "Mother Land; the sacred maternal soil that nourishes the matrilineal clans"
+  },
+  "word_count": 141
+}

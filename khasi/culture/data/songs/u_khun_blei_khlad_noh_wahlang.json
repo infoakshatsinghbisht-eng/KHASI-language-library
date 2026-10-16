@@ -1,0 +1,77 @@
+{
+  "id": "u_khun_blei_khlad_noh_wahlang",
+  "title": "Lament for the Departed Soul (U Khun Blei Khlad Noh)",
+  "khasi_title": "U Khun Blei Khlad Noh",
+  "category": "Elegiac Funeral Chant",
+  "composer": "D. N. S. Wahlang",
+  "year": 1964,
+  "cultural_context": "Sacred funeral lament accompanying the soul back across the bridge toward the council of the ancestors and God, from 'Ki Khasi Poems'.",
+  "instruments": [
+    "Sharati",
+    "Ksing Kynthei"
+  ],
+  "themes": [
+    "Departed Soul",
+    "Ancestral Council",
+    "Spiritual Return",
+    "Funeral Lament"
+  ],
+  "lyrics_khasi": "Me la khlad noh, ko khun u Blei,\nNa kane ka pyrthei ba marwei;\nMe la leit sha dwar ka jingshai,\nSha khet ba buh u Nongthaw;\nKa sharati ka rwai ka sur pangnud,\nKi ummat ki jaw ha ka dpei;\nHynrei ka dohnud ka sngewthuh\nBa me la ioh ka jingsuk ba neh.\n\nSha khet ki kpa tymmen me kiew,\nBan shong lang ha khet u Blei;\nKi mawbynna kin ieng ha ka ri,\nBan pynsah ia la ka nam;\nKhublei, ko mynsiem ba kyntang,\nThiah suk ha pneh u Blei;\nHaduh ba ngin da ia shem biang\nHa ka shnong ba phyrnai junom.",
+  "lyrics_english": "You have departed, O child of God,\nFrom this lonely mortal world;\nYou have journeyed to the gate of light,\nUnto the throne established by the Creator;\nThe Sharati flute mourns in heartbreaking tones,\nTears fall beside the silent hearth;\nYet our inner heart understands\nThat you have attained everlasting peace.\n\nUnto the council of the ancestors you ascend,\nTo dwell alongside God Almighty;\nMemorial monoliths shall stand in the land,\nPreserving forever your honorable name;\nFarewell, O sacred departing spirit,\nRest peacefully in the bosom of God;\nUntil we meet once again\nIn that radiant city beyond all time.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Me la khlad noh, ko khun u Blei,",
+        "Na kane ka pyrthei ba marwei;",
+        "Me la leit sha dwar ka jingshai,",
+        "Sha khet ba buh u Nongthaw;",
+        "Ka sharati ka rwai ka sur pangnud,",
+        "Ki ummat ki jaw ha ka dpei;",
+        "Hynrei ka dohnud ka sngewthuh",
+        "Ba me la ioh ka jingsuk ba neh."
+      ],
+      "english": [
+        "You have departed, O child of God,",
+        "From this lonely mortal world;",
+        "You have journeyed to the gate of light,",
+        "Unto the throne established by the Creator;",
+        "The Sharati flute mourns in heartbreaking tones,",
+        "Tears fall beside the silent hearth;",
+        "Yet our inner heart understands",
+        "That you have attained everlasting peace."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Sha khet ki kpa tymmen me kiew,",
+        "Ban shong lang ha khet u Blei;",
+        "Ki mawbynna kin ieng ha ka ri,",
+        "Ban pynsah ia la ka nam;",
+        "Khublei, ko mynsiem ba kyntang,",
+        "Thiah suk ha pneh u Blei;",
+        "Haduh ba ngin da ia shem biang",
+        "Ha ka shnong ba phyrnai junom."
+      ],
+      "english": [
+        "Unto the council of the ancestors you ascend,",
+        "To dwell alongside God Almighty;",
+        "Memorial monoliths shall stand in the land,",
+        "Preserving forever your honorable name;",
+        "Farewell, O sacred departing spirit,",
+        "Rest peacefully in the bosom of God;",
+        "Until we meet once again",
+        "In that radiant city beyond all time."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "khlad noh": "depart / pass away to the ancestors",
+    "dwar": "gateway / portal",
+    "nongthaw": "the Creator",
+    "mawbynna": "commemorative memorial monolith",
+    "khublei": "blessing / farewell / greetings"
+  },
+  "word_count": 105
+}

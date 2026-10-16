@@ -1,0 +1,62 @@
+{
+  "id": "rwai_ai_nguh_blei_binod_roy",
+  "title": "Ki Jingrwai Ai-nguh Blei (Hymn of Thanksgiving to the Supreme Creator)",
+  "khasi_title": "Ki Jingrwai Ai-nguh Blei",
+  "category": "sacred_and_hymnal",
+  "composer": "Binod Behari Roy",
+  "year": 1976,
+  "origin": "Seng Khasi & Classical Sacred Hymnody",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing",
+    "Ka Tangmuri",
+    "Ka Nakra"
+  ],
+  "themes": [
+    "Thanksgiving",
+    "U Blei Nongthaw",
+    "Cosmic Order",
+    "Moral Purity"
+  ],
+  "cultural_context": "Solemn hymn chanted during traditional assemblies to offer gratitude for life, the four elements, and clan continuity.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ngi ai nguh ia Me ko Blei Nongbuh Nongthaw,",
+        "Ba Me la pynlong ia ka pyrthei ba phyrnai,",
+        "Me kyrkhu ia ki lum, ki wah, bad ki them,",
+        "Me pynap ia ka burom ha kti ki khun bynriew."
+      ],
+      "english": [
+        "We offer thanks unto Thee, O God Creator and Arranger,",
+        "Who hast brought forth this radiant and living world,",
+        "Thou hast blessed the high hills, the streams, and the valleys,",
+        "Thou hast entrusted noble honor into the hands of mortal children."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Ai ba ngin kamai ia ka hok ha la ka sngi,",
+        "Ban tip ia u briew bad ban tip ia U Blei,",
+        "Pynneh ia ka jingshai ha man ki thwei ka mynsiem,",
+        "Haduh ban da thiah suk ha la ka dpei barim."
+      ],
+      "english": [
+        "Grant that we may earn righteousness through all our days,",
+        "To honor our fellow human beings and acknowledge God,",
+        "Preserve the divine light in the deepest depths of the soul,",
+        "Until we rest in peaceful slumber beside the ancestral hearth."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ai-nguh": "to give thanksgiving / praise offering",
+    "tip-briew-tip-blei": "cardinal theology: know fellow human beings and know God"
+  },
+  "file": "rwai_ai_nguh_blei_binod_roy.json",
+  "lyrics_khasi": "Ngi ai nguh ia Me ko Blei Nongbuh Nongthaw,\nBa Me la pynlong ia ka pyrthei ba phyrnai,\nMe kyrkhu ia ki lum, ki wah, bad ki them,\nMe pynap ia ka burom ha kti ki khun bynriew.\nAi ba ngin kamai ia ka hok ha la ka sngi,\nBan tip ia u briew bad ban tip ia U Blei,\nPynneh ia ka jingshai ha man ki thwei ka mynsiem,\nHaduh ban da thiah suk ha la ka dpei barim.",
+  "lyrics_english": "We offer thanks unto Thee, O God Creator and Arranger,\nWho hast brought forth this radiant and living world,\nThou hast blessed the high hills, the streams, and the valleys,\nThou hast entrusted noble honor into the hands of mortal children.\nGrant that we may earn righteousness through all our days,\nTo honor our fellow human beings and acknowledge God,\nPreserve the divine light in the deepest depths of the soul,\nUntil we rest in peaceful slumber beside the ancestral hearth.",
+  "word_count": 80
+}

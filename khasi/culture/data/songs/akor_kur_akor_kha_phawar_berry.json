@@ -1,0 +1,78 @@
+{
+  "id": "akor_kur_akor_kha_phawar_berry",
+  "title": "Phawar of Kinship Honor: Tip-Kur Tip-Kha",
+  "khasi_title": "Akor Kur Akor Kha",
+  "category": "Clan Kinship & Matrilineal Law Phawar",
+  "composer": "Radhon Singh Berry",
+  "year": 1902,
+  "cultural_context": "The central pillars of Khasi social law: honoring the maternal clan (*Kur*) and revering the father's relatives (*Kha*), set to rhyming phawar by Radhon Singh Berry.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Duitara"
+  ],
+  "themes": [
+    "Tip-Kur Tip-Kha",
+    "Matrilineal Clan",
+    "Paternal Honor",
+    "Sacred Kinship"
+  ],
+  "lyrics_khasi": "Tip-kur tip-kha dei ka tynrai,\nBa pynieng ia ka jaidbynriew baroh;\nKi kur ki dei ka snam ka doh,\nKi kha ki dei ka burom ba ai bor;\nBurom ia u kñi uba hikai,\nKhein kor ia ka bakha ba ieit;\nUba klet ia la ka kur bad ka kha\nU long kum u dieng ba khlem thied.\n\nWat pynkhein ia ka niam ka rukom,\nWat ialeh sang hakhmat U Blei;\nKa hok jong u Hynniewtrep ka neh,\nHaba ngi tip ia la ka jait;\nTo ngin bat skhem ia kane ka akor,\nHa man ki tnum jong ka ri Khasi;\nBa ka burom jong ngi kan sah\nNaduh mynta haduh bymjukut.",
+  "lyrics_english": "Knowing maternal clan and paternal kin is the foundation,\nThat sustains and upholds our entire nation;\nThe maternal kur are our own flesh and blood,\nThe paternal kha are the honor that imparts strength;\nVenerate the maternal uncle who instructs with wisdom,\nCherish with sacred regard the father's kindred;\nHe who turns his back on maternal and paternal kin\nIs like a tree stripped of its living roots.\n\nNever violate our sacred ancestral customs,\nCommit no clan taboo before Almighty God;\nThe righteousness of the Seven Huts endures,\nWhen we know our lineage and clan bounds;\nLet us hold fast to this noble heritage,\nBeneath every thatched roof of the Khasi realm;\nSo that our ancestral honor may remain\nFrom this day onward throughout all eternity.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Tip-kur tip-kha dei ka tynrai,",
+        "Ba pynieng ia ka jaidbynriew baroh;",
+        "Ki kur ki dei ka snam ka doh,",
+        "Ki kha ki dei ka burom ba ai bor;",
+        "Burom ia u kñi uba hikai,",
+        "Khein kor ia ka bakha ba ieit;",
+        "Uba klet ia la ka kur bad ka kha",
+        "U long kum u dieng ba khlem thied."
+      ],
+      "english": [
+        "Knowing maternal clan and paternal kin is the foundation,",
+        "That sustains and upholds our entire nation;",
+        "The maternal kur are our own flesh and blood,",
+        "The paternal kha are the honor that imparts strength;",
+        "Venerate the maternal uncle who instructs with wisdom,",
+        "Cherish with sacred regard the father's kindred;",
+        "He who turns his back on maternal and paternal kin",
+        "Is like a tree stripped of its living roots."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat pynkhein ia ka niam ka rukom,",
+        "Wat ialeh sang hakhmat U Blei;",
+        "Ka hok jong u Hynniewtrep ka neh,",
+        "Haba ngi tip ia la ka jait;",
+        "To ngin bat skhem ia kane ka akor,",
+        "Ha man ki tnum jong ka ri Khasi;",
+        "Ba ka burom jong ngi kan sah",
+        "Naduh mynta haduh bymjukut."
+      ],
+      "english": [
+        "Never violate our sacred ancestral customs,",
+        "Commit no clan taboo before Almighty God;",
+        "The righteousness of the Seven Huts endures,",
+        "When we know our lineage and clan bounds;",
+        "Let us hold fast to this noble heritage,",
+        "Beneath every thatched roof of the Khasi realm;",
+        "So that our ancestral honor may remain",
+        "From this day onward throughout all eternity."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "kur": "maternal clan members sharing common ancestress",
+    "kha": "paternal kin (father's clan)",
+    "sang": "sacred taboo / clan incest violation",
+    "kñi": "maternal uncle / clan elder",
+    "bymjukut": "eternity / world without end"
+  },
+  "word_count": 112
+}

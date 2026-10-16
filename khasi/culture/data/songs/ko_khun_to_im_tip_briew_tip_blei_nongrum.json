@@ -1,0 +1,77 @@
+{
+  "id": "ko_khun_to_im_tip_briew_tip_blei_nongrum",
+  "title": "Live Honoring God and Humankind (Ko Khun To Im Tip-Briew Tip-Blei)",
+  "khasi_title": "Ko Khun To Im Tip-Briew Tip-Blei",
+  "category": "Paternal Moral Benediction",
+  "composer": "Kitbor W. Nongrum",
+  "year": 1992,
+  "cultural_context": "The cardinal ethical imperative of Khasi philosophy: 'Tip-Briew Tip-Blei' (to know humankind is to know God), rendered into a father's poetic blessing, from 'Ki Sur Ba Dang Sawa'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Tip-Briew Tip-Blei",
+    "Moral Uprightness",
+    "Kamai Ia Ka Hok",
+    "Paternal Guidance"
+  ],
+  "lyrics_khasi": "Ko khun, to im tip-briew tip-Blei,\nHa man ka lynti ba me iaid;\nWat klet ia ka kamai ia ka hok,\nWat tuh, wat lute ia ka spah kiwei;\nU Blei Uba Khraw U peit na bneng,\nU iohi ia man ka jingpyrkhat;\nUba bat ia ka hok u ioh jingsuk,\nUba iaid lamwir un shem jynjar.\n\nBurom ia la ka kmie bad ia la u kpa,\nKhein kor ia ki kñi bad ki bakha;\nKa akor babha dei ka ksiar ba kor,\nBa pynphyrnai ia ka jingim baroh;\nLada me ri ia kane ka kyntien,\nMe long u khun ba donbok donkupar,\nBad ka nam jong me kan tyngshain\nHa la ka shnong bad ha la ka ri.",
+  "lyrics_english": "O my child, live honoring humankind and revering God,\nIn every pathway where your footsteps tread;\nNever forget to earn your livelihood through righteousness,\nNever steal, never seize another's property;\nAlmighty God gazes down from high heaven,\nObserving every secret thought of the heart;\nHe who clings unto righteousness shall find peace,\nHe who walks in deceit shall reap despair.\n\nHonor your mother and honor your father,\nTreat with sacred esteem your maternal uncles and paternal kin;\nGood etiquette and noble character are true gold,\nIlluminating the whole course of human life;\nIf you safeguard this ancestral counsel,\nYou shall be a blessed and fortunate soul,\nAnd your honorable name shall radiate\nThroughout your village and your native land.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ko khun, to im tip-briew tip-Blei,",
+        "Ha man ka lynti ba me iaid;",
+        "Wat klet ia ka kamai ia ka hok,",
+        "Wat tuh, wat lute ia ka spah kiwei;",
+        "U Blei Uba Khraw U peit na bneng,",
+        "U iohi ia man ka jingpyrkhat;",
+        "Uba bat ia ka hok u ioh jingsuk,",
+        "Uba iaid lamwir un shem jynjar."
+      ],
+      "english": [
+        "O my child, live honoring humankind and revering God,",
+        "In every pathway where your footsteps tread;",
+        "Never forget to earn your livelihood through righteousness,",
+        "Never steal, never seize another's property;",
+        "Almighty God gazes down from high heaven,",
+        "Observing every secret thought of the heart;",
+        "He who clings unto righteousness shall find peace,",
+        "He who walks in deceit shall reap despair."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Burom ia la ka kmie bad ia la u kpa,",
+        "Khein kor ia ki kñi bad ki bakha;",
+        "Ka akor babha dei ka ksiar ba kor,",
+        "Ba pynphyrnai ia ka jingim baroh;",
+        "Lada me ri ia kane ka kyntien,",
+        "Me long u khun ba donbok donkupar,",
+        "Bad ka nam jong me kan tyngshain",
+        "Ha la ka shnong bad ha la ka ri."
+      ],
+      "english": [
+        "Honor your mother and honor your father,",
+        "Treat with sacred esteem your maternal uncles and paternal kin;",
+        "Good etiquette and noble character are true gold,",
+        "Illuminating the whole course of human life;",
+        "If you safeguard this ancestral counsel,",
+        "You shall be a blessed and fortunate soul,",
+        "And your honorable name shall radiate",
+        "Throughout your village and your native land."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "tip-briew tip-blei": "knowing/respecting humankind and knowing/revering God",
+    "kamai ia ka hok": "earning righteousness / lawful livelihood (primary Khasi life goal)",
+    "kñi": "maternal uncle / clan elder and counselor",
+    "bakha": "paternal cousins / kin on father's side",
+    "donbok donkupar": "blessed with fortune, grace, and divine favor"
+  },
+  "word_count": 119
+}

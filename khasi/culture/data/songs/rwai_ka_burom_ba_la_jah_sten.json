@@ -1,0 +1,46 @@
+{
+  "id": "rwai_ka_burom_ba_la_jah_sten",
+  "title": "Ka Burom Ba La Jah (Elegy for the Lost Glory)",
+  "khasi_title": "Ka Burom Ba La Jah",
+  "category": "elegy_and_epic",
+  "composer": "Dr. H. W. Sten",
+  "year": 1980,
+  "origin": "Central Khasi Highlands",
+  "instruments": [
+    "Ka Maryngod",
+    "Ka Duitara",
+    "Ka Ksing"
+  ],
+  "themes": [
+    "Epic Memory",
+    "Ancient Kingdoms",
+    "Courage",
+    "Patriotism"
+  ],
+  "cultural_context": "Epic dramatic lament on the passing of the golden age of autonomous Khasi chieftains and the call to cultural restoration.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Hangno ka jah ka burom u barim?",
+        "Ki khlawait kiba shlur ha madan ka thma,",
+        "Kyrsiew biang ia ka jingieit ri ha ki dohnud,",
+        "Ban tyngshain ka nam jong ka ri Khasi."
+      ],
+      "english": [
+        "Where has departed the glory of ancient days?",
+        "The warriors who stood fearless on the battlefield,",
+        "Reawaken love of country in the hearts of youth,",
+        "That the renown of the Khasi motherland may shine anew."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "burom-barim": "ancient ancestral renown and sovereign glory",
+    "dohnud": "inmost heart / seat of conscience"
+  },
+  "file": "rwai_ka_burom_ba_la_jah_sten.json",
+  "lyrics_khasi": "Hangno ka jah ka burom u barim?\nKi khlawait kiba shlur ha madan ka thma,\nKyrsiew biang ia ka jingieit ri ha ki dohnud,\nBan tyngshain ka nam jong ka ri Khasi.",
+  "lyrics_english": "Where has departed the glory of ancient days?\nThe warriors who stood fearless on the battlefield,\nReawaken love of country in the hearts of youth,\nThat the renown of the Khasi motherland may shine anew.",
+  "word_count": 32
+}

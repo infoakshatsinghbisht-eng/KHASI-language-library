@@ -1,0 +1,78 @@
+{
+  "id": "ha_pneh_ka_mei_mariang_bareh",
+  "title": "In the Lap of Mother Nature (Ha Pneh Ka Mei Mariang)",
+  "khasi_title": "Ha Pneh Ka Mei Mariang",
+  "category": "Pastoral Nature Hymn",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "Hymn celebrating communion with Mother Nature in the Khasi hills, published in 'Ki Jingrwai Khasi'.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Mother Nature",
+    "Spiritual Solitude",
+    "Highland Healing",
+    "Green Valleys"
+  ],
+  "lyrics_khasi": "Ha pneh jong ka Mei Mariang\nNga sngew kmen ban shong,\nHapdeng ki soh ki syntiew\nBa phuh ha ka shnong;\nKi sim ki rwai ka sur\nBa pyntngen ia ka dohnud,\nKi um kiba tuid kynjai\nKi pynklet ia ka jynjar.\n\nHangne khlem jingkhihwin,\nKhlem jingrhah pyrthei,\nKa mynsiem ka kiew sha bneng\nBan burom ia U Blei;\nMei Mariang ba bha,\nRi ia nga ha pneh,\nHaduh ba ngan da poi\nSha khet ba la thmuh.",
+  "lyrics_english": "In the lap of Mother Nature\nI rejoice to abide,\nAmidst wild fruits and blossoms\nBlooming across the hills;\nThe birds sing a sweet melody\nThat brings solace to my heart,\nThe crystal streams flowing peacefully\nWashing away all sorrow.\n\nHere free from worldly tumult,\nFar from greedy ambition,\nThe spirit ascends to heaven\nVenerating the Almighty God;\nKind Mother Nature,\nShelter me in your embrace,\nUntil my destined footsteps arrive\nAt the eternal throne.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha pneh jong ka Mei Mariang",
+        "Nga sngew kmen ban shong,",
+        "Hapdeng ki soh ki syntiew",
+        "Ba phuh ha ka shnong;",
+        "Ki sim ki rwai ka sur",
+        "Ba pyntngen ia ka dohnud,",
+        "Ki um kiba tuid kynjai",
+        "Ki pynklet ia ka jynjar."
+      ],
+      "english": [
+        "In the lap of Mother Nature",
+        "I rejoice to abide,",
+        "Amidst wild fruits and blossoms",
+        "Blooming across the hills;",
+        "The birds sing a sweet melody",
+        "That brings solace to my heart,",
+        "The crystal streams flowing peacefully",
+        "Washing away all sorrow."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Hangne khlem jingkhihwin,",
+        "Khlem jingrhah pyrthei,",
+        "Ka mynsiem ka kiew sha bneng",
+        "Ban burom ia U Blei;",
+        "Mei Mariang ba bha,",
+        "Ri ia nga ha pneh,",
+        "Haduh ba ngan da poi",
+        "Sha khet ba la thmuh."
+      ],
+      "english": [
+        "Here free from worldly tumult,",
+        "Far from greedy ambition,",
+        "The spirit ascends to heaven",
+        "Venerating the Almighty God;",
+        "Kind Mother Nature,",
+        "Shelter me in your embrace,",
+        "Until my destined footsteps arrive",
+        "At the eternal throne."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "mei mariang": "Mother Nature",
+    "jingkhihwin": "noise / clamor / tumult",
+    "jynjar": "distress / suffering",
+    "kynjai": "peaceful / tranquil / undisturbed",
+    "khet": "throne / destination"
+  },
+  "word_count": 78
+}

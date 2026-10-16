@@ -1,0 +1,78 @@
+{
+  "id": "ka_ballad_ka_sohlyngngem_majaw",
+  "title": "The Ballad of Sohlyngngem (Ka Ballad Ka Sohlyngngem)",
+  "khasi_title": "Ka Ballad Ka Sohlyngngem",
+  "category": "Highland Avian Folk Ballad",
+  "composer": "S. S. Majaw",
+  "year": 1992,
+  "cultural_context": "The poetic ballad cycle of the green imperial pigeon (Sohlyngngem) mourning her separation from her beloved amidst the deep mountain gorges, from 'Ka Sohlyngngem U Oscar M. Wahlang'.",
+  "instruments": [
+    "Sharati",
+    "Duitara",
+    "Maryngod"
+  ],
+  "themes": [
+    "Ka Sohlyngngem",
+    "Avian Folklore",
+    "Mountain Mourning",
+    "Eternal Devotion"
+  ],
+  "lyrics_khasi": "Ha tnat dieng-kseh ba jrong,\nKa Sohlyngngem ka rwai la ka sur;\nSur pangnud ba shoh dohnud,\nBa pynmih ia ki ummat kiba jaw;\nKa wad ia la u jied ba la jah,\nHa ki them bad ki riat ba dum;\n'Khu-ru, khu-ru', ka sawa jai-jai,\nHa man ka janmiet ba kynjah.\n\nWat la ki por ki la leit noh,\nKa jingieit jong ka kam ju tlot;\nKa shong marwei ha kliar u lum,\nBan ap ia ka jingshai ba thymmai;\nKum ka Sohlyngngem ba iaineh,\nTo kan long ka dohnud jong ngi;\nBan ieit ia ka ri bad la ki kur\nHa ka hok ba pura junom.",
+  "lyrics_english": "High upon the bough of the pine tree,\nThe Sohlyngngem pigeon sings her plaintive melody;\nA song of sorrow that pierces the soul,\nBringing forth tears that gently fall;\nShe seeks her lost beloved mate,\nAcross shadowed canyons and misty crags;\n'Khu-ru, khu-ru', gently echoes her call,\nIn every twilight's gathering stillness.\n\nThough years have drifted into the past,\nHer faithful devotion never wavers or dims;\nShe perches alone on the mountain ridge,\nAwaiting the dawn of a new sunrise;\nLike the ever-faithful Sohlyngngem,\nSo let our inner spirit be:\nLoving our motherland and our kindred\nIn pure and unfaltering truth forever.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha tnat dieng-kseh ba jrong,",
+        "Ka Sohlyngngem ka rwai la ka sur;",
+        "Sur pangnud ba shoh dohnud,",
+        "Ba pynmih ia ki ummat kiba jaw;",
+        "Ka wad ia la u jied ba la jah,",
+        "Ha ki them bad ki riat ba dum;",
+        "'Khu-ru, khu-ru', ka sawa jai-jai,",
+        "Ha man ka janmiet ba kynjah."
+      ],
+      "english": [
+        "High upon the bough of the pine tree,",
+        "The Sohlyngngem pigeon sings her plaintive melody;",
+        "A song of sorrow that pierces the soul,",
+        "Bringing forth tears that gently fall;",
+        "She seeks her lost beloved mate,",
+        "Across shadowed canyons and misty crags;",
+        "'Khu-ru, khu-ru', gently echoes her call,",
+        "In every twilight's gathering stillness."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la ki por ki la leit noh,",
+        "Ka jingieit jong ka kam ju tlot;",
+        "Ka shong marwei ha kliar u lum,",
+        "Ban ap ia ka jingshai ba thymmai;",
+        "Kum ka Sohlyngngem ba iaineh,",
+        "To kan long ka dohnud jong ngi;",
+        "Ban ieit ia ka ri bad la ki kur",
+        "Ha ka hok ba pura junom."
+      ],
+      "english": [
+        "Though years have drifted into the past,",
+        "Her faithful devotion never wavers or dims;",
+        "She perches alone on the mountain ridge,",
+        "Awaiting the dawn of a new sunrise;",
+        "Like the ever-faithful Sohlyngngem,",
+        "So let our inner spirit be:",
+        "Loving our motherland and our kindred",
+        "In pure and unfaltering truth forever."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "sohlyngngem": "green imperial pigeon (emblem of tragic love in Khasi lore)",
+    "tnat dieng-kseh": "pine branch",
+    "jied": "chosen one / beloved spouse",
+    "khu-ru": "traditional onomatopoeia for pigeon's cooing call",
+    "iaineh": "steadfast / faithful / enduring"
+  },
+  "word_count": 108
+}

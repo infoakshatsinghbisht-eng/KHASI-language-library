@@ -1,0 +1,77 @@
+{
+  "id": "akor_bam_akor_dih_phawar_berry",
+  "title": "Phawar of Hearth Dining Etiquette (Akor Bam Akor Dih)",
+  "khasi_title": "Akor Bam Akor Dih",
+  "category": "Culinary & Dining Etiquette Phawar",
+  "composer": "Radhon Singh Berry",
+  "year": 1902,
+  "cultural_context": "Rhyming rules of eating and drinking at table and hearth, forbidding gluttony, greed, and bad manners, from Radhon Singh Berry's 'Ka Jingsneng Tymmen'.",
+  "instruments": [
+    "Ksing",
+    "Duitara"
+  ],
+  "themes": [
+    "Dining Etiquette",
+    "Table Manners",
+    "Hearth Sharing",
+    "Moderation"
+  ],
+  "lyrics_khasi": "Haba phi bam ja phi dih um,\nWat leh lalot, wat khwan kpoh shuh;\nKhein kor ia uba shong lang ha dpei,\nBuh akor ia ka ja bad ka doh;\nKa rukom bam ka pynpaw bha,\nLada phi san ha ka akor;\nUba bam da ka burom briew\nU pynkmen ia la ka kmie bad u kpa.\n\nWat bam dait-kdait, wat pashat ja,\nWat kren da ka ktien ba khlem akor;\nU Blei Uba Khraw U theh ia ka ja,\nKum ka jingkyrkhu kaba kordor;\nTo bam da ka jingai-nguh ba shai,\nHa ryngkat ka dohnud ba kmen;\nBa ka jingim jong phi kan roi\nHa ka koit ka khiah ba neh.",
+  "lyrics_english": "Whenever you partake of rice and drink of water,\nBe not gluttonous, show no greedy appetite;\nHonor those who sit alongside you at the hearth,\nRespect the sustenance of rice and meat;\nThe manner of one's dining clearly reveals\nWhether you were reared in noble discipline;\nHe who eats with dignity and self-restraint\nBrings pride and joy unto his mother and father.\n\nEat not noisily, scatter no grains of rice,\nUtter no coarse words during the meal;\nAlmighty God has provided our daily bread,\nAs a precious blessing of His grace;\nEat with heartfelt thanksgiving,\nAccompanied by a joyful and peaceful spirit;\nSo that your life may flourish and thrive\nIn lasting health, vitality, and strength.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Haba phi bam ja phi dih um,",
+        "Wat leh lalot, wat khwan kpoh shuh;",
+        "Khein kor ia uba shong lang ha dpei,",
+        "Buh akor ia ka ja bad ka doh;",
+        "Ka rukom bam ka pynpaw bha,",
+        "Lada phi san ha ka akor;",
+        "Uba bam da ka burom briew",
+        "U pynkmen ia la ka kmie bad u kpa."
+      ],
+      "english": [
+        "Whenever you partake of rice and drink of water,",
+        "Be not gluttonous, show no greedy appetite;",
+        "Honor those who sit alongside you at the hearth,",
+        "Respect the sustenance of rice and meat;",
+        "The manner of one's dining clearly reveals",
+        "Whether you were reared in noble discipline;",
+        "He who eats with dignity and self-restraint",
+        "Brings pride and joy unto his mother and father."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat bam dait-kdait, wat pashat ja,",
+        "Wat kren da ka ktien ba khlem akor;",
+        "U Blei Uba Khraw U theh ia ka ja,",
+        "Kum ka jingkyrkhu kaba kordor;",
+        "To bam da ka jingai-nguh ba shai,",
+        "Ha ryngkat ka dohnud ba kmen;",
+        "Ba ka jingim jong phi kan roi",
+        "Ha ka koit ka khiah ba neh."
+      ],
+      "english": [
+        "Eat not noisily, scatter no grains of rice,",
+        "Utter no coarse words during the meal;",
+        "Almighty God has provided our daily bread,",
+        "As a precious blessing of His grace;",
+        "Eat with heartfelt thanksgiving,",
+        "Accompanied by a joyful and peaceful spirit;",
+        "So that your life may flourish and thrive",
+        "In lasting health, vitality, and strength."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "bam ja": "eat rice / have a meal",
+    "dih um": "drink water",
+    "lalot": "greedy / gluttonous",
+    "jingkyrkhu": "blessing / divine favor",
+    "koit ka khiah": "health and physical well-being"
+  },
+  "word_count": 112
+}

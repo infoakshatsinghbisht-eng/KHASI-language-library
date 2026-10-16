@@ -1,0 +1,77 @@
+{
+  "id": "ki_sonnet_ka_mariang_majaw",
+  "title": "Highland Sonnet of Nature (Ki Sonnet Ka Mariang)",
+  "khasi_title": "Ki Sonnet Ka Mariang",
+  "category": "Highland Classical Sonnet",
+  "composer": "S. S. Majaw",
+  "year": 1993,
+  "cultural_context": "Classical 14-line sonnet composed in iambic rhythm celebrating the geological majesty of the Khasi plateau, from 'Ka Tragoidia Bad Ki Poim'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Highland Sonnet",
+    "Sacred Geology",
+    "Autumn Sky",
+    "Highland Silence"
+  ],
+  "lyrics_khasi": "Haba nga ieng ha kliar Lum Kyllang,\nNga peit sawdong ia ka dur ka mariang;\nKi lyoh lieh ki her kum ki sniuh rupa,\nHa suin bneng ba jngum bad ba shai;\nKi wah kiba tuid kum ki ksai ksiar,\nKi pynim ia ki madan bad ki them;\nHangne ka dohnud ka sngewthuh kynjai\nIa ka burom ba la theh U Blei.\n\nKhlem ka bor briew, khlem ka jingthaw kti,\nU Mawsiang Kyllang u ieng junom;\nU iaineh ha pyrthei ba kylliang,\nKum ka dak jong ka hok ba skhem;\nTo ngin bat ia kane ka nongrim,\nBan im da ka akor ba kyntang,\nBa ka ri Khasi kan sah ba phyrnai\nKum u mawlynnai ha suin bneng.",
+  "lyrics_english": "When I stand upon the granite dome of Mount Kyllang,\nI gaze in wonder at nature's vast expanse;\nWhite clouds drift like silken strands of silver,\nAcross the azure, crystal-clear skies;\nRivers flowing like threads of living gold,\nBreathing vitality into plains and vales;\nHere the contemplative spirit understands\nThe divine majesty poured down by God.\n\nUnaided by human power, unshaped by mortal hands,\nThe monolithic dome of Kyllang stands eternal;\nEnduring through all shifting epochs of the world,\nAs an enduring emblem of immutable righteousness;\nSo let us cling to this holy foundation,\nLiving in sacred, modest conduct,\nThat the Khasi land may shine radiant\nLike an unblemished jewel in the skies.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Haba nga ieng ha kliar Lum Kyllang,",
+        "Nga peit sawdong ia ka dur ka mariang;",
+        "Ki lyoh lieh ki her kum ki sniuh rupa,",
+        "Ha suin bneng ba jngum bad ba shai;",
+        "Ki wah kiba tuid kum ki ksai ksiar,",
+        "Ki pynim ia ki madan bad ki them;",
+        "Hangne ka dohnud ka sngewthuh kynjai",
+        "Ia ka burom ba la theh U Blei."
+      ],
+      "english": [
+        "When I stand upon the granite dome of Mount Kyllang,",
+        "I gaze in wonder at nature's vast expanse;",
+        "White clouds drift like silken strands of silver,",
+        "Across the azure, crystal-clear skies;",
+        "Rivers flowing like threads of living gold,",
+        "Breathing vitality into plains and vales;",
+        "Here the contemplative spirit understands",
+        "The divine majesty poured down by God."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Khlem ka bor briew, khlem ka jingthaw kti,",
+        "U Mawsiang Kyllang u ieng junom;",
+        "U iaineh ha pyrthei ba kylliang,",
+        "Kum ka dak jong ka hok ba skhem;",
+        "To ngin bat ia kane ka nongrim,",
+        "Ban im da ka akor ba kyntang,",
+        "Ba ka ri Khasi kan sah ba phyrnai",
+        "Kum u mawlynnai ha suin bneng."
+      ],
+      "english": [
+        "Unaided by human power, unshaped by mortal hands,",
+        "The monolithic dome of Kyllang stands eternal;",
+        "Enduring through all shifting epochs of the world,",
+        "As an enduring emblem of immutable righteousness;",
+        "So let us cling to this holy foundation,",
+        "Living in sacred, modest conduct,",
+        "That the Khasi land may shine radiant",
+        "Like an unblemished jewel in the skies."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "lum kyllang": "Kyllang Rock (massive monolithic granite dome in West Khasi Hills)",
+    "jngum": "deep sky blue / azure",
+    "ksai ksiar": "threads of gold",
+    "mawlynnai": "radiant gemstone / jewel",
+    "mariang": "nature / cosmos"
+  },
+  "word_count": 118
+}

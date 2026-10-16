@@ -1,0 +1,79 @@
+{
+  "id": "long_lang_bha_lang_majaw",
+  "title": "Prosper Together, Live in Unity (Long-lang Bha-lang)",
+  "khasi_title": "Long-lang Bha-lang",
+  "category": "Communal Unity Phawar",
+  "composer": "S. S. Majaw",
+  "year": 1997,
+  "cultural_context": "Communal anthem and solidarity phawar reinforcing the Khasi maxim of collective welfare (Ka Bhalang), from 'Ka Phawar Beh Sbai'.",
+  "instruments": [
+    "Ksing",
+    "Sharati",
+    "Duitara",
+    "Tangmuri"
+  ],
+  "themes": [
+    "Communal Harmony",
+    "Collective Welfare",
+    "Village Solidarity",
+    "The Seven Huts"
+  ],
+  "lyrics_khasi": "Lada ngi long-lang ngin man-lang,\nKawei ka dohnud kawei ka sur,\nHapdeng ki thwai, hapdeng ki lum,\nNgin ieng kum u mawsiang;\nKa jingbha jong uwei\nDei ka burom uba bun,\nKumno la bthah ki kpa,\nNgin bat da ka hok.\n\nPhet noh ko jingiashun,\nPhet noh ko jingiatai,\nTo wan ko jingieit\nBan pyniatylli ia ngi;\nKi khun u Hynniewtrep\nBaroh ki long shibait,\nBan iatylli ka Ri\nNaduh Kupli haduh Titos.",
+  "lyrics_english": "If we unite together, we shall thrive together,\nOne common heart, one harmonious voice,\nAmid deep river pools, amid towering crags,\nWe shall stand firm like solid granite;\nThe welfare of one member\nIs the honor of the entire community,\nAs instructed by our forefathers,\nWe shall uphold with integrity.\n\nDepart, O bitter discord,\nFlee away, O factional strife,\nCome forth, O brotherly love,\nTo bind us into one whole;\nChildren of the Seven Huts\nAre one united family forever,\nUniting all our realm\nFrom the Kopili river unto Titos.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Lada ngi long-lang ngin man-lang,",
+        "Kawei ka dohnud kawei ka sur,",
+        "Hapdeng ki thwai, hapdeng ki lum,",
+        "Ngin ieng kum u mawsiang;",
+        "Ka jingbha jong uwei",
+        "Dei ka burom uba bun,",
+        "Kumno la bthah ki kpa,",
+        "Ngin bat da ka hok."
+      ],
+      "english": [
+        "If we unite together, we shall thrive together,",
+        "One common heart, one harmonious voice,",
+        "Amid deep river pools, amid towering crags,",
+        "We shall stand firm like solid granite;",
+        "The welfare of one member",
+        "Is the honor of the entire community,",
+        "As instructed by our forefathers,",
+        "We shall uphold with integrity."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Phet noh ko jingiashun,",
+        "Phet noh ko jingiatai,",
+        "To wan ko jingieit",
+        "Ban pyniatylli ia ngi;",
+        "Ki khun u Hynniewtrep",
+        "Baroh ki long shibait,",
+        "Ban iatylli ka Ri",
+        "Naduh Kupli haduh Titos."
+      ],
+      "english": [
+        "Depart, O bitter discord,",
+        "Flee away, O factional strife,",
+        "Come forth, O brotherly love,",
+        "To bind us into one whole;",
+        "Children of the Seven Huts",
+        "Are one united family forever,",
+        "Uniting all our realm",
+        "From the Kopili river unto Titos."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "long-lang bha-lang": "communal coexistence and shared prosperity",
+    "iatylli": "unite / stand in solidarity",
+    "jingbha": "welfare / well-being / goodness",
+    "jaidbynriew": "race / people / nation",
+    "kupli": "Kopili river (historic eastern boundary of Khasi realm)"
+  },
+  "word_count": 73
+}

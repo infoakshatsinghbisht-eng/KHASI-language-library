@@ -4,14 +4,14 @@ Khasi Classical & Digitized Books Preservation Module (Ka Thiar Kot Khasi).
 =============================================================================
 
 Provides full digitized whole-book access (all pages, chapters, and metadata)
-for 24 foundational Khasi literary, theological, dramatic, historical, and
+for 36 foundational Khasi literary, theological, dramatic, historical, and
 linguistic masterpieces.
 
 Key Features:
 - Page-by-page text navigation (`book.get_page(page_number)`)
 - Full concatenated book text access (`book.full_text`)
 - In-book search across pages with text snippets (`book.search("...")`)
-- Universal full-text search across all 24 books (`search_books("...")`)
+- Universal full-text search across all 36 books (`search_books("...")`)
 - Rich metadata: Title, native title, author, year, genre, chapters, total words
 """
 

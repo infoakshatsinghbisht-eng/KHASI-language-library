@@ -1,0 +1,77 @@
+{
+  "id": "namar_jong_phi_majaw",
+  "title": "For Your Sake, My People (Namar Jong Phi)",
+  "khasi_title": "Namar Jong Phi",
+  "category": "Highland Devotion Ballad",
+  "composer": "S. S. Majaw",
+  "year": 1997,
+  "cultural_context": "Poignant lyric expressing lifelong dedication to preserving Khasi culture, folklore, and speech, from 'Ka Phawar Beh Sbai'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Cultural Dedication",
+    "Service to Community",
+    "Language Loyalty",
+    "Bardic Vow"
+  ],
+  "lyrics_khasi": "Namar jong phi, ko kur ko kha,\nNga kynud ia kane ka sur,\nNga wad ia ki kyntien\nBa la pynsah ki kpa tymmen;\nWat la ngam don spah ksiar,\nNga don ka dohnud ba ieit\nIa ka ktien u Hynniewtrep\nBa sotti bad ba khuid.\n\nLada nga thait ha ka lynti,\nPhi pynshlur ia nga ban ieng;\nKa kmen jong phi dei ka burom\nJong nga u nongrwai;\nNgin iaid lang sha khmat,\nBan pynriewspah ia ka ri,\nHaduh ba ka kti kan thait\nBad ka ktien kan ngap.",
+  "lyrics_english": "For your sake, O my clans and kindred,\nI chant this heartfelt melody,\nSearching out the sacred words\nPreserved by our ancient elders;\nThough I possess no hoard of gold,\nI have a heart overflowing with love\nFor the mother tongue of the Seven Huts,\nPristine, noble, and pure.\n\nWhenever I grow weary on the road,\nYour encouragement bids me rise;\nYour joy is the crowning honour\nOf me, your humble minstrel;\nTogether we shall march forward,\nTo enrich our motherland,\nUntil this hand can write no more\nAnd my voice falls silent in rest.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Namar jong phi, ko kur ko kha,",
+        "Nga kynud ia kane ka sur,",
+        "Nga wad ia ki kyntien",
+        "Ba la pynsah ki kpa tymmen;",
+        "Wat la ngam don spah ksiar,",
+        "Nga don ka dohnud ba ieit",
+        "Ia ka ktien u Hynniewtrep",
+        "Ba sotti bad ba khuid."
+      ],
+      "english": [
+        "For your sake, O my clans and kindred,",
+        "I chant this heartfelt melody,",
+        "Searching out the sacred words",
+        "Preserved by our ancient elders;",
+        "Though I possess no hoard of gold,",
+        "I have a heart overflowing with love",
+        "For the mother tongue of the Seven Huts,",
+        "Pristine, noble, and pure."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Lada nga thait ha ka lynti,",
+        "Phi pynshlur ia nga ban ieng;",
+        "Ka kmen jong phi dei ka burom",
+        "Jong nga u nongrwai;",
+        "Ngin iaid lang sha khmat,",
+        "Ban pynriewspah ia ka ri,",
+        "Haduh ba ka kti kan thait",
+        "Bad ka ktien kan ngap."
+      ],
+      "english": [
+        "Whenever I grow weary on the road,",
+        "Your encouragement bids me rise;",
+        "Your joy is the crowning honour",
+        "Of me, your humble minstrel;",
+        "Together we shall march forward,",
+        "To enrich our motherland,",
+        "Until this hand can write no more",
+        "And my voice falls silent in rest."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "namar": "because of / for the sake of",
+    "kur bad kha": "maternal and paternal kin",
+    "nongrwai": "singer / minstrel / bard",
+    "pynshlur": "encourage / embolden",
+    "pynriewspah": "enrich / prosper"
+  },
+  "word_count": 90
+}

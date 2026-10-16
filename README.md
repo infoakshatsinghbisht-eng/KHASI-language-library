@@ -15,7 +15,7 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 
 ---
 
-## 🌟 Key Capabilities (Version 1.5.0 Milestone Expansion)
+## 🌟 Key Capabilities (Version 1.6.0 Milestone Expansion)
 
 1. **🏛️ Khasi Oral Folklore, Myths & Legends (`khasi.folklore` / `khasi.culture.folklore`)**:
    - **12 foundational Khasi oral myths and legendary allegories** (over 6,950+ words of authentic Khasi prose and poetry):

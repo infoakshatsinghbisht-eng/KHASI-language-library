@@ -1,0 +1,45 @@
+{
+  "id": "ka_rwai_shad_mastieh",
+  "title": "Warrior Sword Dance Chant (Ka Rwai Shad Mastieh)",
+  "khasi_title": "Ka Rwai Shad Mastieh Ki Riewshlur",
+  "category": "Warrior Dance & Heroic Phawar",
+  "composer": "Traditional Clan Syiemship War Lore",
+  "year": "Traditional Ancient",
+  "cultural_context": "Ancient heroic chant accompanying the Shad Mastieh (Warrior Sword Dance). Male warriors and clan elders hold naked double-edged steel swords (waitlam) in their right hands and black or silver yak-tail whisks (symphiah) in their left, dancing in fierce protective circles to symbolize the historic defense of the matrilineal home, clan borders, and sacred territory against invaders.",
+  "instruments": [
+    "Ka Bom (giant war bass drum)",
+    "Tangmuri",
+    "Nakra",
+    "Waitlam (sword clash)"
+  ],
+  "themes": [
+    "Warrior Valor",
+    "Defense of Hearth and Clan",
+    "Sword Dance",
+    "Ancestral Courage"
+  ],
+  "lyrics_khasi": "Kren ka Bom, sawa ka Tangmuri!\nKi samla shlur ki la ieng kynhoi;\nKa waitlam ha ka kti kamtrei,\nKa symphiah ba thaba ha ka kti kadiang!\n\nNgin iada ia ka Ri, ngin da ia ka Kur,\nIa ka Hok ngin ym ju aili ha ka khim!\nLada u nongshun u wan ban thombor,\nKa dohnud ba shlur kan ieng ha ka nam!",
+  "lyrics_english": "The giant bass drum thunders, the reed horn cries aloud!\nThe valiant warriors arise with a battle cheer;\nThe flashing steel sword brandished in the right hand,\nThe white whisk gleaming in the left hand!\n\nWe shall defend the homeland, we shall shield the Clan,\nNever shall we yield Righteousness in times of peril!\nIf the enemy comes to oppress our sovereign soil,\nOur brave hearts shall stand victorious in honorable renown!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Waitlam bad ka Symphiah (Sword and Whisk)",
+      "khasi": "Kren ka Bom, sawa ka Tangmuri!\nKi samla shlur ki la ieng kynhoi;\nKa waitlam ha ka kti kamtrei,\nKa symphiah ba thaba ha ka kti kadiang!",
+      "english": "Bass drum thunders, horn sounds! Brave warriors rise cheering; flashing sword in right hand, gleaming whisk in the left!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jingiada ia ka Kur (Defense of the Clan)",
+      "khasi": "Ngin iada ia ka Ri, ngin da ia ka Kur,\nIa ka Hok ngin ym ju aili ha ka khim!\nLada u nongshun u wan ban thombor,\nKa dohnud ba shlur kan ieng ha ka nam!",
+      "english": "We defend our land, we shield our clan; righteousness we will never surrender! If foes encroach, our valiant hearts will stand in glory!"
+    }
+  ],
+  "vocabulary": {
+    "shad mastieh": "Traditional warrior sword dance performed with naked blades and whisks",
+    "waitlam": "Traditional heavy, broad-bladed Khasi battle sword with iron hilt",
+    "symphiah": "Protective dance whisk made of horsehair or yak-tail set in an ornamental silver handle",
+    "ka bom": "Massive hollowed-wood two-headed war bass drum struck with curved mallets",
+    "thombor": "To invade, oppress, trample upon sovereign rights by brute force"
+  },
+  "word_count": 63
+}

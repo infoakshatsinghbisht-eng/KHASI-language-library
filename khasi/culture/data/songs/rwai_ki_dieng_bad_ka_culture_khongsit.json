@@ -1,0 +1,46 @@
+{
+  "id": "rwai_ki_dieng_bad_ka_culture_khongsit",
+  "title": "Ki Dieng Bad Ka Culture Jong Ngi (Hymn of the Sacred Trees & Groves)",
+  "khasi_title": "Ki Dieng Bad Ka Culture Jong Ngi",
+  "category": "nature_and_sacred",
+  "composer": "S. Khongsit",
+  "year": 1984,
+  "origin": "Mawphlang Sacred Grove Tradition",
+  "instruments": [
+    "Ka Besli",
+    "Ka Duitara",
+    "Ka Ksing"
+  ],
+  "themes": [
+    "Sacred Trees",
+    "Law Kyntang",
+    "Ecological Custodianship",
+    "Flora"
+  ],
+  "cultural_context": "Chanted at the threshold of sacred groves (*Law Kyntang*) to remind travelers and kin of the inviolable sanctity of ancient oak, pine, and champa trees.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ki dieng bah ba ieng ha ki khlaw kyntang,",
+        "Ki sumar ia ka um bad ka khyndew ka ri,",
+        "Wat kheit ia u sla, wat dung ia ka tnat,",
+        "Kynmaw ia ka niam kaba ki kpa ki pynsah."
+      ],
+      "english": [
+        "The towering trees standing within sacred groves,",
+        "They preserve the pristine waters and soil of our land,",
+        "Pluck not a single leaf, break not a single bough,",
+        "Remember the sacred tradition bequeathed by our fathers."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "dieng-bah": "venerable ancient tree / forest patriarch",
+    "khlaw-kyntang": "sacred consecrated grove"
+  },
+  "file": "rwai_ki_dieng_bad_ka_culture_khongsit.json",
+  "lyrics_khasi": "Ki dieng bah ba ieng ha ki khlaw kyntang,\nKi sumar ia ka um bad ka khyndew ka ri,\nWat kheit ia u sla, wat dung ia ka tnat,\nKynmaw ia ka niam kaba ki kpa ki pynsah.",
+  "lyrics_english": "The towering trees standing within sacred groves,\nThey preserve the pristine waters and soil of our land,\nPluck not a single leaf, break not a single bough,\nRemember the sacred tradition bequeathed by our fathers.",
+  "word_count": 38
+}

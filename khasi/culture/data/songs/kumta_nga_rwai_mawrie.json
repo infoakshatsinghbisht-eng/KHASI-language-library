@@ -1,0 +1,77 @@
+{
+  "id": "kumta_nga_rwai_mawrie",
+  "title": "Thus I Sing of My Hills (Kumta Nga Rwai)",
+  "khasi_title": "Kumta Nga Rwai",
+  "category": "Highland Lyric & Philosophical Song",
+  "composer": "H. Onderson Mawrie",
+  "year": 1976,
+  "cultural_context": "The titular bardic poem and song from H. O. Mawrie's celebrated 1976 collection 'Kumta Nga Rwai', giving voice to the soul of the Khasi mountains.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Bardic Voice",
+    "Sacred Landscape",
+    "Indigenous Faith",
+    "Soulful Harmony"
+  ],
+  "lyrics_khasi": "Kumta nga rwai ia ki lum,\nKumta nga rwai ia ki wah,\nIa ka lyer ba pyrsad\nHa dohnud ba khlem jrah;\nNga kynud ka jingieit\nIa ka ri ba nga kha,\nBa la pynshong u Blei\nHa ka jingkmen ba sah.\n\nWat la ki khlur ki sep,\nWat la ka miet ka dum,\nKa sur jong ka jingshisha\nKan tyngshain ha u lum;\nRwai, ko mynsiem jong nga,\nKhlem da tieng ne shepteng,\nIa ka hok jong u Khasi\nBa la buh ha ka bneng.",
+  "lyrics_english": "Thus I sing unto the mountains,\nThus I sing unto the rushing waters,\nUnto the mountain wind breathing\nInto my tranquil heart;\nI chant my profound devotion\nUnto the land of my birth,\nEstablished by God Almighty\nIn everlasting peace.\n\nThough the bright stars may set,\nThough the night grows dark,\nThe melody of truth\nShall radiate across the peaks;\nSing on, O soul within me,\nWithout dread or hesitation,\nProclaiming the righteousness of the Khasi\nDecreed forever in the heavens.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Kumta nga rwai ia ki lum,",
+        "Kumta nga rwai ia ki wah,",
+        "Ia ka lyer ba pyrsad",
+        "Ha dohnud ba khlem jrah;",
+        "Nga kynud ka jingieit",
+        "Ia ka ri ba nga kha,",
+        "Ba la pynshong u Blei",
+        "Ha ka jingkmen ba sah."
+      ],
+      "english": [
+        "Thus I sing unto the mountains,",
+        "Thus I sing unto the rushing waters,",
+        "Unto the mountain wind breathing",
+        "Into my tranquil heart;",
+        "I chant my profound devotion",
+        "Unto the land of my birth,",
+        "Established by God Almighty",
+        "In everlasting peace."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la ki khlur ki sep,",
+        "Wat la ka miet ka dum,",
+        "Ka sur jong ka jingshisha",
+        "Kan tyngshain ha u lum;",
+        "Rwai, ko mynsiem jong nga,",
+        "Khlem da tieng ne shepteng,",
+        "Ia ka hok jong u Khasi",
+        "Ba la buh ha ka bneng."
+      ],
+      "english": [
+        "Though the bright stars may set,",
+        "Though the night grows dark,",
+        "The melody of truth",
+        "Shall radiate across the peaks;",
+        "Sing on, O soul within me,",
+        "Without dread or hesitation,",
+        "Proclaiming the righteousness of the Khasi",
+        "Decreed forever in the heavens."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "rwai": "sing / chant",
+    "pyrsad": "breathe / whisper",
+    "jingshisha": "truth / verity",
+    "lum": "mountain / hill",
+    "wah": "river"
+  },
+  "word_count": 86
+}

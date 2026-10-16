@@ -1,0 +1,77 @@
+{
+  "id": "ka_likai_bareh",
+  "title": "The Lament of Likai (Ka Likai)",
+  "khasi_title": "Ka Likai",
+  "category": "Tragic Folk Lament",
+  "composer": "Victor G. Bareh",
+  "year": 1960,
+  "cultural_context": "The tragic folk ballad of Ka Likai, the grieving mother whose sorrow gave name to the magnificent Nohkalikai Falls.",
+  "instruments": [
+    "Sharati",
+    "Duitara"
+  ],
+  "themes": [
+    "Nohkalikai",
+    "Maternal Love",
+    "Highland Tragedy",
+    "Immortal Waterfall"
+  ],
+  "lyrics_khasi": "Ha kliar u riat ba jrong,\nKa Likai ka la ieng,\nDohnud ba la pait dor-dor\nKam don shuh ban kynroi;\nLa duh i khun ba ieit,\nIba kum u syntiew phuh,\nKa pyrthei ka la dum,\nKhlem jingshai shuh ban meh.\n\nSha thwai ba jylliew ka kshaid\nKa la pashat la ka met,\nKa um ka la shim ia ka\nHa pneh ba jar-jar;\nNaduh kato ka sngi\nKa kshaid ka la ioh kyrteng,\nNohkalikai ba sawa\nKa sur pangnud jong ka kmie.",
+  "lyrics_english": "Upon the rim of the towering precipice,\nLikai stood motionless,\nHer heart shattered in pieces\nPast all human consolation;\nLost was her darling infant child,\nFair as a fresh-blown flower,\nThe entire world grew pitch dark,\nWith no remaining light to glow.\n\nInto the deep pool of the gorge\nShe plunged from the cliff,\nThe waters embraced her gently\nIn tranquil peace forever;\nFrom that fateful day onward\nThe roaring cascade took her name:\nNohkalikai, echoing forever\nThe weeping sorrow of a mother's heart.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha kliar u riat ba jrong,",
+        "Ka Likai ka la ieng,",
+        "Dohnud ba la pait dor-dor",
+        "Kam don shuh ban kynroi;",
+        "La duh i khun ba ieit,",
+        "Iba kum u syntiew phuh,",
+        "Ka pyrthei ka la dum,",
+        "Khlem jingshai shuh ban meh."
+      ],
+      "english": [
+        "Upon the rim of the towering precipice,",
+        "Likai stood motionless,",
+        "Her heart shattered in pieces",
+        "Past all human consolation;",
+        "Lost was her darling infant child,",
+        "Fair as a fresh-blown flower,",
+        "The entire world grew pitch dark,",
+        "With no remaining light to glow."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Sha thwai ba jylliew ka kshaid",
+        "Ka la pashat la ka met,",
+        "Ka um ka la shim ia ka",
+        "Ha pneh ba jar-jar;",
+        "Naduh kato ka sngi",
+        "Ka kshaid ka la ioh kyrteng,",
+        "Nohkalikai ba sawa",
+        "Ka sur pangnud jong ka kmie."
+      ],
+      "english": [
+        "Into the deep pool of the gorge",
+        "She plunged from the cliff,",
+        "The waters embraced her gently",
+        "In tranquil peace forever;",
+        "From that fateful day onward",
+        "The roaring cascade took her name:",
+        "Nohkalikai, echoing forever",
+        "The weeping sorrow of a mother's heart."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "nohkalikai": "the leap of Ka Likai (waterfall)",
+    "riat": "precipice / cliff",
+    "thwai": "deep river pool / plunge pool",
+    "pangnud": "inner heartbreak / agony",
+    "kmie": "mother"
+  },
+  "word_count": 84
+}

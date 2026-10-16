@@ -1,0 +1,77 @@
+{
+  "id": "ki_tien_tymmen_wahlang",
+  "title": "The Counsel of the Elders (Ki Tien Tymmen)",
+  "khasi_title": "Ki Tien Tymmen",
+  "category": "Wisdom & Maxims Lyric",
+  "composer": "D. N. S. Wahlang",
+  "year": 1964,
+  "cultural_context": "Reflections on ancient proverbs (*Ki Ktien Tymmen*) handed down around the hearth, published in 'Ki Khasi Poems' (1964).",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Elders' Wisdom",
+    "Proverbs",
+    "Hearthside Memory",
+    "Moral Foundation"
+  ],
+  "lyrics_khasi": "Ki tien tymmen ba la buh ki kpa,\nKi long kum ki khlur ha ka miet ba dum;\nKi pyni ia ka lynti kaba beit,\nBan lait na ki them ba jylliew;\nKi ong: 'Wat pynjot ia ka burom briew',\n'Kamai ia ka hok ba me ieng skhem';\nKine ki ktien ki im ha ka ri,\nNaduh ka hyndai haduh mynta.\n\nWat lehbieit ban klet ia ka niam,\nIa ka tip-kur bad tip-kha ba kyntang;\nUba phai dien na ki kpa tymmen\nUn sah khlem jingkyrshan ha ka pyrthei;\nBat skhem ia ki mawbyrsiew jong ka tnum,\nRi ia ka ktien ba pynshai jabiong;\nKine ki ktien tymmen kin long\nKa stieh ba iada ia ka dohnud.",
+  "lyrics_english": "The proverbs bequeathed by the ancient fathers\nAre like guiding stars in the pitch-dark night;\nThey point the direct and righteous path,\nGuiding feet away from perilous chasms;\nThey say: 'Never destroy another's dignity',\n'Earn your living by truth that you may stand firm';\nThese sacred words live in our motherland,\nFrom primeval antiquity unto this day.\n\nBe not foolish to abandon our sacred faith,\nNor forget maternal clan and paternal kin;\nHe who turns his back on the elders' counsel\nShall find himself forsaken in the wide world;\nHold fast to the hearthstones of your thatched ancestral roof,\nPreserve the mother tongue that enlightens the mind;\nThese proverbs of the elders shall be\nThe impenetrable shield protecting your soul.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ki tien tymmen ba la buh ki kpa,",
+        "Ki long kum ki khlur ha ka miet ba dum;",
+        "Ki pyni ia ka lynti kaba beit,",
+        "Ban lait na ki them ba jylliew;",
+        "Ki ong: 'Wat pynjot ia ka burom briew',",
+        "'Kamai ia ka hok ba me ieng skhem';",
+        "Kine ki ktien ki im ha ka ri,",
+        "Naduh ka hyndai haduh mynta."
+      ],
+      "english": [
+        "The proverbs bequeathed by the ancient fathers",
+        "Are like guiding stars in the pitch-dark night;",
+        "They point the direct and righteous path,",
+        "Guiding feet away from perilous chasms;",
+        "They say: 'Never destroy another's dignity',",
+        "'Earn your living by truth that you may stand firm';",
+        "These sacred words live in our motherland,",
+        "From primeval antiquity unto this day."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat lehbieit ban klet ia ka niam,",
+        "Ia ka tip-kur bad tip-kha ba kyntang;",
+        "Uba phai dien na ki kpa tymmen",
+        "Un sah khlem jingkyrshan ha ka pyrthei;",
+        "Bat skhem ia ki mawbyrsiew jong ka tnum,",
+        "Ri ia ka ktien ba pynshai jabiong;",
+        "Kine ki ktien tymmen kin long",
+        "Ka stieh ba iada ia ka dohnud."
+      ],
+      "english": [
+        "Be not foolish to abandon our sacred faith,",
+        "Nor forget maternal clan and paternal kin;",
+        "He who turns his back on the elders' counsel",
+        "Shall find himself forsaken in the wide world;",
+        "Hold fast to the hearthstones of your thatched ancestral roof,",
+        "Preserve the mother tongue that enlightens the mind;",
+        "These proverbs of the elders shall be",
+        "The impenetrable shield protecting your soul."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "tien tymmen": "words/counsel of the elders (proverbs)",
+    "hyndai": "ancient times / antiquity",
+    "mawbyrsiew": "the three sacred hearthstones",
+    "stieh": "traditional warrior's shield",
+    "jabiong": "brain / intellect / mind"
+  },
+  "word_count": 117
+}

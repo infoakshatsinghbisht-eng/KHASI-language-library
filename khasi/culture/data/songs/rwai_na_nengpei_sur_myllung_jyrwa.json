@@ -1,0 +1,44 @@
+{
+  "id": "rwai_na_nengpei_sur_myllung_jyrwa",
+  "title": "Na Nengpei Ki Sur Myllung (High Melodies from the Ancient Heights)",
+  "khasi_title": "Na Nengpei Ki Sur Myllung",
+  "category": "ballad_and_heritage",
+  "composer": "B. C. Jyrwa",
+  "year": 1979,
+  "origin": "Sohra & Mawphlang",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing Padiah"
+  ],
+  "themes": [
+    "Bardic Heritage",
+    "Ancestral Memory",
+    "Harp Strings"
+  ],
+  "cultural_context": "Traditional bardic song praising the sacred summits where ancient poets listened to the voices of winds and pine trees.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Na nengpei ki sur ki wan sawa jai,",
+        "Ki pynkynmaw ia ka nam ki kpa tymmen,",
+        "U ksai duitara u tem ia ka jingshisha,",
+        "Ban pynneh ia ka burom ha ka ri Hynniewtrep."
+      ],
+      "english": [
+        "From the lofty heights the melodies echo gently,",
+        "Calling to remembrance the renown of ancient fathers,",
+        "The duitara string sounds the timeless chord of truth,",
+        "Preserving honor in the land of the Seven Huts."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "nengpei": "sacred upland / high plateau",
+    "sur-myllung": "soulful, tender, poetic melody"
+  },
+  "file": "rwai_na_nengpei_sur_myllung_jyrwa.json",
+  "lyrics_khasi": "Na nengpei ki sur ki wan sawa jai,\nKi pynkynmaw ia ka nam ki kpa tymmen,\nU ksai duitara u tem ia ka jingshisha,\nBan pynneh ia ka burom ha ka ri Hynniewtrep.",
+  "lyrics_english": "From the lofty heights the melodies echo gently,\nCalling to remembrance the renown of ancient fathers,\nThe duitara string sounds the timeless chord of truth,\nPreserving honor in the land of the Seven Huts.",
+  "word_count": 33
+}

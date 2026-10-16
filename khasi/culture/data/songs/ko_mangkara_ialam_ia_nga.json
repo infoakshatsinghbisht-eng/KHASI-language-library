@@ -1,0 +1,44 @@
+{
+  "id": "ko_mangkara_ialam_ia_nga",
+  "title": "O Morning Star, Lead Me Forth (Ko Mangkara Ialam Ia Nga)",
+  "khasi_title": "Ko Mangkara Ialam Ia Nga",
+  "category": "Spiritual & Nature Hymn",
+  "composer": "S. Koressterwell Majaw",
+  "year": 1978,
+  "cultural_context": "Published historical Khasi song from authentic literature, documenting ancestral culture, moral philosophy, and oral tradition.",
+  "instruments": [
+    "Duitara",
+    "Maryngod",
+    "Sharati",
+    "Ksing"
+  ],
+  "themes": [
+    "Highland Heritage",
+    "Moral Righteousness",
+    "Sacred Nature",
+    "Ancestral Renown"
+  ],
+  "lyrics_khasi": "Ban pruid ki dak sah jingkynmaw,\nJingmut barieh ba ngan pynpaw;\nHa lynti bakhuid jingshisha,\nKo Mangkara ialam ia nga.\n\nJar jar ha jingdum jong ka miet,\nShaphi bunsien nga ju iai khmied;\nMynsiem jongnga ka sngew tympang,\nJingshai jongphi nga khiaw kyntang.",
+  "lyrics_english": "To inscribe marks of eternal memory,\nTo reveal the secret meditations of the heart;\nAlong the pure path of truth and light,\nO radiant Morning Star, lead Thou me on.\n\nIn the serene silence of the night,\nToward Thee my eyes repeatedly gaze upward;\nMy lonely spirit feels comforted,\nReceiving sacred reverence from Thy light.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "Ka Bynta Kaba Nyngkong (Ko Mangkara Ialam Ia Nga)",
+      "khasi": "Ban pruid ki dak sah jingkynmaw,\nJingmut barieh ba ngan pynpaw;\nHa lynti bakhuid jingshisha,\nKo Mangkara ialam ia nga.",
+      "english": "To inscribe marks of eternal memory,\nTo reveal the secret meditations of the heart;\nAlong the pure path of truth and light,\nO radiant Morning Star, lead Thou me on."
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Bynta Kaba Ar (Ko Mangkara Ialam Ia Nga)",
+      "khasi": "Jar jar ha jingdum jong ka miet,\nShaphi bunsien nga ju iai khmied;\nMynsiem jongnga ka sngew tympang,\nJingshai jongphi nga khiaw kyntang.",
+      "english": "In the serene silence of the night,\nToward Thee my eyes repeatedly gaze upward;\nMy lonely spirit feels comforted,\nReceiving sacred reverence from Thy light."
+    }
+  ],
+  "vocabulary": {
+    "ka hok": "righteousness / truth / justice",
+    "mynsiem": "inner spirit / soul",
+    "duitara": "indigenous Khasi plucked lute",
+    "ka ri": "homeland / motherland"
+  },
+  "word_count": 43
+}

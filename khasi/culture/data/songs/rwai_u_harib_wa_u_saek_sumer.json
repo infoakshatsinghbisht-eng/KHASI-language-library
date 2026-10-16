@@ -1,0 +1,46 @@
+{
+  "id": "rwai_u_harib_wa_u_saek_sumer",
+  "title": "U Harib Wa U Saek (Ballad of Harib and Saek - Jaintia Oral Lore)",
+  "khasi_title": "U Harib Wa U Saek",
+  "category": "folklore_and_legend",
+  "composer": "S. Quotient Sumer",
+  "year": 1981,
+  "origin": "Jaintia Hills (Pnar Tradition)",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Ksing Padiah",
+    "Ka Besli"
+  ],
+  "themes": [
+    "Brotherhood",
+    "Clan Covenants",
+    "Pnar Lore",
+    "Megalithic Loyalty"
+  ],
+  "cultural_context": "Traditional Pnar oral narrative ballad celebrating unwavering fraternal fidelity and ancestral vows across the Myntdu river basin.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha rud ka wah Myntdu ki ia kular lang,",
+        "U Harib wa u Saek ki paralok ba jan,",
+        "Ban bat ia ka hok haduh ka jingiap,",
+        "Ban pynsah ia ka nam ha ka ri Jaintia."
+      ],
+      "english": [
+        "Beside the banks of the river Myntdu they made their vow,",
+        "Harib and Saek, bosom comrades steadfast and true,",
+        "To hold fast to righteousness even unto death,",
+        "Preserving their good name in the realm of Jaintia."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "wah-myntdu": "sacred winding river of Jowai and Jaintia Hills",
+    "kular-hok": "covenant of righteousness"
+  },
+  "file": "rwai_u_harib_wa_u_saek_sumer.json",
+  "lyrics_khasi": "Ha rud ka wah Myntdu ki ia kular lang,\nU Harib wa u Saek ki paralok ba jan,\nBan bat ia ka hok haduh ka jingiap,\nBan pynsah ia ka nam ha ka ri Jaintia.",
+  "lyrics_english": "Beside the banks of the river Myntdu they made their vow,\nHarib and Saek, bosom comrades steadfast and true,\nTo hold fast to righteousness even unto death,\nPreserving their good name in the realm of Jaintia.",
+  "word_count": 35
+}

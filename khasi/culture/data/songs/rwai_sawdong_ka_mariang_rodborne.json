@@ -1,0 +1,48 @@
+{
+  "id": "rwai_sawdong_ka_mariang_rodborne",
+  "title": "Sawdong Ka Mariang (All Around Creation / Nature Hymn)",
+  "native_title": "Sawdong Ka Mariang",
+  "category": "nature_and_lyrical",
+  "composer": "B. M. Rodborne",
+  "year": 1975,
+  "origin": "Sohra Highlands",
+  "instruments": [
+    "Ka Duitara",
+    "Ka Besli",
+    "Ka Mieng"
+  ],
+  "themes": [
+    "Ecology",
+    "Living Nature",
+    "Sacred Waters",
+    "Creation"
+  ],
+  "description": "Celebratory nature poem and melody describing the waterfalls, limestone caverns, and living wildlife of Sohra.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Sawdong ka mariang ka sawa ko sur,",
+        "Ki sim ki pah ha pnat ki dieng,",
+        "Ka lyer khriat ka wan na lum,",
+        "Ka kynud ia ka jingrwai ka jingim."
+      ],
+      "english": [
+        "All around creation the melody resounds,",
+        "The birds call sweet notes from leafy boughs,",
+        "The fresh cool breeze descends from high peaks,",
+        "Humming the timeless song of life."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "sawdong-mariang": "all around nature and creation",
+    "lyer-khriat": "bracing cool mountain breeze"
+  },
+  "file": "rwai_sawdong_ka_mariang_rodborne.json",
+  "khasi_title": "Sawdong Ka Mariang",
+  "cultural_context": "Celebratory nature poem and melody describing the waterfalls, limestone caverns, and living wildlife of Sohra.",
+  "lyrics_khasi": "Sawdong ka mariang ka sawa ko sur,\nKi sim ki pah ha pnat ki dieng,\nKa lyer khriat ka wan na lum,\nKa kynud ia ka jingrwai ka jingim.",
+  "lyrics_english": "All around creation the melody resounds,\nThe birds call sweet notes from leafy boughs,\nThe fresh cool breeze descends from high peaks,\nHumming the timeless song of life.",
+  "word_count": 29
+}

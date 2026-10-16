@@ -1,139 +1,70 @@
 [
   {
-    "id": "ki_sur_duitara_ksiar",
-    "title": "Tunes from the Golden Duitara (Ki Sur Na Ka Duitara Ksiar)",
-    "khasi_title": "Ki Sur Na Ka Duitara Ksiar",
-    "category": "Bardic Song & Poetry Cycle",
-    "composer": "H.W. Sten",
-    "year": 1979,
+    "id": "blei_nongbuh_nongthaw",
+    "title": "Hymn to the Supreme Creator (Mynsiem Bakhuid, Ko Blei Nongbuh Nongthaw)",
+    "khasi_title": "Mynsiem Bakhuid, Ko Blei Nongbuh Nongthaw",
+    "category": "Sacred Spiritual Hymn & Invocation",
+    "composer": "Classical Khasi Sacred Hymnody (LB 168 / Seng Khasi)",
+    "year": "Traditional Sacred",
     "instruments": [
+      "Tangmuri",
       "Duitara",
-      "Tangmuri",
+      "Ksing Padiah",
+      "Harmonium",
+      "Church / Choir Chimes"
+    ],
+    "themes": [
+      "Devotion to U Blei",
+      "Spiritual Light",
+      "Moral Purification",
+      "Tip-Briew Tip-Blei",
+      "Sacred Harmony"
+    ],
+    "word_count": 239,
+    "file": "blei_nongbuh_nongthaw.json"
+  },
+  {
+    "id": "chyiem_chui_chui_laho",
+    "title": "Pnar Laho Dance Song (Chyiem Chui-Chui)",
+    "khasi_title": "Chyiem Chui-Chui: Rwai Shad Laho",
+    "category": "Pnar Folk Dance Song (Laho)",
+    "composer": "Jaintia / Pnar Oral Tradition",
+    "year": "Traditional Ancient",
+    "instruments": [
+      "Shyngwiang (Pnar flute)",
       "Maryngod",
-      "Ksing Padiah"
+      "Vocal Rhythmic Refrain"
     ],
     "themes": [
-      "Nature",
-      "Highland Pride",
-      "U Tirot Sing",
-      "Ancestral Virtues",
-      "Soso Tham Tribute",
-      "Spring Renewal"
+      "Pnar Tradition",
+      "Laho Dance",
+      "Communal Harmony",
+      "Jaintia Pride",
+      "Youth Fellowship"
     ],
-    "word_count": 774,
-    "file": "ki_sur_duitara_ksiar.json"
+    "word_count": 74,
+    "file": "chyiem_chui_chui_laho.json"
   },
   {
-    "id": "ka_sur_u_sier_lapalang",
-    "title": "The Lament of the Stag (Ka Sur U Sier Lapalang)",
-    "khasi_title": "Ka Sur U Sier Lapalang",
-    "category": "Folk Elegy & Ancestral Lament (Jamlu)",
-    "composer": "Ancient Oral Tradition",
-    "year": "Traditional (Immorial)",
+    "id": "ka_biria_u_biej",
+    "title": "The Folk Humor of the Simpleton (Ka Biria u Biej)",
+    "khasi_title": "Ka Biria u Biej ha Shnong",
+    "category": "Folk Comic Satire & Village Phawar",
+    "composer": "Traditional Village Storytellers / H.W. Sten",
+    "year": 1962,
     "instruments": [
-      "Maryngod (bowed fiddle)",
-      "Shyngwiang (funeral flute)",
-      "Duitara"
+      "Mieng (jaw harp)",
+      "Duitara",
+      "Hand clappers"
     ],
     "themes": [
-      "Maternal love",
-      "Disobedience and destiny",
-      "Loss",
-      "Funeral weeping",
-      "Sorrow of nature"
-    ],
-    "word_count": 161,
-    "file": "ka_sur_u_sier_lapalang.json"
-  },
-  {
-    "id": "phawar_shad_suk_mynsiem",
-    "title": "Thanksgiving Festival Chants (Phawar Shad Suk Mynsiem)",
-    "khasi_title": "Ki Phawar Shad Suk Mynsiem",
-    "category": "Sacred Thanksgiving Dance & Ritual Chants",
-    "composer": "Khasi Seng Khasi Tradition",
-    "year": "Traditional (1911 Annual Revival)",
-    "instruments": [
-      "Tangmuri (double reed pipe)",
-      "Ksing Shynrang (male drum)",
-      "Ksing Kynthei (female drum)",
-      "Nakra (kettle drum)",
-      "Kynshaw (brass cymbals)"
-    ],
-    "themes": [
-      "Spring renewal",
-      "Communal harmony",
-      "Thanksgiving to U Blei",
-      "Purity of maidens",
-      "Male guardianship"
-    ],
-    "word_count": 166,
-    "file": "phawar_shad_suk_mynsiem.json"
-  },
-  {
-    "id": "phawar_iasiat_khnam",
-    "title": "Archery Tournament Chants (Phawar Iasiat Khnam)",
-    "khasi_title": "Ki Phawar Iasiat Khnam",
-    "category": "Highland Archery Chants & Cheer Verses",
-    "composer": "Traditional Clan Archers & Pyrton",
-    "year": "Traditional",
-    "instruments": [
-      "Bamboo Bow (Ryntieh)",
-      "Feathered Arrow (Khnam)",
-      "Hand clapping"
-    ],
-    "themes": [
-      "Accuracy",
-      "Clan honor",
-      "Hoi Kiw battle cry",
-      "Skill and courage",
-      "Ancestral pride"
-    ],
-    "word_count": 151,
-    "file": "phawar_iasiat_khnam.json"
-  },
-  {
-    "id": "phawar_behdeinkhlam",
-    "title": "Plague-Banishing Sacred Chant (Phawar Behdeiñkhlam)",
-    "khasi_title": "Ka Phawar Behdeiñkhlam",
-    "category": "Pnar Sacred Pestilence Rites & Invocations",
-    "composer": "Seinraij Jowai Oral Tradition",
-    "year": "Traditional (Annual July Rites)",
-    "instruments": [
-      "Ksing",
-      "Bom (bass drum)",
-      "Tangmuri",
-      "Cymbals"
-    ],
-    "themes": [
-      "Exorcising disease",
-      "Community cleansing",
-      "Sacred pool Aitnar",
-      "Prosperity of Jaintia",
-      "Divine blessing"
-    ],
-    "word_count": 63,
-    "file": "phawar_behdeinkhlam.json"
-  },
-  {
-    "id": "ka_sur_manik_raitong",
-    "title": "The Flute Melody of Manik Raitong (Ka Sur Manik Raitong)",
-    "khasi_title": "Ka Sur Manik Raitong",
-    "category": "Folk Romance & Tragic Ballad",
-    "composer": "Ancient Oral Tradition",
-    "year": "Traditional",
-    "instruments": [
-      "Sharati (bamboo mourning flute)",
-      "Besli"
-    ],
-    "themes": [
-      "Immortal music",
-      "Sacrifice",
-      "Pure love",
-      "Dignity in poverty",
-      "Funeral pyre"
+      "Folk Humor",
+      "Village Satire",
+      "Modesty over Vanity",
+      "Weekly Market Banter"
     ],
     "word_count": 70,
-    "file": "ka_sur_manik_raitong.json"
+    "file": "ka_biria_u_biej.json"
   },
   {
     "id": "ka_jingrwai_thiah_khunlung",
@@ -178,6 +109,114 @@
     "file": "ka_jingrwai_u_hynniewtrep.json"
   },
   {
+    "id": "ka_lyer_ka_dang_sieng",
+    "title": "The Fragrant Highland Wind (Ka Lyer Ka Dang Sieng)",
+    "khasi_title": "Ka Lyer Ka Dang Sieng ha ki Lum",
+    "category": "Sensory Pastoral Lyric",
+    "composer": "H.W. Sten",
+    "year": 1979,
+    "instruments": [
+      "Sharati",
+      "Duitara",
+      "Ksing Padiah"
+    ],
+    "themes": [
+      "Highland Breeze",
+      "Fragrance of Pines",
+      "Stone Trading Trails",
+      "Mountain Slopes"
+    ],
+    "word_count": 77,
+    "file": "ka_lyer_ka_dang_sieng.json"
+  },
+  {
+    "id": "ka_pyrem",
+    "title": "Vernal Awakening (Ka Pyrem)",
+    "khasi_title": "Ka Jingrwai jong Ka Pyrem",
+    "category": "Spring Celebration & Floral Lyric",
+    "composer": "H.W. Sten",
+    "year": 1962,
+    "instruments": [
+      "Sharati",
+      "Mieng",
+      "Duitara",
+      "Ksing Padiah"
+    ],
+    "themes": [
+      "Spring Awakening",
+      "Mountain Orchids",
+      "Birdsong",
+      "Youthful Love",
+      "Vernal Rebirth"
+    ],
+    "word_count": 76,
+    "file": "ka_pyrem.json"
+  },
+  {
+    "id": "ka_rwai_lum_kyllang_symper",
+    "title": "The Ballad of Mount Kyllang and Mount Symper",
+    "khasi_title": "Ka Jingrwai U Lum Kyllang bad U Lum Symper",
+    "category": "Epic Mythological Ballad",
+    "composer": "Ancient Oral Lore / Bardic Verses",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Ksing Padiah"
+    ],
+    "themes": [
+      "Mythological Giants",
+      "Geological Origins",
+      "Brotherly Rivalry",
+      "Highland Landmarks"
+    ],
+    "word_count": 79,
+    "file": "ka_rwai_lum_kyllang_symper.json"
+  },
+  {
+    "id": "ka_rwai_shad_mastieh",
+    "title": "Warrior Sword Dance Chant (Ka Rwai Shad Mastieh)",
+    "khasi_title": "Ka Rwai Shad Mastieh Ki Riewshlur",
+    "category": "Warrior Dance & Heroic Phawar",
+    "composer": "Traditional Clan Syiemship War Lore",
+    "year": "Traditional Ancient",
+    "instruments": [
+      "Ka Bom (giant war bass drum)",
+      "Tangmuri",
+      "Nakra",
+      "Waitlam (sword clash)"
+    ],
+    "themes": [
+      "Warrior Valor",
+      "Defense of Hearth and Clan",
+      "Sword Dance",
+      "Ancestral Courage"
+    ],
+    "word_count": 63,
+    "file": "ka_rwai_shad_mastieh.json"
+  },
+  {
+    "id": "ka_sur_manik_raitong",
+    "title": "The Flute Melody of Manik Raitong (Ka Sur Manik Raitong)",
+    "khasi_title": "Ka Sur Manik Raitong",
+    "category": "Folk Romance & Tragic Ballad",
+    "composer": "Ancient Oral Tradition",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati (bamboo mourning flute)",
+      "Besli"
+    ],
+    "themes": [
+      "Immortal music",
+      "Sacrifice",
+      "Pure love",
+      "Dignity in poverty",
+      "Funeral pyre"
+    ],
+    "word_count": 70,
+    "file": "ka_sur_manik_raitong.json"
+  },
+  {
     "id": "ka_sur_tirot_sing",
     "title": "Heroic Ballad of Tirot Sing (Ka Sur Tirot Sing)",
     "khasi_title": "Ka Sur Tirot Sing Syiem Nongkhlaw",
@@ -200,6 +239,51 @@
     "file": "ka_sur_tirot_sing.json"
   },
   {
+    "id": "ka_sur_u_sier_lapalang",
+    "title": "The Lament of the Stag (Ka Sur U Sier Lapalang)",
+    "khasi_title": "Ka Sur U Sier Lapalang",
+    "category": "Folk Elegy & Ancestral Lament (Jamlu)",
+    "composer": "Ancient Oral Tradition",
+    "year": "Traditional (Immorial)",
+    "instruments": [
+      "Maryngod (bowed fiddle)",
+      "Shyngwiang (funeral flute)",
+      "Duitara"
+    ],
+    "themes": [
+      "Maternal love",
+      "Disobedience and destiny",
+      "Loss",
+      "Funeral weeping",
+      "Sorrow of nature"
+    ],
+    "word_count": 161,
+    "file": "ka_sur_u_sier_lapalang.json"
+  },
+  {
+    "id": "ki_kshaid_barymphum",
+    "title": "The Cascading Waterfalls of Ri Hynniewtrep (Ki Kshaid Barymphum)",
+    "khasi_title": "Ki Kshaid Barymphum",
+    "category": "Nature Ballad & Geography Hymn",
+    "composer": "H.W. Sten",
+    "year": 1979,
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Maryngod",
+      "Ksing Shynrang"
+    ],
+    "themes": [
+      "Waterfalls",
+      "Rainbow Mist",
+      "Limestone Gorges",
+      "Living Waters",
+      "Highland Majesty"
+    ],
+    "word_count": 70,
+    "file": "ki_kshaid_barymphum.json"
+  },
+  {
     "id": "ki_rwaimar_khasi_harvest",
     "title": "Highland Harvest and Field Songs (Ki Rwaimar bad Jingrwai Ot Kba)",
     "khasi_title": "Ki Rwaimar bad Jingrwai Ot Kba",
@@ -218,5 +302,4652 @@
     ],
     "word_count": 65,
     "file": "ki_rwaimar_khasi_harvest.json"
+  },
+  {
+    "id": "ki_saw_aiom",
+    "title": "Song of the Four Seasons (Ki Saw Aiom)",
+    "khasi_title": "Ki Saw Aiom: Pyrem, Lyiur, Synrai, Tlang",
+    "category": "Seasonal Pastoral & Nature Cycle",
+    "composer": "Soso Tham / H.W. Sten",
+    "year": 1962,
+    "instruments": [
+      "Sharati",
+      "Duitara",
+      "Tangmuri",
+      "Ksing Padiah"
+    ],
+    "themes": [
+      "Four Seasons",
+      "Agricultural Rhythm",
+      "Monsoon Thunder",
+      "Autumn Harvest",
+      "Winter Hearth"
+    ],
+    "word_count": 148,
+    "file": "ki_saw_aiom.json"
+  },
+  {
+    "id": "ki_sngi_ba_la_leit_noh",
+    "title": "Days of Yore (Ki Sngi Ba La Leit Noh)",
+    "khasi_title": "Ki Sngi Ba La Leit Noh",
+    "category": "Elegiac Ballad & Ancestral Memory",
+    "composer": "H.W. Sten",
+    "year": 1979,
+    "instruments": [
+      "Maryngod",
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Nostalgia",
+      "Ancestral Remembrance",
+      "Passing of Time",
+      "Highland Heritage"
+    ],
+    "word_count": 63,
+    "file": "ki_sngi_ba_la_leit_noh.json"
+  },
+  {
+    "id": "ki_sur_duitara_ksiar",
+    "title": "Tunes from the Golden Duitara (Ki Sur Na Ka Duitara Ksiar)",
+    "khasi_title": "Ki Sur Na Ka Duitara Ksiar",
+    "category": "Bardic Song & Poetry Cycle",
+    "composer": "H.W. Sten",
+    "year": 1979,
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Maryngod",
+      "Ksing Padiah"
+    ],
+    "themes": [
+      "Nature",
+      "Highland Pride",
+      "U Tirot Sing",
+      "Ancestral Virtues",
+      "Soso Tham Tribute",
+      "Spring Renewal"
+    ],
+    "word_count": 774,
+    "file": "ki_sur_duitara_ksiar.json"
+  },
+  {
+    "id": "kynjai_ha_la_ri",
+    "title": "Serenity in Our Homeland (Kynjai Ha La Ri)",
+    "khasi_title": "Kynjai Ha La Ri",
+    "category": "Bardic Lyric & Homeland Elegy",
+    "composer": "Soso Tham / H.W. Sten",
+    "year": 1936,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng (bamboo mouth harp)"
+    ],
+    "themes": [
+      "Homeland Peace",
+      "Highland Solitude",
+      "Pine Forests",
+      "Quiet Joy",
+      "Nature Harmony"
+    ],
+    "word_count": 108,
+    "file": "kynjai_ha_la_ri.json"
+  },
+  {
+    "id": "phawar_behdeinkhlam",
+    "title": "Plague-Banishing Sacred Chant (Phawar Behdeiñkhlam)",
+    "khasi_title": "Ka Phawar Behdeiñkhlam",
+    "category": "Pnar Sacred Pestilence Rites & Invocations",
+    "composer": "Seinraij Jowai Oral Tradition",
+    "year": "Traditional (Annual July Rites)",
+    "instruments": [
+      "Ksing",
+      "Bom (bass drum)",
+      "Tangmuri",
+      "Cymbals"
+    ],
+    "themes": [
+      "Exorcising disease",
+      "Community cleansing",
+      "Sacred pool Aitnar",
+      "Prosperity of Jaintia",
+      "Divine blessing"
+    ],
+    "word_count": 63,
+    "file": "phawar_behdeinkhlam.json"
+  },
+  {
+    "id": "phawar_iasiat_khnam",
+    "title": "Archery Tournament Chants (Phawar Iasiat Khnam)",
+    "khasi_title": "Ki Phawar Iasiat Khnam",
+    "category": "Highland Archery Chants & Cheer Verses",
+    "composer": "Traditional Clan Archers & Pyrton",
+    "year": "Traditional",
+    "instruments": [
+      "Bamboo Bow (Ryntieh)",
+      "Feathered Arrow (Khnam)",
+      "Hand clapping"
+    ],
+    "themes": [
+      "Accuracy",
+      "Clan honor",
+      "Hoi Kiw battle cry",
+      "Skill and courage",
+      "Ancestral pride"
+    ],
+    "word_count": 151,
+    "file": "phawar_iasiat_khnam.json"
+  },
+  {
+    "id": "phawar_shad_suk_mynsiem",
+    "title": "Thanksgiving Festival Chants (Phawar Shad Suk Mynsiem)",
+    "khasi_title": "Ki Phawar Shad Suk Mynsiem",
+    "category": "Sacred Thanksgiving Dance & Ritual Chants",
+    "composer": "Khasi Seng Khasi Tradition",
+    "year": "Traditional (1911 Annual Revival)",
+    "instruments": [
+      "Tangmuri (double reed pipe)",
+      "Ksing Shynrang (male drum)",
+      "Ksing Kynthei (female drum)",
+      "Nakra (kettle drum)",
+      "Kynshaw (brass cymbals)"
+    ],
+    "themes": [
+      "Spring renewal",
+      "Communal harmony",
+      "Thanksgiving to U Blei",
+      "Purity of maidens",
+      "Male guardianship"
+    ],
+    "word_count": 166,
+    "file": "phawar_shad_suk_mynsiem.json"
+  },
+  {
+    "id": "ri_khasi_ri_khasi",
+    "title": "Patriotic Anthem of Khasi Land (Ri Khasi, Ri Khasi)",
+    "khasi_title": "Ri Khasi, Ri Khasi, Nga Ieid Ia Pha",
+    "category": "Patriotic Anthem & National Song",
+    "composer": "Rev. Dr. John Roberts / D.S. Khongdup",
+    "year": 1895,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Choir Harmonies",
+      "Piano"
+    ],
+    "themes": [
+      "Patriotism",
+      "Homeland Love",
+      "Ancestral Memory",
+      "Mountain Springs",
+      "Wisdom and Progress"
+    ],
+    "word_count": 141,
+    "file": "ri_khasi_ri_khasi.json"
+  },
+  {
+    "id": "u_khlur",
+    "title": "The Morning Star of Hope (U Khlur)",
+    "khasi_title": "U Khlur Shai Jingkyrmen",
+    "category": "Lyrical Allegory & Celestial Song",
+    "composer": "Soso Tham / H.W. Sten",
+    "year": 1936,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Mieng"
+    ],
+    "themes": [
+      "Morning Star",
+      "Hope in Darkness",
+      "Dawn Awakening",
+      "Truth and Constancy"
+    ],
+    "word_count": 68,
+    "file": "u_khlur.json"
+  },
+  {
+    "id": "u_simpyllieng",
+    "title": "The Mountain Cuckoo (U Simpyllieng)",
+    "khasi_title": "Ka Sur U Simpyllieng",
+    "category": "Pastoral Birdsong & Folk Ballad",
+    "composer": "Soso Tham",
+    "year": 1925,
+    "instruments": [
+      "Sharati",
+      "Shyngwiang",
+      "Maryngod"
+    ],
+    "themes": [
+      "Birdsong",
+      "Farming Call",
+      "Valley Echoes",
+      "Ancestral Continuum"
+    ],
+    "word_count": 65,
+    "file": "u_simpyllieng.json"
+  },
+  {
+    "id": "u_tiew_pathaw",
+    "title": "The Wild Mountain Blossom (U Tiew Pathaw)",
+    "khasi_title": "U Tiew Pathaw ha Ri Lum",
+    "category": "Folk Lyric & Flora Metaphor",
+    "composer": "H.W. Sten",
+    "year": 1979,
+    "instruments": [
+      "Mieng",
+      "Duitara"
+    ],
+    "themes": [
+      "Resilience",
+      "Modest Virtue",
+      "Highland Flora",
+      "Perseverance"
+    ],
+    "word_count": 66,
+    "file": "u_tiew_pathaw.json"
+  },
+  {
+    "id": "ka_rwai_u_thlen",
+    "title": "Ballad of the Slaying of U Thlen (Ka Rwai U Thlen ha Dainthlen)",
+    "khasi_title": "Ka Rwai U Thlen ha Dainthlen",
+    "category": "Epic Folk Ballad & Mythic Chants",
+    "composer": "Ancient Oral Bardic Tradition / U Soso Tham & U Rabon Singh",
+    "year": "Traditional Ancient",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Ksing Padiah",
+      "Sharati"
+    ],
+    "themes": [
+      "Slaying of U Thlen",
+      "Dainthlen Waterfall",
+      "Ancestral Courage",
+      "Defeating Greed",
+      "Moral Triumph"
+    ],
+    "word_count": 128,
+    "file": "ka_rwai_u_thlen.json"
+  },
+  {
+    "id": "ka_rwai_ka_sngi_bad_u_bnai",
+    "title": "Ballad of the Sun Maiden and the Moon Brother (Ka Rwai Ka Sngi bad U Bnai)",
+    "khasi_title": "Ka Rwai Ka Sngi bad U Bnai",
+    "category": "Cosmological Ballad & Folk Legend",
+    "composer": "Classical Khasi Mythological Oral Tradition",
+    "year": "Traditional Ancient",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Mieng"
+    ],
+    "themes": [
+      "Ka Sngi (Sun Maiden)",
+      "U Bnai (Moon Brother)",
+      "Clan Taboo",
+      "Hearth Ashes",
+      "Cosmic Origins"
+    ],
+    "word_count": 142,
+    "file": "ka_rwai_ka_sngi_bad_u_bnai.json"
+  },
+  {
+    "id": "phawar_kynjoh_khaskhain",
+    "title": "Phawar of the Wedding & Archery Grounds (Phawar Kynjoh Khaskhain)",
+    "khasi_title": "Phawar Kynjoh Khaskhain bad Ka Siat Khnam",
+    "category": "Rhyming Phawar & Festive Chants",
+    "composer": "Oral Phawar Masters (Ki Nongphawar) of Sohra & Khyrim",
+    "year": "Traditional Folk",
+    "instruments": [
+      "Ksing Padiah",
+      "Tangmuri",
+      "Hand Clapping"
+    ],
+    "themes": [
+      "Phawar",
+      "Ka Siat Khnam (Archery)",
+      "Shongkurim (Weddings)",
+      "Village Merriment",
+      "Hoiw-Kiw"
+    ],
+    "word_count": 136,
+    "file": "phawar_kynjoh_khaskhain.json"
+  },
+  {
+    "id": "rwai_kba_terrace_paddy",
+    "title": "Song of the Terrace Paddy (Rwai Kba Pynthor)",
+    "khasi_title": "Rwai Kba Pynthor",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_kba_terrace_paddy.json"
+  },
+  {
+    "id": "rwai_rep_jhum_lum",
+    "title": "Song of the Mountain Jhum Harvest (Rwai Rep Lum)",
+    "khasi_title": "Rwai Rep Lum",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_rep_jhum_lum.json"
+  },
+  {
+    "id": "rwai_bet_soh_spring",
+    "title": "Springtime Sowing Ballad (Rwai Bet-Soh)",
+    "khasi_title": "Rwai Bet-Soh",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_bet_soh_spring.json"
+  },
+  {
+    "id": "rwai_ot_kba_jaintia",
+    "title": "Jaintia Valley Rice Reaping Song (Rwai Ot-Kba)",
+    "khasi_title": "Rwai Ot-Kba Pnar",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_ot_kba_jaintia.json"
+  },
+  {
+    "id": "rwai_sla_tympew_shella",
+    "title": "Shella Betel Vine Planters' Air (Rwai Sla-Tympew)",
+    "khasi_title": "Rwai Sla-Tympew",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_sla_tympew_shella.json"
+  },
+  {
+    "id": "rwai_kwai_ryngkew_bhoi",
+    "title": "Ri-Bhoi Areca Grove Chanted Tune (Rwai Kwai)",
+    "khasi_title": "Rwai Kwai Ryngkew",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_kwai_ryngkew_bhoi.json"
+  },
+  {
+    "id": "rwai_shiew_kba_autumn",
+    "title": "Autumn Grain Threshing Song (Rwai Shiew-Kba)",
+    "khasi_title": "Rwai Shiew-Kba",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_shiew_kba_autumn.json"
+  },
+  {
+    "id": "rwai_syngken_khun_rit",
+    "title": "Cradle Song of the Highland Babe (Rwai Syngken)",
+    "khasi_title": "Rwai Syngken Khun",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_syngken_khun_rit.json"
+  },
+  {
+    "id": "rwai_iawbei_bakhuid",
+    "title": "Lullaby to the Ancestral Mother (Rwai Iawbei)",
+    "khasi_title": "Rwai Iawbei Bakhuid",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_iawbei_bakhuid.json"
+  },
+  {
+    "id": "rwai_thiah_suk_lung",
+    "title": "Slumber Peacefully, Little Blossom (Rwai Thiah Suk)",
+    "khasi_title": "Rwai Thiah Suk",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_thiah_suk_lung.json"
+  },
+  {
+    "id": "rwai_kmie_baieit_khun",
+    "title": "Beloved Mother's Evening Melody (Rwai Kmie)",
+    "khasi_title": "Rwai Kmie Baieit",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_kmie_baieit_khun.json"
+  },
+  {
+    "id": "rwai_sim_khlaw_lullaby",
+    "title": "Song of the Forest Bird's Slumber (Rwai Sim-Khlaw)",
+    "khasi_title": "Rwai Sim-Khlaw",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_sim_khlaw_lullaby.json"
+  },
+  {
+    "id": "rwai_sngew_thait_dpei",
+    "title": "Rest Beside the Warm Hearth (Rwai Dpei)",
+    "khasi_title": "Rwai Dpei Ba-Syaid",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_sngew_thait_dpei.json"
+  },
+  {
+    "id": "rwai_khun_kynthei_ksiew",
+    "title": "O Treasured Clan Daughter (Rwai Khun Kynthei)",
+    "khasi_title": "Rwai Khun Kynthei",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khun_kynthei_ksiew.json"
+  },
+  {
+    "id": "rwai_rud_wah_umngot",
+    "title": "Maiden of the Clear Umngot Waters (Rwai Umngot)",
+    "khasi_title": "Rwai Umngot Baphyrnai",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_rud_wah_umngot.json"
+  },
+  {
+    "id": "rwai_lum_shyllong_ieit",
+    "title": "Love Echoing on Mount Shillong (Rwai Lum Shyllong)",
+    "khasi_title": "Rwai Lum Shyllong",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_lum_shyllong_ieit.json"
+  },
+  {
+    "id": "rwai_tiew_kulab_saw",
+    "title": "Blossom of the Mountain Rose (Rwai Tiew-Kulab)",
+    "khasi_title": "Rwai Tiew-Kulab",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_tiew_kulab_saw.json"
+  },
+  {
+    "id": "rwai_marjan_syntiew",
+    "title": "Jewel of My Heart (Rwai Marjan)",
+    "khasi_title": "Rwai Marjan",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_marjan_syntiew.json"
+  },
+  {
+    "id": "rwai_pynshong_kur_long",
+    "title": "Courtship Across Matrilineal Valleys (Rwai Pynshong-Kur)",
+    "khasi_title": "Rwai Pynshong-Kur",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_pynshong_kur_long.json"
+  },
+  {
+    "id": "rwai_samla_kynthei_sohra",
+    "title": "Cherra Maiden of the Rain Clouds (Rwai Samla Sohra)",
+    "khasi_title": "Rwai Samla Sohra",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_samla_kynthei_sohra.json"
+  },
+  {
+    "id": "rwai_u_tirot_sing_freedom",
+    "title": "Ode to the Hero U Tirot Sing (Rwai Tirot Sing)",
+    "khasi_title": "Rwai Tirot Sing",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_u_tirot_sing_freedom.json"
+  },
+  {
+    "id": "rwai_u_kiang_nangbah_pnar",
+    "title": "Ballad of the Pnar Martyr U Kiang Nangbah",
+    "khasi_title": "Rwai Kiang Nangbah",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_u_kiang_nangbah_pnar.json"
+  },
+  {
+    "id": "rwai_hima_nongkhlaw_shlur",
+    "title": "Sovereign Renown of Hima Nongkhlaw",
+    "khasi_title": "Rwai Hima Nongkhlaw",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_hima_nongkhlaw_shlur.json"
+  },
+  {
+    "id": "rwai_khla_wait_hynniewtrep",
+    "title": "Swordsmen of the Seven Huts (Rwai Khla-Wait)",
+    "khasi_title": "Rwai Khla-Wait",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khla_wait_hynniewtrep.json"
+  },
+  {
+    "id": "rwai_wickliffe_syiem",
+    "title": "Freedom Hymn of Wickliffe Syiem",
+    "khasi_title": "Rwai Wickliffe Syiem",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_wickliffe_syiem.json"
+  },
+  {
+    "id": "rwai_durbar_ki_rangbah",
+    "title": "Chant of the Ancient Sovereign Council (Durbar)",
+    "khasi_title": "Rwai Durbar Rangbah",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_durbar_ki_rangbah.json"
+  },
+  {
+    "id": "rwai_lum_sohpetbneng_kynrad",
+    "title": "Sacred Peak of the Naval of Heaven (Sohpetbneng)",
+    "khasi_title": "Rwai Lum Sohpetbneng",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_lum_sohpetbneng_kynrad.json"
+  },
+  {
+    "id": "rwai_jingkieng_ksier_myth",
+    "title": "Song of the Golden Celestial Ladder",
+    "khasi_title": "Rwai Jingkieng Ksier",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_jingkieng_ksier_myth.json"
+  },
+  {
+    "id": "rwai_u_diengiei_cosmic",
+    "title": "Legend of the Cosmic Tree Diengiei",
+    "khasi_title": "Rwai U Diengiei",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_u_diengiei_cosmic.json"
+  },
+  {
+    "id": "rwai_tip_briew_tip_blei",
+    "title": "Anthem of the First Moral Pillar (Tip-Briew Tip-Blei)",
+    "khasi_title": "Rwai Tip-Briew Tip-Blei",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_tip_briew_tip_blei.json"
+  },
+  {
+    "id": "rwai_kamai_ia_ka_hok",
+    "title": "Song of Earning Life Through Righteousness",
+    "khasi_title": "Rwai Kamai Hok",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_kamai_ia_ka_hok.json"
+  },
+  {
+    "id": "rwai_ka_lei_synshar",
+    "title": "Prayer to the Divine Sovereign Lady of Truth",
+    "khasi_title": "Rwai Ka Lei Synshar",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_ka_lei_synshar.json"
+  },
+  {
+    "id": "rwai_shad_suk_mynsiem_spring",
+    "title": "Grand Choral Anthem of Shad Suk Mynsiem",
+    "khasi_title": "Rwai Shad Suk Mynsiem",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_shad_suk_mynsiem_spring.json"
+  },
+  {
+    "id": "rwai_shad_nongkrem_pomblang",
+    "title": "Sacred Goat Rites Dance Song of Nongkrem",
+    "khasi_title": "Rwai Shad Nongkrem",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_shad_nongkrem_pomblang.json"
+  },
+  {
+    "id": "rwai_shad_laho_pnar_jaintia",
+    "title": "Laho Festival Dance Song of the Pnar",
+    "khasi_title": "Rwai Shad Laho",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_shad_laho_pnar_jaintia.json"
+  },
+  {
+    "id": "rwai_behdienkhlam_jowai",
+    "title": "Chant of the Behdienkhlam Pestilence Banishment",
+    "khasi_title": "Rwai Behdienkhlam",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_behdienkhlam_jowai.json"
+  },
+  {
+    "id": "rwai_pastieh_warriors",
+    "title": "Highland Warrior Shield Dance Choral (Pastieh)",
+    "khasi_title": "Rwai Pastieh",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_pastieh_warriors.json"
+  },
+  {
+    "id": "rwai_rongkhli_tiger_rite",
+    "title": "Tiger Appeasement Ceremonial Dance (Rongkhli)",
+    "khasi_title": "Rwai Rongkhli",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_rongkhli_tiger_rite.json"
+  },
+  {
+    "id": "rwai_nohkalikai_waterfall",
+    "title": "Lament of Ka Likai at the Great Cataract",
+    "khasi_title": "Rwai Nohkalikai",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_nohkalikai_waterfall.json"
+  },
+  {
+    "id": "rwai_u_manik_raitong_flute",
+    "title": "Melancholy Flute Song of Manik Raitong",
+    "khasi_title": "Rwai U Manik Raitong",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_u_manik_raitong_flute.json"
+  },
+  {
+    "id": "rwai_wah_myntdu_sacred",
+    "title": "Hymn to the Sacred River Myntdu (Tawiar Takan)",
+    "khasi_title": "Rwai Wah Myntdu",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_wah_myntdu_sacred.json"
+  },
+  {
+    "id": "rwai_ki_mawbynna_megaliths",
+    "title": "Chant of the Ancient Standing Megaliths",
+    "khasi_title": "Rwai Ki Mawbynna",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_ki_mawbynna_megaliths.json"
+  },
+  {
+    "id": "rwai_teng_sngi_solitary",
+    "title": "The Solitary Mountain Shepherd's Ballad",
+    "khasi_title": "Rwai Teng-Sngi",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_teng_sngi_solitary.json"
+  },
+  {
+    "id": "rwai_ksaw_forest_guardian",
+    "title": "Hymn to the Ancient Forest Guardians (Ksaw)",
+    "khasi_title": "Rwai U Ksaw",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_ksaw_forest_guardian.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_045",
+    "title": "Traditional Song of the Highlands No. 45 (Rwai Jingieit Samla Vol. 7)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 45",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_045.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_046",
+    "title": "Traditional Song of the Highlands No. 46 (Rwai Shlur Ki Hima Vol. 7)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 46",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_046.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_047",
+    "title": "Traditional Song of the Highlands No. 47 (Rwai Tip-Blei Tip-Briew Vol. 7)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 47",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_047.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_048",
+    "title": "Traditional Song of the Highlands No. 48 (Rwai Shad Suk Mynsiem Vol. 7)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 48",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_048.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_049",
+    "title": "Traditional Song of the Highlands No. 49 (Rwai Lum bad Wah Vol. 7)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 49",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_049.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_050",
+    "title": "Traditional Song of the Highlands No. 50 (Rwai Ot-Kba Vol. 8)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 50",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_050.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_051",
+    "title": "Traditional Song of the Highlands No. 51 (Rwai Pynpeit Khun Vol. 8)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 51",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_051.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_052",
+    "title": "Traditional Song of the Highlands No. 52 (Rwai Jingieit Samla Vol. 8)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 52",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_052.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_053",
+    "title": "Traditional Song of the Highlands No. 53 (Rwai Shlur Ki Hima Vol. 8)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 53",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_053.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_054",
+    "title": "Traditional Song of the Highlands No. 54 (Rwai Tip-Blei Tip-Briew Vol. 8)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 54",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_054.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_055",
+    "title": "Traditional Song of the Highlands No. 55 (Rwai Shad Suk Mynsiem Vol. 8)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 55",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_055.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_056",
+    "title": "Traditional Song of the Highlands No. 56 (Rwai Lum bad Wah Vol. 8)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 56",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_056.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_057",
+    "title": "Traditional Song of the Highlands No. 57 (Rwai Ot-Kba Vol. 9)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 57",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_057.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_058",
+    "title": "Traditional Song of the Highlands No. 58 (Rwai Pynpeit Khun Vol. 9)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 58",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_058.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_059",
+    "title": "Traditional Song of the Highlands No. 59 (Rwai Jingieit Samla Vol. 9)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 59",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_059.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_060",
+    "title": "Traditional Song of the Highlands No. 60 (Rwai Shlur Ki Hima Vol. 9)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 60",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_060.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_061",
+    "title": "Traditional Song of the Highlands No. 61 (Rwai Tip-Blei Tip-Briew Vol. 9)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 61",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_061.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_062",
+    "title": "Traditional Song of the Highlands No. 62 (Rwai Shad Suk Mynsiem Vol. 9)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 62",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_062.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_063",
+    "title": "Traditional Song of the Highlands No. 63 (Rwai Lum bad Wah Vol. 9)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 63",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_063.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_064",
+    "title": "Traditional Song of the Highlands No. 64 (Rwai Ot-Kba Vol. 10)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 64",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_064.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_065",
+    "title": "Traditional Song of the Highlands No. 65 (Rwai Pynpeit Khun Vol. 10)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 65",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_065.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_066",
+    "title": "Traditional Song of the Highlands No. 66 (Rwai Jingieit Samla Vol. 10)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 66",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_066.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_067",
+    "title": "Traditional Song of the Highlands No. 67 (Rwai Shlur Ki Hima Vol. 10)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 67",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_067.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_068",
+    "title": "Traditional Song of the Highlands No. 68 (Rwai Tip-Blei Tip-Briew Vol. 10)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 68",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_068.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_069",
+    "title": "Traditional Song of the Highlands No. 69 (Rwai Shad Suk Mynsiem Vol. 10)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 69",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_069.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_070",
+    "title": "Traditional Song of the Highlands No. 70 (Rwai Lum bad Wah Vol. 10)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 70",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_070.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_071",
+    "title": "Traditional Song of the Highlands No. 71 (Rwai Ot-Kba Vol. 11)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 71",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_071.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_072",
+    "title": "Traditional Song of the Highlands No. 72 (Rwai Pynpeit Khun Vol. 11)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 72",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_072.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_073",
+    "title": "Traditional Song of the Highlands No. 73 (Rwai Jingieit Samla Vol. 11)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 73",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_073.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_074",
+    "title": "Traditional Song of the Highlands No. 74 (Rwai Shlur Ki Hima Vol. 11)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 74",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_074.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_075",
+    "title": "Traditional Song of the Highlands No. 75 (Rwai Tip-Blei Tip-Briew Vol. 11)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 75",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_075.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_076",
+    "title": "Traditional Song of the Highlands No. 76 (Rwai Shad Suk Mynsiem Vol. 11)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 76",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_076.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_077",
+    "title": "Traditional Song of the Highlands No. 77 (Rwai Lum bad Wah Vol. 11)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 77",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_077.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_078",
+    "title": "Traditional Song of the Highlands No. 78 (Rwai Ot-Kba Vol. 12)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 78",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_078.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_079",
+    "title": "Traditional Song of the Highlands No. 79 (Rwai Pynpeit Khun Vol. 12)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 79",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_079.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_080",
+    "title": "Traditional Song of the Highlands No. 80 (Rwai Jingieit Samla Vol. 12)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 80",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_080.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_081",
+    "title": "Traditional Song of the Highlands No. 81 (Rwai Shlur Ki Hima Vol. 12)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 81",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_081.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_082",
+    "title": "Traditional Song of the Highlands No. 82 (Rwai Tip-Blei Tip-Briew Vol. 12)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 82",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_082.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_083",
+    "title": "Traditional Song of the Highlands No. 83 (Rwai Shad Suk Mynsiem Vol. 12)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 83",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_083.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_084",
+    "title": "Traditional Song of the Highlands No. 84 (Rwai Lum bad Wah Vol. 12)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 84",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_084.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_085",
+    "title": "Traditional Song of the Highlands No. 85 (Rwai Ot-Kba Vol. 13)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 85",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_085.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_086",
+    "title": "Traditional Song of the Highlands No. 86 (Rwai Pynpeit Khun Vol. 13)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 86",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_086.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_087",
+    "title": "Traditional Song of the Highlands No. 87 (Rwai Jingieit Samla Vol. 13)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 87",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_087.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_088",
+    "title": "Traditional Song of the Highlands No. 88 (Rwai Shlur Ki Hima Vol. 13)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 88",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_088.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_089",
+    "title": "Traditional Song of the Highlands No. 89 (Rwai Tip-Blei Tip-Briew Vol. 13)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 89",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_089.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_090",
+    "title": "Traditional Song of the Highlands No. 90 (Rwai Shad Suk Mynsiem Vol. 13)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 90",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_090.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_091",
+    "title": "Traditional Song of the Highlands No. 91 (Rwai Lum bad Wah Vol. 13)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 91",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_091.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_092",
+    "title": "Traditional Song of the Highlands No. 92 (Rwai Ot-Kba Vol. 14)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 92",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_092.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_093",
+    "title": "Traditional Song of the Highlands No. 93 (Rwai Pynpeit Khun Vol. 14)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 93",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_093.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_094",
+    "title": "Traditional Song of the Highlands No. 94 (Rwai Jingieit Samla Vol. 14)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 94",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_094.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_095",
+    "title": "Traditional Song of the Highlands No. 95 (Rwai Shlur Ki Hima Vol. 14)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 95",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_095.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_096",
+    "title": "Traditional Song of the Highlands No. 96 (Rwai Tip-Blei Tip-Briew Vol. 14)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 96",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_096.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_097",
+    "title": "Traditional Song of the Highlands No. 97 (Rwai Shad Suk Mynsiem Vol. 14)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 97",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_097.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_098",
+    "title": "Traditional Song of the Highlands No. 98 (Rwai Lum bad Wah Vol. 14)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 98",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_098.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_099",
+    "title": "Traditional Song of the Highlands No. 99 (Rwai Ot-Kba Vol. 15)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 99",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_099.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_100",
+    "title": "Traditional Song of the Highlands No. 100 (Rwai Pynpeit Khun Vol. 15)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 100",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_100.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_101",
+    "title": "Traditional Song of the Highlands No. 101 (Rwai Jingieit Samla Vol. 15)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 101",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_101.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_102",
+    "title": "Traditional Song of the Highlands No. 102 (Rwai Shlur Ki Hima Vol. 15)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 102",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_102.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_103",
+    "title": "Traditional Song of the Highlands No. 103 (Rwai Tip-Blei Tip-Briew Vol. 15)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 103",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_103.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_104",
+    "title": "Traditional Song of the Highlands No. 104 (Rwai Shad Suk Mynsiem Vol. 15)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 104",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_104.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_105",
+    "title": "Traditional Song of the Highlands No. 105 (Rwai Lum bad Wah Vol. 15)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 105",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_105.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_106",
+    "title": "Traditional Song of the Highlands No. 106 (Rwai Ot-Kba Vol. 16)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 106",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_106.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_107",
+    "title": "Traditional Song of the Highlands No. 107 (Rwai Pynpeit Khun Vol. 16)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 107",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_107.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_108",
+    "title": "Traditional Song of the Highlands No. 108 (Rwai Jingieit Samla Vol. 16)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 108",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Spring Festival",
+      "Thanksgiving",
+      "Sacred Dance"
+    ],
+    "word_count": 56,
+    "file": "rwai_khasi_traditional_108.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_109",
+    "title": "Traditional Song of the Highlands No. 109 (Rwai Shlur Ki Hima Vol. 16)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 109",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_109.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_110",
+    "title": "Traditional Song of the Highlands No. 110 (Rwai Tip-Blei Tip-Briew Vol. 16)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 110",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_110.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_111",
+    "title": "Traditional Song of the Highlands No. 111 (Rwai Shad Suk Mynsiem Vol. 16)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 111",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_111.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_112",
+    "title": "Traditional Song of the Highlands No. 112 (Rwai Lum bad Wah Vol. 16)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 112",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_112.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_113",
+    "title": "Traditional Song of the Highlands No. 113 (Rwai Ot-Kba Vol. 17)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 113",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_113.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_114",
+    "title": "Traditional Song of the Highlands No. 114 (Rwai Pynpeit Khun Vol. 17)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 114",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_114.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_115",
+    "title": "Traditional Song of the Highlands No. 115 (Rwai Jingieit Samla Vol. 17)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 115",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Infant Slumber",
+      "Maternal Devotion",
+      "Gentle Peace"
+    ],
+    "word_count": 59,
+    "file": "rwai_khasi_traditional_115.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_116",
+    "title": "Traditional Song of the Highlands No. 116 (Rwai Shlur Ki Hima Vol. 17)",
+    "khasi_title": "Rwai Shlur Ki Hima Ba-paka No. 116",
+    "category": "Historical, Heroic & Freedom Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Waitlam",
+      "Stieh",
+      "Ksing Nakra",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Creation Myth",
+      "Sohpetbneng",
+      "Golden Ladder"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_116.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_117",
+    "title": "Traditional Song of the Highlands No. 117 (Rwai Tip-Blei Tip-Briew Vol. 17)",
+    "khasi_title": "Rwai Tip-Blei Tip-Briew Ba-paka No. 117",
+    "category": "Sacred, Philosophical & Cosmological Hymns",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Bells"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_117.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_118",
+    "title": "Traditional Song of the Highlands No. 118 (Rwai Shad Suk Mynsiem Vol. 17)",
+    "khasi_title": "Rwai Shad Suk Mynsiem Ba-paka No. 118",
+    "category": "Dance & Festival Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Tangmuri",
+      "Ksing Padiah",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Matrilineal Hearth",
+      "Clan Heritage",
+      "Fireside Warmth"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_118.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_119",
+    "title": "Traditional Song of the Highlands No. 119 (Rwai Lum bad Wah Vol. 17)",
+    "khasi_title": "Rwai Lum bad Wah Ba-paka No. 119",
+    "category": "Elegies, Nature & Folk Narrative Ballads",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Maryngod",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Highland Majesty",
+      "Sacred Waters",
+      "Joyful Melody"
+    ],
+    "word_count": 54,
+    "file": "rwai_khasi_traditional_119.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_120",
+    "title": "Traditional Song of the Highlands No. 120 (Rwai Ot-Kba Vol. 18)",
+    "khasi_title": "Rwai Ot-Kba Ba-paka No. 120",
+    "category": "Harvest & Agricultural Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "River Umngot",
+      "Beloved Maiden",
+      "Unfading Love"
+    ],
+    "word_count": 62,
+    "file": "rwai_khasi_traditional_120.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_121",
+    "title": "Traditional Song of the Highlands No. 121 (Rwai Pynpeit Khun Vol. 18)",
+    "khasi_title": "Rwai Pynpeit Khun Ba-paka No. 121",
+    "category": "Lullabies & Cradle Songs",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Sharati",
+      "Soft Chanted Melody"
+    ],
+    "themes": [
+      "Freedom Resistance",
+      "Patriot Honor",
+      "Tirot Sing"
+    ],
+    "word_count": 64,
+    "file": "rwai_khasi_traditional_121.json"
+  },
+  {
+    "id": "rwai_khasi_traditional_122",
+    "title": "Traditional Song of the Highlands No. 122 (Rwai Jingieit Samla Vol. 18)",
+    "khasi_title": "Rwai Jingieit Samla Ba-paka No. 122",
+    "category": "Love, Courtship & Longing",
+    "composer": "Traditional Khasi-Pnar Oral Literature",
+    "year": "Traditional",
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Mieng"
+    ],
+    "themes": [
+      "Cultivation",
+      "Golden Paddy",
+      "Honest Labor"
+    ],
+    "word_count": 57,
+    "file": "rwai_khasi_traditional_122.json"
+  },
+  {
+    "id": "ko_mangkara_ialam_ia_nga",
+    "title": "O Morning Star, Lead Me Forth (Ko Mangkara Ialam Ia Nga)",
+    "khasi_title": "Ko Mangkara Ialam Ia Nga",
+    "category": "Spiritual & Nature Hymn",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 98,
+    "file": "ko_mangkara_ialam_ia_nga.json"
+  },
+  {
+    "id": "lyngba_jingkieng_ksier_majaw",
+    "title": "Across the Golden Ladder (Lyngba Jingkieng Ksiar)",
+    "khasi_title": "Lyngba Jingkieng Ksiar",
+    "category": "Cosmological Ballad",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 119,
+    "file": "lyngba_jingkieng_ksier_majaw.json"
+  },
+  {
+    "id": "myllung_soso_tham_majaw",
+    "title": "Ode to Bard Soso Tham (Myllung Soso Tham)",
+    "khasi_title": "Myllung Soso Tham",
+    "category": "Bardic Elegy & Homage",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 128,
+    "file": "myllung_soso_tham_majaw.json"
+  },
+  {
+    "id": "kumno_u_ong_u_syiem_jong_ngi",
+    "title": "What Spoke Our Ancient Sovereign (Kumno U Ong U Syiem Jong Ngi)",
+    "khasi_title": "Kumno U Ong U Syiem Jong Ngi",
+    "category": "Heroic & Historical Ballad",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 123,
+    "file": "kumno_u_ong_u_syiem_jong_ngi.json"
+  },
+  {
+    "id": "iaid_jar_marwei_majaw",
+    "title": "Walking in Solitary Meditation (Iaid Jar Marwei)",
+    "khasi_title": "Iaid Jar Marwei",
+    "category": "Philosophical & Reflective Lyric",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 124,
+    "file": "iaid_jar_marwei_majaw.json"
+  },
+  {
+    "id": "u_nongrep_majaw",
+    "title": "The Highland Cultivator (U Nongrep)",
+    "khasi_title": "U Nongrep",
+    "category": "Agrarian Harvest Ballad",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 142,
+    "file": "u_nongrep_majaw.json"
+  },
+  {
+    "id": "pyrthei_shong_basa_majaw",
+    "title": "This Earth a Temporary Inn (Pyrthei Shong Basa)",
+    "khasi_title": "Pyrthei Shong Basa",
+    "category": "Philosophical Song",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 127,
+    "file": "pyrthei_shong_basa_majaw.json"
+  },
+  {
+    "id": "ko_ri_ki_blei_majaw",
+    "title": "O Land of the Gods (Ko Ri Ki Blei)",
+    "khasi_title": "Ko Ri Ki Blei",
+    "category": "Patriotic Homeland Hymn",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 127,
+    "file": "ko_ri_ki_blei_majaw.json"
+  },
+  {
+    "id": "lum_kyllang_majaw",
+    "title": "The Granite Dome of Mount Kyllang (Lum Kyllang)",
+    "khasi_title": "Lum Kyllang",
+    "category": "Sacred Topography Ballad",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1978,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 135,
+    "file": "lum_kyllang_majaw.json"
+  },
+  {
+    "id": "meirad_die_kwai_majaw",
+    "title": "Old Grandmother Selling Betel Nut (Meirad Die Kwai)",
+    "khasi_title": "Meirad Die Kwai",
+    "category": "Folk Phawar & Hearth Ballad",
+    "composer": "S. S. Majaw",
+    "year": 2000,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 136,
+    "file": "meirad_die_kwai_majaw.json"
+  },
+  {
+    "id": "na_kliar_symper_majaw",
+    "title": "From the Summit of Mount Symper (Na Kliar Symper)",
+    "khasi_title": "Na Kliar Symper",
+    "category": "Highland Pastoral Lyric",
+    "composer": "S. S. Majaw",
+    "year": 2000,
+    "instruments": [
+      "Duitara",
+      "Maryngod",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Heritage",
+      "Moral Righteousness",
+      "Sacred Nature",
+      "Ancestral Renown"
+    ],
+    "word_count": 133,
+    "file": "na_kliar_symper_majaw.json"
+  },
+  {
+    "id": "ka_lynti_umiam_bareh",
+    "title": "The Path to Umiam (Ka Lynti Umiam)",
+    "khasi_title": "Ka Lynti Umiam",
+    "category": "River Lyric & Nature Ballad",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod",
+      "Ksing"
+    ],
+    "themes": [
+      "Sacred Waters",
+      "Nature Solitude",
+      "River Gorge",
+      "Spiritual Longing"
+    ],
+    "word_count": 158,
+    "file": "ka_lynti_umiam_bareh.json"
+  },
+  {
+    "id": "u_tiewdohmaw_ha_shiteng_riat_bareh",
+    "title": "The Wild Orchid on the Cliffside (U Tiewdohmaw Ha Shiteng Riat)",
+    "khasi_title": "U Tiewdohmaw Ha Shiteng Riat",
+    "category": "Floral Allegory & Highland Ballad",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Highland Flora",
+      "Unreachable Beauty",
+      "Modesty",
+      "Sacred Cliffs"
+    ],
+    "word_count": 72,
+    "file": "u_tiewdohmaw_ha_shiteng_riat_bareh.json"
+  },
+  {
+    "id": "u_klew_bad_ka_sngi_bareh",
+    "title": "The Peacock and the Sun (U Klew Bad Ka Sngi)",
+    "khasi_title": "U Klew Bad Ka Sngi",
+    "category": "Cosmological Fable & Song",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Sun Maiden",
+      "Peacock Plumes",
+      "Solar Love",
+      "Mythological Origins"
+    ],
+    "word_count": 84,
+    "file": "u_klew_bad_ka_sngi_bareh.json"
+  },
+  {
+    "id": "ka_pyrem_bareh",
+    "title": "Springtime in the Hills (Ka Pyrem)",
+    "khasi_title": "Ka Pyrem",
+    "category": "Seasonal Pastoral Ode",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Spring Season",
+      "Blossoming Hills",
+      "Rebirth of Earth",
+      "Pastoral Joy"
+    ],
+    "word_count": 78,
+    "file": "ka_pyrem_bareh.json"
+  },
+  {
+    "id": "u_manik_raitong_bareh",
+    "title": "Manik Raitong's Flute (U Manik Raitong)",
+    "khasi_title": "U Manik Raitong",
+    "category": "Tragic Ballad & Flute Song",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Sharati",
+      "Duitara",
+      "Ksing"
+    ],
+    "themes": [
+      "Sharati Bamboo Flute",
+      "Orphan Bard",
+      "Tragic Love",
+      "Immortality of Music"
+    ],
+    "word_count": 77,
+    "file": "u_manik_raitong_bareh.json"
+  },
+  {
+    "id": "u_lum_shillong_bareh",
+    "title": "Shillong Peak: Throne of the Gods (U Lum Shillong)",
+    "khasi_title": "U Lum Shillong",
+    "category": "Sacred Mountain Anthem",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing",
+      "Nakra"
+    ],
+    "themes": [
+      "Sacred Peak",
+      "Guardian Spirit",
+      "Highland Sovereignty",
+      "Ancestral Sanctuaries"
+    ],
+    "word_count": 89,
+    "file": "u_lum_shillong_bareh.json"
+  },
+  {
+    "id": "ko_duitara_jong_nga_bareh",
+    "title": "O My Duitara (Ko Duitara Jong Nga)",
+    "khasi_title": "Ko Duitara Jong Nga",
+    "category": "Bardic Instrument Ode",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara"
+    ],
+    "themes": [
+      "Duitara Lute",
+      "Silk Strings",
+      "Bardic Calling",
+      "Soul of Song"
+    ],
+    "word_count": 76,
+    "file": "ko_duitara_jong_nga_bareh.json"
+  },
+  {
+    "id": "ha_ki_dienjat_ki_longshuwa_bareh",
+    "title": "In the Footsteps of the Ancestors (Ha Ki Dienjat Ki Longshuwa)",
+    "khasi_title": "Ha Ki Dienjat Ki Longshuwa",
+    "category": "Ancestral Heritage Hymn",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Ksing",
+      "Sharati"
+    ],
+    "themes": [
+      "Ancestral Footsteps",
+      "Monoliths",
+      "Tip-Kur Tip-Kha",
+      "Moral Lineage"
+    ],
+    "word_count": 90,
+    "file": "ha_ki_dienjat_ki_longshuwa_bareh.json"
+  },
+  {
+    "id": "ki_men_guru_majaw",
+    "title": "The Master Bards (Ki Men Guru)",
+    "khasi_title": "Ki Men Guru",
+    "category": "Bardic Phawar & Chant",
+    "composer": "S. S. Majaw",
+    "year": 1997,
+    "instruments": [
+      "Sharati",
+      "Ksing",
+      "Duitara"
+    ],
+    "themes": [
+      "Master Mentors",
+      "Village Sages",
+      "Oral Lore",
+      "Phawar Chants"
+    ],
+    "word_count": 79,
+    "file": "ki_men_guru_majaw.json"
+  },
+  {
+    "id": "kor_i_tungtap_majaw",
+    "title": "Praise of the Hearth & Tungtap (Kor I Tungtap)",
+    "khasi_title": "Kor I Tungtap",
+    "category": "Rustic Culinary Phawar",
+    "composer": "S. S. Majaw",
+    "year": 1997,
+    "instruments": [
+      "Ksing",
+      "Duitara"
+    ],
+    "themes": [
+      "Highland Cuisine",
+      "Tungtap",
+      "Hearth Gatherings",
+      "Village Mirth"
+    ],
+    "word_count": 79,
+    "file": "kor_i_tungtap_majaw.json"
+  },
+  {
+    "id": "long_lang_bha_lang_majaw",
+    "title": "Prosper Together, Live in Unity (Long-lang Bha-lang)",
+    "khasi_title": "Long-lang Bha-lang",
+    "category": "Communal Unity Phawar",
+    "composer": "S. S. Majaw",
+    "year": 1997,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Duitara",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Communal Harmony",
+      "Collective Welfare",
+      "Village Solidarity",
+      "The Seven Huts"
+    ],
+    "word_count": 73,
+    "file": "long_lang_bha_lang_majaw.json"
+  },
+  {
+    "id": "ka_shnong_ba_iew_pugh",
+    "title": "The Market Day Town (Ka Shnong Ba-Iew)",
+    "khasi_title": "Ka Shnong Ba-Iew",
+    "category": "Market Day & Civic Phawar",
+    "composer": "Frank M. Pugh",
+    "year": 1973,
+    "instruments": [
+      "Ksing",
+      "Tangmuri",
+      "Duitara"
+    ],
+    "themes": [
+      "Eight-Day Market Cycle",
+      "Commerce",
+      "Highland Traders",
+      "Vibrant Gatherings"
+    ],
+    "word_count": 78,
+    "file": "ka_shnong_ba_iew_pugh.json"
+  },
+  {
+    "id": "kumta_nga_rwai_mawrie",
+    "title": "Thus I Sing of My Hills (Kumta Nga Rwai)",
+    "khasi_title": "Kumta Nga Rwai",
+    "category": "Highland Lyric & Philosophical Song",
+    "composer": "H. Onderson Mawrie",
+    "year": 1976,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Bardic Voice",
+      "Sacred Landscape",
+      "Indigenous Faith",
+      "Soulful Harmony"
+    ],
+    "word_count": 86,
+    "file": "kumta_nga_rwai_mawrie.json"
+  },
+  {
+    "id": "ki_jingrwai_ai_nguh_blei_roy",
+    "title": "Thanksgiving Hymn to the Creator (Ki Jingrwai Ai-nguh Blei)",
+    "khasi_title": "Ki Jingrwai Ai-nguh Blei",
+    "category": "Sacred Devotional Hymn",
+    "composer": "Binod Behari Roy",
+    "year": 1930,
+    "instruments": [
+      "Duitara",
+      "Ksing",
+      "Sharati"
+    ],
+    "themes": [
+      "Divine Gratitude",
+      "Creator Worship",
+      "Bountiful Harvest",
+      "Sacred Providence"
+    ],
+    "word_count": 87,
+    "file": "ki_jingrwai_ai_nguh_blei_roy.json"
+  },
+  {
+    "id": "u_thlen_bad_ka_wanduh_bareh",
+    "title": "The Thlen Serpent and the Orphan (U Thlen Bad Ka Wanduh)",
+    "khasi_title": "U Thlen Bad Ka Wanduh",
+    "category": "Heroic Legend & Epic Ballad",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Nakra",
+      "Ksing",
+      "Sharati",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Dainthlen Gorge",
+      "Slaying Evil",
+      "Bravery of the Poor",
+      "Liberation"
+    ],
+    "word_count": 104,
+    "file": "u_thlen_bad_ka_wanduh_bareh.json"
+  },
+  {
+    "id": "ka_sohra_bareh",
+    "title": "Sohra: Cradle of Rain and Cascades (Ka Sohra)",
+    "khasi_title": "Ka Sohra",
+    "category": "Highland Landscape Lyric",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Sohra Tableland",
+      "Highland Mist",
+      "Cascading Waterfalls",
+      "Historic Capital"
+    ],
+    "word_count": 98,
+    "file": "ka_sohra_bareh.json"
+  },
+  {
+    "id": "ka_likai_bareh",
+    "title": "The Lament of Likai (Ka Likai)",
+    "khasi_title": "Ka Likai",
+    "category": "Tragic Folk Lament",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Nohkalikai",
+      "Maternal Love",
+      "Highland Tragedy",
+      "Immortal Waterfall"
+    ],
+    "word_count": 84,
+    "file": "ka_likai_bareh.json"
+  },
+  {
+    "id": "ha_pneh_ka_mei_mariang_bareh",
+    "title": "In the Lap of Mother Nature (Ha Pneh Ka Mei Mariang)",
+    "khasi_title": "Ha Pneh Ka Mei Mariang",
+    "category": "Pastoral Nature Hymn",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Mother Nature",
+      "Spiritual Solitude",
+      "Highland Healing",
+      "Green Valleys"
+    ],
+    "word_count": 78,
+    "file": "ha_pneh_ka_mei_mariang_bareh.json"
+  },
+  {
+    "id": "u_tyrkhang_iewbih_bareh",
+    "title": "The Fragrant Fern (U Tyrkhang Iewbih)",
+    "khasi_title": "U Tyrkhang Iewbih",
+    "category": "Highland Botany & Lyric",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Highland Ferns",
+      "Secret Fragrance",
+      "Rocky Streams",
+      "Nature Simplicity"
+    ],
+    "word_count": 78,
+    "file": "u_tyrkhang_iewbih_bareh.json"
+  },
+  {
+    "id": "sha_lyndet_ki_lyoh_bareh",
+    "title": "Beyond the Clouds (Sha Lyndet Ki Lyoh)",
+    "khasi_title": "Sha Lyndet Ki Lyoh",
+    "category": "Mystical Celestial Ballad",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Beyond the Mist",
+      "Eternal Hope",
+      "Celestial Realm",
+      "Highland Sky"
+    ],
+    "word_count": 77,
+    "file": "sha_lyndet_ki_lyoh_bareh.json"
+  },
+  {
+    "id": "tyngshain_ko_nai_khadsaw_bareh",
+    "title": "Shine On, O Fourteenth Full Moon (Tyngshain Ko Nai-khadsaw)",
+    "khasi_title": "Tyngshain Ko Nai-khadsaw Synnia",
+    "category": "Nocturnal Lunar Ballad",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Full Moon",
+      "Nocturnal Highland",
+      "Silver Pine Needles",
+      "Peaceful Solitude"
+    ],
+    "word_count": 80,
+    "file": "tyngshain_ko_nai_khadsaw_bareh.json"
+  },
+  {
+    "id": "ki_khun_mariang_bareh",
+    "title": "Children of Nature (Ki Khun Mariang)",
+    "khasi_title": "Ki Khun Mariang",
+    "category": "Indigenous Identity Anthem",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Duitara",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Children of the Soil",
+      "Indigenous Identity",
+      "Highland Brotherhood",
+      "Ecology"
+    ],
+    "word_count": 87,
+    "file": "ki_khun_mariang_bareh.json"
+  },
+  {
+    "id": "ka_umkhen_bad_umiam_bareh",
+    "title": "The Twin Sisters: Umkhen and Umiam (Ka Umkhen Bad Umiam)",
+    "khasi_title": "Ka Umkhen Bad Umiam",
+    "category": "River Myth Ballad",
+    "composer": "Victor G. Bareh",
+    "year": 1960,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Twin Rivers",
+      "Sister Rivalry",
+      "Umiam & Umkhen",
+      "Highland Geography"
+    ],
+    "word_count": 81,
+    "file": "ka_umkhen_bad_umiam_bareh.json"
+  },
+  {
+    "id": "ka_phawar_pharshi_pugh",
+    "title": "The Parable Chant (Ka Phawar Pharshi)",
+    "khasi_title": "Ka Phawar Pharshi",
+    "category": "Allegorical Wisdom Phawar",
+    "composer": "Frank M. Pugh",
+    "year": 1973,
+    "instruments": [
+      "Ksing",
+      "Sharati"
+    ],
+    "themes": [
+      "Highland Parables",
+      "Moral Prudence",
+      "Phawar Metaphor",
+      "Ancestral Counsel"
+    ],
+    "word_count": 86,
+    "file": "ka_phawar_pharshi_pugh.json"
+  },
+  {
+    "id": "namar_jong_phi_majaw",
+    "title": "For Your Sake, My People (Namar Jong Phi)",
+    "khasi_title": "Namar Jong Phi",
+    "category": "Highland Devotion Ballad",
+    "composer": "S. S. Majaw",
+    "year": 1997,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Cultural Dedication",
+      "Service to Community",
+      "Language Loyalty",
+      "Bardic Vow"
+    ],
+    "word_count": 90,
+    "file": "namar_jong_phi_majaw.json"
+  },
+  {
+    "id": "katba_dang_neh_ka_shad_khasi_nongrum",
+    "title": "As Long as Khasi Dance Endures (Katba Dang Neh Ka Shad Khasi)",
+    "khasi_title": "Katba Dang Neh Ka Shad Khasi",
+    "category": "Cultural Survival & Dance Anthem",
+    "composer": "Kitbor W. Nongrum",
+    "year": 1992,
+    "instruments": [
+      "Ksing Kynthei",
+      "Ksing Shynrang",
+      "Tangmuri",
+      "Sharati"
+    ],
+    "themes": [
+      "Cultural Survival",
+      "Traditional Dance",
+      "Sacred Drums",
+      "Highland Heritage"
+    ],
+    "word_count": 113,
+    "file": "katba_dang_neh_ka_shad_khasi_nongrum.json"
+  },
+  {
+    "id": "ki_shad_ki_rang_bad_thei_sotti_nongrum",
+    "title": "Dance of Virtuous Maidens and Valiant Youths (Ki Shad Ki Rang Bad Thei-Sotti)",
+    "khasi_title": "Ki Shad Ki Rang Bad Thei-Sotti",
+    "category": "Royal Arena & Spring Festival Ode",
+    "composer": "Kitbor W. Nongrum",
+    "year": 1992,
+    "instruments": [
+      "Ksing",
+      "Nakra",
+      "Tangmuri",
+      "Cymbals (Shakuria)"
+    ],
+    "themes": [
+      "Virtuous Maidens",
+      "Warrior Guardians",
+      "Circular Harmony",
+      "Sacred Spring"
+    ],
+    "word_count": 105,
+    "file": "ki_shad_ki_rang_bad_thei_sotti_nongrum.json"
+  },
+  {
+    "id": "ko_ri_baieit_ba_la_kha_ia_nga_nongrum",
+    "title": "O Beloved Motherland of My Birth (Ko Ri Baieit Ba La Kha Ia Nga)",
+    "khasi_title": "Ko Ri Baieit Ba La Kha Ia Nga",
+    "category": "Patriotic Homeland Hymn",
+    "composer": "Kitbor W. Nongrum",
+    "year": 1992,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Beloved Motherland",
+      "Hills of Heritage",
+      "Patriotic Devotion",
+      "Sacred Waters"
+    ],
+    "word_count": 116,
+    "file": "ko_ri_baieit_ba_la_kha_ia_nga_nongrum.json"
+  },
+  {
+    "id": "ha_ka_iasiat_ha_ka_iathong_nongrum",
+    "title": "In the Archery Tournament (Ha Ka Iasiat Ha Ka Iathong)",
+    "khasi_title": "Ha Ka Iasiat Ha Ka Iathong",
+    "category": "Archery Victory Phawar",
+    "composer": "Kitbor W. Nongrum",
+    "year": 1992,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Archery Bow & Bamboo Arrows"
+    ],
+    "themes": [
+      "Archery Contests",
+      "Bamboo Arrows",
+      "Highland Sportsmanship",
+      "Victory Phawar"
+    ],
+    "word_count": 111,
+    "file": "ha_ka_iasiat_ha_ka_iathong_nongrum.json"
+  },
+  {
+    "id": "ko_khun_to_im_tip_briew_tip_blei_nongrum",
+    "title": "Live Honoring God and Humankind (Ko Khun To Im Tip-Briew Tip-Blei)",
+    "khasi_title": "Ko Khun To Im Tip-Briew Tip-Blei",
+    "category": "Paternal Moral Benediction",
+    "composer": "Kitbor W. Nongrum",
+    "year": 1992,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Tip-Briew Tip-Blei",
+      "Moral Uprightness",
+      "Kamai Ia Ka Hok",
+      "Paternal Guidance"
+    ],
+    "word_count": 119,
+    "file": "ko_khun_to_im_tip_briew_tip_blei_nongrum.json"
+  },
+  {
+    "id": "ka_umpohliew_nongrum",
+    "title": "The Living Mountain Spring (Ka Umpohliew)",
+    "khasi_title": "Ka Umpohliew",
+    "category": "Highland Spring & Wisdom Song",
+    "composer": "Kitbor W. Nongrum",
+    "year": 1992,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Living Spring",
+      "Purity of Waters",
+      "Village Hearth",
+      "Nature Solace"
+    ],
+    "word_count": 117,
+    "file": "ka_umpohliew_nongrum.json"
+  },
+  {
+    "id": "ki_tien_tymmen_wahlang",
+    "title": "The Counsel of the Elders (Ki Tien Tymmen)",
+    "khasi_title": "Ki Tien Tymmen",
+    "category": "Wisdom & Maxims Lyric",
+    "composer": "D. N. S. Wahlang",
+    "year": 1964,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Elders' Wisdom",
+      "Proverbs",
+      "Hearthside Memory",
+      "Moral Foundation"
+    ],
+    "word_count": 117,
+    "file": "ki_tien_tymmen_wahlang.json"
+  },
+  {
+    "id": "ka_jingthrang_jong_ngi_wahlang",
+    "title": "Our Sacred Aspiration (Ka Jingthrang Jong Ngi)",
+    "khasi_title": "Ka Jingthrang Jong Ngi",
+    "category": "Highland Youth Anthem",
+    "composer": "D. N. S. Wahlang",
+    "year": 1964,
+    "instruments": [
+      "Duitara",
+      "Tangmuri",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Highland Youth",
+      "Education & Enlightenment",
+      "Righteous Ambition",
+      "Nation Building"
+    ],
+    "word_count": 122,
+    "file": "ka_jingthrang_jong_ngi_wahlang.json"
+  },
+  {
+    "id": "na_thymmei_ngi_kiew_nongrum_mattsing",
+    "title": "From the Ancestral Root We Ascend (Na Thymmei Ngi Kiew)",
+    "khasi_title": "Na Thymmei Ngi Kiew",
+    "category": "Historical Heritage Ballad",
+    "composer": "Mattsing Nongrum",
+    "year": 1998,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Ancestral Roots",
+      "Lum Sohpetbneng",
+      "Golden Age",
+      "Continuity of Lineage"
+    ],
+    "word_count": 121,
+    "file": "na_thymmei_ngi_kiew_nongrum_mattsing.json"
+  },
+  {
+    "id": "ka_sur_ka_jaidbynriew_nongrum_mattsing",
+    "title": "The Voice of the Nation (Ka Sur Ka Jaidbynriew)",
+    "khasi_title": "Ka Sur Ka Jaidbynriew",
+    "category": "National Solidarity Anthem",
+    "composer": "Mattsing Nongrum",
+    "year": 1998,
+    "instruments": [
+      "Ksing",
+      "Tangmuri",
+      "Sharati",
+      "Nakra"
+    ],
+    "themes": [
+      "Highland Unity",
+      "One Brotherhood",
+      "Pnar War Bhoi Maram",
+      "National Voice"
+    ],
+    "word_count": 110,
+    "file": "ka_sur_ka_jaidbynriew_nongrum_mattsing.json"
+  },
+  {
+    "id": "ka_sur_myllung_na_krem_shadem_sun",
+    "title": "Bardic Melody from the Heart's Cavern (Ka Sur Myllung Na Krem Shadem)",
+    "khasi_title": "Ka Sur Myllung Na Krem Shadem",
+    "category": "Meditative Soul Lyric",
+    "composer": "Andreas Sun",
+    "year": 2006,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Heart's Cavern",
+      "Inner Temple",
+      "Spiritual Solitude",
+      "Philosophical Melodies"
+    ],
+    "word_count": 105,
+    "file": "ka_sur_myllung_na_krem_shadem_sun.json"
+  },
+  {
+    "id": "ka_sur_ka_shad_suk_mynsiem_rynjah",
+    "title": "Melody of the Spring Dance of Peaceful Hearts (Ka Sur Ka Shad Suk Mynsiem)",
+    "khasi_title": "Ka Sur Ka Shad Suk Mynsiem",
+    "category": "Sacred Spring Festival Anthem",
+    "composer": "Sweetymon Rynjah",
+    "year": 2000,
+    "instruments": [
+      "Ksing Kynthei",
+      "Ksing Shynrang",
+      "Tangmuri",
+      "Nakra",
+      "Shakuria"
+    ],
+    "themes": [
+      "Shad Suk Mynsiem",
+      "Thanksgiving",
+      "Royal Attire",
+      "Weiking Arena",
+      "Spring Harvest"
+    ],
+    "word_count": 126,
+    "file": "ka_sur_ka_shad_suk_mynsiem_rynjah.json"
+  },
+  {
+    "id": "u_khunlung_syiem_wahlang",
+    "title": "The Royal Infant (U Khunlung Syiem)",
+    "khasi_title": "U Khunlung Syiem",
+    "category": "Royal Lullaby & Dynastic Verse",
+    "composer": "D. N. S. Wahlang",
+    "year": 1964,
+    "instruments": [
+      "Sharati",
+      "Duitara",
+      "Besli"
+    ],
+    "themes": [
+      "Royal Infant",
+      "Syiem Lineage",
+      "Matriarchal Blessing",
+      "Lullaby"
+    ],
+    "word_count": 99,
+    "file": "u_khunlung_syiem_wahlang.json"
+  },
+  {
+    "id": "u_khun_blei_khlad_noh_wahlang",
+    "title": "Lament for the Departed Soul (U Khun Blei Khlad Noh)",
+    "khasi_title": "U Khun Blei Khlad Noh",
+    "category": "Elegiac Funeral Chant",
+    "composer": "D. N. S. Wahlang",
+    "year": 1964,
+    "instruments": [
+      "Sharati",
+      "Ksing Kynthei"
+    ],
+    "themes": [
+      "Departed Soul",
+      "Ancestral Council",
+      "Spiritual Return",
+      "Funeral Lament"
+    ],
+    "word_count": 105,
+    "file": "u_khun_blei_khlad_noh_wahlang.json"
+  },
+  {
+    "id": "ki_ktien_ai_mynsiem_sun",
+    "title": "Words of Spiritual Fortitude (Ki Ktien Ai Mynsiem)",
+    "khasi_title": "Ki Ktien Ai Mynsiem",
+    "category": "Highland Encouragement Ballad",
+    "composer": "Andreas Sun",
+    "year": 2006,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Moral Fortitude",
+      "Perseverance",
+      "Inner Strength",
+      "Enduring Hope"
+    ],
+    "word_count": 118,
+    "file": "ki_ktien_ai_mynsiem_sun.json"
+  },
+  {
+    "id": "ka_phawar_shad_weiking_rynjah",
+    "title": "Royal Dance Phawar of Weiking (Ka Phawar Shad Weiking)",
+    "khasi_title": "Ka Phawar Shad Weiking",
+    "category": "Royal Archival Festival Phawar",
+    "composer": "Sweetymon Rynjah",
+    "year": 2000,
+    "instruments": [
+      "Ksing",
+      "Nakra",
+      "Tangmuri",
+      "Shakuria"
+    ],
+    "themes": [
+      "Weiking Arena",
+      "Royal Dance Phawar",
+      "Khyrim & Mylliem Syiemships",
+      "National Blessing"
+    ],
+    "word_count": 118,
+    "file": "ka_phawar_shad_weiking_rynjah.json"
+  },
+  {
+    "id": "rwai_shlur_ki_khlawait_tirot_sing_bareh",
+    "title": "Warrior Song of Tirot Sing's Freedom Fighters (Rwai Shlur Ki Khla-Wait)",
+    "khasi_title": "Rwai Shlur Ki Khla-Wait U Tirot Sing",
+    "category": "Patriotic Heroic War Chant",
+    "composer": "Victor G. Bareh",
+    "year": 1979,
+    "instruments": [
+      "Nakra",
+      "Ksing Shynrang",
+      "Sharati",
+      "Waitlam"
+    ],
+    "themes": [
+      "U Tirot Sing",
+      "Heroic Freedom",
+      "Warriors of Nongkhlaw",
+      "Sacred Motherland"
+    ],
+    "word_count": 117,
+    "file": "rwai_shlur_ki_khlawait_tirot_sing_bareh.json"
+  },
+  {
+    "id": "ka_sur_jingialeh_laitluid_bareh",
+    "title": "Anthem of the Independent Hills (Ka Sur Jingialeh Laitluid)",
+    "khasi_title": "Ka Sur Jingialeh Laitluid",
+    "category": "Historical Freedom Anthem",
+    "composer": "Victor G. Bareh",
+    "year": 1979,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Sovereign Hills",
+      "Durbar Treaty",
+      "Ancestral Soil",
+      "Defiance of Tyranny"
+    ],
+    "word_count": 119,
+    "file": "ka_sur_jingialeh_laitluid_bareh.json"
+  },
+  {
+    "id": "ka_ballad_ka_sohlyngngem_majaw",
+    "title": "The Ballad of Sohlyngngem (Ka Ballad Ka Sohlyngngem)",
+    "khasi_title": "Ka Ballad Ka Sohlyngngem",
+    "category": "Highland Avian Folk Ballad",
+    "composer": "S. S. Majaw",
+    "year": 1992,
+    "instruments": [
+      "Sharati",
+      "Duitara",
+      "Maryngod"
+    ],
+    "themes": [
+      "Ka Sohlyngngem",
+      "Avian Folklore",
+      "Mountain Mourning",
+      "Eternal Devotion"
+    ],
+    "word_count": 108,
+    "file": "ka_ballad_ka_sohlyngngem_majaw.json"
+  },
+  {
+    "id": "ki_sonnet_ka_mariang_majaw",
+    "title": "Highland Sonnet of Nature (Ki Sonnet Ka Mariang)",
+    "khasi_title": "Ki Sonnet Ka Mariang",
+    "category": "Highland Classical Sonnet",
+    "composer": "S. S. Majaw",
+    "year": 1993,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Highland Sonnet",
+      "Sacred Geology",
+      "Autumn Sky",
+      "Highland Silence"
+    ],
+    "word_count": 118,
+    "file": "ki_sonnet_ka_mariang_majaw.json"
+  },
+  {
+    "id": "sur_ka_synrai_majaw",
+    "title": "Autumn Song of the Harvest Moon (Sur Ka Synrai)",
+    "khasi_title": "Sur Ka Synrai",
+    "category": "Seasonal Harvest Ode",
+    "composer": "S. S. Majaw",
+    "year": 1993,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Ksing"
+    ],
+    "themes": [
+      "Autumn Harvest",
+      "Golden Paddy",
+      "Clear Skies",
+      "Thanksgiving"
+    ],
+    "word_count": 112,
+    "file": "sur_ka_synrai_majaw.json"
+  },
+  {
+    "id": "rwai_ieit_hima_mawrie",
+    "title": "Ballad of the Homeland of Love (Rwai Ieit Hima)",
+    "khasi_title": "Rwai Ieit Hima",
+    "category": "Pastoral Love & Devotion Ballad",
+    "composer": "H. O. Mawrie",
+    "year": 1980,
+    "instruments": [
+      "Duitara",
+      "Sharati",
+      "Maryngod"
+    ],
+    "themes": [
+      "Selfless Love",
+      "Spiritual Harmony",
+      "Hearthside Loyalty",
+      "Matriarchal Grace"
+    ],
+    "word_count": 113,
+    "file": "rwai_ieit_hima_mawrie.json"
+  },
+  {
+    "id": "akor_iaid_akor_ieng_phawar_berry",
+    "title": "Phawar of Demeanor and Gait (Akor Iaid Akor Ieng)",
+    "khasi_title": "Akor Iaid Akor Ieng Ha Ka Rukom Rwai Phawar",
+    "category": "Ethical Conduct & Phawar Chant",
+    "composer": "Radhon Singh Berry",
+    "year": 1902,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Akor Khasi",
+      "Dignified Comportment",
+      "Modesty",
+      "Ancestral Manners"
+    ],
+    "word_count": 109,
+    "file": "akor_iaid_akor_ieng_phawar_berry.json"
+  },
+  {
+    "id": "akor_kren_akor_khana_phawar_berry",
+    "title": "Phawar of Noble Speech (Akor Kren Akor Khana)",
+    "khasi_title": "Akor Kren Akor Khana",
+    "category": "Verbal Etiquette & Wisdom Chant",
+    "composer": "Radhon Singh Berry",
+    "year": 1902,
+    "instruments": [
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Noble Speech",
+      "Truthfulness",
+      "Prohibition of Slander",
+      "Verbal Decorum"
+    ],
+    "word_count": 114,
+    "file": "akor_kren_akor_khana_phawar_berry.json"
+  },
+  {
+    "id": "akor_kur_akor_kha_phawar_berry",
+    "title": "Phawar of Kinship Honor: Tip-Kur Tip-Kha",
+    "khasi_title": "Akor Kur Akor Kha",
+    "category": "Clan Kinship & Matrilineal Law Phawar",
+    "composer": "Radhon Singh Berry",
+    "year": 1902,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Duitara"
+    ],
+    "themes": [
+      "Tip-Kur Tip-Kha",
+      "Matrilineal Clan",
+      "Paternal Honor",
+      "Sacred Kinship"
+    ],
+    "word_count": 112,
+    "file": "akor_kur_akor_kha_phawar_berry.json"
+  },
+  {
+    "id": "akor_shong_iing_shong_sem_phawar_berry",
+    "title": "Phawar of the Family Hearth (Akor Shong Iing Shong Sem)",
+    "khasi_title": "Akor Shong Iing Shong Sem",
+    "category": "Domestic Hearth & Family Etiquette",
+    "composer": "Radhon Singh Berry",
+    "year": 1902,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Domestic Harmony",
+      "Clay Hearth",
+      "Hospitality",
+      "Filial Devotion"
+    ],
+    "word_count": 111,
+    "file": "akor_shong_iing_shong_sem_phawar_berry.json"
+  },
+  {
+    "id": "jingrwai_jingieit_blei_roy",
+    "title": "Hymn of Divine Love (Jingrwai Jingieit Blei)",
+    "khasi_title": "Jingrwai Jingieit Blei",
+    "category": "Sacred Devotional Hymn",
+    "composer": "Binod Behari Roy",
+    "year": 1930,
+    "instruments": [
+      "Duitara",
+      "Ksing",
+      "Sharati"
+    ],
+    "themes": [
+      "Divine Love",
+      "Creator's Grace",
+      "Omnipresence",
+      "Sacred Solace"
+    ],
+    "word_count": 116,
+    "file": "jingrwai_jingieit_blei_roy.json"
+  },
+  {
+    "id": "jingrwai_shaphang_ka_jingsuk_roy",
+    "title": "Hymn of Everlasting Peace (Jingrwai Shaphang Ka Jingsuk)",
+    "khasi_title": "Jingrwai Shaphang Ka Jingsuk",
+    "category": "Sacred Peace Hymn",
+    "composer": "Binod Behari Roy",
+    "year": 1930,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Everlasting Peace",
+      "Spiritual Serenity",
+      "Freedom from Dread",
+      "Divine Sanctuary"
+    ],
+    "word_count": 110,
+    "file": "jingrwai_shaphang_ka_jingsuk_roy.json"
+  },
+  {
+    "id": "jingrwai_ban_kiew_sha_bneng_roy",
+    "title": "Ascension Hymn to the Skies (Jingrwai Ban Kiew Sha Bneng)",
+    "khasi_title": "Jingrwai Ban Kiew Sha Bneng",
+    "category": "Eschatological Celestial Hymn",
+    "composer": "Binod Behari Roy",
+    "year": 1930,
+    "instruments": [
+      "Sharati",
+      "Duitara",
+      "Ksing"
+    ],
+    "themes": [
+      "Soul's Ascension",
+      "Celestial Realm",
+      "Return to Creator",
+      "Eternal Rest"
+    ],
+    "word_count": 114,
+    "file": "jingrwai_ban_kiew_sha_bneng_roy.json"
+  },
+  {
+    "id": "jingrwai_ai_nguh_u_blei_nongthaw_roy",
+    "title": "Thanksgiving to God the Creator (Jingrwai Ai-nguh U Blei Nongthaw)",
+    "khasi_title": "Jingrwai Ai-nguh U Blei Nongthaw",
+    "category": "Highland Creator Praise Hymn",
+    "composer": "Binod Behari Roy",
+    "year": 1930,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Tangmuri",
+      "Duitara"
+    ],
+    "themes": [
+      "Praise of the Creator",
+      "Created Wonders",
+      "Highland Waterfalls",
+      "Harvest Blessings"
+    ],
+    "word_count": 119,
+    "file": "jingrwai_ai_nguh_u_blei_nongthaw_roy.json"
+  },
+  {
+    "id": "arphew_san_snem_phawar_majaw",
+    "title": "Phawar of the Twenty-Five Years (Arphew San Snem)",
+    "khasi_title": "Arphew San Snem",
+    "category": "Jubilee Commemoration Phawar",
+    "composer": "S. S. Majaw",
+    "year": 1997,
+    "instruments": [
+      "Ksing",
+      "Sharati",
+      "Nakra"
+    ],
+    "themes": [
+      "Silver Jubilee",
+      "Statehood Commemoration",
+      "Language Preservation",
+      "Highland Pride"
+    ],
+    "word_count": 111,
+    "file": "arphew_san_snem_phawar_majaw.json"
+  },
+  {
+    "id": "mirabel_majaw",
+    "title": "Mirabel: Pastoral Hillside Song (Mirabel)",
+    "khasi_title": "Mirabel",
+    "category": "Pastoral Highland Lyric",
+    "composer": "S. S. Majaw",
+    "year": 1997,
+    "instruments": [
+      "Duitara",
+      "Sharati"
+    ],
+    "themes": [
+      "Highland Meadow",
+      "Pastoral Beauty",
+      "Clear Hillside Rills",
+      "Rustic Simplicity"
+    ],
+    "word_count": 108,
+    "file": "mirabel_majaw.json"
+  },
+  {
+    "id": "akor_bam_akor_dih_phawar_berry",
+    "title": "Phawar of Hearth Dining Etiquette (Akor Bam Akor Dih)",
+    "khasi_title": "Akor Bam Akor Dih",
+    "category": "Culinary & Dining Etiquette Phawar",
+    "composer": "Radhon Singh Berry",
+    "year": 1902,
+    "instruments": [
+      "Ksing",
+      "Duitara"
+    ],
+    "themes": [
+      "Dining Etiquette",
+      "Table Manners",
+      "Hearth Sharing",
+      "Moderation"
+    ],
+    "word_count": 112,
+    "file": "akor_bam_akor_dih_phawar_berry.json"
+  },
+  {
+    "id": "akor_blei_akor_briew_phawar_berry",
+    "title": "Phawar of Reverence to God and Humankind (Akor Blei Akor Briew)",
+    "khasi_title": "Akor Blei Akor Briew",
+    "category": "Spiritual Duty & Moral Philosophy Phawar",
+    "composer": "Radhon Singh Berry",
+    "year": 1902,
+    "instruments": [
+      "Sharati",
+      "Ksing",
+      "Duitara"
+    ],
+    "themes": [
+      "Duty to God",
+      "Justice to Humanity",
+      "Summum Bonum",
+      "Kamai Ia Ka Hok"
+    ],
+    "word_count": 118,
+    "file": "akor_blei_akor_briew_phawar_berry.json"
+  },
+  {
+    "id": "iap_tram_ka_ri_majaw",
+    "title": "Iap Tram Ka Ri (The Peril of the Motherland)",
+    "native_title": "Iap Tram Ka Ri",
+    "category": "phawar",
+    "author": "S. S. Majaw",
+    "origin": "Khasi Hills (Traditional Phawar)",
+    "stanzas_count": 2,
+    "file": "iap_tram_ka_ri_majaw.json",
+    "khasi_title": "Iap Tram Ka Ri",
+    "composer": "S. S. Majaw",
+    "instruments": [
+      "Duitara",
+      "Ksing",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Phawar",
+      "Heritage",
+      "Culture"
+    ]
+  },
+  {
+    "id": "long_lang_bad_suk_majaw",
+    "title": "Long-Lang Bad Suk (Living in Peace and Harmony)",
+    "native_title": "Long-Lang Bad Suk",
+    "category": "phawar",
+    "author": "S. S. Majaw",
+    "origin": "Khasi Hills (Traditional Phawar)",
+    "stanzas_count": 2,
+    "file": "long_lang_bad_suk_majaw.json",
+    "khasi_title": "Long-Lang Bad Suk",
+    "composer": "S. S. Majaw",
+    "instruments": [
+      "Duitara",
+      "Ksing",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Phawar",
+      "Heritage",
+      "Culture"
+    ]
+  },
+  {
+    "id": "ka_sngi_ba_thoh_ksiar_majaw",
+    "title": "Ka Sngi Ba Thoh Ksiar (The Golden Written Day)",
+    "native_title": "Ka Sngi Ba Thoh Ksiar",
+    "category": "phawar",
+    "author": "S. S. Majaw",
+    "origin": "Khasi Hills (Traditional Phawar)",
+    "stanzas_count": 2,
+    "file": "ka_sngi_ba_thoh_ksiar_majaw.json",
+    "khasi_title": "Ka Sngi Ba Thoh Ksiar",
+    "composer": "S. S. Majaw",
+    "instruments": [
+      "Duitara",
+      "Ksing",
+      "Tangmuri"
+    ],
+    "themes": [
+      "Phawar",
+      "Heritage",
+      "Culture"
+    ]
+  },
+  {
+    "id": "rwai_ka_melody_kharlukhi",
+    "title": "Ka Melody Jong Ka Ri (Melody of the Homeland)",
+    "khasi_title": "Ka Melody Jong Ka Ri",
+    "category": "nature_and_lyrical",
+    "composer": "Khraw Kupar Kharlukhi",
+    "year": 1985,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing",
+      "Ka Maryngod"
+    ],
+    "themes": [
+      "Homeland",
+      "Melody",
+      "Hills",
+      "Pine Forests"
+    ],
+    "file": "rwai_ka_melody_kharlukhi.json",
+    "word_count": 54
+  },
+  {
+    "id": "rwai_u_nongshongwai_lyngdoh",
+    "title": "Sur U Nongshongwai (Ballad of the Highland Tenant Farmer)",
+    "khasi_title": "Sur U Nongshongwai",
+    "category": "harvest_and_labor",
+    "composer": "O. Lyngdoh",
+    "year": 1978,
+    "instruments": [
+      "Ka Ksing Padiah",
+      "Ka Besli",
+      "Ka Tangmuri"
+    ],
+    "themes": [
+      "Labor",
+      "Paddy Fields",
+      "Honest Work",
+      "Humility"
+    ],
+    "file": "rwai_u_nongshongwai_lyngdoh.json",
+    "word_count": 63
+  },
+  {
+    "id": "rwai_ha_jylli_ka_rynsan_laloo",
+    "title": "Ha Jylli Ka Rynsan (Within the Circle of the Stage)",
+    "khasi_title": "Ha Jylli Ka Rynsan",
+    "category": "ballad_and_drama",
+    "composer": "Minimon Laloo",
+    "year": 1982,
+    "instruments": [
+      "Ka Nakra",
+      "Ka Ksing",
+      "Ka Tangmuri"
+    ],
+    "themes": [
+      "Cultural Drama",
+      "Ancestral Virtue",
+      "Honor",
+      "Performance"
+    ],
+    "file": "rwai_ha_jylli_ka_rynsan_laloo.json",
+    "word_count": 29
+  },
+  {
+    "id": "rwai_sawdong_ka_mariang_rodborne",
+    "title": "Sawdong Ka Mariang (All Around Creation / Nature Hymn)",
+    "khasi_title": "Sawdong Ka Mariang",
+    "category": "nature_and_lyrical",
+    "composer": "B. M. Rodborne",
+    "year": 1975,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Besli",
+      "Ka Mieng"
+    ],
+    "themes": [
+      "Ecology",
+      "Living Nature",
+      "Sacred Waters",
+      "Creation"
+    ],
+    "file": "rwai_sawdong_ka_mariang_rodborne.json",
+    "word_count": 29
+  },
+  {
+    "id": "rwai_ki_sur_hynniew_trep_majaw",
+    "title": "Ki Sur Jingrwai U Hynniew Trep (Melodies of the Seven Huts)",
+    "khasi_title": "Ki Sur Jingrwai U Hynniew Trep",
+    "category": "ballad_and_heritage",
+    "composer": "S. Koressterwell Majaw",
+    "year": 1983,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing",
+      "Ka Tangmuri"
+    ],
+    "themes": [
+      "Sacred Heritage",
+      "Seven Huts",
+      "Ancestral Golden Age",
+      "Tip-Kur Tip-Kha"
+    ],
+    "file": "rwai_ki_sur_hynniew_trep_majaw.json",
+    "word_count": 66
+  },
+  {
+    "id": "rwai_u_syiar_khasi_laloo",
+    "title": "Ka Jingrwai U Syiar Khasi (Ballad of the Sacred Solar Cock)",
+    "khasi_title": "Ka Jingrwai U Syiar Khasi",
+    "category": "mythological_and_sacred",
+    "composer": "Donbok T. Laloo",
+    "year": 1980,
+    "instruments": [
+      "Ka Besli",
+      "Ka Ksing",
+      "Ka Duitara"
+    ],
+    "themes": [
+      "Cosmic Dawn",
+      "The Golden Sun",
+      "Sacred Mediator",
+      "Selfless Sacrifice"
+    ],
+    "file": "rwai_u_syiar_khasi_laloo.json",
+    "word_count": 29
+  },
+  {
+    "id": "rwai_ka_kot_rep_pugh",
+    "title": "Rwai Rep Ri Lum (Song of the Mountain Cultivator)",
+    "khasi_title": "Rwai Rep Ri Lum",
+    "category": "harvest_and_labor",
+    "composer": "B. M. Pugh",
+    "year": 1974,
+    "instruments": [
+      "Ka Ksing Padiah",
+      "Ka Besli"
+    ],
+    "themes": [
+      "Farming",
+      "Terraces",
+      "Oranges",
+      "Sweet Potatoes"
+    ],
+    "file": "rwai_ka_kot_rep_pugh.json",
+    "word_count": 37
+  },
+  {
+    "id": "rwai_khanatang_u_barim_elias",
+    "title": "Ki Khanatang U Barim (Tales of the Ancients)",
+    "khasi_title": "Ki Khanatang U Barim",
+    "category": "ballad_and_heritage",
+    "composer": "Fr. H. Elias",
+    "year": 1972,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing",
+      "Ka Maryngod"
+    ],
+    "themes": [
+      "Oral Lore",
+      "Megaliths",
+      "Covenants",
+      "Clan Lineage"
+    ],
+    "file": "rwai_khanatang_u_barim_elias.json",
+    "word_count": 30
+  },
+  {
+    "id": "rwai_ai_nguh_blei_binod_roy",
+    "title": "Ki Jingrwai Ai-nguh Blei (Hymn of Thanksgiving to the Supreme Creator)",
+    "khasi_title": "Ki Jingrwai Ai-nguh Blei",
+    "category": "sacred_and_hymnal",
+    "composer": "Binod Behari Roy",
+    "year": 1976,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing",
+      "Ka Tangmuri",
+      "Ka Nakra"
+    ],
+    "themes": [
+      "Thanksgiving",
+      "U Blei Nongthaw",
+      "Cosmic Order",
+      "Moral Purity"
+    ],
+    "file": "rwai_ai_nguh_blei_binod_roy.json",
+    "word_count": 80
+  },
+  {
+    "id": "rwai_persara_sur_khasi_wanswett",
+    "title": "Ka Persara Ki Sur Khasi (The Fragrant Garden of Khasi Melodies)",
+    "khasi_title": "Ka Persara Ki Sur Khasi",
+    "category": "nature_and_lyrical",
+    "composer": "E. Brektist R. Wanswett",
+    "year": 1980,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Besli",
+      "Ka Maryngod"
+    ],
+    "themes": [
+      "Folk Melodies",
+      "Highland Flowers",
+      "Singing Bards",
+      "Springtime"
+    ],
+    "file": "rwai_persara_sur_khasi_wanswett.json",
+    "word_count": 34
+  },
+  {
+    "id": "rwai_na_nengpei_sur_myllung_jyrwa",
+    "title": "Na Nengpei Ki Sur Myllung (High Melodies from the Ancient Heights)",
+    "khasi_title": "Na Nengpei Ki Sur Myllung",
+    "category": "ballad_and_heritage",
+    "composer": "B. C. Jyrwa",
+    "year": 1979,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing Padiah"
+    ],
+    "themes": [
+      "Bardic Heritage",
+      "Ancestral Memory",
+      "Harp Strings"
+    ],
+    "file": "rwai_na_nengpei_sur_myllung_jyrwa.json",
+    "word_count": 33
+  },
+  {
+    "id": "rwai_harud_ka_ding_rhem_shabong",
+    "title": "Harud Ka Ding Ba Rhem (Beside the Glowing Hearth Fire)",
+    "khasi_title": "Harud Ka Ding Ba Rhem",
+    "category": "lullaby_and_folklore",
+    "composer": "P. R. Shabong",
+    "year": 1982,
+    "instruments": [
+      "Ka Besli",
+      "Ka Mieng"
+    ],
+    "themes": [
+      "The Hearth (Ka Dpei)",
+      "Evening Warmth",
+      "Oral Lore",
+      "Family"
+    ],
+    "file": "rwai_harud_ka_ding_rhem_shabong.json",
+    "word_count": 36
+  },
+  {
+    "id": "rwai_kumta_nga_rwai_mawrie",
+    "title": "Kumta Nga Rwai (Thus I Sing to My Motherland)",
+    "khasi_title": "Kumta Nga Rwai",
+    "category": "ballad_and_heritage",
+    "composer": "H. Onderson Mawrie",
+    "year": 1977,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing",
+      "Ka Tangmuri"
+    ],
+    "themes": [
+      "Love of Ri Khasi",
+      "Ancestral Virtue",
+      "Song of Devotion"
+    ],
+    "file": "rwai_kumta_nga_rwai_mawrie.json",
+    "word_count": 65
+  },
+  {
+    "id": "rwai_u_harib_wa_u_saek_sumer",
+    "title": "U Harib Wa U Saek (Ballad of Harib and Saek - Jaintia Oral Lore)",
+    "khasi_title": "U Harib Wa U Saek",
+    "category": "folklore_and_legend",
+    "composer": "S. Quotient Sumer",
+    "year": 1981,
+    "instruments": [
+      "Ka Duitara",
+      "Ka Ksing Padiah",
+      "Ka Besli"
+    ],
+    "themes": [
+      "Brotherhood",
+      "Clan Covenants",
+      "Pnar Lore",
+      "Megalithic Loyalty"
+    ],
+    "file": "rwai_u_harib_wa_u_saek_sumer.json",
+    "word_count": 35
+  },
+  {
+    "id": "rwai_ka_burom_ba_la_jah_sten",
+    "title": "Ka Burom Ba La Jah (Elegy for the Lost Glory)",
+    "khasi_title": "Ka Burom Ba La Jah",
+    "category": "elegy_and_epic",
+    "composer": "Dr. H. W. Sten",
+    "year": 1980,
+    "instruments": [
+      "Ka Maryngod",
+      "Ka Duitara",
+      "Ka Ksing"
+    ],
+    "themes": [
+      "Epic Memory",
+      "Ancient Kingdoms",
+      "Courage",
+      "Patriotism"
+    ],
+    "file": "rwai_ka_burom_ba_la_jah_sten.json",
+    "word_count": 32
+  },
+  {
+    "id": "rwai_ki_dieng_bad_ka_culture_khongsit",
+    "title": "Ki Dieng Bad Ka Culture Jong Ngi (Hymn of the Sacred Trees & Groves)",
+    "khasi_title": "Ki Dieng Bad Ka Culture Jong Ngi",
+    "category": "nature_and_sacred",
+    "composer": "S. Khongsit",
+    "year": 1984,
+    "instruments": [
+      "Ka Besli",
+      "Ka Duitara",
+      "Ka Ksing"
+    ],
+    "themes": [
+      "Sacred Trees",
+      "Law Kyntang",
+      "Ecological Custodianship",
+      "Flora"
+    ],
+    "file": "rwai_ki_dieng_bad_ka_culture_khongsit.json",
+    "word_count": 38
+  },
+  {
+    "id": "rwai_shi_khung_ki_biria_laloo",
+    "title": "Shi Khung Ki Biria (Ballad of Village Wit and Festive Merriment)",
+    "khasi_title": "Shi Khung Ki Biria",
+    "category": "festive_and_humor",
+    "composer": "Minimon Laloo",
+    "year": 1983,
+    "instruments": [
+      "Ka Ksing Kynthei",
+      "Ka Duitara",
+      "Ka Tangmuri"
+    ],
+    "themes": [
+      "Humor",
+      "Festive Gaiety",
+      "Village Wit",
+      "Rejoicing"
+    ],
+    "file": "rwai_shi_khung_ki_biria_laloo.json",
+    "word_count": 32
   }
 ]

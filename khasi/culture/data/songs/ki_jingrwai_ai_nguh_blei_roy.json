@@ -1,0 +1,78 @@
+{
+  "id": "ki_jingrwai_ai_nguh_blei_roy",
+  "title": "Thanksgiving Hymn to the Creator (Ki Jingrwai Ai-nguh Blei)",
+  "khasi_title": "Ki Jingrwai Ai-nguh Blei",
+  "category": "Sacred Devotional Hymn",
+  "composer": "Binod Behari Roy",
+  "year": 1930,
+  "cultural_context": "Classical devotional hymn offering gratitude to U Blei (God Almighty) for life, rain, harvest, and clan protection, from the 1930 collection.",
+  "instruments": [
+    "Duitara",
+    "Ksing",
+    "Sharati"
+  ],
+  "themes": [
+    "Divine Gratitude",
+    "Creator Worship",
+    "Bountiful Harvest",
+    "Sacred Providence"
+  ],
+  "lyrics_khasi": "Ngi ai nguh ia Me, ko Blei,\nU Nongthaw u Nongbuh,\nBa la ai ia ngi ka sngi\nBad ka jingshai ba phuh;\nIa ka um ba tuid thiang,\nIa ki soh ba la sdieh,\nIa ka ri ba itynnad\nBa ki kpa ki la rieh.\n\nKupar bha Me la theh\nHa ka kpoh ka Meiramew,\nNgi kyntiew la ki kti\nBan burom ia la U Blei;\nRi ia ngi ha ka hok,\nPynsuk ia ki kur ki kha,\nBan im tip-blei tip-briew\nHa ka pyrthei baroh.",
+  "lyrics_english": "We offer our thanksgiving unto You, O God,\nThe Supreme Creator and Sustainer,\nWho has gifted us the sun\nAnd the resplendent morning light;\nThe sweet flowing crystal waters,\nThe fruit ripe upon the bough,\nAnd this magnificent motherland\nWhere our fathers found sanctuary.\n\nAbundant blessings You have poured\nInto the womb of Mother Earth,\nWe lift up our hands\nTo venerate our God;\nPreserve us in righteous conduct,\nGrant peace to maternal and paternal kin,\nTo live honoring God and respecting mankind\nThroughout the whole wide world.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ngi ai nguh ia Me, ko Blei,",
+        "U Nongthaw u Nongbuh,",
+        "Ba la ai ia ngi ka sngi",
+        "Bad ka jingshai ba phuh;",
+        "Ia ka um ba tuid thiang,",
+        "Ia ki soh ba la sdieh,",
+        "Ia ka ri ba itynnad",
+        "Ba ki kpa ki la rieh."
+      ],
+      "english": [
+        "We offer our thanksgiving unto You, O God,",
+        "The Supreme Creator and Sustainer,",
+        "Who has gifted us the sun",
+        "And the resplendent morning light;",
+        "The sweet flowing crystal waters,",
+        "The fruit ripe upon the bough,",
+        "And this magnificent motherland",
+        "Where our fathers found sanctuary."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kupar bha Me la theh",
+        "Ha ka kpoh ka Meiramew,",
+        "Ngi kyntiew la ki kti",
+        "Ban burom ia la U Blei;",
+        "Ri ia ngi ha ka hok,",
+        "Pynsuk ia ki kur ki kha,",
+        "Ban im tip-blei tip-briew",
+        "Ha ka pyrthei baroh."
+      ],
+      "english": [
+        "Abundant blessings You have poured",
+        "Into the womb of Mother Earth,",
+        "We lift up our hands",
+        "To venerate our God;",
+        "Preserve us in righteous conduct,",
+        "Grant peace to maternal and paternal kin,",
+        "To live honoring God and respecting mankind",
+        "Throughout the whole wide world."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ai-nguh": "give thanks / offer praise",
+    "nongthaw nongbuh": "the Creator and Arranger (supreme Khasi divine title)",
+    "tip-blei tip-briew": "revering God and respecting humankind (the supreme Khasi virtue)",
+    "kupar": "blessing / fortune / grace",
+    "kur bad kha": "maternal clan and paternal kin"
+  },
+  "word_count": 87
+}

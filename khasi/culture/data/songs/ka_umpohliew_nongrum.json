@@ -1,0 +1,78 @@
+{
+  "id": "ka_umpohliew_nongrum",
+  "title": "The Living Mountain Spring (Ka Umpohliew)",
+  "khasi_title": "Ka Umpohliew",
+  "category": "Highland Spring & Wisdom Song",
+  "composer": "Kitbor W. Nongrum",
+  "year": 1992,
+  "cultural_context": "Poetic reflection on the natural fresh-water spring (Umpohliew) as the source of village sustenance and spiritual truth, from 'Ki Sur Ba Dang Sawa'.",
+  "instruments": [
+    "Duitara",
+    "Sharati",
+    "Maryngod"
+  ],
+  "themes": [
+    "Living Spring",
+    "Purity of Waters",
+    "Village Hearth",
+    "Nature Solace"
+  ],
+  "lyrics_khasi": "Ka umpohliew ba tuid na poh u maw,\nKa khuid, ka thiang, ka pyngngad;\nKam ju thait ban ai la ka um\nSha man uba wan ba thngan bad ba sliang;\nKi kynthei ki wan tong um ha ki kum,\nKi samla ki shong ban kynud sur;\nKa umpohliew ka rwai jai-jai\nSur ka jingsuk ba u Blei u la ai.\n\nKum kane ka um to kan long ka dohnud,\nBa theh ka jingbha sha uba bun;\nKhlem ka sarong, khlem ka jingrhah,\nBan shakri ia la ka jaidbynriew;\nWat la ngi don ha kjat u lum,\nLada ngi khuid kum ka umpohliew,\nKa jingim jong ngi kan pynim\nIa kiwei pat kiba don ha ka jynjar.",
+  "lyrics_english": "The freshwater spring flowing from beneath the rock,\nPristine, sweet, and cooling;\nIt never wearies of offering its waters\nUnto every traveler who arrives thirsty and faint;\nVillage women come with clay pitchers to draw water,\nYouths sit by its edge humming songs;\nThe mountain spring whispers serenely\nA melody of peace bestowed by God.\n\nLike this living stream, let our inner hearts be,\nPouring forth kindness unto all around;\nFree from conceit, free from greed,\nServing with modesty our native people;\nThough our dwelling be at the foot of the hill,\nIf we remain pure as the freshwater spring,\nOur lives shall bring healing and renewed hope\nUnto those weighed down by sorrow and distress.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ka umpohliew ba tuid na poh u maw,",
+        "Ka khuid, ka thiang, ka pyngngad;",
+        "Kam ju thait ban ai la ka um",
+        "Sha man uba wan ba thngan bad ba sliang;",
+        "Ki kynthei ki wan tong um ha ki kum,",
+        "Ki samla ki shong ban kynud sur;",
+        "Ka umpohliew ka rwai jai-jai",
+        "Sur ka jingsuk ba u Blei u la ai."
+      ],
+      "english": [
+        "The freshwater spring flowing from beneath the rock,",
+        "Pristine, sweet, and cooling;",
+        "It never wearies of offering its waters",
+        "Unto every traveler who arrives thirsty and faint;",
+        "Village women come with clay pitchers to draw water,",
+        "Youths sit by its edge humming songs;",
+        "The mountain spring whispers serenely",
+        "A melody of peace bestowed by God."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Kum kane ka um to kan long ka dohnud,",
+        "Ba theh ka jingbha sha uba bun;",
+        "Khlem ka sarong, khlem ka jingrhah,",
+        "Ban shakri ia la ka jaidbynriew;",
+        "Wat la ngi don ha kjat u lum,",
+        "Lada ngi khuid kum ka umpohliew,",
+        "Ka jingim jong ngi kan pynim",
+        "Ia kiwei pat kiba don ha ka jynjar."
+      ],
+      "english": [
+        "Like this living stream, let our inner hearts be,",
+        "Pouring forth kindness unto all around;",
+        "Free from conceit, free from greed,",
+        "Serving with modesty our native people;",
+        "Though our dwelling be at the foot of the hill,",
+        "If we remain pure as the freshwater spring,",
+        "Our lives shall bring healing and renewed hope",
+        "Unto those weighed down by sorrow and distress."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "umpohliew": "freshwater mountain spring / fountain",
+    "tong um": "draw/fetch fresh spring water",
+    "kum": "traditional earthen water pitcher",
+    "sliang": "thirsty",
+    "shakri": "serve / help / minister"
+  },
+  "word_count": 117
+}

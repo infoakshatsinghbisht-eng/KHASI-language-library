@@ -1,0 +1,77 @@
+{
+  "id": "mirabel_majaw",
+  "title": "Mirabel: Pastoral Hillside Song (Mirabel)",
+  "khasi_title": "Mirabel",
+  "category": "Pastoral Highland Lyric",
+  "composer": "S. S. Majaw",
+  "year": 1997,
+  "cultural_context": "Pastoral highland ballad celebrating the beauty of high meadow flora, clear hillside streams, and rustic village life, from 'Ka Phawar Beh Sbai'.",
+  "instruments": [
+    "Duitara",
+    "Sharati"
+  ],
+  "themes": [
+    "Highland Meadow",
+    "Pastoral Beauty",
+    "Clear Hillside Rills",
+    "Rustic Simplicity"
+  ],
+  "lyrics_khasi": "Ha pneh ki lum ba jyrngam,\nKa rwai ka sur ba kynjai;\nKi syntiew ki phuh ha ka them,\nKi pyniwbih ia ka lyer ba pyngngad;\nKi masi ki bam phlang ha madan,\nKi khynnah ki rwai duitara;\nDei ka jingim ba suk bad ba shida\nBa u Blei u la theh ha ka ri.\n\nWat la ka pyrthei ka phet sting,\nSha ki buit ba stad ka juk mynta;\nKa dohnud jong ngi kan iaineh\nHa kane ka jingsuk ba pura;\nRwai, ko Mirabel, rwai la ka sur,\nIa ka nam jong ka Meiramew;\nBa ka burom jong ki lum Khasi\nKan im ha man ka jingshai.",
+  "lyrics_english": "In the lap of the emerald green hills,\nThere echoes a song of peaceful calm;\nWild flowers blossom across the vale,\nImparting sweet fragrance to the refreshing breeze;\nCattle graze peacefully upon highland meadows,\nChildren play tunes on the little Duitara;\nThis is the serene, modest life\nWhich God has poured upon our mountain land.\n\nThough the hurried world rushes fast,\nChasing the cunning technologies of today;\nOur inner hearts shall remain steadfast\nIn this pure and untroubled peace;\nSing on, Mirabel, sing your sweet song,\nPraising the glory of Mother Earth;\nSo that the majesty of the Khasi hills\nShall thrive in every morning light.",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Ha pneh ki lum ba jyrngam,",
+        "Ka rwai ka sur ba kynjai;",
+        "Ki syntiew ki phuh ha ka them,",
+        "Ki pyniwbih ia ka lyer ba pyngngad;",
+        "Ki masi ki bam phlang ha madan,",
+        "Ki khynnah ki rwai duitara;",
+        "Dei ka jingim ba suk bad ba shida",
+        "Ba u Blei u la theh ha ka ri."
+      ],
+      "english": [
+        "In the lap of the emerald green hills,",
+        "There echoes a song of peaceful calm;",
+        "Wild flowers blossom across the vale,",
+        "Imparting sweet fragrance to the refreshing breeze;",
+        "Cattle graze peacefully upon highland meadows,",
+        "Children play tunes on the little Duitara;",
+        "This is the serene, modest life",
+        "Which God has poured upon our mountain land."
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "khasi": [
+        "Wat la ka pyrthei ka phet sting,",
+        "Sha ki buit ba stad ka juk mynta;",
+        "Ka dohnud jong ngi kan iaineh",
+        "Ha kane ka jingsuk ba pura;",
+        "Rwai, ko Mirabel, rwai la ka sur,",
+        "Ia ka nam jong ka Meiramew;",
+        "Ba ka burom jong ki lum Khasi",
+        "Kan im ha man ka jingshai."
+      ],
+      "english": [
+        "Though the hurried world rushes fast,",
+        "Chasing the cunning technologies of today;",
+        "Our inner hearts shall remain steadfast",
+        "In this pure and untroubled peace;",
+        "Sing on, Mirabel, sing your sweet song,",
+        "Praising the glory of Mother Earth;",
+        "So that the majesty of the Khasi hills",
+        "Shall thrive in every morning light."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "jyrngam": "emerald green / verdant",
+    "phlang": "grass / pasture meadow",
+    "shida": "simple / modest / humble",
+    "juk": "era / age / modern epoch",
+    "meiramew": "Mother Earth"
+  },
+  "word_count": 108
+}

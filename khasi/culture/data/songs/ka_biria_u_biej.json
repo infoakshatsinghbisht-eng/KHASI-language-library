@@ -1,0 +1,43 @@
+{
+  "id": "ka_biria_u_biej",
+  "title": "The Folk Humor of the Simpleton (Ka Biria u Biej)",
+  "khasi_title": "Ka Biria u Biej ha Shnong",
+  "category": "Folk Comic Satire & Village Phawar",
+  "composer": "Traditional Village Storytellers / H.W. Sten",
+  "year": 1962,
+  "cultural_context": "A humorous and witty Khasi folk comic song illustrating that excessive pretension and vain posturing lead to embarrassment, celebrating warm village good humor, laughter at weekly markets (Iewduh), and the traditional virtue of modest common sense.",
+  "instruments": [
+    "Mieng (jaw harp)",
+    "Duitara",
+    "Hand clappers"
+  ],
+  "themes": [
+    "Folk Humor",
+    "Village Satire",
+    "Modesty over Vanity",
+    "Weekly Market Banter"
+  ],
+  "lyrics_khasi": "U biej u la leit sha Iewduh ban thied jain,\nU la phong da ka tupia ba jrong kum u phlang;\nU kheiñ ialade u riewstad u riewbha,\nPynban u la thut ha ka madan Iewbah!\n\nKi samla ki la rkhie kynriah kylleng,\nKi tymmen ki la khih la ka khlieh mian-mian;\nAi ngin rkhie, hynrei ngin kynmaw ia ka akor,\nBa ka jingshongkhrein ka jah lada khlem jingstad!",
+  "lyrics_english": "The simpleton went down to Iewduh market to buy grand clothes,\nHe donned a tall comical hat like a stalk of dry reed;\nHe deemed himself a scholar and a man of great nobility,\nYet he stumbled headlong on the stones of the big market!\n\nThe market youth burst out into roaring laughter all around,\nThe wise elders gently shook their heads with amusement;\nLet us laugh in good humor, yet remember proper modesty,\nFor false pride vanishes quickly where true wisdom is lacking!",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "title": "U Biej ha Iewduh (Simpleton at Market)",
+      "khasi": "U biej u la leit sha Iewduh ban thied jain,\nU la phong da ka tupia ba jrong kum u phlang;\nU kheiñ ialade u riewstad u riewbha,\nPynban u la thut ha ka madan Iewbah!",
+      "english": "The simpleton went to Iewduh market dressed fine with a comical tall hat, posing as a scholar, yet tripped headlong before all!"
+    },
+    {
+      "stanza_number": 2,
+      "title": "Ka Jinghikai ha la Shnong (The Moral Lesson)",
+      "khasi": "Ki samla ki la rkhie kynriah kylleng,\nKi tymmen ki la khih la ka khlieh mian-mian;\nAi ngin rkhie, hynrei ngin kynmaw ia ka akor,\nBa ka jingshongkhrein ka jah lada khlem jingstad!",
+      "english": "The youths laughed and elders smiled; let us laugh cheerfully but remember humility, for empty pride fails without true wisdom!"
+    }
+  ],
+  "vocabulary": {
+    "biria": "Humorous banter, friendly joking, witty comic satire",
+    "iewduh": "The historic, legendary grand weekly indigenous market of Shillong",
+    "rkhie kynriah": "To burst into hearty, uproarious communal laughter",
+    "riewstad": "A learned scholar, person endowed with wisdom and education"
+  },
+  "word_count": 70
+}

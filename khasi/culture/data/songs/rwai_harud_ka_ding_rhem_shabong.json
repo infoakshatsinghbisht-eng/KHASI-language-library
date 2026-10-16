@@ -1,0 +1,46 @@
+{
+  "id": "rwai_harud_ka_ding_rhem_shabong",
+  "title": "Harud Ka Ding Ba Rhem (Beside the Glowing Hearth Fire)",
+  "khasi_title": "Harud Ka Ding Ba Rhem",
+  "category": "lullaby_and_folklore",
+  "composer": "P. R. Shabong",
+  "year": 1982,
+  "origin": "Central Khasi Hills",
+  "instruments": [
+    "Ka Besli",
+    "Ka Mieng"
+  ],
+  "themes": [
+    "The Hearth (Ka Dpei)",
+    "Evening Warmth",
+    "Oral Lore",
+    "Family"
+  ],
+  "cultural_context": "Intimate fireside song sung on cold winter highland evenings as children gather around the three sacred hearth stones (*ki mawbyrsiew*).",
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "khasi": [
+        "Harud ka ding ba rhem ngi shong marwei lang,",
+        "U kseh u pynbthei ia ki phylliah ding,",
+        "Ka mei-rad ka iathuh ia ki khanatang barim,",
+        "Ba u briew u la long uba shlur bad uba hok."
+      ],
+      "english": [
+        "Beside the glowing hearth fire we sit close together,",
+        "The resinous pine logs crackle with golden sparks,",
+        "Grandmother recounts ancient tales of old,",
+        "How our people lived fearless, righteous, and true."
+      ]
+    }
+  ],
+  "vocabulary": {
+    "ding-rhem": "brightly glowing ember hearth fire",
+    "phylliah-ding": "flying golden sparks of resinous pine",
+    "kseh": "fragrant pine wood / ocote torchwood"
+  },
+  "file": "rwai_harud_ka_ding_rhem_shabong.json",
+  "lyrics_khasi": "Harud ka ding ba rhem ngi shong marwei lang,\nU kseh u pynbthei ia ki phylliah ding,\nKa mei-rad ka iathuh ia ki khanatang barim,\nBa u briew u la long uba shlur bad uba hok.",
+  "lyrics_english": "Beside the glowing hearth fire we sit close together,\nThe resinous pine logs crackle with golden sparks,\nGrandmother recounts ancient tales of old,\nHow our people lived fearless, righteous, and true.",
+  "word_count": 36
+}
