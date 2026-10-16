@@ -174,6 +174,76 @@ IDIOMS: List[Dict[str, Any]] = [
         "literal": "Rejoicing repeatedly",
         "meaning": "Overflowing with radiant joy and celebration.",
         "hindi": "अत्यंत हर्षित और प्रफुल्लित होना।"
+    },
+    {
+        "idiom": "Bam kwai ha ïing u Blei",
+        "type": "Euphemism / Spiritual",
+        "literal": "Chewing betel nut in the abode of God",
+        "meaning": "To pass away peacefully; to depart mortal life into heavenly rest.",
+        "hindi": "स्वर्गवासी होना / प्रभु के चरणों में स्थान पाना।"
+    },
+    {
+        "idiom": "Kamai ïa ka hok",
+        "type": "Philosophical Tenet",
+        "literal": "To earn righteousness",
+        "meaning": "The foundational moral tenet of Khasi philosophy: life's purpose is to live truthfully through honest labor.",
+        "hindi": "सत्य और धर्म का उपार्जन करना।"
+    },
+    {
+        "idiom": "Tip-briew tip-blei",
+        "type": "Moral Pillar",
+        "literal": "Know humanity, know God",
+        "meaning": "One who respects and honors fellow human beings thereby honors the Creator.",
+        "hindi": "मानवता को जानना ही ईश्वर को जानना है।"
+    },
+    {
+        "idiom": "Tip-kur tip-kha",
+        "type": "Kinship Ethics",
+        "literal": "Know maternal lineage, know paternal clan",
+        "meaning": "To understand one's genealogical boundaries and observe strict clan exogamy.",
+        "hindi": "मातृ और पितृ दोनों पक्षों के कुल-मर्यादा का पालन करना।"
+    },
+    {
+        "idiom": "Ktien shyntur ka thung, ktien shyntur ka khlong",
+        "type": "Proverbial Metaphor",
+        "literal": "The words of the mouth plant, the words of the mouth uproot",
+        "meaning": "Spoken words possess the immense power both to heal communities or destroy reputations.",
+        "hindi": "वाणी से संबंध जुड़ते भी हैं और उखड़ते भी हैं।"
+    },
+    {
+        "idiom": "Ksan rngiew",
+        "type": "Spiritual Aura",
+        "literal": "Victorious spiritual radiance",
+        "meaning": "Possessing towering moral stature, courage, and spiritual favor.",
+        "hindi": "आध्यात्मिक तेज और नैतिक विजय प्राप्त होना।"
+    },
+    {
+        "idiom": "Rem rngiew",
+        "type": "Spiritual Aura",
+        "literal": "Defeated / diminished aura",
+        "meaning": "Losing moral credibility and inner strength due to guilt or wrongdoing.",
+        "hindi": "नैतिक दुर्बलता अथवा आत्म-तेज का क्षीण होना।"
+    },
+    {
+        "idiom": "Ktien maw, ktien dieng",
+        "type": "Legal / Oath",
+        "literal": "Words of stone, words of wood",
+        "meaning": "Binding, immutable treaties, promises, or covenants that cannot be broken.",
+        "hindi": "पत्थर की लकीर / अटल और शाश्वत वचन।"
+    },
+    {
+        "idiom": "Shi kti shi tympew",
+        "type": "Hospitality",
+        "literal": "One hand, one betel leaf",
+        "meaning": "Modest yet heartfelt hospitality shared between friends and kin.",
+        "hindi": "हृदय से किया गया विनम्र आतिथ्य सत्कार।"
+    },
+    {
+        "idiom": "U shlem ka jingtip",
+        "type": "Educational",
+        "literal": "The blacksmith's hearth of knowledge",
+        "meaning": "A venerable center of learning, rigorous debate, and philosophical inquiry.",
+        "hindi": "ज्ञान और विचार-विमर्श की तपोभूमि / कार्यशाला।"
     }
 ]
 

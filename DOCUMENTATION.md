@@ -1,6 +1,6 @@
 # Khasi Language Library (Ka Ktien Khasi) — Complete API Documentation
 
-Comprehensive technical documentation for the `khasi` Python library (version 1.7.0).
+Comprehensive technical documentation for the `khasi` Python library (version 1.8.0).
 
 ---
 
@@ -13,10 +13,10 @@ The root `khasi` package provides direct, high-level access to the most common o
 | Function | Signature | Description |
 |---|---|---|
 | `translate()` | `translate(text, source='auto', target='khasi', dialect='sohra')` | Translates English, Hindi, or Hinglish into Khasi with dialect adaptation. |
-| `lookup()` | `lookup(word: str)` | Looks up a word in the 197,000+ trilingual dictionary with prefix stripping fallback. |
+| `lookup()` | `lookup(word: str)` | Looks up a word in the 336,000+ trilingual dictionary with prefix stripping fallback. |
 | `search()` | `search(query: str)` | Searches for matching words across Khasi, English, and Hindi. |
 | `analyze()` | `analyze(word: str)` | Decomposes a word morphologically (lemma, POS, prefixes). |
-| `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (300,000+). |
+| `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (400,000+). |
 | `num_to_words()` | `num_to_words(n: int) -> str` | Converts integer to formal Khasi words. |
 | `words_to_num()` | `words_to_num(text: str) -> int` | Converts Khasi word number back to integer. |
 | `ordinal()` | `ordinal(n: int) -> str` | Returns ordinal form (e.g., 1 -> `ba-nyngkong`). |
@@ -33,27 +33,27 @@ The root `khasi` package provides direct, high-level access to the most common o
 
 ### Top-Level Facade Objects
 
-- `khasi.phrases.all()` / `khasi.phrases.random()` : 185+ practical conversational phrases across 15 categories (greetings, dining, travel, hospital, police, school, office, tech, etc.).
+- `khasi.phrases.all()` / `khasi.phrases.random()` : 200+ practical conversational phrases across 15 categories (greetings, dining, travel, hospital, police, school, office, tech, etc.).
 - `khasi.proverbs.all()` / `khasi.proverbs.random()` : 65+ authentic moral proverbs (*Ki Ktien Tymmen* / *Phawar*) with literal and contextual translations.
-- `khasi.riddles.all()` / `khasi.riddles.random()` : 32+ traditional Khasi riddles (*Ki Jingkyntip*) with solutions and cultural hints.
+- `khasi.riddles.all()` / `khasi.riddles.random()` : 47 traditional Khasi riddles (*Ki Jingkyntip*) with solutions and cultural hints.
 - `khasi.instruments.all()` / `khasi.instruments.get(name)` : Traditional musical instruments (*Duitara*, *Tangmuri*, *Ksing*, *Nakra*, *Maryngod*, *Mieng*, *Besli*, etc.).
-- `khasi.songs.all()` / `khasi.songs.get(title)` : 240 traditional folk songs, ballads, chants, and phawars across 58 categories complete with authentic Khasi lyrics, stanzas, and English translations.
-- `khasi.books.all()` / `khasi.books.get(id_or_title)` / `khasi.books.read(id, page)` : Whole digitized books reader with 270 foundational classical masterworks (14,568 pages, 4,298,006 words).
+- `khasi.songs.all()` / `khasi.songs.get(title)` : 300 traditional folk songs, ballads, chants, and phawars across 58 categories complete with authentic Khasi lyrics, stanzas, and English translations.
+- `khasi.books.all()` / `khasi.books.get(id_or_title)` / `khasi.books.read(id, page)` : Whole digitized books reader with 340 foundational classical masterworks (21,787 pages, 6,329,879 words).
 - `khasi.audio_dataset` : 500 studio-grade spoken audio recordings (16kHz 16-bit Mono PCM WAV) across phrases, proverbs, idioms, literature, phawar, nature, and culture with paired multilingual manifests.
 - `khasi.clothing.all()` / `khasi.clothing.get(name)` / `khasi.clothing.by_gender(g)` : Traditional garments (*Jaiñsem*, *Dhara*, *Jaiñkup*, *Kyrshah*, *Tapmohkhlieh*, *Jaiñpien*, *Jymphong*, *Spong*, *Jaiñboit*).
 - `khasi.jewellery.all()` / `khasi.jewellery.get(name)` / `khasi.jewellery.by_gender(g)` : Traditional jewellery & ornaments (*Pansngiat*, *Paila Mukmor*, *Kynjri Ksiar*, *Kynjri Rupa*, *Shanryndang*, *Siar Kynthei*, *Mahu*, *Ta-kora*, *Sa-shiah*, *Siatsngi*, *Kynjri Tabah*).
 - `khasi.fabrics.all()` / `khasi.fabrics.get(name)` : Indigenous sacred handloom textiles (*Ryndia* peace silk from Ri Bhoi, *Thoh Khyrwang* from Jaintia, *Jaiñsem Muga*, *Sulan*).
 - `khasi.regalia.all()` / `khasi.regalia.get(name)` : Martial dance regalia & sacred arms (*Waitlam*, *Stieh*, *Symphiah*, *Ryntieh bad Khnam*, *Wait-bnoh*, *Pah-wait*).
 - `khasi.rituals.all()` / `khasi.rituals.get(name)` / `khasi.rituals.by_category(c)` : 15 traditional rituals, egg divination (*Ka Shat Pylleng*), sacrifices, megalith consecration (*Ka Kñia Mawbynna*), and pestilence-chasing (*Behdeinkhlam*).
-- `khasi.deities.all()` / `khasi.deities.get(name)` / `khasi.deities.by_realm(r)` : Indigenous Khasi pantheon, territorial protectors, mountain rulers, and spirits.
+- `khasi.deities.all()` / `khasi.deities.get(name)` / `khasi.deities.by_realm(r)` : 25 indigenous Khasi pantheon, creator, celestial, territorial protectors, mountain rulers, and spirits.
 - `khasi.sacred_sites.all()` / `khasi.sacred_sites.get(name)` / `khasi.sacred_sites.by_type(t)` : Sacred groves (*Law Kyntang*), prehistoric megalith complexes (*Mawbynna*), and altars.
-- `khasi.plants.all()` / `khasi.plants.get(query)` / `khasi.plants.medicinal()` : 85+ ethnomedicinal flora, wild fruits, trees, and orchids with binomial scientific names.
-- `khasi.wildlife.all()` / `khasi.wildlife.get(query)` : 65+ native mammals, birds, fish, reptiles, amphibians, and insects with scientific names and folklore context.
+- `khasi.plants.all()` / `khasi.plants.get(query)` / `khasi.plants.medicinal()` : 100+ ethnomedicinal flora, wild fruits, trees, and orchids with binomial scientific names.
+- `khasi.wildlife.all()` / `khasi.wildlife.get(query)` : 76+ native mammals, birds, fish, reptiles, amphibians, and insects with scientific names and folklore context.
 - `khasi.dishes.all()` / `khasi.dishes.get(name)` : Traditional culinary heritage (*Jadoh*, *Dohkhlieh*, *Dohneiiong*, *Tungrymbai*, *Ja Stem*, *Pumaloi*, *Pukhlein*, *Khiew Ranei*).
 - `khasi.places.all()` / `khasi.places.get(name)` : Sacred geographical sites, rivers (*Wah*), waterfalls (*Kshaid*), peaks (*Lum*), caves (*Krem*), sacred groves (*Law Kyntang*), root bridges (*Jingkieng Jri*), and Syiemships (*Hima*).
 - `khasi.clans.all()` / `khasi.clans.get(name)` / `khasi.clans.search(query)` : 105+ recognized Khasi, Pnar, War, Bhoi, and Maram clans (*Kur* and *Jaid*), branches, and historical offices.
 - `khasi.list_names()` / `khasi.get_name(name)` : 52 traditional given names (male, female, unisex, market day) with meanings and etymology.
-- `khasi.idioms.all()` / `khasi.idioms.get(query)` : Coupled rhyming idioms (*Ki Ktien Kynnoh*) and parables (*Ki Pharshi*).
+- `khasi.idioms.all()` / `khasi.idioms.get(query)` : 34 coupled rhyming idioms (*Ki Ktien Kynnoh*) and parables (*Ki Pharshi*).
 - `khasi.roots.all()` / `khasi.roots.get(root)` / `khasi.roots.by_category(c)` : Authentic Austroasiatic/Mon-Khmer roots (*Ki Ktien Tynrai*) for anatomy, elements, moral pillars, and verbs with etymological cognates.
 - `khasi.expressives.all()` / `khasi.expressives.get(name)` / `khasi.expressives.by_domain(d)` : World-famous Khasi phonaesthetic ideophones (*Ki Ktien Pynshai Dur*) vividly expressing colors, textures, temperatures, gaits, and sounds.
 

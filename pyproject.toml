@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "khasi"
-version = "1.7.0"
-description = "Khasi (Ka Ktien Khasi) Language Library: 197,000+ Headwords, 304 Digitized Books, 300 Traditional Songs & Phawar, 13,000+ Dialect Lexicons, 252 Audio Waveforms, and Parallel MT Corpora"
+version = "1.8.0"
+description = "Khasi (Ka Ktien Khasi) Language Library: 336,000+ Headwords, 340 Digitized Books, 300 Traditional Songs & Phawar, 25 Deities, 100 Flora, 76 Fauna, and Universal Lexicon"
 readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"

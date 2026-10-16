@@ -602,6 +602,97 @@ WILDLIFE: List[Dict[str, Any]] = [
         "status": "Abundant",
         "habitat": "Broadleaved forest tree canopies",
         "cultural_significance": "Weaves living leaf nests with larval silk; nests harvested in foothills for sour chutney rich in formic acid."
+    },
+    {
+        "khasi_name": "U Shrieh-hoolock",
+        "common_name": "Western Hoolock Gibbon",
+        "scientific_name": "Hoolock hoolock",
+        "class_type": "Mammal",
+        "status": "Endangered / Schedule I Protected",
+        "habitat": "Contiguous canopy of dense subtropical evergreen forests",
+        "cultural_significance": "India's only ape; its resonant morning duet echoes across sacred groves and valleys; taboo to harm in Khasi tradition."
+    },
+    {
+        "khasi_name": "U 'Kyndad / U 'Miaw-khlaw",
+        "common_name": "Binturong / Asian Bearcat",
+        "scientific_name": "Arctictis binturong",
+        "class_type": "Mammal",
+        "status": "Vulnerable",
+        "habitat": "High canopy of old-growth rainforests",
+        "cultural_significance": "Nocturnal arboreal civet with a prehensile tail and popcorn-like musk scent; mysterious figure in folktales."
+    },
+    {
+        "khasi_name": "U 'Masi-prut",
+        "common_name": "Gaur / Indian Wild Bison",
+        "scientific_name": "Bos gaurus",
+        "class_type": "Mammal",
+        "status": "Vulnerable / Schedule I",
+        "habitat": "Foothills and bamboo forests of Ri-Bhoi",
+        "cultural_significance": "Colossal bovine admired for supreme muscular power and peaceful majesty; horn used in traditional signal horns."
+    },
+    {
+        "khasi_name": "U 'Dkhoh",
+        "common_name": "Brown Fish Owl",
+        "scientific_name": "Ketupa zeylonensis",
+        "family": "Strigidae",
+        "class_type": "Bird",
+        "status": "Least Concern",
+        "habitat": "Riverside trees in rocky limestone valleys",
+        "cultural_significance": "Deep resonant hoot heard along gorges; respected as a nocturnal guardian watcher of forest streams."
+    },
+    {
+        "khasi_name": "U 'Sier-stem",
+        "common_name": "Indian Muntjac / Barking Deer",
+        "scientific_name": "Muntiacus muntjak",
+        "class_type": "Mammal",
+        "status": "Least Concern",
+        "habitat": "Dense scrub and deep river ravines",
+        "cultural_significance": "Its sharp dog-like alarm bark warns all forest animals of approaching leopards or tigers."
+    },
+    {
+        "khasi_name": "U 'Rngai",
+        "common_name": "Leopard Cat",
+        "scientific_name": "Prionailurus bengalensis",
+        "class_type": "Mammal",
+        "status": "Least Concern / Schedule I",
+        "habitat": "Oak forests, sacred groves, and village scrub",
+        "cultural_significance": "Agile nocturnal hunter with golden rosettes; frequent trickster hero in village fable traditions."
+    },
+    {
+        "khasi_name": "Ka Dohkha-saw",
+        "common_name": "Golden Himalayan Mahseer",
+        "scientific_name": "Tor putitora",
+        "class_type": "Fish",
+        "status": "Endangered",
+        "habitat": "Fast-flowing, cold boulder-strewn rivers (Umngot, Myntdu)",
+        "cultural_significance": "The king of mountain rivers; revered in village community fish sanctuaries (e.g. Nongbareh) where feeding is a sacred custom."
+    },
+    {
+        "khasi_name": "U 'Gnor",
+        "common_name": "Indian Pangolin / Scaly Anteater",
+        "scientific_name": "Manis crassicaudata",
+        "class_type": "Mammal",
+        "status": "Critically Endangered",
+        "habitat": "Burrows in lateritic hill soils and scrub forests",
+        "cultural_significance": "Armored mammal capable of rolling into an impenetrable sphere; protected under strict customary taboos."
+    },
+    {
+        "khasi_name": "U 'Jakoid-maw",
+        "common_name": "Cascade Torrent Frog",
+        "scientific_name": "Amolops formosus",
+        "class_type": "Amphibian",
+        "status": "Least Concern",
+        "habitat": "Mossy boulders in the spray zones of waterfalls",
+        "cultural_significance": "Equipped with powerful toe-discs to cling to vertical wet rock amidst roaring torrents."
+    },
+    {
+        "khasi_name": "Ka Sim-pyllieng",
+        "common_name": "Himalayan Cuckoo",
+        "scientific_name": "Cuculus saturatus",
+        "class_type": "Bird",
+        "status": "Migratory Resident",
+        "habitat": "Conifer and mixed oak-pine canopies",
+        "cultural_significance": "Its fluting hollow call in April signals the arrival of spring rains and the time for clearing hill farms."
     }
 ]
 

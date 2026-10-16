@@ -174,13 +174,25 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
     idx = _load_index()
     matched_id: Optional[str] = None
 
+    # Priority 1: Exact id match
     for item in idx:
-        if (item["id"].lower() == key or 
-            item["title"].lower() == key or 
-            key in item["title"].lower() or
-            key in item.get("native_title", "").lower()):
+        if item["id"].lower() == key:
             matched_id = item["id"]
             break
+
+    # Priority 2: Exact title or native_title match
+    if not matched_id:
+        for item in idx:
+            if item["title"].lower() == key or item.get("native_title", "").lower() == key:
+                matched_id = item["id"]
+                break
+
+    # Priority 3: Substring title or native_title match
+    if not matched_id:
+        for item in idx:
+            if key in item["title"].lower() or key in item.get("native_title", "").lower():
+                matched_id = item["id"]
+                break
 
     if not matched_id:
         # Check direct filename
@@ -224,7 +236,10 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
     )
 
     _BOOK_CACHE[matched_id] = book
-    _BOOK_CACHE[book.title.lower()] = book
+    _BOOK_CACHE[key] = book
+    title_key = book.title.lower()
+    if title_key not in _BOOK_CACHE:
+        _BOOK_CACHE[title_key] = book
     return book
 
 

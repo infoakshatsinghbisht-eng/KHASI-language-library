@@ -1307,5 +1307,89 @@
     "hindi": "आप सभी के लिए शांति और आनंद का मौसम हो!",
     "english": "Season of peace and joy to you all!",
     "audio_hint": "Aiom suk, aiom kmen sha phi baroh!"
+  },
+  {
+    "khasi": "To sa ïa kynduh pat lashai!",
+    "english": "See you again tomorrow!",
+    "hindi": "कल फिर मिलेंगे!",
+    "category": "everyday"
+  },
+  {
+    "khasi": "Kumno ka jingtrei ka leit?",
+    "english": "How is work going?",
+    "hindi": "काम कैसा चल रहा है?",
+    "category": "everyday"
+  },
+  {
+    "khasi": "Wat sngewbha kwah tang ban shu biria.",
+    "english": "Don't just joke around all the time.",
+    "hindi": "हर समय केवल मज़ाक मत करो।",
+    "category": "colloquial"
+  },
+  {
+    "khasi": "Utei u briew u la palat liam ka akor!",
+    "english": "That person has exceptionally good manners!",
+    "hindi": "उस व्यक्ति का आचरण बहुत ही उत्तम है!",
+    "category": "praise"
+  },
+  {
+    "khasi": "Phi la dep bam ja?",
+    "english": "Have you eaten rice / meal yet?",
+    "hindi": "क्या आपने खाना खा लिया?",
+    "category": "hospitality"
+  },
+  {
+    "khasi": "Ioh phi thait na ka lynti?",
+    "english": "Are you tired from the long journey?",
+    "hindi": "क्या आप रास्ते की थकान से परेशान हैं?",
+    "category": "courtesy"
+  },
+  {
+    "khasi": "Kaei kane ka jingkhuslai kaba phi pynpaw?",
+    "english": "What is this worry you are showing?",
+    "hindi": "यह किस बात की चिंता आप दिखा रहे हैं?",
+    "category": "empathy"
+  },
+  {
+    "khasi": "Sngewbha ai bor ia nga ban leh ia ka hok.",
+    "english": "Please grant me strength to do what is right.",
+    "hindi": "कृपया मुझे सही मार्ग पर चलने की शक्ति दें।",
+    "category": "moral"
+  },
+  {
+    "khasi": "Kine ki dei ki ktien ba shisha na dohnud.",
+    "english": "These are true words from the bottom of the heart.",
+    "hindi": "ये दिल की गहराइयों से निकले सच्चे शब्द हैं।",
+    "category": "proverbial"
+  },
+  {
+    "khasi": "To ngin ïa tylli kawei kum ka jaitbynriew.",
+    "english": "Let us unite as one people / community.",
+    "hindi": "आइए हम एक समुदाय के रूप में एकजुट हों।",
+    "category": "patriotic"
+  },
+  {
+    "khasi": "Ka por kam ju ap ia no no ruh.",
+    "english": "Time waits for no one.",
+    "hindi": "समय किसी का इंतज़ार नहीं करता।",
+    "category": "wisdom"
+  },
+  {
+    "khasi": "Ha khmih, u slap u la sdang ban ther!",
+    "english": "Look, heavy rain has started pouring!",
+    "hindi": "देखो, मूसलाधार बारिश शुरू हो गई है!",
+    "category": "nature"
+  },
+  {
+    "khasi": "Ka lyer pyngngad ka beh na u lum Shyllong.",
+    "english": "A cool breeze is blowing from Shillong Peak.",
+    "hindi": "शिलांग चोटी से ठंडी हवा बह रही है।",
+    "category": "nature"
+  },
+  {
+    "khasi": "Khublei shibun eh ia ka jingiasnohkti lang!",
+    "english": "Thank you very much for your cooperation!",
+    "hindi": "आपके सहयोग के लिए बहुत-बहुत धन्यवाद!",
+    "category": "gratitude"
   }
 ]

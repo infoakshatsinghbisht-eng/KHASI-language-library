@@ -120,6 +120,146 @@ DEITIES: List[Dict[str, Any]] = [
         "description": "The divine sovereign entity revered by the Pnar (Jaintia) people, celebrated during the Behdeiñkhlam festival at Jowai in the sacred pool Aitnar.",
         "manifestation": "The sacred Aitnar pool, the Symbud Khnong and Deinkhlam sacred logs.",
         "worship_form": "Behdeiñkhlam ritual dance and immersion of sacred Rot towers."
+    },
+    {
+        "id": "lei_kyllang",
+        "name": "U Lei Kyllang",
+        "realm": "mountain_sovereign",
+        "title": "Deity of the Kyllang Granite Monolith & Gales",
+        "gender": "Masculine (U)",
+        "description": "The mighty mountain god presiding over Kyllang Rock (1,650 m) near Mairang. According to oral lore, he engaged in an epic stone-hurling duel against U Leisymper and commands ferocious gale winds across the plateau.",
+        "manifestation": "Massive red granite dome of Kyllang Rock, vortex winds, thunder.",
+        "worship_form": "Traditional offerings by the Khadsawphra / Nongkhlaw clan confederations."
+    },
+    {
+        "id": "lei_synshar",
+        "name": "Ka Lei Synshar",
+        "realm": "celestial_justice",
+        "title": "Goddess of Constitutional Justice, Law & Good Governance",
+        "gender": "Feminine (Ka)",
+        "description": "The divine patroness of statecraft, the people's assembly (Ka Dorbar), constitutional wisdom, and legal balance. Invoked by chieftains (Syiem) and elders (Lyngdoh) before enacting communal judgments.",
+        "manifestation": "The sacred stone council circle (Ki Maw-dorbar), moral jurisprudence.",
+        "worship_form": "Opening prayers before village and state Dorbars."
+    },
+    {
+        "id": "ka_sngi_blei",
+        "name": "Ka Sngi (Ka Lei Sngi)",
+        "realm": "celestial_supreme",
+        "title": "The Radiant Sun Goddess / Primal Mother of Light",
+        "gender": "Feminine (Ka)",
+        "description": "In Khasi cosmology, the Sun is feminine (Ka Sngi) and the Moon is masculine (U Bnai). She is the supreme dispenser of daylight, plant photosynthesis, warmth, and vitality across the earth.",
+        "manifestation": "Sunlight, daybreak, solar warmth, morning mist dispersal.",
+        "worship_form": "Dawn salutations and solar thanksgiving chants."
+    },
+    {
+        "id": "u_bnai_blei",
+        "name": "U Bnai (U Lei Bnai)",
+        "realm": "celestial_supreme",
+        "title": "The Gentle Moon God / Lord of Night and Market Cycles",
+        "gender": "Masculine (U)",
+        "description": "The elder brother of Ka Sngi who accepted soot upon his face out of profound shame in the ancient myth. Regulates the 8-day traditional market cycle and night tides.",
+        "manifestation": "Moonlight, evening skies, lunar phases, nocturnal cooling.",
+        "worship_form": "Nocturnal prayers during full moon and new moon ceremonies."
+    },
+    {
+        "id": "lei_myntdu",
+        "name": "Ka Lei Myntdu (Ka Tawiar Takan)",
+        "realm": "river_water",
+        "title": "Guardian River Goddess of Jowai & Jaintia Realm",
+        "gender": "Feminine (Ka)",
+        "description": "The sacred river deity encircling the ancient city of Jowai on three sides like a guardian necklace (Tawiar Takan). Protects the people of Jowai from plague, drought, and invading enemies.",
+        "manifestation": "Meandering crystal waters of River Myntdu, riparian meadows.",
+        "worship_form": "Pre-Behdeiñkhlam riverbank libations and Pnar civic rituals."
+    },
+    {
+        "id": "lei_umngot",
+        "name": "Ka Lei Umngot",
+        "realm": "river_water",
+        "title": "The Mirror-Clear River Goddess of the Southern Gorges",
+        "gender": "Feminine (Ka)",
+        "description": "The sister river to Ka Umïam, famous for her transparent emerald depths at Dawki and Shnongpdeng where wooden boats appear to float on air. Sisterly rival in the famous footrace to the plains.",
+        "manifestation": "Glass-clear waters, limestone river canyons, border cascades.",
+        "worship_form": "Fishermen's phawar and river thanksgiving ceremonies."
+    },
+    {
+        "id": "u_bsein_thlen",
+        "name": "U Bsein Thlen",
+        "realm": "underworld_serpent",
+        "title": "The Evil Serpent Demon of Greed and Blood Curse",
+        "gender": "Masculine (U)",
+        "description": "The malevolent primordial serpent who demanded human blood sacrifices (Nongshohnoh) in exchange for fleeting earthly gold. Slain by heroic U Suidnoh at Dainthlen waterfall, but remnants of his curse remain as a moral warning against avarice.",
+        "manifestation": "Hidden underground caverns, Dainthlen basalt potholes, destructive greed.",
+        "worship_form": "Strictly renounced; rituals exist to sever and purge Thlen curses (Kñia Thlen)."
+    },
+    {
+        "id": "ka_ksaw_ka_jiri",
+        "name": "Ka Ksaw Ka Jiri",
+        "realm": "territorial_forest",
+        "title": "Spirit Maiden of the Sacred Canopy & Ancient Epiphytes",
+        "gender": "Feminine (Ka)",
+        "description": "The elusive woodland nymph residing in centuries-old strangler figs (Jiri) and living root bridges. Protects woodland flowers, ferns, and nesting mountain birds.",
+        "manifestation": "Living root bridges (Jingkieng Jri), aerial banyan roots, forest mist.",
+        "worship_form": "Quiet forest blessings and offerings of betel leaf at river crossings."
+    },
+    {
+        "id": "suid_tynrai",
+        "name": "U Suid Tynrai",
+        "realm": "ancestral_matrilineal",
+        "title": "Primal Guardian Spirit of the Ancestral Clan Estate",
+        "gender": "Masculine (U)",
+        "description": "The deified spiritual presence of all departed maternal ancestors watching over the collective ancestral land (Ri Kur) and clan ossuary (Mawbah).",
+        "manifestation": "Ancestral land boundary stones, clan stone cists.",
+        "worship_form": "Thep Mawbah clan funeral ceremonies and annual libations."
+    },
+    {
+        "id": "mawlong_syiem",
+        "name": "U Mawlong Syiem",
+        "realm": "mountain_sovereign",
+        "title": "Patron Monolith Spirit of the Shella Gorges",
+        "gender": "Masculine (U)",
+        "description": "The guardian rock spirit defending the southern limestone canyons facing the Bengal plains. Revered by the War-Khasi people for shielding citrus and betel plantations.",
+        "manifestation": "Limestone pillars, subtropical river gorges of Shella.",
+        "worship_form": "Local War-Khasi seasonal agrarian offerings."
+    },
+    {
+        "id": "lei_khyrwi",
+        "name": "Ka Lei Khyrwi",
+        "realm": "terrestrial_nature",
+        "title": "Goddess of Sprouting Seeds & Germination",
+        "gender": "Feminine (Ka)",
+        "description": "The gentle agricultural divinity who causes dormant grains of paddy, millet, and maize to burst into life within the dark soil.",
+        "manifestation": "Green seedlings, springtime terrace shoots.",
+        "worship_form": "Pre-monsoon sowing chants and blessed seed ceremonies."
+    },
+    {
+        "id": "lei_diengiei",
+        "name": "U Lei Diengiei",
+        "realm": "mountain_sovereign",
+        "title": "Deity of Mount Diengiei & Cosmic Light Restoration",
+        "gender": "Masculine (U)",
+        "description": "The divine spirit inhabiting Lum Diengiei (west of Shillong), where the legendary cosmic tree Diengiei once blocked the sun until felled through the united wisdom of all creatures led by the Phreit bird.",
+        "manifestation": "Crest of Mount Diengiei, ancient crater lake, mountain breezes.",
+        "worship_form": "Commemorative origin prayers honoring unity and ecological balance."
+    },
+    {
+        "id": "phan_kyrpad",
+        "name": "U Phan U Kyrpad",
+        "realm": "wealth_providence",
+        "title": "Household Deity of Domestic Sustenance & Root Crops",
+        "gender": "Masculine (U)",
+        "description": "The benevolent domestic spirit who watches over the kitchen garden, yam storage, sweet potato pits, and domestic fowl.",
+        "manifestation": "Family granary, dry food racks above the hearth.",
+        "worship_form": "First-fruit offerings of freshly dug tubers during harvest."
+    },
+    {
+        "id": "rngiew_tymmen",
+        "name": "U Rngiew (Ka Rngiew)",
+        "realm": "spiritual_aura",
+        "title": "The Divine Spirit of Inner Radiance, Moral Stature & Aura",
+        "gender": "Universal / Transcendent",
+        "description": "The intrinsic spiritual aura and personal power granted by God to every human being. When a person lives righteously (Hok), their Rngiew shines brilliantly (Ksan Rngiew); when they commit sin or deceit, their Rngiew diminishes (Rem Rngiew).",
+        "manifestation": "Moral courage, personal dignity, spiritual presence, charismatic leadership.",
+        "worship_form": "Chants of Phawar Ksan Rngiew and ceremonial blessings by maternal uncles."
     }
 ]
 

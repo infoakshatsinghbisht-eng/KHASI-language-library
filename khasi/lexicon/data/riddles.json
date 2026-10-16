@@ -158,5 +158,95 @@
     "riddle": "Iei kaei kaba ngi donkam ban thied ban pynjot?",
     "solution": "U Phuljhari ne Ka Bom phliah (Fireworks / आतिशबाजी)",
     "english_hint": "Purchased specifically to ignite and burn into sparks."
+  },
+  {
+    "khasi": "Shynrang u leit, kynthei ka wan.",
+    "english": "A man goes, a woman comes.",
+    "answer": "Ka shalyngka bad u shnong (The loom shuttle and thread / day and night)",
+    "category": "nature"
+  },
+  {
+    "khasi": "Saw tylli ki kjat, ar tylli ki khmat, hynrei um lah ban ïaid.",
+    "english": "Four legs, two eyes, but cannot walk.",
+    "answer": "Ka miej / Ka shuki (The wooden table / chair)",
+    "category": "household"
+  },
+  {
+    "khasi": "U leit sha khlaw um wallam dieng, u leit sha wah um wallam dohkha.",
+    "english": "He goes to the forest but brings no wood; he goes to the river but brings no fish.",
+    "answer": "U khnam (The arrow / breeze)",
+    "category": "traditional"
+  },
+  {
+    "khasi": "U kup da ka ryndia stem, hynrei um dei u syiem.",
+    "english": "He wears yellow silk, but he is not a chieftain.",
+    "answer": "U soh-manir / U kait (The ripe yellow banana / corn cob)",
+    "category": "flora"
+  },
+  {
+    "khasi": "Tang shu khem ia ka khmut, ka pynmih ia ka jingshai.",
+    "english": "As soon as you pinch its nose, it gives forth light.",
+    "answer": "Ka sharak / Ka ding (The torch / candle)",
+    "category": "household"
+  },
+  {
+    "khasi": "Mih na ka lyngkha khlem kjat khlem kti, hynrei u dung ia baroh.",
+    "english": "Comes from the field without hands or feet, yet pierces everyone.",
+    "answer": "U shiah / U sohbar (The thorn / thistle)",
+    "category": "nature"
+  },
+  {
+    "khasi": "Ka kti ka thaba, ka shyntur ka thngan.",
+    "english": "The hand strikes, the mouth is hungry.",
+    "answer": "Ka kor thoh / Ka siang (The sickle cutting paddy)",
+    "category": "agriculture"
+  },
+  {
+    "khasi": "U shong ha lum um shong ha them, u phong pansngiat khlem da long syiem.",
+    "english": "He lives on peaks, not valleys; he wears a crown without being a king.",
+    "answer": "U 'iar-ryngkuh (The rooster / pine cone)",
+    "category": "fauna"
+  },
+  {
+    "khasi": "Um don shyieng, um don doh, hynrei u pynhap ia u maw.",
+    "english": "Has no bones, has no flesh, yet can topple boulders.",
+    "answer": "Ka um / Ka lyer (The mountain water stream / wind)",
+    "category": "nature"
+  },
+  {
+    "khasi": "U heh ha ka miet, u rit ha ka sngi.",
+    "english": "He grows large at night, shrinks during the day.",
+    "answer": "Ka syrngiew (The shadow / twilight)",
+    "category": "nature"
+  },
+  {
+    "khasi": "U ba phet stet khlem kjat, u ba rwai sngewtynnat khlem shyntur.",
+    "english": "Runs fast without legs, sings sweetly without a mouth.",
+    "answer": "Ka wah / Ka besli (The mountain stream / bamboo flute)",
+    "category": "music"
+  },
+  {
+    "khasi": "Ka shuki ba shong u Blei, ym don ba lah ban shong lang.",
+    "english": "The throne where God sits, where no one else may sit.",
+    "answer": "Ka bneng (The boundless sky / heaven)",
+    "category": "cosmology"
+  },
+  {
+    "khasi": "U lieh ha sla, u iong ha poh, u bang ban bam ha ka lyngkha.",
+    "english": "White on the leaf, black underneath, delicious to eat in the field.",
+    "answer": "U soh-phan (The wild forest berry / edible root)",
+    "category": "flora"
+  },
+  {
+    "khasi": "Ka song ia ka doh ha ka kti, ka kawang sha ka ding khlem thang.",
+    "english": "Wraps meat in hand, throws into fire without burning.",
+    "answer": "Ka kpu / Ka ja (The rice cake in banana leaf)",
+    "category": "cuisine"
+  },
+  {
+    "khasi": "Ar tylli ki mawïing ba ïaid ryngkat, hynrei kim ju ïa kynduh.",
+    "english": "Two brothers walking together, yet they never meet.",
+    "answer": "Ki khmat / Ki kjat (The eyes / feet)",
+    "category": "human"
   }
 ]

@@ -13,16 +13,16 @@ The `khasi` library is a complete linguistic and computational standard library 
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        KHASI LANGUAGE LIBRARY                          │
 ├──────────────────────────┬─────────────────────────────────────────────┤
-│ 1. Trilingual Lexicon    │ 197,593+ Headwords (Khasi-English-Hindi)    │
-│ 2. Morphology Engine     │ 300,000+ Derived Forms & Affix Analyzers    │
+│ 1. Trilingual Lexicon    │ 336,000+ Headwords (Khasi-English-Hindi)    │
+│ 2. Morphology Engine     │ 400,000+ Derived Forms & Affix Analyzers    │
 │ 3. Dialectology Hub      │ 13,000+ Sub-Lexicons (Pnar, War, Bhoi, etc)│
 │ 4. Aligned MT Corpora    │ Bitext & TMX (Sentence-Aligned Benchmarks)  │
-│ 5. Whole Books Reader    │ 304 Complete Books (18,281 Pages, 5.34M Words)│
+│ 5. Whole Books Reader    │ 340 Complete Books (21,787 Pages, 6.33M Words)│
 │ 6. Traditional Songs     │ 300 Songs, Archery Phawar & Ballad Cycles   │
 │ 7. Attire & Jewellery    │ Garments, Ryndia Silk, Ornaments, Weapons   │
 │ 8. Traditional Rituals   │ 15 Ceremonies, Divination, Consecration     │
 │ 9. Speech Audio Waveforms│ 500 Native 16kHz PCM WAV Audio Files        │
-│ 10. Cultural Ontology    │ 105+ Clans, 52 Names, 85+ Flora, 65+ Fauna  │
+│ 10. Cultural Ontology    │ 25 Deities, 100 Flora, 76 Fauna, 105 Clans  │
 └──────────────────────────┴─────────────────────────────────────────────┘
 ```
 

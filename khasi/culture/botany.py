@@ -858,6 +858,156 @@ PLANTS: List[Dict[str, Any]] = [
         "cultural_use": "Resin & Fruit: Oily fruit kernels eaten roasted; trunk yields fragrant clear black dammar resin burned in sacred rituals",
         "habitat": "Moist subtropical river gorges",
         "conservation": "Indigenous"
+    },
+    {
+        "khasi_name": "Tiew-dohmaw",
+        "common_name": "Khasi Lady's Slipper Orchid",
+        "scientific_name": "Paphiopedilum insigne",
+        "family": "Orchidaceae",
+        "type": "Terrestrial & Lithophytic Orchid",
+        "cultural_use": "Ornamental & Cultural: Rare sacred orchid blooming on mossy limestone crags; celebrated in classical poetry",
+        "habitat": "Moist, shady limestone cliffs around Sohra and Mawsynram (1,200m - 1,800m)",
+        "conservation": "Threatened / CITES Appendix I"
+    },
+    {
+        "khasi_name": "Soh-phlang",
+        "common_name": "Khasi Edible Tuber / Flemingia",
+        "scientific_name": "Flemingia vestita",
+        "family": "Fabaceae",
+        "type": "Perennial Nitrogen-Fixing Tuberous Legume",
+        "cultural_use": "Culinary & Medicinal: Crunchy sweet white tubers eaten raw with roasted perilla seeds (Nei Lieh); anthelmintic and deworming properties",
+        "habitat": "Highland terrace fields across East Khasi Hills",
+        "conservation": "Traditional indigenous crop"
+    },
+    {
+        "khasi_name": "Kynbat-dawai / Chirayita",
+        "common_name": "Khasi Chiretta",
+        "scientific_name": "Swertia chirayita",
+        "family": "Gentianaceae",
+        "type": "Erect Medicinal Herb",
+        "cultural_use": "Medicinal: Renowned bitter tonic decoction used to treat persistent fevers, malaria, liver sluggishness, and blood purification",
+        "habitat": "Subalpine grassy slopes (1,500m - 2,200m)",
+        "conservation": "Medicinal heritage herb"
+    },
+    {
+        "khasi_name": "Dieng-jri",
+        "common_name": "Indian Rubber Fig / Root Bridge Fig",
+        "scientific_name": "Ficus elastica",
+        "family": "Moraceae",
+        "type": "Massive Strangler Fig / Canopy Tree",
+        "cultural_use": "Cultural Engineering: Aerial prop roots are guided through hollow betel trunks to weave world-famous living root bridges (Jingkieng Jri)",
+        "habitat": "Subtropical southern slopes and river gorges of War-Khasi",
+        "conservation": "Sacred keystone species"
+    },
+    {
+        "khasi_name": "Sla-met",
+        "common_name": "Khasi Wrapping Leaf",
+        "scientific_name": "Phrynium pubinerve",
+        "family": "Marantaceae",
+        "type": "Broad-leaved Forest Herb",
+        "cultural_use": "Culinary & Ritual: Broad, flexible waterproof leaves used to wrap steaming rice cakes (Pukhlein, Kpu), dry fish, and market produce",
+        "habitat": "Damp evergreen forest understory",
+        "conservation": "Abundant wild resource"
+    },
+    {
+        "khasi_name": "Sla-tyrpad",
+        "common_name": "Khasi Bay Leaf / Indian Cassia",
+        "scientific_name": "Cinnamomum tamala",
+        "family": "Lauraceae",
+        "type": "Evergreen Aromatic Tree",
+        "cultural_use": "Culinary & Trade: Highly aromatic dried leaves exported across India as Tejpat; bark used as cinnamon substitute; digestive carminative",
+        "habitat": "Southern gorges of Ri-War, Shella, and Cherrapunjee",
+        "conservation": "Major organic cash crop"
+    },
+    {
+        "khasi_name": "Siej-namlang",
+        "common_name": "Giant Hill Bamboo",
+        "scientific_name": "Dendrocalamus hamiltonii",
+        "family": "Poaceae",
+        "type": "Giant Clumping Bamboo",
+        "cultural_use": "Craft & Architecture: Thick-walled bamboo culms used for house water pipes, structural poles, and water-carrying vessels (Ktang-um)",
+        "habitat": "River valleys and subtropical hill slopes",
+        "conservation": "Abundant indigenous bamboo"
+    },
+    {
+        "khasi_name": "Soh-shiah",
+        "common_name": "Golden Himalayan Raspberry",
+        "scientific_name": "Rubus ellipticus",
+        "family": "Rosaceae",
+        "type": "Thorny Evergreen Shrub",
+        "cultural_use": "Culinary & Medicinal: Sweet golden-yellow wild berries gathered in spring; root decoction taken for diarrhea and abdominal cramps",
+        "habitat": "Forest edges, roadsides, and pine scrub",
+        "conservation": "Common wild fruit"
+    },
+    {
+        "khasi_name": "Soh-khyllam",
+        "common_name": "Assam Wild Crabapple",
+        "scientific_name": "Docynia indica",
+        "family": "Rosaceae",
+        "type": "Medium Deciduous Mountain Tree",
+        "cultural_use": "Culinary: Acidic tart fruits eaten fresh with salt or pickled; high pectin content used in traditional jellies",
+        "habitat": "Khasi highlands (1,400m - 1,900m)",
+        "conservation": "Wild and domestic"
+    },
+    {
+        "khasi_name": "Tiew-jalyngngap",
+        "common_name": "White Hill Rhododendron",
+        "scientific_name": "Rhododendron formosum",
+        "family": "Ericaceae",
+        "type": "Epiphytic or Lithophytic Shrub",
+        "cultural_use": "Ornamental & Cultural: Fragrant pure white-pink trumpet flowers blooming in April; symbol of highland spring in Khasi songs",
+        "habitat": "Exposed rocky crags and mossy trees in high-rainfall zones",
+        "conservation": "Subalpine native"
+    },
+    {
+        "khasi_name": "Kynbat-khlieng",
+        "common_name": "Indian Pennywort / Gotu Kola",
+        "scientific_name": "Centella asiatica",
+        "family": "Apiaceae",
+        "type": "Creeping Perennial Herb",
+        "cultural_use": "Medicinal & Culinary: Fan-shaped leaves eaten fresh in herbal salads; revered memory-enhancer, wound healer, and cooling blood purifier",
+        "habitat": "Damp meadows, spring margins, and stream edges",
+        "conservation": "Common indigenous herb"
+    },
+    {
+        "khasi_name": "Soh-mylleng",
+        "common_name": "Wild Amla / Indian Gooseberry",
+        "scientific_name": "Phyllanthus emblica",
+        "family": "Phyllanthaceae",
+        "type": "Deciduous Mountain Tree",
+        "cultural_use": "Medicinal & Culinary: Highly astringent sour fruit that leaves a sweet lingering aftertaste in cold spring water; potent Vitamin C tonic",
+        "habitat": "Dry open slopes and mixed deciduous ridges",
+        "conservation": "Indigenous wild tree"
+    },
+    {
+        "khasi_name": "Tit-stem",
+        "common_name": "Golden Pine Chanterelle",
+        "scientific_name": "Cantharellus cibarius",
+        "family": "Cantharellaceae",
+        "type": "Wild Ectomycorrhizal Edible Mushroom",
+        "cultural_use": "Culinary: Prized apricot-scented golden mushroom foraged from pine duff in July-August; cooked with pork, ginger, and mustard oil",
+        "habitat": "Khasi pine (Pinus kesiya) forest floor",
+        "conservation": "Seasonal wild delicacy"
+    },
+    {
+        "khasi_name": "Dieng-sning",
+        "common_name": "Griffith's Khasi Oak",
+        "scientific_name": "Quercus griffithii",
+        "family": "Fagaceae",
+        "type": "Large Mountain Oak",
+        "cultural_use": "Ecological & Timber: Heavy, durable timber used for house frames and agricultural tool handles; sacred grove keystone species",
+        "habitat": "Sacred groves (Lawkyntang) and primary broadleaf forests",
+        "conservation": "Old-growth native"
+    },
+    {
+        "khasi_name": "Sla-tympew",
+        "common_name": "Khasi Betel Vine",
+        "scientific_name": "Piper betle",
+        "family": "Piperaceae",
+        "type": "Evergreen Climber",
+        "cultural_use": "Sacred Ritual & Hospitality: Essential leaf chewed with kwai (areca nut) and lime; indispensable token of greeting and ancestral covenants",
+        "habitat": "Warm subtropical southern slopes of Shella and Pynursla",
+        "conservation": "Major cash crop"
     }
 ]
 
