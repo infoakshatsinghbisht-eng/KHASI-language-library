@@ -107,35 +107,8 @@ class ParallelCorpus:
         """Convenience method for (khasi, english) sentence pairs."""
         return self.get_pairs(source=source, split=split, target_lang="en")
 
-    def get_hindi_pairs(
-        self,
-        source: Optional[str] = None,
-        split: Optional[str] = None
-    ) -> List[Tuple[str, str]]:
-        """Convenience method for (khasi, hindi) sentence pairs."""
-        return self.get_pairs(source=source, split=split, target_lang="hi")
-
-    def get_trilingual_records(
-        self,
-        source: Optional[str] = None,
-        split: Optional[str] = None,
-        domain: Optional[str] = None
-    ) -> List[Dict[str, Any]]:
-        """Return records that contain both English and Hindi translations."""
-        records = self.get_records(source=source, split=split, domain=domain)
-        return [r for r in records if r.get("english") and r.get("hindi")]
-
-    def get_trilingual_pairs(
-        self,
-        source: Optional[str] = None,
-        split: Optional[str] = None
-    ) -> List[Tuple[str, str, str]]:
-        """Return raw (khasi_sentence, english_sentence, hindi_sentence) triplets."""
-        records = self.get_trilingual_records(source=source, split=split)
-        return [(r["khasi"], r["english"], r["hindi"]) for r in records]
-
     def get_book_sentences(self, book_id: str) -> List[Dict[str, Any]]:
-        """Return all translated sentences extracted from a specific digitized book ID."""
+        """Return all sentences extracted from a specific digitized book ID."""
         b_low = book_id.lower().strip()
         return [r for r in self.records if r.get("book_id", "").lower() == b_low]
 
@@ -158,19 +131,16 @@ class ParallelCorpus:
         return result
 
     def search(self, query: str, lang: Optional[str] = None) -> List[Dict[str, Any]]:
-        """Search parallel corpus across Khasi, English, or Hindi text."""
+        """Search parallel corpus across Khasi or English text."""
         q = query.lower().strip()
         if lang == "kha" or lang == "khasi":
             return [r for r in self.records if q in r.get("khasi", "").lower()]
         elif lang == "en" or lang == "english":
             return [r for r in self.records if q in r.get("english", "").lower()]
-        elif lang == "hi" or lang == "hindi":
-            return [r for r in self.records if q in r.get("hindi", "").lower()]
         return [
             r for r in self.records
             if q in r.get("khasi", "").lower()
             or q in r.get("english", "").lower()
-            or q in r.get("hindi", "").lower()
         ]
 
     def get_stats(self) -> Dict[str, Any]:
@@ -181,23 +151,17 @@ class ParallelCorpus:
 
         total_khasi_words = sum(len(r.get("khasi", "").split()) for r in self.records)
         total_english_words = sum(len(r.get("english", "").split()) for r in self.records)
-        total_hindi_words = sum(len(r.get("hindi", "").split()) for r in self.records if "hindi" in r)
-
-        trilingual_count = sum(1 for r in self.records if r.get("english") and r.get("hindi"))
 
         return {
             "total_sentence_pairs": len(self.records),
-            "total_trilingual_sentences": trilingual_count,
             "total_books_represented": len(sources),
             "sources": dict(sources),
             "splits": dict(splits),
             "domains": dict(domains),
             "total_khasi_words": total_khasi_words,
             "total_english_words": total_english_words,
-            "total_hindi_words": total_hindi_words,
             "avg_khasi_sentence_len": round(total_khasi_words / max(1, len(self.records)), 2),
             "avg_english_sentence_len": round(total_english_words / max(1, len(self.records)), 2),
-            "avg_hindi_sentence_len": round(total_hindi_words / max(1, len(self.records)), 2),
         }
 
     def export_bitext(
@@ -207,7 +171,7 @@ class ParallelCorpus:
         target_lang: str = "en",
         split: Optional[str] = None
     ) -> int:
-        """Export aligned bitext sentences to parallel plain text files (.kha and .en/.hi)."""
+        """Export aligned bitext sentences to parallel plain text files (.kha and .en)."""
         pairs = self.get_pairs(split=split, target_lang=target_lang)
         os.makedirs(os.path.dirname(os.path.abspath(khasi_path)), exist_ok=True)
         os.makedirs(os.path.dirname(os.path.abspath(target_path)), exist_ok=True)
@@ -217,27 +181,6 @@ class ParallelCorpus:
                 fk.write(kh.strip() + "\n")
                 ft.write(trg.strip() + "\n")
         return len(pairs)
-
-    def export_trilingual(
-        self,
-        output_path: str,
-        format_type: str = "json",
-        split: Optional[str] = None
-    ) -> int:
-        """Export trilingual parallel corpus to JSON or TSV (Khasi \\t English \\t Hindi)."""
-        records = self.get_trilingual_records(split=split)
-        os.makedirs(os.path.dirname(os.path.abspath(output_path)), exist_ok=True)
-
-        if format_type.lower() == "tsv" or output_path.endswith(".tsv"):
-            with open(output_path, "w", encoding="utf-8") as f:
-                f.write("id\tsource_book\tkhasi\tenglish\thindi\n")
-                for r in records:
-                    f.write(f"{r.get('id', '')}\t{r.get('source_book', '')}\t{r['khasi']}\t{r['english']}\t{r['hindi']}\n")
-        else:
-            with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(records, f, ensure_ascii=False, indent=2)
-
-        return len(records)
 
     def export_tmx(self, output_path: str, target_lang: str = "en") -> int:
         """Export parallel corpus to Translation Memory eXchange (TMX 1.4b) format."""

@@ -31,7 +31,7 @@ examples/exports/
 .DS_Store
 Thumbs.db
 
-# Large raw corpus downloads
+# Large raw corpus downloads & monolithic dumps
 *_dict.txt
 book_*.txt
 downloaded_raw/
@@ -39,6 +39,10 @@ data/khasi_books/*.pdf
 data/khasi_books/**/*.pdf
 data/english_books/*.pdf
 data/english_books/**/*.pdf
+data/*_full_text.jsonl
+data/*_master_text.txt
+data/*_archive_map.json
+data/*.txt
 
 # Private commercial translation & corpus data
 private_translations/
@@ -46,6 +50,14 @@ scratch/
 khasi/corpus/data/
 data/archive_1939_datasets/
 data/*_complete_trilingual.*
+data/*.tsv
+data/**/*.tsv
 *.xlsx
 *.tsv
 *_pages_dump.txt
+*sentence_by_sentence*
+*trilingual*
+build_parallel_corpus.py
+KHASI_BOOKS_COLLECTION_DIGITIZATION_AND_TRANSLATION_TRACKER.md
+MASTER_1939_HISTORICAL_ARCHIVE_CATALOG.md
+
