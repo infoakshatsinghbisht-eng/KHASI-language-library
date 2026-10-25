@@ -4,14 +4,14 @@ Khasi Classical & Digitized Books Preservation Module (Ka Thiar Kot Khasi).
 =============================================================================
 
 Provides full digitized whole-book access (all pages, chapters, and metadata)
-for 36 foundational Khasi literary, theological, dramatic, historical, and
-linguistic masterpieces.
+for 714 foundational Khasi literary, theological, dramatic, historical, and
+linguistic masterpieces (84,370+ pages, 18,890,000+ words).
 
 Key Features:
 - Page-by-page text navigation (`book.get_page(page_number)`)
 - Full concatenated book text access (`book.full_text`)
 - In-book search across pages with text snippets (`book.search("...")`)
-- Universal full-text search across all 36 books (`search_books("...")`)
+- Universal full-text search across all 714 books (`search_books("...")`)
 - Rich metadata: Title, native title, author, year, genre, chapters, total words
 """
 
@@ -143,19 +143,28 @@ class KhasiBook:
         return data
 
 
+Book = KhasiBook
+
+
 def _load_index() -> List[Dict[str, Any]]:
     global _BOOKS_INDEX_CACHE
     if _BOOKS_INDEX_CACHE is None:
         if _INDEX_PATH.exists():
             with open(_INDEX_PATH, "r", encoding="utf-8") as f:
-                _BOOKS_INDEX_CACHE = json.load(f)
+                raw = json.load(f)
+                if isinstance(raw, dict) and "books" in raw:
+                    _BOOKS_INDEX_CACHE = raw["books"]
+                elif isinstance(raw, list):
+                    _BOOKS_INDEX_CACHE = raw
+                else:
+                    _BOOKS_INDEX_CACHE = []
         else:
             _BOOKS_INDEX_CACHE = []
     return _BOOKS_INDEX_CACHE
 
 
 def list_books() -> List[Dict[str, Any]]:
-    """Return summary metadata for all 24 digitized books in the library."""
+    """Return summary metadata for all 714 digitized books in the library."""
     return list(_load_index())
 
 
@@ -165,8 +174,11 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
     Loads and caches the full book content including all individual pages.
     """
     key = id_or_title.strip().lower()
+    key_slug = key.replace(" ", "_").replace("-", "_")
 
-    # Check cache
+    # Check cache (prefer canonical slug ID match)
+    if key_slug in _BOOK_CACHE:
+        return _BOOK_CACHE[key_slug]
     if key in _BOOK_CACHE:
         return _BOOK_CACHE[key]
 
@@ -175,8 +187,9 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
     matched_id: Optional[str] = None
 
     # Priority 1: Exact id match
+    key_slug = key.replace(" ", "_").replace("-", "_")
     for item in idx:
-        if item["id"].lower() == key:
+        if item["id"].lower() in (key, key_slug):
             matched_id = item["id"]
             break
 
@@ -244,7 +257,7 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
 
 
 def search_books(query: str, max_results_per_book: int = 5) -> List[Dict[str, Any]]:
-    """Perform full-text search across ALL 24 books and all pages.
+    """Perform full-text search across ALL 714 books and all pages.
     
     Args:
         query: Search string (e.g. 'u hynniewtrep', 'ka hok', 'sohpetbneng')
@@ -265,8 +278,40 @@ def search_books(query: str, max_results_per_book: int = 5) -> List[Dict[str, An
     return results
 
 
+def get_book_full_text(id_or_title: str) -> Optional[str]:
+    """Return the entire concatenated text of a book across all pages without page navigation."""
+    b = get_book(id_or_title)
+    if b:
+        return b.full_text
+    return None
+
+
+def get_master_compendium_path() -> Path:
+    """Return Path to the single consolidated plain-text compendium containing all digitized books."""
+    workspace_root = Path(__file__).resolve().parent.parent.parent
+    return workspace_root / "data" / "all_khasi_books_master_text.txt"
+
+
+def get_master_jsonl_path() -> Path:
+    """Return Path to the single consolidated JSONL dataset containing all books with full text."""
+    workspace_root = Path(__file__).resolve().parent.parent.parent
+    return workspace_root / "data" / "all_khasi_books_full_text.jsonl"
+
+
+def get_pure_khasi_master_text_path() -> Path:
+    """Return Path to single document with ALL books strictly in Khasi language (no English/Garo/translations)."""
+    workspace_root = Path(__file__).resolve().parent.parent.parent
+    return workspace_root / "data" / "pure_khasi_books_master_text.txt"
+
+
+def get_pure_khasi_master_jsonl_path() -> Path:
+    """Return Path to JSONL dataset of ALL books strictly in Khasi language with full text."""
+    workspace_root = Path(__file__).resolve().parent.parent.parent
+    return workspace_root / "data" / "pure_khasi_books_full_text.jsonl"
+
+
 def total_books() -> int:
-    """Return the total number of whole digitized books available (24)."""
+    """Return the total number of whole digitized books available (1,233)."""
     return len(_load_index())
 
 
@@ -308,6 +353,31 @@ class BooksManager:
             return b.get_page(page_number)
         return None
 
+    def read_full(self, id_or_title: str) -> Optional[str]:
+        """Read the entire unpaginated continuous text of a book."""
+        return get_book_full_text(id_or_title)
+
+    @property
+    def master_text_file(self) -> Path:
+        """Path to single document containing all books with complete content."""
+        return get_master_compendium_path()
+
+    @property
+    def master_jsonl_file(self) -> Path:
+        """Path to line-delimited JSON with each book's full content."""
+        return get_master_jsonl_path()
+
+    @property
+    def pure_khasi_text_file(self) -> Path:
+        """Path to single document containing only books in Khasi language (no English/translations)."""
+        return get_pure_khasi_master_text_path()
+
+    @property
+    def pure_khasi_jsonl_file(self) -> Path:
+        """Path to JSONL containing only books in Khasi language (no English/translations)."""
+        return get_pure_khasi_master_jsonl_path()
+
+
     def search(self, query: str, max_results_per_book: int = 5) -> List[Dict[str, Any]]:
         """Search query across all books and all pages."""
         return search_books(query, max_results_per_book)
@@ -318,15 +388,17 @@ class BooksManager:
         authors = {}
         genres = {}
         for b in idx:
-            a = b["author"]
+            raw_a = b.get("author", "Unknown")
+            a = ", ".join(raw_a) if isinstance(raw_a, list) else str(raw_a)
             authors[a] = authors.get(a, 0) + 1
-            g = b["genre"]
+            raw_g = b.get("genre", "General")
+            g = ", ".join(raw_g) if isinstance(raw_g, list) else str(raw_g)
             genres[g] = genres.get(g, 0) + 1
 
         return {
             "total_books": len(idx),
-            "total_pages": sum(b["total_pages"] for b in idx),
-            "total_words": sum(b["total_words"] for b in idx),
+            "total_pages": sum(b.get("total_pages", 0) for b in idx),
+            "total_words": sum(b.get("total_words", 0) for b in idx),
             "authors_count": len(authors),
             "genres_count": len(genres),
             "genres": genres,
@@ -336,3 +408,4 @@ class BooksManager:
 
 # Global instance for top-level usage
 books = BooksManager()
+

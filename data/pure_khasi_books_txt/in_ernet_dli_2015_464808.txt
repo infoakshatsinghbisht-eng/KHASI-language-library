@@ -1,0 +1,2290 @@
+TITLE: Ka Grammar Khasi Na Ka Bynta Ki Klas Middle English
+AUTHOR: Basaiawmoit, Franklin
+YEAR: 1971
+LANGUAGE: Khasi (Ka Ktien Khasi)
+ID: in_ernet_dli_2015_464808
+PAGES: 26 | WORDS: 8,755
+======================================================================
+
+GRAMMAR  KHASI
+
+NA
+
+KA  BYNFA
+
+Ki  Klas  Middle  English
+
+DA
+
+Miss  D l'RANkn\  Basaiavvvkjh  BA  BT
+
+AV  td  t s siManl  Insj  of  Siliools
+
+m
+
+I ‘>71
+
+I A SnON  HA  Rl  kHASI  PR^SS,  SH(LLONG-l
+
+kA
+
+GRAMMAR  KHASI
+
+N\
+
+KA  HYN7A
+
+Ki  Klas  Middle  hnglish
+
+D \
+
+1 Miss  I)  Ikanmin  B \s \i \\v vioi i B X B I
+
+liclil  flisf>t(nL\s  'i!  honh
+
+Lti  h»kdi  English  bad  Giaminar  16  sntm  ha 
+Government  Gills’  High  School  Dibrugarh  ha 
+Jowai  Goveininent  High  School  I snem,  kiim  ka 
+Assistant  Headmistiess  bad  14  sntm  kum  ka 
+Assistant  Inspecticss
+
+\^1\
+
+1)01  Kt>  1 25
+
+* t i
+
+> ^ i t . ^
+
+‘ pecTsof
+
+)- 4 b feU
+
+KA  FCriEN  LAMPHRANO
+
+Ha  ka  pyitliei  ihoh  kot  thoh-sla  myata  ngi 
+shem  ba  kawei  ka  jingduna  ka  long  hapdeng 
+long  ngi  ba  ym  don  Giammar  Khasi  kaba  hikai 
+la  ki  tynrai  kumno  ban  kynnoh  bad  spel  bad 
+thoh  bell  la  la  ka  ktien  ha  ka  rukom  kaba  but, 
+namai  kata  ngi  shem  ba  bun  ki  khynnah  Khasi, 
+wat  ha  High  School  bad  College  riih  kiba  fill  ha 
+ka  Vctnaciilai
+
+I late  Fathei  H Fllias  I la  thoh  m kaGrammai 
+khasi  na  ka  bynla  ki  skul  Piimary  kaba  long 
+ka  jingkyikhu  lada  k'  nonghikai  kin  pynpule  la 
+kane  ka  kot  bad  pyndonkam  la  ki  rule  ne  Am 
+ba  la  thoh  hangto  Nga  ngeit  kan  larap  shibun 
+ban  tei  la  la  ka  ktien  ha  ka  nongrim  ka  badei
+
+Nga  sngew  ba  ha  kane  ka  juk,  ngi  da  donkam 
+ch  sa  Id  ka  Grammar  ha  la  ka  jong  ka  ktien 
+tynrai  na  ka  bynta  ki  M E School  bad  High 
+School  dt  Nga  sngew  ba  kane  ka  jingpyrshang 
+bant  jong  nga  kan  larap  la  ki  khynnah  ban  pule 
+bniah  la  kine  ki  ain  jong  ka  Grammar  Khasi 
+ban  nangtei  la  ki  ha  kaba  thoh  beit  la  la  ka  jong 
+ka  ktien  da  kaba  bud  la  ki  am  katkum  ka 
+Grammar
+
+CO
+
+Ngdn  sathoh  sa  la  kaba  dei  la  ka  High  School 
+de  khnang  ban  nangtei  la  la  ka  ktien  kat  kumba 
+ngi  pyndonkam  da  ka  ictien  Sohra
+
+La  ai  katto  katne  ki  jipgpyrshang,  hynrei 
+kan  bha  ba  ki  nonghikai  katba  ki  hikai  la  ki 
+Text  kin  kylli  ruh  la  ki  bynta  ka  Gi  ammar  ba  ki 
+pynpule,  kane  kan  larap  shibun  la  ki  khynnah 
+ba  ka  jingpyndonkam  la  ki  aih  ka  Grammar 
+ban  pynroi  la  ki  jingtip  bad  jingthoh  ha  la  ka 
+ktien  Khasi
+
+Dated  Shillong,
+
+The  15th  Sept  1970
+
+Miss  D Franklin  Basaidwmoit
+
+KI  JINGKDEW
+
+Sla
+
+Lynnong
+
+I
+
+Ki  Alphabet
+
+1
+
+Lynnong
+
+II
+
+Ka  Senten  bad  ki  bynta  jong
+
+ka
+
+3
+
+Lynnong
+
+III
+
+Ki  bynta  ki  jmgkren  (Part
+
+of  Speech)
+
+6
+
+]
+
+Noun  bad  jaid  jong  ka
+
+6
+
+2
+
+Ka  Berb  bad  jaid  jong  ka
+
+10
+
+3
+
+Ka  Pronoun  bad  jaid  jong  ka
+
+13
+
+4
+
+Ka  Adjektib  bad  jaid  jong  ka
+
+bad  ki  Artikl
+
+19
+
+5
+
+Ki  Adberb
+
+24
+
+6
+
+Ka  Priposishon
+
+25
+
+7
+
+Kd  Konjongshon
+
+26
+
+8
+
+Ka  Interjekshon
+
+27
+
+Lynnong
+
+IV
+
+Jingpynkylla  la  ki  ktien
+
+27
+
+1
+
+Nombar  (Number)
+
+28
+
+2
+
+Jenddi  (Gender)
+
+29
+
+3
+
+Ki  Kes  (Case)
+
+30
+
+4
+
+Ki  Tens
+
+31
+
+5
+
+Ki  Mood
+
+32
+
+6
+
+Bois  (Voice)  bad  ki  )aid  jong
+
+ka
+
+34
+
+7
+
+Parsing
+
+36
+
+Lynnong
+
+V
+
+Analaisif  (Analysis)
+
+40
+
+Lynnong
+
+VI
+
+Komphmen  (Complement)
+
+45
+
+Lynaong  1
+
+Ka  Grammar  ka  long  kata  ka  jingstad  kaba 
+hikai  kumno  ban  kren  ban  thoh  bniah  la  ki  ktien
+
+Ha  ka  ktien  Khasi  ki  don  23  tylli  ki  dak  la 
+kiba  ngi  khot  Alphabet  kiba  long  —
+
+abkdegnghiIjlmnNop
+
+R S T U W Y
+
+Ta  kine  ki  dak  la  la  pynbynta  ha  ki  dak  khraw 
+kum  A B K D bad  dak  nt  kum  a b k d
+
+la  ki  dak  khraw  la  pyndonkam  ha  kaba 
+sdang  jong  ka  senten,  ki  kyrteng  ki  bnew,  ki  lum, 
+ki  wah,  ki  shnong  kum  — Nga  don  i miaw 
+Shillong,  Umiam,  Diengiei,  Men
+
+Ki  dak  ki  don  arjaid  ki  jmgsawa ,
+
+1 Ki  Vowel  kum  — a,  e,  i,  o,  u,  kiba  don 
+ki  sur  ba  pber
+
+2 Ki  Konsonan  kum  — b,  k,  d,  haduh  y, 
+lait  noh  kitei  ki  Vowel  5 tylh  kine  la  don  tang 
+shi  sur  La  pyniasoh  la  ki  Konsonan  bad  Vowd 
+ban  p)mlong  ka  ktien  kaba  don  j i ngmut  Kum  — 
+bam,  dih,  dor,  bet,  hun
+
+2
+
+Ka  ktien  ka  mut  ka  jingpywasob  la  ki  Vowel 
+bad  ki  Konsonan
+
+Ki  ktien  ki  don  ka  jingkynnoh  (Syllable)
+
+Ki  jaid Jingkynnoh —
+
+1 Shisien  kynnoh  (Mono-syllable)  knm  — 
+bam,  kot,  um
+
+2 Ar  iien  kynnoh  (Di-syllable)  kum  — 
+Alhia,  nongrep,  suhkot,  jakoid
+
+3 Lai  sien  kynnoh  (Tn-syllable)  kum  — 
+itynnad,  diengsawdong,  mawbynna,  sngewpnylla
+
+4 Bun  kynnoh  (Poly-syllable)  kum  kiba 
+palat  la  ka  lai  kynnoh  kum  — Presbiteri,  para- 
+shongkha.  Metropolitan
+
+JINGPYRSHANG  1
+
+1 Katno  jaid  ki  don  ki  ktien?  lathuh 
+kyrteng  la  ki  bad  kumno  la  pyndonkam  la  ki^
+
+2 Kiel  ki  Vowel  bad  kiei  ki  Konsonan? 
+Kumno  la  pyndonkam  la
+
+3 Kaei  ka  ktien^
+
+4 Katno  jaid  ki  jingkynnoh  la  don?  Ai 
+nuksa  ar  tylli  la  kawei  kawei  ka  jaid
+
+3
+
+Lyimong.  2 
+Ka  S^ten
+
+Haba  ngi  kren  ne  thoh,  ngi  pyndonkam  la 
+ki  ktien,  ngi  pyniasoh  iang  la  ki  ban  ai  jingmut 
+ba  tbikna
+
+Ka  senten  ka  long  ka  jingpyniasoh  lang 
+la  ki  ktien  kiba  ai  la  kajingmut  batiukna.  Kum  —
+
+Ngd  bam  ja,  Ka  sim  ka  her,  Ki  ksew  ki  wiar, 
+Ka  long  ka  khynnah  batipsngi
+
+JINGPYRSHANG  2
+
+Kino  na  kine  ki  kynhun  ktien  ki  dei  ki 
+senten
+
+1 Ka  para  jong  nga  2 Ka  Iyer  ka  long  ka 
+bakhriat  3 Ki  ksew  lamwir  4 Ka  sngi  ka 
+pbyrnai  5 Une  u let  6 Ka  kamra  ka  long  ka 
+baheh  7 Halor  ka  ben  8 Ka  ding  ka  meh 
+9 I mei  bad  pa  long  nga  10  Phin  leit  shano^
+
+Ka  jingiapynbynta  la  ka  senten.
+
+Ka  senten  ka  don  ar  bynta
+
+1 Ngi  kren  shaphang  uno  uno  u briew 
+ne  kiei  kiei
+
+2i  J'lgi  ong  ei-ei  shaphang  uta  u briew 
+ne  kiei  kiei
+
+4
+
+Kata  shapbang  kaba  ngi  kren  ei  ei  la  khot  ka 
+sobjek
+
+la  kiei  kiei  kiba  ngi  kren  shapbang  ka  sobjek 
+ngi  khot  ka  Prediket.
+
+Kum  —
+
+Sobjek  Prediket
+
+1 Ka  sim  ka  her
+
+2 Ki  Masi  ki  bam  phlang
+
+3 Ka  Man  ka  don  ikhunblang  bant
+
+4 U slap  u hap
+
+JINGPYRSHANG  3
+
+Ong  ei  ei  shapbang  kme  ki  sobjek  — Kulai 
+Ki  sim,  Bombay,  Ka  Lin
+
+JINGPYRSHANG  4
+
+Pyndap  kawei  ka  sobjek  ha  ki  jaka  ba  lait
+
+1 ka  thiang
+
+2  ka  kem  khnai
+
+3  ka  thawskum
+
+4  u kynih
+
+5 ki  leit  la  ka  dud.
+
+6  ^ka  don  lai  tylh  ki  jmgkhang  tt.
+
+5
+
+7 tied
+
+8 rwai  sngewtyonad
+
+9 leit  la  1 khun  miaw.
+
+10  Shisjen  ha  kawei  ka  por  la  don
+
+JINGPYRSHANG  5
+
+Phiah  la  kine  ki  senten  ha  ka  sobjek  bad 
+Prediket  —
+
+1 Nga  dih  dud  2 K.i  sim  ki  thaw  skum 
+halor  dieng  3 K.a  Tngen  ka  leit  thied  khaw  na 
+hat  4 U leit  jmgiaseng  man  la  ka  sngi  U Blei 
+5 Ka  kmie  ka  suh  sopti  6 U Jo  u leit  skul  man 
+ka  sngi  7 I Babu  i hikai  bha  la  ki  khynnah
+
+8 U nongaplangbrot  u lohsngew  la  ka  jingpah
+
+9 Ngin  labam  )a  noh  10  Sha  surok  la  sied  ka 
+bol
+
+Ka  senten  ka  lah  ban  don  tang  kawei  ka 
+ktien,  kum,  “March”  lane  “jubab”  Kum  ha 
+kine  ki  senten,  ngi  lohi  shai  ba  don  ki  ktien  bym 
+shym  pym,  hynrei  la  shu  sngewthuh  Kane  ka 
+bynta  ka  dei  ka  Sobjek
+
+Haba  nga  ong,  “March”  nga  mut,  “phi 
+mareh  ” Lada  phi  tied  ha  ka  jingkhang  nga 
+ong,  “Rung”  nga  mut,  “phi  rung”  phi  ka  sobjek 
+la  shu  sngewthuh  wat  lada  la  lehnoh
+
+6
+
+Lynnong  3
+
+Ki  bynta  ki  jingkren  (Parts  of  Speech)
+
+Ha  ka  jmgkren  jong  ngi,  ngi  pyndonkam 
+ki  ktien  ban  pyni  m kj  jmgmut  jong  ki  bad  ka  leh 
+am  ha  ka  senten
+
+Don  8 jaid
+
+1 Ka  Noun  2 Ka  Pronoun  3 Ka 
+Adjektib  4 Ka  Berb  5 Ka  Adberb  6 Ka 
+Priposishon  7 Ka  Konjongshon  8 Ka  In- 
+terjekshon
+
+1 Ka  Noun 
+Ha  ki  senten  —
+
+1.  Ka  kot  ka  don'halor  ka  miej.
+
+2 Ka  sim  ka  her
+
+Ngi  kren  shaohang  ka  kot,  ka  miej  bad  sim 
+Kme  ki  dei  ki  kyrteng  bad  la  khot  la  ki  ki  Noun
+
+Ka  Noim  ka  lon^  ka  ktien  kaba  la  pyndonkam 
+kum  ka  kyrteng  jong  kiei  kiei.  Kum  — Khyn- 
+nah,  Sim,  Kot,  Miej.
+
+7
+
+JINGPYRSHANG  6
+
+t
+
+A Thoh  10  tylli  ki  Noun  B Jied  la  kl 
+Noun  ha  kine  ki  senten  —
+
+1 Ka  masi  ka  ai  dud  2 I mei  i bam  ja 
+3 Nga  thep  kot  ha  ka  pla  4 U Bill  u thoh  jing- 
+thoh  5 Kl  sim  ki  thaw  skum  6 Don  um  ha  utat 
+u khiew*^  7 U Bing  u puh  lyngkha  8 Ka  Rit  ka 
+thoh  shithi  <5ha  ka  kmie  9 U Hati  u don  ki 
+khmat  ki  bant  10  Don  ar  tylli  ki  shuki  ha  kane 
+ka  kamra  11  Ka  sngi  ka  don  ha  bneng  12  Ka 
+pyrthei  ka  tyllun  sawdong  la  ka  sngi
+
+Kl  Jaid  Noun
+
+Don  5 jaid  ki  Noun
+
+1 Ka  Proper  Noun  2 Ka  Common  Noun 
+3 Ka  Collektib  Noun  4 Material  Noun  5 Ka 
+Abstrak  Noun
+
+1 Ka  Proper  Noun  ka  long  ka  kyrteng  ba~ 
+thikna  jong  u hriew  ne  jaka  Kum  — U Joseph, 
+Da  bid,  Sin,  Shillong,  Bombay  la  ki  proper 
+Noun  la  sdang  da  u dak  khraw
+
+2 Ka  Common  Noun  ka  long  ka  kyrteng 
+ba  la  del  long  jong  kajuh  ka  jaid  la  la  u bnew 
+ne  kiei  km  Kum  — U Shynrang,  ka  kynthei, 
+Masi,  Kulai,  Shnong,  Dieng,  Khulom,  Kot,  Ben. 
+Ha  kl  senten  — Ka  Shin  ka  long  ka  khynnah. 
+Shillong  ka  long  ka  nongbah  long  ka  Assam. 
+Ka  Delhi  ka  long  ka  nongbah  jong  ka  India.  ,
+
+8
+
+Shin,  Sh’llong,  Assam  Delhi,  India  ki  dci 
+ki  Proper  Noun  bad  khynnah,  nongbah  ki  dei 
+ki  Common  Noun
+
+JJNGPYRSHANG  7
+
+A Kdew  la  ki  Proper  bad  Common  Noun 
+harum  —
+
+1  U Moses  bad  U Aion  ki  dei  shi  para
+
+2 U Akbar  u la  im  ha  ka  por  ka  syiem  Elizabeth
+
+3 Ka  Delhi  ka  long  ka  nongbah  ka  India
+
+4 U Himnlaya  u de  u lum  ha  India  5 Ka  wah 
+Brahmaputra  ka  dei  ka  wah  bah  ka  Assam
+
+B Thaw  4 tylli  ki  senten  ba  don  Proper 
+bad  Common  Noun  —
+
+3 Ka  Collektib  Noun  ka  long  ka  kyrteug 
+jong  ki  kynhun  ki  briew  ne  /ingialang  kiei  kiei 
+haba  shim  kum  kawei  Kum  — Klas,  kynhun 
+shipai,  paitbah,  kynhun  sim,  shi  song,  shikham 
+Thaw  senten  da  ki  4 tylli  ki  collekt'b  Noun
+
+4 Ka  material  Noun  ka  long  ka  kyrteng 
+jong  ki  mar  khyndew  Kum  — U Shyiap,  dieng, 
+dewiong,  maw,  nar
+
+5 Ka  Abstrak  Noun  ka  long  ka  kyrteng 
+jong  kiei  kiei  ki  ba  ngim  iohi  ne  ktah,  hynrei  ba  ngi 
+shu  pyrkhat  Kum  — ^Jingsbun,  jmgieit,  jingtlot, 
+jingkyrmen,  ka  hok,  jmglong  khynnah,  jmg- 
+kohnguh
+
+9
+
+JINGPYRSHANG  8
+
+A Kdew  kino  ki  Matenal  Noun  —
+
+1 U shoh  maw  2 Ka  masi  ka  dih  um
+
+3 K.1  tih  shyiap  4 La  tei  img  da  u maw  it  5 Nga 
+thievr  niut  6 Ka  ksiar  ka  bakordor  7 Nga 
+thoh  ha  ka  kot  sada  8 Ka  shim  ka  bathiang 
+9 Ka  pngtah  ka  jlah  mluh  10  Ngi  loh  dewiong 
+na  Sohra
+
+B Thaw  3 tylli  ki  senten  ba  don  Material 
+Noun
+
+JINGPYRSHANG  9
+
+A Kdew  kino  ki  Abstrak  Noun  —
+
+1 Ka  jingkoit  jmgkhidh  ka  long  ka  spah 
+2 U Hati  u don  ka  bor  bakhraw  3 La  pyndap 
+la  ka  dohnud  jong  nga  da  ka  jingkmen  4 Ka 
+jmgiap  u kpa  ka  la  pynsngewsih  la  ka  5 Ka 
+jmgiatylli  ka  long  ka  bor  6 Ki  la  tare  ha  ka 
+jingdum  7 U la  duh  la  la  ki  kmie  ki  kpa  ha  ka 
+jinglong  khynnah  jong  u 8 Ka  jingkohnguh 
+ka  kham  kordor  ban  la  ka  jingknia  9 Wat  ju 
+lathuh  lamler  10  Ka  jmgstad  ka  khambha  ban 
+la  ka  bor
+
+B Pyndap  da  ki  Noun  ha  ki  jaka  ba  lait  —
+
+1 ka  pah  mynstep  2 Bun ki
+
+mih  ha  kper  3 Ka  ka  kdew  la  ka  pof
+
+4 Don ha  uto  u khiew  5 Ka khnat
+
+10
+
+ka  beh 6 Ka  masi  ka  ai la  ngi  7 Ka
+
+ka  ai 8 U shoh ha  kper  9 Ki
+
+lalehthma  10  Ka kajopbarabor
+
+2 Ki  Serb  (Verb)
+
+Ka  Berb  ka  long  ka  ktien  kaba  lathuh  la  kaei 
+ba  u briew  ne  kaei  kaei  ki  leh  ne  long  Kum  —
+
+1 Ka  ding  ka  meh  2 U khynnah  u ryn- 
+sied  3 U long  u babha  4 Ka  um  ka  long  ka 
+bakhnat
+
+Ki  Jaid  Berb
+
+1 Transitive  Berb  ka  long  ka  ktien  kaba 
+lathuh  ba  ka  kam  ka  laid  sha  kawei  pat  ka  ktien 
+Kum  — 1 Ka  Dil  ka  bam  ja  2 Ki  shoh  la  u 
+ksew  Ka  ktien  Ja  bad  Ksew  kaba  shah  leh  ei  ei 
+da  ka  Berb  la  khot  Objek  (Object)
+
+2 Intransitive  Berb  ka  long  ka  ktien  kaba 
+lathuh  ba  ka  kam  ka  sahkut  tang  ha  u nongleh 
+Kum  — Ka  sngi  ka  phyrnai,  ki  rykhie
+
+Ha  ka  senten  — U la  ai  ka  kot  la  ka  Jen 
+Hangne  don  artylh  ki  objel  ka  kot  ka  dei  ka 
+Direct  Objek  ba  ka  jubab  ka  long  aiu  Ja  ai  bad 
+kdew  la  ka  tiar  Ka  Jen  la  khot  Indirek  Ob>ek 
+ba  ka  long  ka  jubab  hano  la  at  bad  ka  kdew  la  ka 
+briew.
+
+11
+
+Don  katto  katne  ki  befb  kiba  lah  ban  pyn- 
+donkam  kum  ka  Transitive  bad  Intransitive
+
+Kum  —
+
+Transitive
+
+1 Nga  bam  ja
+
+2 U thoh  kot
+
+3 U nongniah  u pynsangeh  la  ka  kali,
+
+4 U nonghikai  u hen  bun  ki  ktien
+
+5 U la  pyniaid  la  u kulai  sharum
+
+6 U Hira  u pvniap  la  u bsem
+
+Intransitive
+
+1 Kiba  stad  ki  bam  suki
+
+2 U thoh  shai
+
+3 Ka  kali  ka  sangeh  kynsan
+
+4 Une  u khynnah  u kren  teh  teh
+
+5 U la  mid  sharum  shaneng
+
+6 U briew  u lap
+
+3 Auxiliary  Berb
+
+3 Auxiliary  kamut  larap,  ki  berb  ba  larap 
+la  ka  berb  ba  kongsan  Kum  — ^Phi  lah  ban  leit, 
+Nga  lah  ban  leh
+
+Ka  Auxiliary  berb  ka  long  ka  ktien  ba  larap 
+ia  ka  berb  ba  kongsan  ha  ka  sraten.
+
+12
+
+JINGPYRSHANG  10.
+
+A Jied  la  ki  berb  ha  kme  kt  senten  bad 
+lathuh  la  ki  long  ki  Transitive,  Intransitive  ne 
+Auxiliary  —
+
+1 Ki  khynnah  basniew  ki  tap  la  la  ki 
+lingbakla  2 Ka  ding  ka  la  pyning  la  ka  mg 
+3 Ka  sngi  ka  mih  na  mihngi  4 Ki  sim  ki  her 
+5 Nga  lah  ban  trei  kam  6 Ka  blang  ka  la  hap 
+hapoh  pung  7 Khie  leit  peit  la  la  i pa  lashai 
+8 U bnai  u la  mih  9 U thoh  smew  10  Ka  rel 
+ka  la  sangeh  kynsan  11  Un  sa  wan  12  Shim 
+la  la  ki  kot  bad  leit  sha  mg  13  U Shipai  un  siat 
+suloi  14  Phi  lah  ban  pyrshang  pat  15  Ka 
+tyngab  ka  la  dem  ha  u dieng  bad  pah
+
+B Pyndap  la  ki  jaka  ba  duna  da  ki  objek  —
+
+1 U kulai  u la  kynjat 2 U la  pyn-
+
+pait 3 Ka  masi  ka  ai 4 Ka  la  ai
+
+la 5 U dorji  u la  suh 6 Ka  miaw
+
+ka  la  pymap  7 Uba  jop  un  loh
+
+8 U pulit  u la  kem 9 U la  siat  a u da
+
+ka
+
+K Thoh  5 tylh  ki  senten  ba  don  ki  berb 
+ba  la  pyndonkam  kum  ka  Intransitive
+
+D Thoh  5 tylli  ki  senten  ba  don  ki  berb 
+ba  la  pyndonkam  kum  ka  Transitive
+
+13
+
+3  Ki  Pronoun
+
+Ka  PronouD  ka  long  ka  ktien  la  kaba  la  pyn- 
+donkam  ba  ka  jaka  jong  ka  Noun.  Kum  —
+
+Joni  u long  u khynnah  tipsngi  bad  baroh  ki 
+leit  la  u Hangne  m u ka  leng  na  ka  bynta  kk 
+noun  Joni,  namarkata  ka  dei  ka  Pronoun
+
+JINGPYRSHANG  11
+
+A Jied  la  ki  Pronoun  ha  kine  ki  senten 
+bad  lathuh  ki  leng  na  ka  bynta  kano  ka  Noun
+
+1 Haba  u khia  u la  lohi  la  ka  skei,  u la 
+kynrup  la  ka  2 U khynnah  u la  lohi  la  ka  Bol 
+bad  u la  pyrshang  ban  shim  »a  ka  3 Thidd 
+la  ki,  ki  long  ki  sohpieng  ki  babha  eh  ha  dukan
+
+4 Ki  khynnah  shynrang  ki  la  lap  la  ka  skum  ba 
+u dieng  Ka  la  long  ka  baphylla  Ki  la  shem
+
+5 tylli  ki  pylleng  ha  ka  5 Ki  khynnah  kynthei 
+ki  la  pynjah  la  ka  khadu,  hynrei  ka  la  shem  la  ka 
+hajan  jong  ka
+
+B Pynkylla  la  ki  katto  katne  ki  noun  sha 
+ki  Pronoun  ha  ki  senten  harum  —
+
+1 Ka  Martha  ka  la  iwat  sngewtynnad,  ki 
+bnew  ki  la  sngap  la  ka  Martha  ki  biiew  ki  la 
+sngewbha  la  ka  Martha  Ki  bnew  ki  la  laroh  la 
+ka  Martha
+
+2.  Ki  shipat  ki  la  mynsaw  Kine  ki  shipai 
+ki  del  ban  leit  sha  Aspata  Ki  doktor  kin  pynfeat
+
+14
+
+la  kine  ki  shipai  Ki  doktor  km  ym  phah  siew 
+tyngka  la  ki  shipai
+
+3 U Ram  u la  lohi  la  v Arjun  U Ram  u 
+la  khot  ja  u Arjun  U Arjun  u la  lubab  la  u 
+Ram  U Ram  bad  u Arjun  ki  la  la  leit  lang  Nga 
+lohi  la  U Ram  bad  la  U Arjun
+
+4 Nga  don  t khun  kulai  Nga  ai  kylliang 
+la  1 khun  kulai  ha  uwei  u khynnah  U khynnah 
+u la  shong  bad  laid  lyngba  ka  ktieh
+
+5 Nga  lohsngew  u Nongkhrong  u pan  jmg- 
+larap  U nongkhrong  u la  tymmen  eh  bad  tJot 
+Nga  la  ai  la  u nongkhrong  shi  anna  U nong- 
+khrong u la  shim  la  ka  anna  bad  u la  kbublei  la 
+nga
+
+Ki  jaid  Pronoun.
+
+(1)  Personal,  (2)  Demonstrative,  (3)  Relatib, 
+(4)  Interoga+ib
+
+1 Ka  Personal  Pronoun  ka  long  ka  ktien 
+ha  ka  jaka  jong  u briew  ba  kren  Kum  — Nga 
+long  ka  khynnah  kynthei,  Ngi  dei  ban  kren  la  ka 
+jmgshisha,  Balei  u shoh  la  ngal
+
+(a)  Ka  Pronoun  ba  kdew  la  u briew  ba  kren 
+la  png  ba  ka  long  ha  ka  first  person  Kum  — 
+Nga,  U,  Ngi
+
+15
+
+(b)  K.a  Pronoun  ba  kdew  la  u bnew  ba  uba 
+ngi  kien  la  ong  ba  ka  long  ha  ka  Second  person. 
+K.um  — Me,  Phi
+
+(k)  Ka  Pronoun  ba  kdew  la  u bnew  ne  kiei 
+kiei  shaphang  jong  uba  ngi  kren,  la  ong  ba 
+ka  del  ka  third  person  Kum  — U,  la  u,  Ka, 
+la  ka,  la  ki
+
+fd)  Habd  ngi  pyniasoh  sa  ka  ktien  lade 
+ne  hi  ha  ki  Personal  pronoun  bad  kata  ka  kdew 
+la  ka  Noun  ne  Pronoun  la  khot  Emphasaismg 
+Pronoun  (ba  da  shon  jur)  Kum  —
+
+1 Nga  da  lade  nga  lohi  la  u 2 Phi 
+hi  da  lade  phm  batai  la  ka  3 U hi  da  tade  u 
+la  ong  kumta  4 ki  hi  ki  la  phla
+
+(e)  Haba  ngi  pyniasoh  la  ka  ktien  Lade  ne 
+hi  ha  b Personal  Pronoun  bad  ki  long  ki  Objek 
+jong  ka  berb,  hynrei  ki  kdew  la  ujuh  u bnew  kum 
+ka  sobjekla  khot  Rephlek sib  Pronoun  (baka  kdew) 
+Kum  -H^l)  U koidi  u la  sdien  la  lade  2 Nga 
+bta  la  lade  tang  shu  khie  (3)  Ngi  shukor  la  lade 
+bunsien  (4)  Ki  la  pynsuhsat  m lade  hi
+
+JINGPYRSHANG  12
+
+A Kdew  la  ki  Pronoun  harum  bad  lathuh 
+ki  del  ki  jaid  am
+
+1 Nga  bam  ja.  2 U shoh  la  lade  (3)  Ki 
+khynnah  ki  neh  la  lade,  4.  Ngim  ju  kham  lohi
+
+16
+
+la  lade  kumba  kiwei  kt  lohi  m ngi  S«  Phi  la  batat 
+bha  dalade  6 Ka  la  dih  bih  da  lade  7 Nga 
+la  khang  ia  ka  khyrdop  da  lade  8 Phi  da  law 
+phi  la  lohi  la  u ba  u leh  la  ka"^  9 Ngi  la  lohi 
+la  u syiem  da  lade  10  Ka  hi  ka  la  ong  kumta.
+
+2  Ka  Demonstratib  Pronoun  ka  long  ka 
+ktien  ba  kdew  la  ki  Noun  ba  la  pyndonkam  ha 
+shuwa  bad  teng  na  ka  bynta  jong  ki  Kum  — Kane» 
+katai,  kine,  kitai
+
+1 Kane  ka  long  ka  pngai  i mama,
+
+2 Kme  ki  long  tang  ki  daw  kai
+
+3 Katai  ka  dei  ka  ing  jong  nga
+
+4 Kito  ki  long  ki  kot  jong  nga,
+
+5 Hangne  ka  kot  ka  babha  Phi  la  ju 
+lohi  la  kane  mynshuwa*^
+
+6 Ka  spah  jong  u ka  kham  bun  ban  la  kata 
+ka  jong  u lok  jong  u
+
+3  Ka  Relatib  Pronoun  ka  long  ka  ktien 
+kaha  lathuh  la  ka  Noun  ne  kawei  pat  ka  Pronoun. 
+Kum  — Mano,  lano,  Uno,  Kano,  Uba,  Kiba»
+
+Unc  u long  u briew  uba  la  leh  la  ka
+
+Ka  noun  u briew  ka  leitha  shuwa  ka  Pronoun 
+kaba  ka  leng  bad  id  khot  la  ka  Antecedent  (kata 
+kaba  led  sha  shuwa)
+
+17
+
+Ka  Antecedent  ka  long  ka  Noun  ne  Pronoun 
+kaba  leit  ha  shuwa  ka  Pronoun  na  ka  bynta  ha  ka 
+leng
+
+Kum  — Nga  U lathuh  la  u ta  kc^i  ba  u dci 
+ban  leh  Kaei  ka  lathuh  bad  ka  leng  naka  bynta 
+kaei  kaei  ba  ka  leng  na  ka  bynta  2 tylli  ki  Pronoun 
+ne  ka  Noun  bad  ka  Pronoun  bad  ka  ktien  kaei 
+la  khot  ka  Compound  Relatib
+
+4  Ka  Jntarogatib  Pronoun  ka  long  ka  Pro- 
+noun la  kaba  la  pyndonkam  ha  kaba  kyih  png- 
+kylli  Kum  — Uej  Kano,  Kacj,  Aiu
+
+Phi  long  uei  Kano  ka  ing  jong  phi  Phi 
+leh  aiu"^  Ngam  tip  kaei  phi  leh*^
+
+JINGPYRSHANG  13 
+A Tied  la  ki  Demonstratib  Pronoun  —
+
+1 Phi  lah  ban  khein  la  kane  kaj'ngkheifi*^
+
+2 Kane  ka  dei  ka  kot  jong  nga,  katai  ka 
+jong  phi
+
+3 Ai  la  nga  kawei  na  kito
+
+4 Ym  donkam  ban  sheptieug  la  kata
+
+5 Ngim  lah  ban  khlem  rkhie  la  kaei  ba  u ong
+
+6 Kane  ka  long  shisha  ka  Jingbakla
+
+B Jied  la  ki  Interogatib  Pronoun  ha  kme 
+ki  senten  harum  —
+
+18
+
+1 Kano  kd  mg  I Mama  jong  phi?
+
+2 Mano  ba  don  hangtai?
+
+3 Uei  uba  la  jop‘>
+
+4 Kano  phin  shim?
+
+5 Kaei  ka  khubor*^
+
+6.  lano  phi  kwah*^
+
+7 Am  phi  lohi
+
+K Pyndap  ki  Noun  ba  ladei  ha  ki  jaka 
+ba  lait  —
+
+1 Haba  ka  Bina  ka  la  lohi  la  u khla  la
+
+lynniar
+
+2 Ki  lok  ki  ong la  lohi  la  phi  hynnin
+
+3 Na  kine  ki  khulom  ar  tylli,  U Bok  u
+
+lah  ban  shim ngan  shim
+
+4 Ki  nonghikai  ki  pynshitom  la  ki  khynnah
+
+ki  bym kot
+
+5  la  wan  ban  larap  la  ngi
+
+6 Phi  shem ha  ka  kamra"^
+
+D Kdew  la  ki  Pronoun  harum  bad  lathuh 
+ki  del  na  ka  jaid  am  —
+
+1 Ka  Rita  ka  la  pynhap  la  ka  siang  kaba 
+ka  la  bat  ha  ka  kti  jong  ka
+
+2 Shisien  la  don  kawei  ka  khynnah  nt 
+ka  kyrteng  jong  ka  ka  long  ka  Klin,  bad  haba 
+ka  la  dap  6 snem  karta,  ka  kmie  rad  jong  ka,  ka
+
+19
+
+la  ai  la  ka  kawej  ka  tupia  saw  Ka  knue  jong  ka 
+Klin  ka  la  phah  la  ka  ban  rah  la  ka  shang  jong  ka 
+sha  khlaw  bad  pyndap  la  ka  da  ki  syntiew
+
+3 Une  u long  u khynnah  uba  la  pynpait 
+la  ka  it
+
+4 Ngi  la  leh  la  ka  da  lade  hi
+
+5 Kane  ka  kot  jong  nga,  katai  ka  jong  phi
+
+6 Mano  ban  leit  bad  nga
+
+7 Ka  jongno  kane*^
+
+8 Uei  ba  la  leh  la  kane'^
+
+9 Ym  donkam  ban  sheptieng  la  kata
+
+10  Ai  la  nga  khyndiat  na  kiio
+
+4 Ka  Adjektib  (Adjective)
+
+Ka  Adjektib  ka  long  ka  ktien  kaba  batai  la 
+ka  Noun  ne  Pronoun  Kum  — Babha,  basniew, 
+balieh,  b^tthiang
+
+1 U Paul  u long  u khynnah  u babha
+
+Ka  ktien  babha  ka  batai  la  ka  ktien  khynnah.
+
+2 Ka  shim  ka  long  ka  bathiang
+
+Ka  ktien  bathiang  ka  batai  la  ka  noun 
+shim  lyngba  ka  berb  “long”
+
+3 U long  u babha
+
+Ka  ktien  babha  ka  batai  la  ka  Pronoun"  U” 
+la  kine  la  khot  Adjektib
+
+20
+
+JINGPYRSHANG  14.
+
+A Jied  la  ki  Adjektib  ba  kine  ki  senten 
+bad  lathub  balei  ki  dei  ki  Adjektib  —
+
+1 Ka  Shillong  ka  long  ka  nongbah  baheh 
+ka  Assam  bad  Meghalaya
+
+2 Ka  masi  ka  long  ka  mrad  bamyntoi
+
+3 Ka  Sisa  ka  long  ka  nar  bakhia
+
+4 Ka  Bina  ka  long  ka  nongrwai  ba  bang
+
+5 U Makashang  u long  u lum  bajrong
+
+6 Ki  shneh  ki  don  ki  tdong  bajrong
+
+7 Ki  .ohkrep  ki  long  ki  bajew
+
+8 Ka  sngi  ka  long  ka  baphyrnai
+
+9 Ka  jingkhein  ka  long  ka  baeh
+
+10  U Tiewkulap  u long  u syntiew  baitynnad
+
+B Pyndap  adjektib  ha  ki  jaka  ba  thylli  —
+
+1 Ka  khynnah  ka  don  ka  ryndang  .
+
+2 Long  u khynnah
+
+3 U Kulai  u long  u mrad
+
+4 Ha  ka  sngi ngi  sliang  um
+
+5 Nangno  ka  lynti  sha  steshon
+
+6 Ka  Pun  ka  long  ka  rud  duriaw
+
+7 Ngi  donkam  shibun  ka  Iyer
+
+8 Buh  umdih  ha  u khiew
+
+9 U Asoka  u long  u sy^em
+
+IB  Ngi  del  barobor  ban  phong  ki  jam  ki  — ^
+
+21
+
+Ki  Jaid  Adjektib.
+
+1 Adjektib  of  Kwahty  ka  long  ka  ktien 
+ba  batai  la  ka  jmglong  u briew  ne  kaei  kaei  Kum 
+— ^Babha,  basniew,  baheb,  bajrong,  bad  kiwei
+
+2 Adjektib  of  Kwantity  ka  long  ka  ktien 
+ba  batai  la  ka  jingbm  jong  ki  Kum  — Saw  ngut 
+ki  bnew  ki  la  trei  kam  I babu  Soso  i la  thoh 
+shibun  ki  jmgiathuh  khana  Nga  donkam  khyn- 
+diat  tyngka
+
+3 Demonsli  atih  Ad/ektib  ka  long  ka  ktien 
+ba  batai  la  ka  Noun  da  kaba  kdew  la  ka  Kum  — 
+Une  u slap  la  jur  bha  Nga  bang  la  kme  ki 
+sohpieng  Peit  la  katai  ka  dur  baitynnad
+
+4 Interogatib  Adjektib  ka  long  ka  ktien 
+ba  batai  la  ka  Noun  da  kaba  kylli  kano  ne  kaei 
+Kum  — Kano  ka  kot  phi  kwah*^  U bnew  aiu  une?
+
+5 Ka  Possessih  Adjektib  ka  long  ka  ktien 
+ba  batai  la  ka  Noun  da  kaba  jubab  ka  jongno 
+Kum  — ^Une  u long  u khulom  jong  nga  Katai 
+ka  long  ka  mg  ]ong  nga
+
+JINGPYRSHANG  15.
+
+A Kdew  la  ki  Adjektib  ha  kme  ki  senten 
+bad  lathuh  ki  dei  ki  jaid  aiu  —
+
+1 U Tirot  Singh  u long  u bnew  u badon- 
+nam
+
+22
+
+2 Ka  Shillong  ka  long  ka  nongbah 
+baitynnad
+
+3 Ka  tymmen  bapli  ka  loh  jingbara  khyn- 
+diat
+
+4 Ngi  la  don  san  ngut  shi  para
+
+5.  Katai  ka  kot  jongno  halor  miej 
+Lai  phut  long  shi  kot 
+7 Kane  ka  trep  ba  thaw  I Pa 
+8.  Sngewbha  ai  um  khyndiat  ban  dih.
+
+9 Ka  Pubon  ha  Syndai  ka  long  ka  bajlan 
+bad  baduro
+
+10  Ka  Lama  India  ka  don  lai  tylh  ki  long 
+kaba  stem  byrsaw,  kaba  lieh  bad  ba  jyrngam-iong,
+
+B Buh  Adjektib  ha  ki  jaka  ba  thylli  —
+
+1 Shi  taiew  don  sngi  2 U Hati  u
+
+long  u mrad  — 3 ki  khia  kiba  bam
+
+bnew  4 Ki  sngi  ki  shit,  hynrei  ki  miet  ki
+
+5 U Paintali jong  u Misteri  dieng  u la  luin
+
+6 Ka  Umiam  ka  long  ka  wah  — — ha  ri  Khasi
+
+7  ka  kot  kaba  nga  leit  ban  puk  8 U
+
+khulom  - — une  9 I pa  jong  nga  I trei  lyng- 
+kha  ha ki  lum  10 u khaw  phi  kwah*^
+
+Jmgpyniapher  la  ki  Adjektib
+
+(Comparison  of  Adjective) 
+la  ki  adjektib  lah  ban  pyniapher  ha  ki  lai
+
+jaid
+
+23
+
+1 Ka  positib  dign  — Kum  — U briew  ba- 
+jrong
+
+2 Ka  Komparatib  digri  — ^Haba  la  nujor 
+hapdeng  artyJh  da  kaba  buh  ka  ktien  k^m 
+ha  ka  adjektib  Kum  — U Bin  u kham  jrong 
+ban  la  u ifiu
+
+3 Ka  Suparlatib  dign  haba  la  nujor  palat 
+la  ki  ai  tylli  ne  shibun  bad  la  buh  la  ka  ktien 
+tarn  eh  Kum  ~U  Lum  Makashang  u long  u 
+bajrong  tarn  eh  ha  ii  India
+
+JINGPYRSHANG  16
+
+lathuh  ki  adjektib  ha  kine  ki  senten  harum 
+ki  del  ha  ka  digri  am  —
+
+1 Nga  don  u let  basaw  2 U khynnah  um 
+long  u bastad  3 Ka  Biti  ka  kham  jrong  ban  la 
+ka  Lina  4 Hynmn  la  theh  u slap  bakham  lur 
+5 U la  kiew  ha  u kulai  basted  tarn  6 U briew  u 
+basbun  u la  isynei  la  ka  khynnah  bapli  7 U 
+khla  u kham  heh  ban  la  ka  miaw  8 U T'rot 
+Singh  u kham  sblur  ban  la  u David  9 Nga  long 
+ka  bakmen  10  (J  tiew  kulab  u long  u syntiew 
+baiwbih  tarn  eh
+
+5 Ki  Artikd  (Article)
+
+Ki  aitikil  ki  del  hi  ki  adjektib  bad  ha  ka 
+Khasi  la  buh  da  ka  ktien  Ka,  U,  Ki  Kum  — U 
+ksew,  Ka  miaw
+
+24
+
+Don  arjaid  ki  artikil
+
+1 Ka  Dephnit  artikil  haba  batai  thikna 
+la  ka  noun  kum  kane  ka  mg  ba  nga  shong, 
+U la  leit  sha  U Doctor
+
+2 Ka  Indephmit  artikil  haba  kam  da  batai 
+thikna  la  ka  noun  Kum  — Nga  don  u ksew 
+Nga  kwah  u let
+
+Thaw  5 tylli  ki  senten  kiba  don  ka  Dephmit 
+bad  Tndephinit  artikil
+
+6.  Ki  Adberb.
+
+Ka  Adberb  ka  long  ka  ktien  kaba  batai  la 
+ka  berb,  adjektib  bad  la  kawei  pat  ka  adberb.
+
+Kum  — Nga  pule  jam,  Ka  Sil  ka  long  ka  khynnah 
+batipsngi  eh  D la  laid  suki  eh
+
+Don  saw  jaid  ki  Adberb
+
+1 Adberb  of  manner  (rukom)  kumno  la 
+leh  la  ka  kam  Kum  — U mmot  bha,  Ka  thoh 
+shai
+
+2 Adberb  of  time  (ka  por)  Ka  pyni  la  ka 
+por  mynno  la  leh  la  ka  kam  Kum  — Ki  poi 
+mynta  U wan  tista  sha  skul.  Kan  leit  lashai
+
+3 Adberb  of  place  (ka  jaka)  ka  pym  hangno 
+la  leh  la  ka  kam  Kum  — Hangne,  hangtai, 
+hangno,  halor,  hapoh  U don  hangne
+
+25
+
+4  Adberb  of  dtgn  ka  pyni  katno  la  leh  ia  ka 
+kam  K.um  — eh,  kham,  shibun,  khyndiat  U 
+jaituh  eh  Ka  kham  smat  U bam  khyndiat.
+
+JINGPYRSHANG  17
+
+Kdew  la  ki  Adberb  bad  la  ki  ktien  ba  ki 
+batai  bad  ki  jaid  am  —
+
+1 Ki  shipai  ki  laleh  shlur
+
+2 U Tom  u long  u khynnah  babha  eh
+
+3 U slap  jur
+
+4 Ka  kot  ka  don  hangne
+
+5 U laid  suki  eh
+
+6 Kren  suki  bad  shai  bha
+
+7 Ka  sim  ka  rwai  sngewtynnad
+
+8 Nga  sngewthait  mynta  ka  sngi
+
+9 Ka  kren  jam  eh
+
+1 0  Nga  dei  barobor  ban  kren  la  ka  jingshisha
+
+7 Priposishon  (Preposition)
+
+Ha  ka  phareng  Pre  ka  mut  shuwa,  position 
+ka  mut  buh
+
+Ka  Priposishon  ka  long  ka  ktien  la  kaba  la 
+buh  ha  shuwa  ka  noun  ne  pronoun  ban  pyni  la 
+ka  jmgiadei  jong  ka  bad  kiwei  pat  ki  ktieQ. 
+Kum  — Ka  kot  ka  don  halor  ka  niiei.  Nga 
+laid  kai  harud  wah  U ai  kot  la  nga
+
+26
+
+la  ka  Noun  ne  Pronoun  ba  la  buh  ha  shuwa 
+ka  Pnposjshon,  la  khot  ka  objek  (Object)  kum 
+miej  bad  nga
+
+JINGPYRSHANG  18
+
+I Kdew  la  ki  Priposishon  bad  objek  jong 
+kine  harum  —
+
+I I pa  im  don  ha  ing  2 Ka  kot  ka  don 
+halor  ka  miej  3 leng  hajan  jong  nga  4 Ngan 
+leit  sha  Sohra  lashai  5 Buh  la  ka  synduk  hapoh 
+ka  jingthiah  6 U Tro  u laid  hadien  jong  nga 
+7 U mareh  sawdong  ka  madan  8 Ka  tyngab 
+ka  pynhap  ruti  hapoh  pung  9 Ka  shong 
+sha  shiliang  ka  wah  10  Ki  la  wan  baroh  lait 
+tang  1 Man
+
+II  Pyndap  da  ki  Priposishon  ha  ki  jaka 
+ba  la  it  —
+
+1 Nga  shong  ka  shuki  2 U peit
+
+ka  dur  3 Wieh  la  u khulom  — ka  sia  4 Ka
+
+Jowai  ka  don ka  wah  Myntdu  5 Ki  sim
+
+ki  dem dieng  6 U shoh nga  7 larap
+
+ki  8 U thiah  — jmgthiah  9 Kaei
+
+kato ka  kti*^  10  Wallam  la  u nga
+
+8 Konjongshon  (Coiyunction)
+
+Ka  Konjongslion  ka  long  ka  ktien  kaba  pyn- 
+iasoh  lang  la  ki  ktien  ue  ki  senten.  Kum  — 
+Ka  Kn  bad  U Saiyoit  ki  ladei  shi  para  U 
+lathuh  la  nga  ha  u pang
+
+27
+
+JINGPYRSHANG  19.
+
+I Pyndap  Konjongshon  ha  ki  jaka  ba  lait  —
+
+1 U Jak  Jil  ki  long  shi  para  2 U
+
+long  u bahok u long  uba  beit  3 Nga  la
+
+pyrshang ngam  lah  4 I mei  i leit nga
+
+5 Bud  )Ong  nga
+
+9 Intarj^kshon  (Interjecuon)
+
+Ka  Intarjekshon  ka  long  ka  ktien  ba  la  pyn- 
+donkam  ha  ka  senten  ban  pyni  la  ka  jingiSngew.
+
+Kum  —Am  ' aha  ' ade  ’ wow  !
+
+JINGPYRSHANG  20 
+Kdtw  la  ki  Interjekshon  —
+
+i Hip  hoie  ' ka  Ja  jop  2 Wow  * nga  la 
+lap  3 Am  ’ u la  shem  eh  4 Ade  ’ ka  la  stad 
+5 Mei  kynrad  ’ ka  la  jan  hap  hapoh  um
+
+Lynnong  4
+
+JINGPYNKYLLA  lA  KT  KTIEN  (Inflexsjon 
+ot  words)
+
+Ngi  la  pule  la  ki  jmgpyndonkam  la  ki  ktien 
+bapher  ban  pynlong  la  ka  senten  bad  la  ka  jmg- 
+ladei  jong  ki  kawei  bad  kawei  pat  bad  ha  kano 
+ka  rukom  la  pyndonkam  la  ki
+
+28
+
+Mynta  ngin  u peit  kumno  ba  la  kajuh  ka 
+ktien  lab  ban  pynkylla  ha  ka  dur  ha  ka  jingpyn- 
+donkam  la  ka
+
+Inphlekdion  ka  mut  ka  jingpynkylla  la  ka  jingmut 
+jong  Id  ktien  da  kaba  pynkylla  la  ka  dur  hynrei 
+ha  ka  Khasi  da  kaba  ngi  bub  da  kawei  pat  ka  ktieo
+
+Ka,  Ki  Kum  ba  ka  phareng  — Man  men, 
+boy,  boys,  he,  him  Ha  ka  Khasi  ngi  buh 
+U briew,  ki  briew,  u la  u
+
+la  ki  Inphlekshon  lah  ban  pynbynta  ha  ki  4 
+jaid  Number,  Jender,  Kes  bad  Tense  (Number), 
+(Gender),  (Case),  (Tense)
+
+Numbar  (Number)
+
+Haba  ka  Noun  ne  ka  pronoun  ka  pyni  la 
+kawei  kaei  kaei,  la  ong  ba  ka  long  ka  Singular 
+Number  Kum  — u,  ka,  uwei,  kawei  Haba  ka 
+Noun  ne  ka  Pronoun  ka  pyni  palat  la  kawei  ki 
+la  ong  ba  ka  long  kaP/«m/  Kum  Ki,  — kiwei
+
+JINGPYRSHANG  21
+
+lathuh  la  ki  numbar  jong  ki  ktien  ba  la 
+underhne  —
+
+1.  Nga  lohi  la  u Khla
+
+2 Ki  khynnah  ki  lalehkai
+
+3 Ki  leit  ban  rwai
+
+29
+
+4 U nang  ban  shad
+
+5 U don  shibun  ki  masi
+
+6 Ki  blang  ki  bam  phlang
+
+7 Kane  ka  kot  ka  don  sanphew  sla
+
+8 Nga  kit  shikhoh  ki  phan
+
+2 Jendar  (Gender)
+
+Ki  ktien  ki  kylla  ha  ka  dur  haba  pyndonkam 
+la  ka  kynthei  ne  shynrang  Kum  — U briew,  Ka 
+bnew,  U sing,  Ka  sing,  U,  Ka
+
+la  ki  Noun  ne  Pronoun  ba  kdew  la  ki  shyn- 
+rang, la  ong  ba  ki  dei  ha  ka  Maskulm  Jendar 
+(Masculine  Gender)  Kum  — U ksew,  u hati
+
+Ta  ki  Noun  ne  Pronoun  ba  kdew  la  ki  kynthei 
+la  ong  ba  ki  dei  ha  ka  Phemmm  Jendar  (Feminine 
+Gendtr)  Kum  — Ka  masi,  ka  raiaw
+
+la  ki  Noun  ne  Pronoun  ba  kdew  la  kibymdei 
+kynthei  ne  shynrang,  bym  don  jingim,  la  ong  iKt 
+ki  del  ha  ka  Nmtar  Jendar  (Neuter  OenoorjiC 
+Kum  — Ka  miej,  u inhw,  ka  um
+
+30
+
+JINGPYRSHANG  22
+
+lathuh  la  ki  Jendar  jong  kine  ki  ktien  harum —
+
+1 Ka  long  ka  khynnali  babha
+
+2 Arngut  ki  ’ihynrang  bad  lai  ngut  ki  kyn- 
+thei  ki  don  hangne
+
+3 U dieng  u bajrong
+
+4 Ka  mie]  ka  baheb
+
+5 Ka  Sing  kam  don  tdong
+
+6 U dung  kba
+
+3 Kes  (Case)
+
+Ka  ktien  ka  kylJa  ha  ka  dur  kat  kum  ka 
+jingiadei  jong  ka  bad  kiwei  pat  ki  ktien  ha  ka 
+Senten  Kum  ~U  la  shoh  la  u,  ka  ktien  U 
+ka  del  ka  sobjek  bad  la  u ka  objek
+
+U kaba  dei  ka  sob)ek,  ka  dei  ha  ka  Nomi- 
+netib  Kes  (Nominative  Case)  bad  la  u,  ka  objek 
+ka  del  ha  ka  objektib  Kes  (Objective  Case)
+
+Ka  Sobjek  jong  ka  Senten  la  ong  ba  ka  dei 
+ha  ka  Nominatib  Kes,  katha  la  ka  objek  la  ong 
+ba  ka  dei  ha  ka  objektib  kes
+
+Haba  ong  ka  kot  j(mg  u Ram  Ka  pyni 
+ba  U Ram  u dei  u ^rai  jong  kata  ka  kot  long 
+u Ram  ka  dei  ha  ka  Posestb  Kes  (Possessive  Case).
+
+31
+
+JINGPYRSHANG  23
+
+lathuh  kyrteng  la  ki  jaid  Kes  ha  kine  ki 
+Senten  haruni  —
+
+1 Ka  Shillong  ka  dei  ka  nongbah  jong 
+ka  Assam
+
+2 Nga  la  lohi  la  u
+
+3 U ksew  u la  dait  la  u shneh,
+
+4 U shneh  u la  dait  la  u ksew
+
+5 Ka  pyrthei  ka  tyllun  sawdong  la  ka  sngi
+
+6 Ka  kot  jong  ka  Rit,  ka  lajah.
+
+7 T kmie  jong  u i laiap
+
+8 La  pynshitom  la  u khynnah
+
+9 Phi  tip  I a ka  lynti*^
+
+10  Ka  mg  jong  ka  Resi  ka  la  kyllon
+
+4 Tens  (Tense)
+
+Ka  Tens  ka  mut  ka  por — ^Ka  ktien  ba  lathuh 
+la  ka  por  ha  kaba  la  leh  ne  yn  sa  leh  la  ka  kam.
+
+Ki  don  3 tylli  ki  Tens
+
+1 Present  Tens — Kaba  lathuh  la  ka  kam 
+ba  leh  mynta  Kum  — ^Nga  thoh  jmgthoh
+
+2 Pan  Tens — Kaba  lathuh  ba  la  leh  m 
+ka  kam  bad  la  pyniasoh  da  ka  ktjee,  ‘la’  ha  ka 
+herb  Kum  — ^Nga  la  thoh  jmgthoh
+
+32
+
+3  Phiwshor  Tens — (Future  Tense)  kaba  la- 
+thuh  ba  yn  sa  leh  la  ka  kam  Kum  — Ngan 
+sa  thoh  jingthoh  La  pyniasoh  da  ka  ktien 
+'n’  ha  ka  Pronoun  bad  ka  ktien  sa  ha  ka  berb 
+ne,  yn  Kum  — Un  sa  wan  Yn  leh  mano  la 
+kane’
+
+JINGPYRSHANG  24
+
+Jied  la  ki  berb  ha  kine  ki  Senten  bad  lathuh 
+ki  del  ha  ka  Tens  am  —
+
+1 Ka  sngi  ka  phyrnai
+
+2 Nga  la  lashem  la  u hynnin
+
+3 Ka  bneng  ka  ]a  dum
+
+4 Nga  la  lohthtah  bha  mynmict
+
+5 Un  don  ha  ing  shibit
+
+6 Ki  trei  lyngkha
+
+7 U ksew  u la  wiar  mynmiet
+
+8 Ngan  sa  ong  laphi
+
+9 Nga  shet  jyntah
+
+10  Kan  sa  khreh  kot  shibit
+
+5 Mood
+
+Mood  (mud)  ka  long  ka  rukom  ha.  kaba  ia 
+ka  herb  la  pyadonkam  ban  bithiA  ei  ei»  ban  hukimi 
+ban  kylH  jin^ylU  ne  pynpaw  pigartatiea.
+
+33
+
+Kum  — 1 I leit  hangtai  2 Leit  hangtai 
+3 Nga  lah  ban  leit  hangtai*^  4 Lada  nga  leit 
+hangtai,  nga  lah  ban  lashem  la  ka
+
+Don  saw  jcnd  ki  Mood
+
+1  Indikotih  Mood  (Indicative  Mood)  Ka 
+del  kala  ka  hi  ten  kaba  lafhuh  ei  ei  Kum  — Nga 
+bam  ja
+
+2  Impaietib  Mood  (Imperative  Mood)  Ka 
+del  kata  ka  ktien  ba  shii  hukum  Kum  — Mih 
+shabar
+
+3  Intaroketib  Mood  (Intel  ogative  Mood)  Ka 
+long  kata  ka  kticn  kaba  I ylli  imgkylli  Kum  — 
+Phm  leit  noh*^
+
+4  Sobjongtib  Mood  (Subjunctive  Mood)  Ka 
+long  kata  ka  ktien  kaba  shu  thaioi  ne  pyni  jing- 
+aitatien  Kum  — Lada  nga  leit,  kan  leit
+
+Nalor  kine  ki  4 jaid  don  sa  kawei  pat  ka 
+jaid  mood  kaba  shu  lathuh  la  kaei  ba  leh,  la 
+khot  la  ka  ka  Inphmitib  Mood  (Infinitive  Mood) 
+Kum  — Nga  leit  bcrn  rwai  Ban  map  ka  long 
+.ka  badonburom
+
+34
+
+JINGPYRSHANG  25
+
+Kdew  la  ki  beib  harum  bad  latbuh  kt  dei 
+ha  kd  Mood  aiu  —
+
+1 U John  u rynsied  150  kot
+
+2 Phe  la  ka  jingkhang.
+
+3 Map  la  ngi
+
+4 Ngd  kwah  ba  un  map  la  ng<
+
+5 U Blei  un  long  ryngkat  bad  phi
+
+6 Sumar  la  la  ka  jingkoit  jingkhiah
+
+7 U Blei  un  long  lem  bad  phi 
+g Nga  nang  ban  shad
+
+9  Lada  nga  dei  u Syiem,  ngan  pynlong 
+myntn  la  phi
+
+10  Ban  laieh  kai  ka  long  ka  jipgkmen  jong  u
+
+11  To  suk  to  sain  barabor
+
+12  Phi  del  ban  trei
+
+13  Sngewbha  wan  lashai
+
+14  Lehse  kan  slap  lashai
+
+6 Bois  (Voice)
+
+Ka  Bois  (Voice)  ka  pyni  la  ka  Sobjek  ka  leh 
+ei-ei  ne  la  leh  ei-ei.
+
+Dm  ar  jaid  ki  Bats  (Voice)
+
+L Aktib  Bois  (Active  Voice)  Ka  pyni  ba 
+ka  Sobjek  jong  ka  berb  ka  Img  ka  nongleh  K.um . — 
+1 U la  pyniap  la  u bseiii,  2 U shoh  la  u ksew.
+
+35
+
+2  Passib  Bois  (Passive  Voice)  Ka  pym  ba 
+la  ka  Sobjek  jong  ka  berb  la  leh  ei-ei  Kum  — 
+1 la  u bsem  la  pyniap  da  u 2 la  u ksew  )a 
+shoh  da  u
+
+Aktib  Bois
+
+1 U dih  dud
+
+2 Nga  ai  kot  ta  u
+
+3 Shong  khop
+
+4 U dro  ka  dur
+
+5 U Blei  un  kyrkhu  la  phi
+
+6 Ki  rep  phan
+
+Passib  Bois
+
+1 la  ka  dud  la  dih  da  u
+
+2 la  u la  ai  kot  da  nga
+
+3 Ai  ba  un  shong  khop
+
+4 la  ka  dur  la  dro  da  u
+
+5 Ai  ba  U#  Blei  un  kyrkhu  la  phi
+
+6 la  u phan  la  rep  da  ki
+
+JJNGPYRSHANG  26
+
+I Jied  la  ki  berb  bad  lathuh  la  ki  dei  ha  ka 
+Aktib  ne  Passib  Bois  —
+
+1 La  leit  la  u da  baroh
+
+2 Ki  pynher  kot  kudi
+
+*«£6HALAVA  SWITE  CSfff.JT
+
+36
+
+3 Ka  miaw  kd  dih  lut  la  ka  dud
+
+4 La  thep  la  ka  shithi  hynniii
+
+5 La  loh  kem  la  u nongtuh
+
+6 La  pyn'ap  la  u ha  thma 
+Ka  la  pynhojt  la  ka  dud
+
+8 Ngi  khmih  lynti  khubor  babha
+
+II  Pynkylla  la  kine  sha  ki  Passib  Bois
+
+1 U ksew  u dait  la  u khla
+
+2 U siat  Id  u khla
+
+3 LT  pulit  u la  kem  la  u
+
+4 Ka  pynap  la  nga
+
+5 U Blei  un  kyrkhu  laphi
+
+6 leng  joil
+
+7 Nga  oynpait  ip  ka  pela
+
+8 U ksew  u dait  la  u Dik
+
+9 L)  George  Stephenson  u la  thaw  la  ka 
+rel  ba  nyngkong
+
+10  U myrsjang  u la  bud  ta  e khla
+
+7 Parsing
+
+Ban  paise  la  ka  ktien  ka  mut  ban  lathuh
+
+(1)  Ka  del  ka  part  of  speech  aiu?
+
+(2)  Kumno  la  pynkylla  la  ka'^
+
+(3)  Kumno  ka  ladei  bad  kiwei  pat  ki  ktien 
+ha  ka  senten
+
+37
+
+II  Ba  parse  la  ki  Noud  bad  Pronoun  dei
+
+ban  lathuh  la  ka  jaid,  la  ka  nombar,  Jendar, 
+Kes  bad  Person
+
+Kum  — Ka  Bet  ka  pynpait  la  ka  Pela
+
+Bet — ^Propel  Noun,  Singular  Nombar,  Phe- 
+rainin  lender,  3rd  Person,  Nominetib  Kes  Ka 
+long  ka  sobjek  jong  ka  berb,  “Pynpait”
+
+Pela — Common  Noun,  Singular  Nombar, 
+Niwtar  Jendar , 3rd  Person , Ob)ektib  Kes  Ka  long 
+ka  objek  jong  ka  berb,  “Pynpait”
+
+2 Ng!  long  shipata
+
+Ngi — Personal  Pronoun,  Plural  Nombar, 
+Common  Jendar  1st  Person,  Nominet»b  Kes 
+Ka  long  ka  sobjek  jong  ka  beib,  ‘long”
+
+Shipara — Common  Noun,  Plural  Nombar, 
+Common  Jendar,  3rd  Person,  Objektib  Kes 
+Ka  long  ka  objek  jong  ka  berb,  “long*’
+
+III  Ban  parse  la  ka  Adjektib  bad  Adberb  dei 
+ban  lathuh  la  ka  jaid,  la  ka  ^gri  bad  ka  jingiadei 
+bad  kiwei  ki  ktien  ha  ka  Senten  Kura  — U 
+nongbehmrad  bastad  u siat  ar  tylli  ki  skei
+
+Bastad — ^Adjektib  jong  ka  kwahty,  Positib 
+Dign  Ka  batai  la  ka  Noun,  “Nongbehraiad”
+
+Ar  tylli — Numeral  adjektib  Ka  batai  ia  ka 
+Noun,  “Skei”  N B — Ym  don  Digri  hangne
+
+38
+
+2 Ka  bam  ja  shibm
+
+Shibun — Adjektib  jong  ka  kwantity,  Positib 
+Digri  Ka  batai  la  ka  Noun,  “Ja”
+
+3 Nga  la  lohi  la  u hynnm
+
+Hyniiiii — Ad,verb  jong  ka  por  (Adverb  of 
+Time)  Ka  batai  la  ka  berb,  “La  lohi”
+
+4 Wat  kren  sted  eh
+
+Sted — Adverb  jong  Ka  Manner  Ka  batai 
+la  ka  berb,  “Kren”
+
+Eh— Ka  adberb  jong  ka  Digri  Ka  batai  la 
+ka  adverb,  “sted”
+
+Ban  parse  la  ka  Berb,  dei  ban  lathuh  la  ka  jaid , 
+ka  Nombar , ka  Person  ka  Tens,  Bois  bad  Mood
+
+Kum  — 1 U Pyniap  la  u khla
+
+2 Ka  la  khreh  kot  bha  ba  ka  lah  ban 
+long  nyngkong
+
+1 Pyniap — Transitib  Berb,  Singular  Nom- 
+bar, 3rd  Person,  Presen  Tens,  Aktib  Boi^,  In- 
+diketib  Mood  Ka  ladei  bad  ka  sobjek,  “U”
+
+2 La  khreh  kot— Intransitib  Berb,  Singular 
+Nombar,  3rd  Person,  Past  Tens,  Aktib  Bois, 
+jndiketib  Mood  Ka  ladei  bad  ka  sobjek,  “ka”
+
+39
+
+3 Lab  ban  Iob^ — Intransitib  Berb,  Singular 
+Nombar,  3rd  Person,  Past  Tens,  Aktib  Bois, 
+Sobjongtib  Mood  Ka  ladei  bad  k?'  sobjek,  “ka”
+
+4 la  u khla  la  pyniap  da  u
+
+La  p}fniap — ^Transitib  Berb,  Singular  Nom- 
+bar, 3rd  Person  , Past  Tens,  Pasib  Bois,  Indi- 
+ketib  Mood  Ka  ladei  bad  ka  sobjek,  “khla”
+
+IV  Ban  parse  la  ka  Priposisbon — ^Dei  ban 
+lathuh  la  ka  jaid  bad  jingiadei  bad  ka  Senten
+
+Kum  — Ka  sim  ka  dem  haloi  dieng
+
+Halor — Simple  Preoosition  (Priposishon) 
+La  buh  la  ka  ha  shwa  ka  Noun,  “dieng”
+
+V Ban  parse  la  ka  Konjongsbon — Dei  ban 
+lathuh  la  ka  jaid  bad  jmgiadei  jong  ka  bad  ka 
+Senten
+
+Kum  — U Jak  bad  ka  Jill  ki  long  shipara
+
+Bad — Ka  Konjongshon,  Ka  pyniasoh  la 
+ka  ktien,  “Jak”  bad  “Jill”
+
+2 U long  u babha,  hynrei  u long  u babieit
+
+Hynrei — Ka  Konjongshon,  ka  pyniasoh  la 
+ka  senten,  “u  long  u babha”  bad  “u  long  u ba 
+bieit”
+
+Ha  ka  jmgshisha  ka  Interjekshon  kam  del 
+ka  Part  of  Speech
+
+40
+
+JINGPYRSHANG  27 
+Parse  la  ki  ktien  ba  ruid  lam  —
+
+1 U Kulai  bdlieh  u bam  phlang
+
+2 Ka  por  mynta  ka  her  sted  ^
+
+3 Ka  kot  ha  ka  miej  ka  long  ka  jongnga
+
+4 U Ren  u bajrong,  hynrei  u Ben  u ba 
+lyngkot
+
+5 Ki  sim  ki  her
+
+6 Ka  nang  ban  rwai
+
+Lynnong  5
+
+ANALAISrS  (ANALYSIS)
+
+Analaisis  'Analysis)  ka  mut  ka  jmtipynia- 
+bynta  la  ki  senten  ha  ki  bynta  jongka
+
+la  u briew  ne  kaei  kaci  shaphang  jong  uba 
+ngi  kren  la  khot  ka  Sohjek  (Subject)
+
+fa  kaei  kaei  ba  ngi  kren  shaphang  ka  Sobjek 
+la  khot  ka  Preuiket  (Predicate)
+
+Subjelc
+
+Prediket
+
+J Ki  sim 
+2 Ki  masi 
+5 Ka  l>er  bakhnat 
+\ U Kasabianka
+
+ki  her
+
+ki  bam  phJang 
+ka  hangne  raynmiet, 
+u la  leng  ha  ka  lieng  bapluh
+
+41
+
+5 1 khunblang  bant  i la  bud  kat  shaba  ka  Mary  ka  ieit
+
+6 Ban  pule  ki  kot  babha  ka  long  ka  ba  sngewtynnad
+
+(Phi*)  shongkhop
+
+*]akaktien  Phi  1 1 sngewthuh  ba  ka  dei  ka  Sobjek,  namarkata 
+la  buh  hapoh  braket
+
+Ka  Sobjek  babeit —
+
+1 Ha  ka  Senten — Kga  bam  ja  Ka  Sobjek 
+ka  Ions  “nga”
+
+2 1 sim  bant  i pah  jib  jib  Ka  Sobjek 
+ka  long  / sim
+
+3 Ka  Kymmen  baduk  bapli  ka  loh  jingbam 
+tang  khyndiat  Ka  Sobjek  ka  long  “ka  tymmen”
+
+Ngi  pyniabynta  kumne  bad  ruid  lam  la  ka 
+Sobjek
+
+No
+
+I Sohjtk  1
+
+Prediket
+
+1
+
+Nga  1
+
+bam  ja
+
+2
+
+1 Isiinbint  1
+
+1 pah  Jib  Jib
+
+3
+
+1 Ka  Tymmen  hiduk  b ipli  |
+
+ka  loh  Jingbam  tang  khyndiat
+
+JJNGPYRSHANG  28
+
+Analais  la  kine  ki  Senten  harum  bad  ruid 
+lam  la  ki  Sobjek  —
+
+1 Ka  Men  ka  don  i khunblang  bant
+
+2 Ka  tyngab  babieit  ka  la  pyrshang  ban
+
+rwai
+
+42
+
+3 Ngam  don  pisa
+
+4 Mih  shabar
+
+5 Ki  basniew  ki  tap  la  la  ki  pop
+
+11  Ka  Prediket  ha  belt
+
+Ha  ka  Senten — ‘Ki  sim  ki  her  ka  ktien  ‘her’ 
+ka  del  ka  Prediket  babeit
+
+Ha  ka  Senten — U Syiem  u la  jubab  da  ka 
+babitar  Ka  ktien,  “jubab  ’ ka  dei  ka  Prediket 
+babeit
+
+Ha  ka  Senten — Ka  thoh  ki  dak  bashai  Ka 
+ktien,  “thoh”  ka  dei  ka  Prediket  babei^
+
+Ngi  pyniabynta  (analyse)  kumne  —
+
+No
+
+Sobjek
+
+Prediket
+
+Bcrb
+
+! Kiwei  ki  bynta  ka  Prediket
+
+1
+
+Ki  sim
+
+ki  her
+
+1
+
+"2“
+
+U Syiem
+
+1 u la  jubab
+
+1 da  kaba  bitar
+
+3 1
+
+[ Ka
+
+1 thoh
+
+1 ki  dak  bashai
+
+III  Jmgpynheh  la  ka  Sobjek
+
+1 Ki  khynnah  basniew  ki  tap  la  ki  pop
+
+2 Ka  kmie  ka  Shin  ka  pang
+
+3 U Babu  nongkyndong  n h hikai  ha  la 
+ka  skul  lit
+
+43
+
+1 Ha  ka  senten  ka  banyngkong  ka  ktien, 
+“basniew”  ka  batai  pynheh  la  ka  sobjek,  “khyn- 
+nah”  la  khot  la  kata  jingpynheh  la  ka  sobjek
+
+2 Ha  ka  baar,  ka  ktien  kmie  ka  dei  ka 
+Sobjek  bad  ka  ktien  “Ka  Shiii”  ka  pynheh  la 
+ka  Sobjek  kmie
+
+3 Ha  ka  balai,  ka  ktien  “nong-kyndong” 
+ka  pynheh  la  ka  Sobjek  “Baba”
+
+la  kine  la  khot  ''Jingpynheh  ra  ka  Sobjek
+
+Ngi  pyniabyntd  kumne  —
+
+j No
+
+1
+
+Subjtk  1
+
+Prediket  1
+
+1 Subjck
+
+1 Jingpynheh  la
+
+1 ka  siibjek
+
+Berb
+
+Kiwci  ki  bynta  ka 
+Prediket
+
+1
+
+1 ki  khvnndh
+
+1 basniew
+
+ki  tap
+
+1 la  ki  pop
+
+2
+
+1 Ka  kmie
+
+1 Ka  Shin
+
+ka  (long)
+
+1 pang
+
+3
+
+1 U Bnbu
+
+1 nongkyndong
+
+u la  hikdi
+
+1 ha  ka  skul
+
+I
+
+IV  Ka  jingpyniar  la  ka  Prediket 
+(Ka  Extension  of  the  Predicate)
+
+1 Ha  ka  Senten — “U  Syiem  u la  jubab 
+da  kaba  bitar  ” Ka  ktien  da  kaba  bitar  ka  pyniar 
+la  ka  Berb  “la  jubab  ”
+
+2 Phi  la  khreh  bha  la  la  ki  kot  ktien 
+bha  ka  pyniar  la  ka  Berb  “Khreh”
+
+44
+
+3 Ka  thoh  shai  bha  la  ki  dak  Hangne 
+shai  bha  ka  pyniar  la.  ka  Berb  “thoh”
+
+No
+
+1 Sobjek
+
+1
+
+Predil  et
+
+Sobjek
+
+1 Jingpynheh
+
+1 la  ka  sobjek  |
+
+Bcrb  ^1
+
+Jingpyniar  la 
+ka  Prediket  |
+
+Kiwei  ki  bynta 
+jong  ka  Prediket
+
+1 1
+
+Syiem
+
+u 1
+
+u la  1 
+jubab  1
+
+da  kaba  bitar
+
+2 1 
+1
+
+Phi
+
+1
+
+1
+
+1 1
+
+la  I 
+khreh  [
+
+bha
+
+I la  la  ki  kot
+
+3 1
+
+Ka  1
+
+1
+
+thoh  1
+
+shai  bha
+
+1 n ki  dak
+
+V Ka  jingpynheh  la  ka  objek
+
+1  Ka  masi  ka  leit  la  la  ka  khun
+
+Hangne  ka  ktien  “khun”  ka  dei  ki  objek 
+bad  ki  ktien  / la  ka  ka  pynheh  la  ka  objek
+
+2 Ki  khynnah  ki  dei  ban  kohnguh  la  ki 
+knue  ki  kpa  jong  ki
+
+Hangne  ki  ktien,  kmie  ki  kpa  ki  dei  objek  bad 
+jong  ki  ka  pyniar  la  ka  objek
+
+3 Nga  la  lashem  la  ka  khynnah  nongkyn*
+
+dong
+
+45
+
+Hangne  k>  ktien,  “nongkyndong  bant’^ 
+ki  dei  kiba  pynheh  la  ka  objek
+
+1 No
+
+1
+
+Sobjek
+
+1
+
+Predike  t
+
+1
+
+Sobjek
+
+Jingpynheh 
+la  ka 
+Sobjek
+
+Serb  1
+
+Objek  1
+
+1 i
+
+Jingpyn-  |
+
+( heh  la  1
+
+1 ka  objek  |
+
+Jingpyn-  i 
+beh  la  j 
+ka  Berb
+
+1
+
+1 Masi
+
+1 ka
+
+1 ka  leit
+
+1 khun
+
+1 la  la  ka  |
+
+1 Khynnah
+
+1
+
+! 1
+
+1 kohnguh
+
+1
+
+1 kmie
+
+1 ki  kpa
+
+1 la  la
+
+1 jong  ki
+
+1 ki  dei
+
+3
+
+Nga
+
+j
+
+1 1 lashem
+
+I la  ka  1 
+1 khyn
+
+I nah
+
+nong
+
+I kyndong  ] 
+1 bant
+
+Lynnong  6
+
+KA  KOMPLIMEN  (COMPLEMENT)
+
+Haba  ngi  ong,  “I  khuclung  i rykbie”  ne 
+“ki  sim  ki  her”  ngi  sngewthuh  ba  ka  sentens 
+ka  don  ka  jingmut  ba  biang,  hynrei  haba  ngi 
+ong,  “I  khunlung  I long,  ka  jingmut  kam  long 
+kaba  biang  dei  ban  lathuh  i long  i ei,  te  ngi  pyn- 
+dap  da  kaba  ong,  “I  khunlung  i long  i kynthei”. 
+Ka  ktien,  “long”  ka  dei  ka  Berb  kaba  ka  Ihrediket 
+kam  biang  pura  la  khot  ka  berb  bym  biang  pura, 
+(Incomplete  Verb)  bad  ka  ktien,  “I  kynthei” 
+ka  pynpura  la  ka  jingmut  bad  la  kane  ka  ktien 
+la  khot  ka  Complimen  (Complement)
+
+Kum  — 1 U Ram  Singh  u long  u Shipai, 
+2 Ki  miet  mynta  ki  la  kylla  khrmt.
+
+46
+
+3 U Jakob  u la  long  Pastor
+
+4 Ka  imat  bam  suk
+
+5 Ki  khynnah  shy n rang  ki  la 
+thung  kapten  la  u
+
+No  Subjck  I Prediket
+
+Sobjek  I Jingpyn  | Berb  | Objek  I Kompli-  | Jingpynheh 
+ihchrakal  | | men  | laka.
+
+1  sobjek  111  I Piediket
+
+1 U Ram  I I u long  | | u shipai  |
+
+2 I Ki  miet  | mynta  I la  kyl  I khnat
+
+I ki  I I la  I
+
+3 jU  Jakob  \ | la  long  | | Pastor  \
+
+I 4 I Ka  I I imat  | | bam  suk  |
+
+5
+
+Khyn-
+
+> ki  1 la  thung  | la  u | Kapten
+
+nah
+
+1 1
+
+shyn-  I
+
+1
+
+rang  ]
+
+1 1 1
+
+JINGPYRSHANG  29.
+
+Analais  la  kine  ki  Senten  harum  —
+
+1 Ki  khynnah  ki  la  shem  la  ka  skum  sim
+
+2 Shibun  ki  la  kyllon  lap
+
+3 Ka  kot  kaba  ha  ka  des  ka  long  ka  jong 
+nga
+
+4 Ka  sngi  ka  ai  jingsha*  la  ngi  mynsngi
+
+47
+
+5 Ngam  lohthiab  wat  shi  khyllipmat  ruh 
+hynne  mynmiet
+
+6 Nga  la  lehnob  la  ki  tiar  jongnga  ba 
+Stesbon
+
+7 Ngin  sa  bjkai  tbob  bapob  sbi  snem
+
+8 Ka  kbnai  ka  la  pynkyndit  la  u Sing
+
+9 U la  ot  la  ka  sbympnab  kti  da  ka  tan 
+H)  Pbi  la  lobi  la  u Tiew  Kulab  kblem  sbiab"^

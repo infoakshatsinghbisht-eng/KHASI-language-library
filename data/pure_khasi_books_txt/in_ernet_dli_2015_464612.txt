@@ -1,0 +1,3733 @@
+TITLE: Ka Persara Ki Sur Khasi Ha Ka Conic Solfa Notation Bynta. 1
+AUTHOR: Wanswett, E. Brektist R.
+YEAR: 2000
+LANGUAGE: Khasi (Ka Ktien Khasi)
+ID: in_ernet_dli_2015_464612
+PAGES: 40 | WORDS: 13,090
+======================================================================
+
+GOVERNMENT OF MEGHALAYA 
+SHILLONG
+
+1. Books may be retained for a period not 
+exceeding 15 days by members.
+
+2. Books may be renewed on request at 
+the discretion of the Librarian.
+
+8. Dog-earing the pages of a book, 
+marking or writing therein with inx 
+or pencil, tearing or taking out its 
+pages or otherwise damaging it, will 
+constitute an injury to a book.
+
+4. Any such Injury to a book Is a serious 
+offence: Unless a borrower points out 
+the Injury at the time of borrowing the 
+book, helshe shall be required to rer 
+place the book or pay Its price.
+
+Help to keep this book fresh & clean
+
+KA PERSARA 
+KI SIJR KHASI
+
+lla Ka
+
+Conic doHa lactation
+
+Hbrarf
+
+Itif
+
+Revised Edition 
+2000
+
+Da u
+
+Bah E. Brektist R. Wanswett
+
+Officially Recognised Composer 
+Govt, of India
+
+For Khasi Songs All India Radio 
+and
+
+Khasi Folk Songs Instructor (Sr) (Rtd)
+
+State Institute of Art and Culture 
+Meghalaya.
+
+Reserved.
+
+B,..n (ralUSni*
+
+Government of Meghalaya
+
+Directorate of Public Instruction : Art & 
+Culture, Shillong.
+
+Order
+
+Ka Persara Ki Sur Khasi ha ka Tonic Solfa 
+Notation by Shri E.B.R. Wanswett has been approved to 
+be used as the text book for inparting Khasi Folk Music in 
+the Institute of Art and Culture, Shillong with immediate 
+effect.
+
+Sd/-
+
+K.M. Momin
+
+Jt. Director of Public Instruction 
+l/c Art & Culture 
+Meghalaya, Shillong
+
+Memo No, I AC/86-87/1 40/30/1 - Dt Shillong the 
+18"' May/1987
+
+Copy to
+
+Shri E.B.R. Wanswett, Khasi Folk Song Instructor 
+State Institute of Art and Culture, Shillong for information 
+and neccessary action.
+
+Sd/-
+
+K.M. Momin
+
+Jt. Director of Public Instruction 
+l/c Art & Culture 
+Meghalaya, Shillong
+
+Reviser
+
+Shri. R. Sohlang
+
+1st Edition • 1982
+
+Revised • Edition - 2000
+
+Is Bn. 81<86534-02>4
+
+All Rights Reserved
+
+No part of this Book may be reproduced, stored in a 
+retrieval system or transmitted in any form or by any means, 
+Electronic, Electrostatic, magnetic tape. Mechanical, Photo 
+copying recording or otherwise without permission in 
+writting from the publisher/Author, or Authorised person in 
+writting from the publisher/Author.
+
+Jalani Publishers PVT Ltd. 
+Long - man > Nongrim Hills 
+Shillong • 793 003 
+Meghalaya - India.
+
+^ ^
+
+Shikyntien Na U Nongthoh
+
+Kaba la pynlong la nga ban buh maitlynti la ki Sur 
+Khasi ha ka Tonic Solfa Notation ka long namar ba
+
+1 . Ki sur jong Longshuwa Manshuwa jong ngi wat la 
+ngi tip ba ki la don lypa hynrei ki sah khana tang ha ka 
+jingiathuhkhana jong kito kiba la sdang ban wad bad tih ia 
+ki sur tern sur put bad sur rwai jong IJ Khasi. Hangne nga 
+lohi ia kawei ka jingshein jingeh kaba khraw eh namar kito 
+kiba iathuhkhana ia ki sur tern, sur put bad ki sur rwai jong 
+U Khasi kim shym la lah satia ban sain pailbah ia ka Ri 
+baroh kawei ia kita ki sur ne kumno ban hikai paitbah ban 
+nang ban buh la ka rukom thoh, kumno ban buh bad ban 
+thoh ha ki kot ki sla ban lah ban ia ioh jinghikai lem paitbah.
+
+Nga sngewdonkam namar kata ban pyrshang ban 
+sdang ban buh la ka rukom jinghikai ha ka rukom jinghikai 
+ha ka kynhun dak jingrwai kaba dei bad kaba long kawei 
+na ki tnad jinghikai kaba la pdiang pyrthei, kaba la khot ka 
+Tonic Solfa Notation.
+
+Ha kane ka kot "Ka Persara Ki Sur Khasi ha ka Tonic 
+Solfa Notation" nga la pyrshang ban buh kyndon pa kyndon 
+ia ka rukom jinghikai kumno ban nang ban rwai ha ka Tonic 
+Solfa Notation. Nga la pyrshang ruh ban buh katto katne ki 
+jingrwai Khasi synrop bad ki notes ha ka Tonic Solfa Nota- 
+tion; kum ka jingmait lynti ha kane ka Thiarbah jong ki sur 
+Khasi.
+
+2. Ha ka jingshem jong nga haba nga hikai jingrwai 
+ia ka jingrwai Khasi ia ki nongrwai All India Radio, ha ki 
+Colleges bad ki Schools, ka long kaba da eh shisha ban 
+pynrung ia ka jingrwai ha ki nongrwai, namar ba nga hap 
+ban rwai lang da lade tad haduh ba ki nongrwai kin da 
+iohkem ia ka sur lem bad ki kyntien. Khamtam eh ia ki 
+jingrwai kyllain sur, ka shim por bun sngi ia kito ki bym pat 
+nang la ka Tonic Solfa Notation. Hynrei lada ki dei kito 
+kiba la nang ia ka Tonic Solfa Notation kan shim por tang 
+kumba shi shlim ar shlim Duma. Hynrei, ruh hangne nga 
+ai ia ka jingsngewnguh kaba naduh ka mynsiem ba jylliew 
+ia ka jingiaishah jong ki nongrwai bad ba ki ngeit ban rwai 
+kat haduh ba ynda nga la sngew ia dei bniah nadong 
+shadong.
+
+Nga ai khublei sngewnguh khamtam ia ka Khasi 
+jaihtia Presbyterian Girls' High School kaba nga ju ia don 
+bynta kumba arphewsnem ei ei (Ha kaba hikai jingrwai 
+Khasi) bad ia ki Headmistress kum ki jong I Kong T. Shullai 
+(BKHIUB), Kong K. Kharsati, Kong M. Khongwir, Kong G. 
+Kharkongor I ba dang long mynta I Headmistress jong ka 
+School K. J. P. kiba la ai lad ianga ban hikai jingrwai kyllain 
+sur, kum ia ka jingrwai "U Paid Khasi baiar' "Jingstad ka Ri 
+la jong". "Kshaid Laipateng khohsiew" bad kaba kham eh 
+tarn 'Ka Ksing Lynti' lem bad kiwei pat ki jingrwai. Khlem 
+da klet ruh ia ka St. Edmund College School, Shillong Col- 
+lege, Shonrai Basan High School, Training School Jaiaw, 
+Pine Mount School, ka Assamese Girls' High School Laban 
+kiba la pynlong ia nga ban iai bteng ia ka jinghikai bad 
+jingthaw jingrwai.
+
+Shuwa ba ngan pynkut noh nga ai ka jmgsngewngiih 
+kyrpang ia U Bah Beriwel Kyndiah U ba la ai mynsiem ia 
+nga man la ka por bad U da hikai artad ha ki rukorn ba bun 
+jait ban thaw jingrwai. Khadduh eh nga pynpaw kyrpang 
+ba tarn eh ia U Bah Binestar Lyngdoh, ex-Secrctary Shelia 
+Presbytery singing Committee U ba la ai jinghikai ia nga ha 
+ka rukorn thoh ia ka Tonic Solfa Notation kat kum ki aih ba 
+iadei bad ka Tonic Solfa Notation.
+
+Khublei,
+
+f . Brektist R. Wanswett 
+Official Recognised Composer 
+Khasi Songs All India Radio-Shilong 
+and
+
+Rtd. Khasi Folk Song Instructor (Sr) 
+State Institure of Art and Culture 
+Education Department 
+Meghalaya
+
+IV
+
+Ka Jingkynthoh
+
+Haba pule ia ka “Persara Ki Sur Khasi, ” ym 
+lah khlem da pyrto ia ka jingtrei shitom bad ka 
+rukom btin bad buh ryntih, kyrdan pa kyrdan u 
+nongthoh kumno ban pynrung bad pynsngewthuh 
+ha ka jingmut ki nongpule ha ka rukom kaba jem 
+ban ioh kem ia ka thymmei bad ka nongrim ha kaba 
+la seng ia ki jait had rukom sur bapher bapher. Lah 
+ban ong ba kane ka jait jingtrei ka long kawei na 
+kiba khyndiat eh ki jingpyrshang ki bym kham don 
+koit ha ka Ri haduh mynta.
+
+Ka rukom batai ia ki jingtied (pulse) kaba 
+pynthiang bad pynwandur ia ki jait sur bapher 
+bapher (Notes) ka long kaba ym lah khlem da 
+sngewburom ia ka jinglahjong u nongthoh. Khlem 
+artatien, nga ngeit ba kane ka jingpyrshang kan long 
+kum uwei pat u mawjam sha ka jingkyntiew ban 
+nang pynroi ia ki sur bathiang u “Hynfdew trep”. 
+Kan long ruh ka jingiarap ym tang ia ki samla-samhoi 
+bad kiba dangkhie dangsan hynrei wat ia ki longdien 
+lashai lashisngi kiba ieit bad bang ban tih ia ki 
+tyllong na ki bamih ki sur ba sngewthiang kiba 
+kyrshan bad ai mynsiem ia u khun bynriew shi tyllup 
+ka pyrthei lyngba ki rta.
+
+W. J. Blah
+
+Administrative Officer, 
+Directorate of Education 
+Govt, of Meghalaya, 
+Shillong
+
+V
+
+P.G. Marbaniang 
+Minister
+
+Tourism, Relief & Rehabilitation, 
+Communications, Weights & Measures, 
+Government of Meghalaya.
+
+Shakhmat
+
+Hahi i~na n;iie la ka kot ki sur Khasi ha ka kot ba la 
+ai kyrtenci KA F£RSARA Kl SUR KHASI’ ha ka Tonic 
+Solfa Notation, lah ban ong ba u Bah E. Brektist R. 
+Wanswett u la pyrshang ban buh ia u Mawnongrim ban 
+hikai jingrwai, ban thaw jingrwai, bad ban thoh sur, ia ki 
+sur khasi ha ka rukom thoh sur ba la tip bad ba lah ban 
+bud lang baroti ka pyrthei. Haman kawei pa kawei ka 
+kyrdan, u ba thoh la ka sur tynrai bapher bapher, u da 
+buh ruh ia ki kvntien ba shongkun. Kane ka tukom. kan 
+iarap ia ki nongshah hikai bad ia kiwei kiwei ruh ban peit 
+bad ban iohi nuksa ia ka rukom ban thaw jingrwai bad ka 
+rukom ban buh ia ki kyntien ha ki sur bapher bapher.
+
+Ha ka kyrdan kaba khadduh, u la ai ryngkat bad ka 
+jinghikai sur ia ki jingtip kyllum ia la ka Jong ka Ri. U la 
+kham shim bniah ia ka riam ka beit jong ka shad ka kmen, 
+khnang ba kiba ym put ju tip kin ioh jingtip ia kane ka 
+bynta. Haba buh ia ki kyntien ha ka sur, bad sa hikai ban 
+rwai ia ka sur sha ki kyntien, u bah Brek u la salt shi maw 
+lai tylli ki sim. Kata ka long, u wan rah ia ka sur, ia ki 
+kyntien ba ai jingtip kyllum. Lada lah ban thoh ia baroh ki 
+jingrwai jong ka Ri ha ka Tonic solfa Notation ban pynwan
+
+VI
+
+sur Khasi kumba la sdang buh ha ka kot sur ‘ KA 
+PERSARA Kl SUR KHASI’, te ki jingrwai jongngi kin sah 
+pateng la pateng ha kaba ki briew ki lah ban rv/a\ da kaba 
+pule ia ka sur bad ki ktien ba la thoh ha ka kot khlem 
+bakla. Dei ban leh noh kloi kloi ia kane, ioh ba ngin poi 
+biang sha ka jingong ba ‘ymtip tynrai shuh namar u Khasi 
+u la nguid noh ia ka kot shapoh kpoh haba u jngi ia kata 
+ka jingshlei um’.
+
+la mynta ka kynti, nga ai khublei ia u Bah E. Brektist 
+R. Wanswett na ka bynta ka jingtrei shitom ban pynmih 
+ia kane ka ‘PERSARA KI SUR KHASI’. Nga ngeit dang 
+don bun ki kynti ba hadien ba ngan ai khublei ia une u 
+samla-iaw namar ki dang dap ki thiar jong ki sur ba u la 
+lum ba un sa pynmih pyrthei shuh shuh, namar ka jingroi 
+ki sur bad ki jingrwai jong ka Ri.
+
+P. G. Marbaniang.
+
+Aaron Alley, B.L, “Diengiei View”
+
+(Advocate) South East Mawkhar,
+
+Assam High Court SHILLONG
+
+The le*” November, 1961
+
+This is to Certify that I know E. Brektist R. Wanswett 
+and to say that he is a Khasi young man of excellent 
+Character. I wish him Luck in Life. He is also a good 
+Musician.
+
+Vli
+
+Ki Ktien Lam Khnat
+
+Ngam tharai ba da donkam ban pynithuh shuh ia i 
+bah E. Brektist R. Wanswett. I long uwei na ki nongrwai 
+bad ki nongthaw jingnwai ba pawnani Ki jingrwai ba ngi 
+iohsngew na ki radio bad ki thiatar ki long kiba shoh ym 
+tang ia ki rangbah hynrei ia ki khynnah rit ruh kumjuh. 
+Lyngba ka Institute of art and Culture, Meghalaya, i Bah 
+Brek i la ioh ia ka lad ban nang pynbha shuh shuh ia la ka 
+sap ha kaba i la trei kum u Nonghikai jingrwai Khasi (Khasi 
+Folk Song Instructor). Ha kine ki san snem jong ka jingtrei 
+long i, i la shem ia ka jingduna bad ka jingeh ha kaba 
+hikai ia kito ki samla bad ki khynnah kiba thrang ban nang 
+ia ki sur Khasi nylla. Ki jingbymdon jong ka kot hikai 
+jingrwai kaba pyni biang thik thik ia ki rule bad ki sur ha 
+ka tonic solfa notation ka la long ka jignduna ka ba khraw. 
+Ngi khmih lynti namarkata ba kane ka kot jong i kaba i ai 
+kyrteng ‘Ka persara ki sur Khasi ha ka tonic Solfa Nota- 
+tion’ kan pyndap ia kane ka jingduna.
+
+Ha kane ka kot, i Bah Brek i la pynbeit ia ki lynnong 
+ha kata ka rukom ba u nongpyule ne u nongrwai uba pule 
+bniah bad bud ne kynud ia ki jingpyrshang u lah kloi Ian 
+ban nang ia ka tonic solfa. Ka jingkwah jong u nongthoh
+
+VIII
+
+khamtam ka long ban hikai ia ki nongpule ban nang rwai 
+ne kynud ia ki sur Khasi ba thiang ha ka tonic soifa. Nga 
+kyrmen lada ngi iabud ia ki jinghikai u nongthoh, kin nang 
+mih shibun ki nongrwai ba bang ki ban pynmih kiwei kiwei 
+pat ki sur Khasi bathiang ha ka tonic soifa. Ai ba katba ka 
+jaidbynriew jongngi, kan nang roi ha kiwei kiwei ki bynta, 
+kan nang roi ha ka rwai ka siaw.
+
+25f^ January. 1982 TORISTMARK
+
+Dy. Director of Public Instruction, 
+(i/c Art and Culture, Shillong) 
+Meghalaya.
+
+LYNNONG - 1
+
+KA JINGIVUH JONG KA JINGSAWA
+
+Haba tied ia kano kano ka synduk tin ka mih ka 
+jingsawa. Haba siaw ka mih ka liiigsawa. Haba kynud 
+ruh ka mih ka jingsaw j Haba pyrta ka mih ka jingsawa. 
+Hynrei, kitei ki jingsawa ki iapher kawei kawei na kawei 
+pat. Haba snoap Dha. lah ban sngewthuh shai kdar ba 
+kitei ki jingsawa ki py nmih la ki jong ki joi ig ki sur ba iapher 
+iapher.
+
+U MAWSAWA
+
+(Vibration)
+
+Ka shkor Ua lah ban iohsngew la ka jingsawa haba 
+tied ia ka synduk tin, haba siaw, haba kynud ne haba 
+kynhoi ne pyrta, namar ka jingkhiaifi jong ka jingsawa 
+kaba mih na kaba leh kumta ka sdang na ka jingsawa 
+kaba jam, ka lai bteng bad nang rit ka jingsawa jam artad 
+artad haduh ban da kut noh ka bor jingsawa. Kumta ka 
+shkor kam lah shuh ban iohsngew haba lakut ka bor 
+jingsawa ba poi ha shkor. ia kane ka jingbteng jongka 
+jingsawa naduh ba sdang haduh ban da kut la khot u 
+Mawsawa (Vibration).
+
+KA JINGSAWA $UR
+
+(Musical Sound)
+
+Lada pynmih ia kitei ki sur beroh ha kajuh ka por 
+trait; ka wan pynmih pynban ia ka jingsawa sur ba sngew 
+wit kaba long ka jinghala (Noise). Kumta ban wan rah ia
+
+2
+
+ka jingsawa ha ka jingwan sur del ban pynbeit bniah ia ka 
+jingsawa (sound) bad ia ka jingbteng sawa (vibration) da 
+kaba sngewthuh ia ka dor sur ba jam bad ba jem jongki. 
+Namarkata ka jingsawa (sound) bad ka jingbteng sur (vi- 
+bration) ki dei ki Arkap sur. Lada pynbeit ryntih ia ki Arkap 
+sur ka wan ka jingsawa sur (Musical sound).
+
+KA JINGBUH RYNTIH IA KA JINGSAWA SUR
+
+(Uniform arrangement of Musical sound)
+
+la kane lah ban leh da kaba kynud ia ka jingdonsur 
+jong ka jingsawa sur. Pynkhlad ia ka jinghiar sharum 
+bad jingkiew shaneng jong ka sur, bad sa buh dor sur ia 
+kita ki sur ha ka rukom buh sur ba la pynbeit da ka aih 
+buh sur ba la ju hikai bad pdiang paitbah kum ka Tonic 
+Solfa Notation, ne da ka aifi buh sur jong ka Staff Nota- 
+tion. la kawei na kine ki aih rukom buh sur dei ban nang 
+ne shah hikai, khnang ban lah ban rwai da kaba pule ia 
+ka sur ba la thoh ha ka kot jingrwai.
+
+KA lINGBUH RYNTIH IA KA JINGSAWA 
+SUR SHA KA SUR
+
+(Arrangement of Musical sound to Musical Note)
+
+la kane lah ban leh da kaba rwai ne sngewthuh 
+haba iohsngew ia kata ka jingsawa sur. Pyniahap sur ia 
+kata ka jingsawa sur bad uno uno u Note jong ka Tonic 
+Solfa Notation. Kumta yn ioh ia ka sur kaba dei sbak 
+haba kynud ia uta u Note ba la buh na ka bynta kata ka 
+suf. Mynta ngin ia peit shaphang ka sur ba lah ban buh 
+Note da kaba buh lyngba ki aih jong ka Tonic Solfa 
+Notation.
+
+3
+
+Ha ka Tonic Solfa Notation ia uno uno u dak ba la 
+buh uba lah ban thew ia ka dor sur la khot u Note.
+
+Kine harum ki long ki Notes kiba buh ia ka dor sur 
+jong kano kano ka jingrwai lyngba ki aifi jong ka Tonic 
+Solfa.
+
+(i)
+
+d
+
+Kynnoh
+
+do
+
+(ii)
+
+de
+
+Kynnoh
+
+di
+
+(iii)
+
+r
+
+Kynnoh
+
+re
+
+(iv)
+
+re
+
+Kynnoh
+
+ri
+
+(V)
+
+m
+
+Kynnoh
+
+mi
+
+(Vi)
+
+f
+
+Kynnoh
+
+pha
+
+(vii)
+
+fe
+
+Kynnoh
+
+phi
+
+(viii)
+
+s
+
+Kynnoh
+
+so
+
+(ix)
+
+se
+
+Kynnoh
+
+si
+
+(X)
+
+1
+
+Kynnoh
+
+la
+
+(xi)
+
+le
+
+Kynnoh
+
+Ii
+
+(xii)
+
+t
+
+Kynnoh
+
+ti
+
+(xiii)
+
+d'
+
+Kynnoh
+
+do
+
+Une u Doh - d' - uba don u dash arsut na sha kamon 
+ha khlieh jong u, u don ka dor sur kaba syiang arshah ia 
+une u - d. (Do) uba sdang ia ka sur. Kumjuh ruh ia kino 
+kino kiwei pat ki notes kiba don ka jingkdew da kumtei 
+sha kamon shajrong syndait lang bad u Note, la u Note 
+uba hiar ka sur shapoh pat la Ju buh da kumne -di. Kumta 
+ka long ia kiwei kiwei ki notes baroh kiba don ka jingkdew 
+da kumtei.
+
+4
+
+KA JINGMUT JONG Ki SUR HA Kl NOTES
+
+Ka sur kaba mih na ki notes d r m f s 1 t d', 
+ki pynmih uwei uwei hi ia ka sur kaba wan rah na ka 
+jingktah ia ka jingsngewthuh (Mental effect) jong kine ki 
+rukom harum
+
+U Note d
+
+U pynmih ia ka jingsawa sur shaphang ka 
+Jingskhem ba khlain bor.
+
+U Note r
+
+U pynmih ia ka jingsawa sur shaphang ka 
+jingap kyrmen, bymputkut
+
+U Note m
+
+U pynmih ia ka jingsawa sur shaphang ka sur 
+kdup ba sbun
+
+U Note f
+
+U pynmih ia ka jingsawa sur shaphang ka 
+jingsngewtmang, jingjar-jar, jingkynjah.
+
+U Note s
+
+U pynmih ia ka jingsawa sur shaphang ka 
+jingsngewbha ba wan na shaneng sharum
+
+U Note 1
+
+U pynmih ia ka jingsawa sur shaphang ka 
+jingsngewsih, jingsangsot, jingsngewsynei, 
+jingshempap.
+
+U Note t
+
+U pynmih ia ka jingsawa sur shaphang ka 
+jingbyrnieng slem hajuh, jingkwah kiew 
+shaneng, ne hiar sharum.
+
+5
+
+LYNNONG II.
+
+KYRDAN I
+
+Ki notes kiba kham pyndonkam barobor ha ka 
+jingrwai da ka Tonic Solfa Notation ki long 7 (hynfiiew) 
+tylli. Ki ju ai lang ruh ia u d' ban dap 8 (phra) tylli. la ka 
+jingkynud ia u d' la batai ha ka lynnong kaba nyngkong. 
+Kumta ban belt ka rukom kynud sur la buh barobor ia ki 
+notes Sur dap (wholetune) jong ka Tonic Solfa Notation 
+da kumne harum d r m f s 1 1 d'. la ki notes Sur Shiteng 
+(Semitune) kiba long u de re fe se le ta, la pyndonkam 
+kat kum ka jingdonkam jong ki sur jingnA/ai bad ki sur.
+
+Key is D.
+
+la kine ki note del ban 
+rwai uwei pa uwei 
+haduh ban da lut ka 
+jingpynhiar mynsiem. 
+Ynda la kynmaw ia ka 
+dor sur, sa rwai stet 
+katba lah.
+
+Rwai arted arsut 
+kyrpang kyrpang bad 
+(a) bad (b). Rwai artylli 
+ki notes haduh ban da 
+lut ka jingpynhiar 
+mynsiem. Ynda la 
+kynmaw ia ka dor sur 
+rwai stet katba lah.
+
+Jingpyrshang I.
+
+(Exercise I)
+
+drmfsltd' 
+d'tlsf mrd
+
+Jingpyrshang li 
+(Exercise II)
+
+(a) (b)
+
+dr d* t
+
+dm d* 1
+
+d f d* 8
+
+d s d' f
+
+d 1 d' in
+
+d t d' r
+
+d d' d' d
+
+6
+
+Jingpyrshang III.
+
+(Exercise III)
+
+(a) (b)
+
+d r m d* t 1 
+r m f t 1 s 
+m f s 1 s f 
+f s 1 s f lit 
+sit f m r 
+ltd' m r d
+
+Rwai Lai tylli ki notes 
+arted arsut bad kum ba 
+la batai ha ka 
+jingpyrshang II.
+
+Jingpyrshang IV.
+
+(Exercise IV)
+
+(a) (b)
+
+d' t 1 s
+
+t 1 s f Rwai saw tylli ki notes
+
+1 s f m grted arsut, bad kum ba
+
+® ^ ^ la batai ha neng. 
+f m r d ®
+
+Jingpyrshang V.
+
+(Exercise V)
+
+(a) (b)
+
+drmfs d'tlsf „
+
+Pnifsl tlsfm l^wai San tylli ki notes
+
+mfsit isfmr arted arsut, bad kum ba
+
+fsitd' sfmrd la batai ha neng.
+
+d r m f
+
+r m f s
+
+m f s 1
+
+f s 1 t
+
+s 1 t d'
+
+/
+
+KYRDAN
+
+II
+
+Jingpyrshang I
+
+d
+
+m
+
+j s m d
+
+s
+
+d
+
+m
+
+d
+
+r
+
+rn
+
+(Exercise I).
+
+m
+
+s
+
+d m s m
+
+d
+
+m
+
+m
+
+s
+
+rn
+
+d
+
+r
+
+a
+
+m
+
+d
+
+r m f r
+
+m
+
+s
+
+m
+
+r
+
+f
+
+f
+
+S
+
+d
+
+s
+
+r
+
+m d f r
+
+s
+
+r
+
+s
+
+f
+
+f'
+
+d
+
+t
+
+a
+
+Jingpyrshang II
+
+s
+
+r
+
+f d m r
+
+s
+
+r
+
+m
+
+d
+
+(Exercise II).
+
+s
+
+r
+
+f r m s
+
+r
+
+d
+
+m
+
+d
+
+KYRDAN 1
+
+III
+
+Jingpyrshang I.
+
+d'
+
+1 m s f
+
+m
+
+1
+
+r
+
+f
+
+m
+
+(Exercise I).
+
+f
+
+1 r d t
+
+s
+
+1
+
+r
+
+m
+
+ri
+
+Jingpyrshang II.
+
+s
+
+r 1 t 1
+
+s
+
+1
+
+t
+
+s
+
+d>
+
+(Exercise II).
+
+1
+
+m f r t
+
+s
+
+1
+
+s
+
+r
+
+d
+
+Jingpyrshang III.
+
+s
+
+t 1 f r
+
+t
+
+s
+
+f
+
+1
+
+s
+
+(Exercise III).
+
+m
+
+1 r t m
+
+d
+
+t
+
+s
+
+1
+
+s
+
+Jingpyrshang IV.
+
+d'
+
+d' 1 f m
+
+r
+
+t
+
+s
+
+r
+
+s
+
+(Exercise IV).
+
+t
+
+s d' r 1
+
+r
+
+s
+
+m
+
+f
+
+s
+
+d
+
+Ynda la tynjuh (test) ba kiba shah hikai ki lah ban 
+rwai ia ki notes bad ki sur baroh naduh ka Kyrdan I haduh 
+ka Kyrdan III; tynjuh shuh da ki nuksa da kumne
+
+1 . Ai shuwa ia u Key. Sa kdew da ka kti ia uno uno 
+u note bad ai kiba shah hikai kin kynud ia ka sur jong uta 
+u Note, lane da kaba thoh ha ka Black Board ia ki notes.
+
+2. Ha u juh u Key, kynud ia ka dor sur jong uno uno 
+u note bad ai kiba shah hikai kin ong kyrteng ia u note ba 
+kit da kata ka dor sur.
+
+8
+
+3. Ai ba kiba shah hikai kin nvai stet katba lah ia 
+kawei pa kawei ka jingpyrshang (Exercise) naduh ka 
+Kyrdan I haduh ka Kyrdan III.
+
+KYRDAN IV
+
+Jingpyrshang I dmmddmrdrmslss 
+(Exercise I). sdislmfsmdmrdlid
+
+Jingpyrshang il sstd'tld'tlsmsl 
+(Exercise II). r rmf mrf mrdtidr
+
+Jingpyrshang III s 111 111 smmmrm
+
+(Exercise III). d rrr rrm drliddd
+
+Jingpyrshang IV. d rmm mmm rmsmrrr 
+(Exercise IV). s smm mrm drmdlidd
+
+KYRDAN V
+
+Jingpyrshang I. d' s s d' d* s s d' s s 1 1 s s
+
+(Exercise I). ffslffrrff fff
+
+Jingpyrshang II. 1, m m m r m ti d r r r r r
+
+(Exercise II). li t. d li r d ti
+
+nil 1, li 1, ti li mi d d d li ti
+
+r r d li tei sei li
+
+Jingpyrshang lllslsfrrssffrr 
+(Exercise III). rrfs Isf rdddrdd
+
+Siddd rdr ddd
+
+Siddd rfr frdd
+
+9
+
+Jingpyrshang IV 
+(Exercise IV).
+
+mfsssss 1 
+Sidmmmrm s 
+Si d m m m r d Si
+
+Si ti r r r d ti Si
+
+s s s s f til
+
+f tn m m r d
+
+d in m m r d
+
+ti r r r d ti
+
+mrddddrfm 
+d m r d tiT d 
+Sidmmmmfmr 
+Si s s s f r d
+
+Rwai stet katba lah ban iarap ia ka jabieng kynmaw 
+ban kem ia ka sur katba ka khmat ka dang pule ia ka dor 
+surjong ki notes.
+
+KYRDAN Vi
+
+Don ka jingpynbynta ar kyrpang ia ki Notes jong ka 
+Tonic Solfa Notation kumne
+
+1 . Shi bynta na ki notes la khot ki sur tylli (wholetune) 
+kiba long u drmfsltd'
+
+2. Shi bynta na ki notes la khot ki sur shiteng (Semi 
+Tune) kiba long u de re fe se le ta.
+
+Jingpyrshang I. d de r re m f fe s se 1 le t d' 
+(Exercise I). t ta la se s f e f m re r de d
+
+Ban iarap bdn ioh kem kham ktoi ia kane ka 
+jirtgpyrshang I (Exercise I), lah ban pyndonkam da kano 
+kanokajingtem. Lah ban sdang na u Key C.
+
+10
+
+LYNNONG III
+
+Ka sur ryntih 
+(Uniform Music)
+
+Ka jingrwai ka long ka jingbuh ryntih ia ka sur ha ki 
+notes ba iapher iapher kat kum ka jingthew ia ka dor sur 
+ha ki notes. Don ruh teng teng ba la buh ia u juh u note ar 
+ne lai sien mar bud kat kum ka jingdon jong ka sur. Sa 
+kynud ia kita ki notes kat kum ka dor sur u notes jong ki. 
+Kumta ka wan mih ka sur jingrwai ha ki sur ba ryntih.
+
+Nuksa I. d r m
+
+(Example I), m s l
+
+Key is C. d' d' 1
+
+s s s
+
+s r tn
+
+d' 1 s s
+
+s 1 1 s
+
+Ism m m r d
+
+Ka jingrwai ha ki sur bad ki ktien :• 
+(Song in Music and Words).
+
+Ha ka nuksa haneng la iohi shai ba ki notes be la 
+buh ter ter ki wan rah tang ia ka sur jingnvai kaba beit 
+bad kaba ryntih. Ban nivai ia ka sur ha ki kyntien dei ban 
+buh harum bad ha pyrshah jong uwei-pa-uwei u note ia 
+kano kano ka kyntien ba sngew donakor bad ba 
+sngewbang. Kynud shuwa ia ka sur jong u note ha ban 
+da kynmaw. Nangta sa nivai ia ka kyntien ha ka dor sur 
+jong uta u note. Sa rwai pynbud ia ki notes bad ruh ia ki 
+kyntien ba la buh ter-ter harum jong uwei-pa-uwei u note. 
+Kumta ka sur jong uwei-pa-uwei u note ka rung ha kawei- 
+pa-kawei ka kyntien. Haba la lah ban rwai ia baroh ki 
+kyntien ha ka dor sur jong uwei-pa-uwei u note, te; la lah 
+ban rwai ia ka jingrwai ha ki kyntien de. Kumta la mih ka
+
+11
+
+jingrwai. Kumta ka long, ka sur ka rung ha u Note bad ka 
+dor sur jong u Note ka rung ha ka kyntien.
+
+Nuksa I. U HYNNIEWTREP
+
+Example I.
+
+Key is C. (i). drmsrm s Id'
+
+U hyn-fliew trep ba shong ha pyr- thei 
+(ii) msld'ls. mr d
+
+U dei u khun tip briew khun tip Blei
+
+KHYNDAI UMDIH UMTONG
+
+(i) sismfrm ss 
+Na me ki iai tuid ko Lum Shyl-long 
+d' d' 1 d' s m r m d
+
+Ki khyndai um dih khyndai urn - tong
+
+Kumta ka sur jingrwai lem bad ki ktien jingrwai ym 
+lah long ban pyniakhlad na ka jingrwai. Lah ban kynud 
+tang ia ka sur jingrwai, lah ban tern ia ka sur jingrwai da 
+kano kano ka jingtem, hynrei ym long ban kynud ne tern 
+da ka tiar tern ia ki kyntien jingrwai, lait sa tang ban shu 
+pule ia ki. Kumta ha ka jingrwai, ka sur jingrwai bad ki 
+ktien jingn/vai ia ia tabah lang (Inter-dependent) ban 
+pynlong ia ka jingrwai.
+
+Kumno lah ban iohsnqew ia ka jingrwai ?
+
+(How song could be heard).
+
+Haba la buh ia ka sur jingrwai bad ia ki ktien Jingnvai
+
+12
+
+ha ka jingbuh ba ryntih, kane hi ka la pynlong ia ka jingrwai. 
+Ban iohsngew pat ia kata ka jingrwai dei ban don sa u 
+Nongrwai u ban OA/ai ia kata ka jingrwai. U Nongrwai u 
+dei ban nvai ia ka sur jingrwai ba la buh, lem bad ki kyntien 
+ba la buh lypa. Kumta ngi lah ban iohsngew ia ka jingrwai. 
+Kumta ban iohsngew ia ka jingrwai dei ban don ka sur, ki 
+ktien bad u Nongnvai.
+
+La shem ba ha ki Ri kiba bun jong ka pyrthei, hiar 
+eh ban don ki briew kiba lah ban thaw sur, shna ktien, 
+tern hi bad nvai hi. Hynrei ha ka Ri jong ngi kine baroh ki 
+la don lypa naduh hyndai hynthai naduh ki sngi ki Myllung 
+rwai Duitara, wat la mynta la ju tip ba la don ha kiwei ki Ri 
+ruh kiba la lah ban leh ia kane.
+
+Ki ktien jingrwai bad ki ktien peotry 
+(Song lyrics and Peotry lyrics).
+
+Ki ktien jingrwai (song lyrics) bad ki ktien Peotry 
+(Peotry lyrics) la ki ia syriem, hynrei ki don la u pud uba 
+pyniakhlad ia ki la ka bynta. la ki ktien jingnArai la thaw da 
+kaba mang ban don bad ka sur ban pynlong ia ka jingoArai. 
+La thaw ruh ia ki haba ka sur kaba ia don lypa. Hynrei ia 
+ki ktien peotry ym shym la mang ban pynlong jingnArai ia 
+ki. Ki don katto katne ki ktien peotry ba lah ban wan rah 
+sha ka sur. ia kiba kum kine ruh u Khasi jong ngi u la don 
+lypa naduh hyndai hynthai kum haba nvai kyndoi Duitara, 
+etc, ha kaba ha ki ktien phareng la ong ka ‘Ballad’. Ki 
+ktien peotry ia kawei ka phang ki long kiba jrong bad bun 
+dkhot. Ki ktien jingnvai pat ia kawei hi ka phang ki long 
+kiba lyngkot bad tang ar ne lai dkhot.
+
+13
+
+LYNNONG IV 
+KYRHAN I.
+
+Ka jingthew buh sur
+
+Baroh hynniew tylli ki nntop ha ka Tonic Soifa No- 
+tation ki don ka jingiadei bad u Doh. la kata ka jingiadei 
+sur baroh hynniew tylli ki notes la khot ka Scale. Ha ka 
+Scale la pynshong nongnm ba u note u (lei ban long u 
+Doh. Une u Doh u long u Tynrai Nonprini sur (Key tune). 
+Kumta u Doh u long u Key jong ka jingrwai. Peit ia ka 
+jingbatai kumne harum
+
+(i) U Note u wan rah ia ka Scale.
+
+(ii) Ka Scale ka wan rah ia u Doh.
+
+(iii) U Doh u wan rah ia u Key tune
+
+(Tvnrai Nongrim Sur).
+
+Kumta ha ka Tonic Soifa Notation kaba don hynniew 
+tylli ki notes dei ban don hynniew tylli ki vScales, hynniew 
+tylli ki Doh kiba long ki Tynrai Nongrim Sut (Key Tune)
+
+U Scale Uba Biang :•
+
+(Standard Scale).
+
+Ban shem ia u Standard Scale dei ban don ki tiar 
+tern ba la shna bha kiba ka jingpynmih sur jong ki kin neh 
+kumjuh, bad kim ju kiew ne hiar. Kita ,ki tiar ki long kum 
+ka Piano, Piano accordian, Harmonium, etc. Kiwei pat ki 
+tiar ba la shu khyrwait pynbeit sur ia ki ksai antad da ka 
+kti, kum ka Bela (Violin). Guitar bad Madoline, etc. ki 
+iarap haba ym don ki tiar jingtem kiba bha kum kitei ba la
+
+14
+
+ong haneng. Kan bha shibun ba lada la kine ki jingtem 
+(Bela, Madoline, Guiter) la pynbeit sur ksai lang ha kite! 
+ki jingtem babha ba neh sur ba la ong haneng.
+
+la u note ha ka Solfa lah ban pynkylla Doh ha ka 
+jingnA/ai. U Note uba la kylla doh u long u Key. Kumta 
+del ban tip ia uwei pa uwei u Key ba u iahap biang sur 
+bad u Note. Donkam ban leh ia kane ka jingthew sur 
+khnang ban tip ia ka dor jingriew sur jong u Doh kaba ki 
+khot ka Pitch. Ka Pitch jong u Doh ka dei ban long kaba 
+neh ka juh, namar ba ka Pitch kaba neh kumjuh lah ban 
+thew Key ia ka jingdon sur kiwei pat ki notes. Kumta ka 
+jingn/vai ka hap biang sur. La buh namarkata ia ka Pitch 
+kaba neh da ka kyrteng ‘C. la ka Scale jong u Doh kaba 
+la buh ha ka Pitch jong u ‘C’ la ong ba ka long ka Stan- 
+dard Scale
+
+KYRDAN II.
+
+KA JINGIADEI JONG KI SCALES,
+
+KI NOTES, KI
+
+KEYS, ETC. KI LONG
+
+KUMNE
+
+Standard Scale
+
+C
+
+Notes
+
+D
+
+Key Tone
+
+Doh
+
+la ka jingiadei
+
+B
+
+T
+
+Doh
+
+Nongrim ka
+
+A
+
+L
+
+Doh
+
+Standard Scale 
+bad u Key Tone
+
+G
+
+S
+
+Doh
+
+la khot ka Pitch-
+
+F
+
+F
+
+Doh
+
+ing Tone. Peit 
+ia ka Nuksa
+
+E
+
+M
+
+Doh
+
+C p
+
+shaphangka^r^.g
+
+D
+
+R
+
+Doh
+
+U Doh u khlai^t^IT ~ 
+ieng ha kano kaWqf ^
+
+C
+
+D
+
+Doh
+
+ka Scale bad Rag ^ 
+uno uno u Notes. ”
+
+Kumta lada thoh ha ka jingrwai Key ia u C. Tied da 
+ka jingtem ia u Note C. la kata ka sur kaba mih rwai ha 
+ka kyrteng u Doh. Nangta sa shim ia ka sur na u notes 
+d r m f s 1 t d'. Kane ka long ia baroh kiwei pat ki 
+key.
+
+KYRDAN III
+
+Nuksa 
+Example 
+Key is D.
+
+Standard Scale. Note. Keytone Guidance
+
+D d Doh Kynud pat ia ka sur u
+
+doh ha u li
+
+Key is A
+
+A d Doh Kynud pat ia ka ka sur u
+
+doh ha u li
+
+Tied ia ka Standard Scale phin ioh ia u note, la 
+ka sur jong uta u note kynud Doh. la ka sur jong uta u 
+Doh pat kynud ha ka kyrteng u 1,. U 1, u wan long u 
+Key tone. Sa rwai ia ka jingrwai.
+
+16
+
+DAN IV
+
+tone) jong ki jingrwai la shem 
+e ki Keys harum katkum ka 
+N syiang jong ka sur ha ka
+
+ki thoh ruh
+
+Doh is A
+
+t")
+
+^ey IS b
+
+Lane ki thoh ruh
+
+Doh is B
+
+(Hi)
+
+Key is C
+
+Lane ki thoh ruh
+
+Doh is C
+
+(iv)
+
+Key is D
+
+Lane ki thoh ruh
+
+Doh is D
+
+(V)
+
+Key is E
+
+Lane ki thoh luh
+
+Doh is E
+
+(Vi)
+
+Key is F
+
+Lane ki thoh ruh
+
+Doh is F
+
+(vii)
+
+Key is G
+
+Lane ki thoh ruh
+
+Doh is G
+
+Kumta haba la thoh shaphang kadiang haneng jong 
+ka jingrwai Key is C, etc shim da kano kano ka jingtem 
+bad shon ia uta u key ba la buh bad kern ia ka sur jong 
+uta u key ba la kylla Poh. Nangta sa rwai ia ka jingrwai la 
+ha ka shisur ne ar sur kumba la thoh. Sa rw'ai pat ia ki 
+ktien ba la buh na ka bynta kata ka jingrwai.
+
+NONGRWAI
+
+Nuksa
+
+Example Key is C. d m s m d
+
+Nga del u nongrwai
+
+m s ID s d 
+Ngan nang pyn - ja - nai
+
+s d m’ s d 
+A - le ngin ia - rwai
+
+17
+
+Ki nonghikai ki dei ruh ban pyni rukoni ia ki 
+nongshah hikai da kaba ai nuksa da kiwei pat ki Keys, ter 
+ter. Batai pyni (Theoritical & Practical) ia ka jingiapher ki 
+sur jong kitei ki notes ba la shon haneng ha u key ba 
+iapher iapher. Sa batai bha ia kitei ki juh ki notes ha 
+kiwei pat ki keys, ka sur ka jem eh bad ha kiwei pat ki 
+keys ka sur ka syiang than. Namarkala dei ban da buh 
+key lypa ia ka jingrwai ba kan nym jem eh ne ba kan nym 
+syiang eh.
+
+LYNNONG V 
+KYRDAN I
+
+Ka jabieng sur ka pule ia ka sur uohnud :>
+
+(Mental Musical Effect).
+
+Haba ngi sngap ia kano kano ka jingsawa bawan 
+shoh ha ki tyndong shkor jong ngi, ka don ka 
+jingsngewthuh na kata ka jingiohsngew; la ka sur ka mih 
+na ka jingtieng, ka jingud kordit, na ka jingsngewsih, ne 
+na ka jingkmen, kumta ter ter. Ka sur iambriew ka long 
+kaba dap da ka jingsngewsih kthang, ka sur phawar iasiat 
+ka long kaba dap tang da ka jingkmen, ka sur Besli-sur 
+lum ka long kaba dap tang da ka jingsngewbha. la kine 
+ki sur baroh la shu kem ka shkor, hynrei ka jabieng pat 
+ka pynsngewthuh lyngba ki sur ia ka jingsngew jong ka 
+dohnud kaba pynmih ia kum kita ki sur. Dei kane ka 
+bynta sngewthuh jong ka jabieng (Mental Musical effect) 
+kaba ju iarap khamtam ia ki nongthaw sur bad jingnivai 
+bawan rah ia ki sur katkum ki jingiadei jong ki jingjia.
+
+18
+
+Ka jur kynnoh :>
+
+(Accent).
+
+Ka long ka rukom kynnoh ia ki ktien ha ka jtngnvai 
+hapoh jong ka sur ba la buh katkum kajingpynidak kumno 
+bad pynmih ia ka sur haba rwai.
+
+KYRDAN II
+
+Ka jingjlan por 
+(Pulse)
+
+Haba sngap ia kano kano ka jingrwai ju shall 
+iohsngew ba don ki jingrwai ba la shu shim kynnoh thrait 
+thrait ar ne lai kyntien marbud marbud bad don ruh ba la 
+shu rwai tang ia kawei ka kyntien bad da bat por slem 
+bad da kynud jian shuwa ban shim ia kawei pat ka kyntien. 
+Ha ka Tonic Solfa Notation la buh lypa ia kita ki dak 
+jingpyni kumno ban kern ia kata ka rukom rwai, khnang 
+ban ryntih. la kita ki dak la khot ki dak Jingjlan por (Pulse).
+
+Kumba la ong ha ka Jur kynnoh (Accent) haneng, 
+ia ka jingrwai ban kynnoh jam ia uno uno u note la pyni 
+dak da kaba buh ia u lain (line) uba kham rben bad kham 
+jrong ha khmat jong u note kumne (i) bad ia uba kham 
+pdeng ka jingkynnoh la thoh kumne (i) bad ia uba tiot ka 
+jingkynnoh la thoh kumne (:). Ka jingjlan por na u lain 
+uba jam sha u lain uba kham tIot bad na uba kham tIot 
+sha uba tiot ka long kumjuh shitied shitied.
+
+19
+
+JiNGSDANG BaNYNGKONG
+
+(Primary form).
+
+Ha ka jingpynidak jur kynnoh kaba pyni ia ka 
+accent kaba khlain bad bud sa uba tiot bad sdang biang 
+da uba khlaifi, ter ter, hangne hi ka jingtied ka long shitied 
+shitied. la kane ka rukom buh jingpyni dak, la khot ka 
+Primary Form.
+
+Nuksa 
+Example 1
+
+1 . Primary Form
+
+Key is C
+
+{|d :tn |d :tn jd ;m |d :d } 
+Khlain tIot khlain tIot khlain tIot khlain tIot
+
+2. Secondary Form :
+
+la ka jingsdang kaba nyngkong pat kaba buh shuwa 
+da ka accent kaba tiot kaba bud pat da ka accent kaba 
+khlain la khot ka Secondary Form.
+
+Key is C
+
+{:m |d :s |m :r |m :d |d }
+
+Tiot khlain tiot khlain tiot khlain tiot khlain.
+
+Kl OAK PYNI IA KA JINGRING JUAN SUR >
+
+(Continued Tones).
+
+Ki don ki jingnvai kiba ka jingring sur na uwei sha 
+uwei pat u note ka tong kaba palat ban ia ka shisien tied 
+(one puise). ia kine ki dak ia buh da kumne (|-) lane (>)
+
+20
+
+la kynnoh ia kine ki dak jingring sur da kumne |- la u 
+tied uba kern ban sdang ia ka sar la khot u Taa bad ia u 
+tied ba ai dak ia ka jingjian ring sur la khot u Aa. Kumne 
+ruh sa kawei pat ka nuksa
+
+{|d Id I- :d |- |
+
+taa aa taa aa aa taa aa aa
+
+la ki tied (pulses) kiba ym shym la buh note hadien 
+hynrei la shu buh da u stroke, u line bad u dash napdeng 
+(|-) lane da u kolon dash (:-) dei ban ringsur shitied ka 
+jingjian, kumta ter ter. Kumta lada dei ban ringsur shitied 
+ki buh d lane Lada dei ban ringsur jian artied ki buh 
+lane Laoa dei ban ringsur laitied 1| lane
+
+Nuksa I.
+
+Example I.
+
+{|d :r |- :m |s:- |d:r |m:r
+
+Taa taa aa taa taa aa taa taa taa taa aa aa
+
+{|m :s I- :r |m id :r |- :1, |d ||
+
+Taa taa aa taa taa aa taa taa aa taa taa aa
+
+UBNAI
+
+Nuksa II.
+
+Example II.
+
+{|d :r I- |1 :s |- |ri :r |- |1 :r |-
+
+Ha sa hit bneng u tei u bnai
+
+{|s :1 I- :-|ni :r |- |1, :d |r :d |- ||
+
+Ha por ba dum u ai jing shai
+
+21
+
+SHI JUR
+
+Nuksa III 
+Example III.
+
+{|m |r:-:l |s:-|-:d' Id' :1 |s ; - }
+
+1 . Dei tang bad phi Lur mang ka ra
+
+2. Ha pan ji - ra thaifi jing ieit ksiar
+
+{|s:-|l;-|s:m|-:d |r:-|d :d!-:-||
+
+1 . Kan suk kyn -jai mynsiem jong nga
+
+2. A - le tang nga bad phi shi jur
+
+Ki dak ba pyni shuwa ban thoh ia ki notes jong kano 
+kano ka jingrwai, bad ruh man bakut ka dkhot jong ka 
+jingrwai, lem bad ha kaba kut jong ka jingrwai.
+
+U Lain (line) uba thoh da pynieng kumne (j) u kdew 
+pyni ia ka jingkynnoh sur khlaih. U tied uba nyngkong ba 
+sdang ia ka jingrwai u sdang na u laih shikap, la ha ka 
+dkhot ne ka Refrain (Chorus).
+
+Nuksa I.
+
+Example I.
+
+{|d:r|ffl |- :m |- :s (- :m |r :d |- }
+
+{|1 :1 Id I- :n. |r ;ffl |d (1
+
+U LaiA Arkap 
+(Double Barrs)
+
+la kine ki laih (line) artylli kiba ia pynieng da synrap 
+kumne (||) la ju buh haman bakut ki dkhot jong ka jingrwai 
+ne haba kut ka Refrain, la kine ki lain (line) ia ju khot ki 
+Lain Arkap (Double Bars). Ka pyni ba ka dkhot/refrain ka 
+la kut.
+
+22
+
+Key is D.
+
+Nuksa I.
+
+{|d ;r |m :s |- |in :r |tn :d }
+
+{|d:- |1 :s |tn |- :d |r :1, |d ||
+
+U Lain Kdup
+
+(Bracket).
+
+la kine ki dak pyni ba la thoh kumne ({ }) ki 
+pyndonkam ha kane ka rukom la une u dak ba thoh ({) 
+ki thoh ban kdup ia u Lain Shikap (Single Bar) na kadiang 
+ba sdang ka jingrwai. Dei ba sdang ban rwai iatied artad 
+ia ka jingrwai nangne hi.
+
+Nuksa {[d :d |- :d [d }
+
+Ka rukom ba buh pat ia une u Laih kdup (Bracket) 
+kumne ( } ) shaphang kamon Jong kano kano kaba kut 
+Jong ka dkhot jong ka jingrwai, ka mut kaba ym ktah ei ei 
+ia ki tied (pulses) jingsangeh jian, etc., hynrei ka pyni ba 
+ka jingrwai kam put kut bad dei ban shim nwai noh ia 
+kawei pat ka dkhot ba bud.
+
+Key is D. yvu/csa I. {|d :r |in |s :1 |s }
+
+Example {|s :1 |s |m :r |d ||
+
+Refrain dm :s |1 :d'|-:-|r' :t |1 :s } 
+dm ;f Is :s l-:-|d :r Hi :cl |-:- ||
+
+23
+
+Kl MAW-NAM
+
+Nuksa 1 1. Example II.
+
+Key is D
+
+{|d :d I- :t( )d :r | - :m If :m j- ;r |d :r |- 
+Ki lum ba sha jrong la ka thait ngan iai kiew
+
+{|s :f Im :r (-:ti |d :r |- :d |ti :d |- : 
+Ban ioh thohdak ba sah pa teng byn-riew
+
+Refrain
+
+{|s :d' |r' :t :s |f :ni |- }
+
+Ki maw byn...na ba rit ba...khraw
+
+dm :f Is :s |-:-|d :r |t, :d |- ||
+
+Ki dak ki shin. b’la ruid kin paw.
+
+24
+
+LYNNONG VI
+
+Ka jingphiah bynta ia ki shitied (one pulse) khnang 
+ban lah ban kern rwai ar ne lai tylli ki notes ha ka shisien 
+tied.
+
+KYRDAN I
+
+U Shiteng Tied :•
+
+(Half pulse).
+
+Ka jingkdew ban pyni ia u shiteng tied (half pulse) 
+ka long da kaba buh da u Phulstop kumne (.) bad la khot 
+kyrteng ia u U Tai (Kynnoh Te). Ka rukom ba buh ban 
+nA/ai ha ki notes ka long da kumne
+
+{Id .r :d }
+
+Taa te taa
+
+Nuksa I. Example I.
+
+Doh is G.
+
+{:d
+
+.r
+
+|m
+
+.S
+
+;in
+
+.r
+
+|r
+
+Taa
+
+te
+
+taa
+
+te
+
+taa
+
+te
+
+taa
+
+{:d
+
+.r
+
+|m
+
+.d
+
+:r
+
+.1,
+
+Id
+
+Taa
+
+te
+
+taa
+
+te
+
+taa
+
+te
+
+taa
+
+SHUT KI BNIAT HO LOK
+
+Nuksa II. Example II.
+
+Doh is G.
+
+{|d .r :d .m |s .m :r } 
+SuifI Bneng Phriang Ja-rut Ka Miaw
+
+25
+
+dm .r ;f .r |m .s :s |- }
+
+U rang pat wiej wiej U siaw
+
+{|1 .d' :1 .s |s .s :ni }
+
+Ha shyng iar shut khong dong jat
+
+{|m .s :m .d |r .1, :d |':-||
+
+Saw kyr-ang ka tieh lai mat
+
+Kum ha katei ka nuksa lah ban shim ar tylli ki notes, 
+kumjuh ruh ar tylli ki ktien ha ka shisien tied da kaba kem 
+ia u shiteng tied (half pulse) hamar shiteng shuwa ban 
+kem ia u tied (pulse) uba bud.
+
+U Tied lai pawa 
+(Three quarter pulses)
+
+Ha u tied Laipawa (Three quarter pulse) la pyni 
+rukom kumno ban rwai hapoh u shitied ar tylli hi ki notes 
+ban kem rwai ia u note ba hadien jong u Tied laipawa, ka 
+kham slem khyndiat ban ia kaba kem ha u shiteng tied. 
+La thoh pynidak ia u tied Laipawa da kumne (.,). U 
+Phulstop u kdew ia u shiteng tied bad u koma u kdew ia u 
+shipawa tied. Haba buh lang ia u phulstop bad u koma, 
+namarkata ki wan rah ia u tied Laipawa. La khot kyrteng 
+ia u tied Laipawa U, Taa fe
+
+Nuksa 1. Example I 
+Doh is G.
+
+{|ro .,r ;ni ..r Id ..1. :d 1- :-|l
+
+Taa fe Taa fe taa fe taa.
+
+26
+
+TIP SMA KAEI
+
+{|d ..ti :li .,ti |d :r .,tn |r :d .,li |r
+
+U jai - tuh ban kit la ja song u a - Ihyia
+
+{|m .,r :m .,s |m :d |r ..m :r .,d |d
+
+Heh ka kpoh u bam tut hyn-riew pliang kaja
+
+{|m .,s :s .,s Im ;r |r .,r ;m .,s |s :-}
+
+U shongkai lem bad ki Lok shynrang kyn-thei
+
+{|s ..r :ni .,d 11, :r |in :d .,h |d ||
+
+Shi -Hang kti ki set khmut tip sma ka - ei
+
+KI KHUN I MEI
+
+Nuksa il. Example II.
+
+Doh is G.
+
+{|s .,m :m .,m |s :r |r .,r :m .,d |r:- }
+
+Thei bha briew khun syiem ki laid ha per syn-tiew
+
+{|d' :1 ..s |s .,s : in I 111 :r .,d |d }
+
+Our jong ki ka nang ih Ah jing - bha-briew
+
+Ref.
+
+dm .,s :s |m .,1 :s |m :r ..m |s }
+
+Kum ki khun pu - ri Blei wan hiar pyr-thei
+
+{|s :1 .,s Is :di |s .,m :r ,.,m |d ||
+
+Phi dei ki jong nga Khun ba - ieij I Mei.
+
+U Tied Shipawa 
+(Quarter pulse).
+
+Ha u tied shipawa (Quarter pulse) lah ban kern
+
+27
+
+kynrup ia ka jingrwai haduh saw tylli ki notes ha u shitied 
+(one pulse), la kane la buh pynbeit da kaba pyndonkam 
+ia u phulstop (.) bad ia u koma (,) kyrpang kyrpang. U 
+Phulstop u pynbynta ia u shitied ha ka shiteng tied bad u 
+koma pat u pynbynta ia u shiteng tied ha ki artylli ki 
+shipawa tied. La khot Fatefe, bad la buh da kumne.
+
+(Id ,r .m ,r :d 1|
+
+Taa fa te fe taa.
+
+Nuksa\. Example I.
+
+Key is D.
+
+{|m ,r .m .r :d .r |d .r .m ,r :d |- ||
+
+Taa fa te fe taa te taa fa te fe taa
+
+PAM - B - PAM - W -
+
+Nuksa II. Example II
+
+{|d ,r .m ,r :d .r |d ,r .m } 
+Pdok tyng - ka pyn - biang shwa ha duh ki
+
+{,r :d .r |d ,r .m ,s :s |- ||
+
+ver si - ty pdok pu - le pyn - tbit
+
+{Im ,s .ni ,r :nn .d |r ,m .r ,li ;r }
+
+Shi - Hang khmat wat khap - rip wat ia bnoh wat ia
+
+{.d |m ,r .d ,li :d |- 1- II
+
+shyit loh ka kiew jing -shit.
+
+Ref.
+
+{|tn ,r .m ,s :s .s |m ,r .d ,r :m .s } 
+Ba by john son pow-der Dud pow-der ki khun lung
+
+{|m ,r .m ,r :ra .d |d ,r .m ,li :r .d |-:-} 
+Sa thied yn da thep dap pi - sa ki pdok jun jun
+
+28
+
+{|di ,s .t ,s :1 .s Ir ,in .s ,1 :di .s } 
+Khlem pyr-khat phin byn-rtiaw Ban long tyng-ab pam bi
+
+{|s ,1 .s ,d' :1 .s Im ,s .m ,r ;r .d|-;-||
+
+U Rang lyngngoh tyngheng La long tngaw pam da blew
+
+Don sa arjaid ki jingpynbeit ban buh ia u shiteng 
+tied bad ia u shipawa tied ha ka shitied (One pulse) kiba 
+khot ki Half bad ar quarters bad ruh ar quarters bad half. 
+La khot kyrteng ia ki (i) Ta te fe bad Taa fa tai
+
+(I) {|d .d ,d :d } (ii) {|d ,d .d :d }
+
+Taa te fe ta Taa fa tai taa
+
+HAUTAATE FE
+
+Nuksa 1. Example 1. 
+Doh is C. { 1 d . d
+
+,d :s 1-
+
+II
+
+Taa te
+
+fe taa
+
+{|m .d ,d :iii
+
+.d Id .d
+
+,d :d
+
+Taa te fe taa
+
+tai taa te
+
+fe taa
+
+RNENG
+
+Nuksa II Example II.
+
+Nuksa II.
+
+Key is D.
+
+{|d .s ,m :d
+
+.r Im .s
+
+,m :r ^
+
+Ka kshong doh sniang la phi hep phin bam
+
+|r .s, ,1, :d I- }
+
+u soh phi nam
+
+{|m .r ,tn :s ,d 
+Myn -sngi ban rneng sa
+
+29
+
+Ref.
+
+{|m
+
+.s
+
+,S
+
+:1
+
+.1 ,s |m .r
+
+,m
+
+.S }
+
+Shi -
+
+bit
+
+jan
+
+miet
+
+yn - da wan iew
+
+j
+
+Mu;
+
+{|s
+
+.in
+
+,r
+
+.d ,d |r .d
+
+,1'
+
+u 1 - . -||
+
+la
+
+phi
+
+in
+
+thied
+
+u soh phlang bad
+
+u
+
+K.j.
+
+HA U TAA FA TAI
+
+Nuksa I. Example I.
+
+Doh is C.
+
+(Id
+
+,d
+
+.d
+
+:d II
+
+Taa
+
+faa
+
+tai
+
+taa
+
+{|d,d
+
+.s
+
+:d
+
+.d
+
+Id ,d .d trl 11
+
+Taa fa
+
+tai
+
+taa
+
+tai
+
+taa fa tat laa
+
+JINGJOP
+
+Nuksa II. Example II.
+
+Key is D.
+
+{|m ,s .1 :di .s |1 .d' .1 s 1
+
+Sha-phrang sha-phrang ngin tur khlem kyn - ran
+
+{|s ,1 .d' :s .1 Is ,m .r :d |- ■ ||
+
+Jing-jop jong ngi ka - ne la ha - jan
+
+{Id* ,1 .s :f ,in .f |s ,m .s :r }
+
+Dus-mon ba shun un Kyi -ion un dem h>
+
+{|s :r ,111 .d |1. :d 1- ll 
+Jing-jop del ka jong ngi.
+
+30
+
+Lai Bynta Ha Ka Shitied
+
+(Third of a pulse).
+
+la kane la pyni dak ban kern n/vai ia ki notes da 
+kaba thoh khongpong ia ki koma (‘) bad la khot kyrteng 
+artad - Taa-tei-tee.
+
+Nuksa I. Example I.
+
+Ddh is D.
+
+{|d
+
+■d
+
+•d
+
+:d 11
+
+Taa
+
+tei
+
+tee
+
+taa
+
+{|d ‘d
+
+•d
+
+:d
+
+•d
+
+‘d Id
+
+‘d
+
+‘d
+
+:d II
+
+Taa tei
+
+tee
+
+taa
+
+tei
+
+tee taa
+
+tei
+
+tee
+
+taa.
+
+Nuksa II. Example
+
+Doh is D.
+
+{|d :m
+
+Is
+
+‘1
+
+‘s
+
+:r |m
+
+‘r
+
+'m :
+
+d 1-
+
+Taa taa
+
+taa
+
+tei
+
+tee
+
+taa taa
+
+tei
+
+tee
+
+taa
+
+{|1 ‘t
+
+■d' ;
+
+d' 1
+
+s T
+
+‘m : s ‘r
+
+'m
+
+Id
+
+:d 1-
+
+Taa tei
+
+tee
+
+taa
+
+taa tei
+
+tee taa tei tee taa
+
+taa
+
+SYNSHARJINGSUK
+
+Nuksa III. Example III.
+
+Doh is D.
+
+{|d :m Ir 'm 'f :s |in :d ‘r ‘m |r :r }
+
+Syn - shar da ka jing-suk Hangne ha ka pyr-thei
+
+{|di ‘s ‘m :f Is :di |1 :s ‘r 's |m :d |- 1|
+
+La -da u byn-hew u dang ma-ne ia U Blei
+
+31
+
+Lai Pulse Shi Measure :•
+
+(Three pulse measure)
+
+Ha kitei ki lynnong baroh haneng la kem rwai uwei, 
+artylli lai tylli bad saw tylli ki notes ha u shitied (one pulses) 
+da kaba phiah ia u shitied kumba la ai nuksa.
+
+Ha ka Lai pulse shi measure, phin iohi ba la pynlang 
+lai tylli ki pulse shuwa ban shim ia uwei pat u measure. 
+Namarkata kirn ong shuh shitied (one pulse) hynrei ka 
+jingtied na uwei u tied sha uwei pat la khot shi measure. 
+Namarkata ha ka shi measure la buh-lum-lang lai tylli ki 
+pulses ba la khot Taa tai tee.
+
+Ka jingbuh ka long kumne .- { | d : d : d j d ||
+
+Taa tai tee taa
+
+Nuksa I. Example I 
+Doh is D.
+
+(Id
+
+:d
+
+:d
+
+Id
+
+:d
+
+:d
+
+Id }
+
+Taa
+
+tai
+
+tee
+
+taa
+
+tai
+
+tee
+
+taa
+
+{|d
+
+:r
+
+|d
+
+:r
+
+:m
+
+Id
+
+I- :■ : • ll
+
+Taa
+
+tai
+
+tee
+
+taa
+
+tai
+
+tee
+
+taa
+
+Nuksa
+
+II. Example II
+
+Key is
+
+G.
+
+{Im
+
+:r :
+
+m
+
+If :
+
+s
+
+:f
+
+Im :
+
+r:- ld:-:-|-:
+
+Taa
+
+tai
+
+tee
+
+taa
+
+tai
+
+tee
+
+taa
+
+tai taa
+
+{|s:
+
+:m
+
+;f
+
+Is:-:
+
+f Is
+
+|m:-
+
+:r !d:-:-|-:- • -
+
+Taa
+
+tai
+
+tee
+
+taa
+
+tee
+
+taa
+
+taa
+
+tee taa
+
+32
+
+Nuksa III. Example III.
+
+Da kaba buh pyndap da u Phulstop (.) ba la khot 
+kyrteng u Fe.
+
+{|s :f :r |m .r .d |r :-.t, .d |r :- }
+
+Taa tai tee taa fe tee taa fe tee taa
+
+{|s :1 :s Irn ;-.in .r|d :-.li .tt |d 
+Taa tai tee taa fe tee taa fe tee taa
+
+HyNRIEW pulses SHI MEASURE >
+
+(Six pulse Measure)
+
+Hangne ngi la iohi ba ha ka lai pulse shi measure la 
+buh lai pulse kumne (|- :-). Ha ka hynriew pulse shi 
+measure pat, ki buh da kumne (|- 1 - > >)■
+
+Haba rwai ia kane ka jingrwai ba la pynbeit da u 
+hynriew pulse measure dei ban rwai stet.
+
+Kynnoh khlaih na kaba sdang. U Taa, kham kynnoh 
+jem ia u Taa uba hapdeng bad kynnoh khlaih biang tang 
+shu i u Taa uba bud bad kumta ter ter. Ka jingstet ka 
+kham iahap bha bad ka ksing mastieh.
+
+Nuksa I. Example I 
+Key is D.
+
+{|li:m :in |ni :r :r |f ;d :d|d :m;s|ni:-:-}
+
+Taa tai tee taa tai tee taa tei tee taa tai tee taa
+
+{|r :r :m |s :d :d (r ;1, :d jm :d :r |d :-||
+
+Taa tai tee taa tai tee taa tai tee taa tai tee taa
+
+33
+
+LYNNONG VII
+
+KiWEI pat KI dak BA lADEI BAD KA JINGRWAI :•
+
+*U Khlur - la u khlur ki pyndonkam kum ka 
+jingpynidak ha kaba rwai ia ka jingrwai ba la pynbeit ban 
+n/vai pyllun (Round), la ka jingrwai Pyllun (Round) la thoh 
+pynidak da kumne
+
+HA TREP U NONGREP I.
+
+Ha ki arsien pyllun 
+Doh is A.
+
+{|s:d' |-.s :1 |s :m |-:m |s :r .m |f imj: |d:-|| 
+Kynjai ha la fingtrep Hai hai baroh kam la dep
+
+la ki nongrwai dei ban bynta ar bynta. Ka kynhun 
+kaba nyngkong kan sdang ban n^/ai. Ka kynhun kaba ar 
+ka sngap. Tang shu poi ka kynhun kaba nyngkong ba 
+kern ia u note ba don Khlur ha jrong, ka kynhun kaba ar 
+ka sdang ban kern ia ka jingrwai na ba sdang. Kumta ka 
+kynhun kaba nyngkong haba la kut, ka sdang ban nwai 
+biang naba sdang, bad ka kynhun kaba ar kan pynbud 
+kumjuh. Ka kynhun kaba nyngkong kan rwai arsien ia ka 
+jingrwai bad pynkut noh, ne katba pynbeit U Nongialam 
+jingnwai.
+
+34
+
+HA TREP U NONGREP II.
+
+Ha KI LAIStEN PYLLUN >
+
+Doh is D.
+
+{|s :di |-.s :1 |s :tn |-:m |s :r .m |f : iii.r Id 
+Kynjai ha la ling trap Hal hai kam baroh la dep ‘
+
+{|s :ni .f ' |s :di Id' .1 r'T ||
+
+U khaw u kba ha thiar la thep.
+
+Kane ka pat ka jingrwai ia ki nongrwai del ban bynta 
+laibynta. Ka kynhun kaba nyngkong kan n/vai. Tangshu 
+poi ka kynhun kaba nyngkong ha u Khlur kan sdang ka 
+kynhun kaba ar naba sdang. Tang shu poi ka kynhun 
+kaba ar ha u Khlur ka kynhun kaba lai kan sdang ia ka 
+jingrwai naba sdang. Ka kynhun kaba nyngkong kan nvai 
+ia ka jingrwai lai sien ne katba pynbeit u Nonghikai 
+jingrwai.
+
+•HA TREP U NONGREP IN 
+Ha ki sawsien pyllun 
+Ooh is D.
+
+{|s :di (-.s :1 |s :m (-:rn |s :r .m |f : m .r |d 
+Kynjai ha la ilngtrep Hai hai kam baroh la dep
+
+{Id' :in .f Is :d' Id' .1 :s|-:s Id' :t .d' |1 |d' :-|l
+
+U khaw (i kba ha thiar la thep hai hai ka jingim nongrep
+
+{|s :m 1- .t :d' |t .1 :s |- 
+Kyn-jai ha la i ling trap
+
+{|m : in.s |- .t |1 |s .1 :d' |- 
+Hai hai kam ba-roh la dep
+
+35
+
+{|S .m :s |s :f |r .f :m |s .f :m}
+
+Khawu kba ha thiar ngi la thep la dep thep
+
+{|*s .1 :d I- .r ;ni :d |- :-||
+
+Dap kyr-hai jing-im Nong-rep.
+
+Ha kane ka jingrwai aih dei ban bynta ia ki Nongn/vai 
+saw kynhun. Ka kynhun kaba nyngkong kan rwai naba 
+sdang bad bud ter ter katkum ba la buh dak da ki khlur da 
+ka kynhun kaba ar, kaba lai bad kaba saw khadduh eh. 
+Ka kynhun kaba nyngkong kan rwai saw sien ia ka 
+jingrwai, lane kumba pynbeit u Nonghikai jingrwai.
+
+2: U pause ne u Hold. (^) Haba buh ia une u dak
+
+pyni haneng jong uno uno u note ne u pulse, ka mut ba u 
+nongrwai un ringsur hangta katba u sngewbit la shitied 
+ne artied. Hynrei na ka bynta ka jingryntih dei ban da 
+batai shuwa, katno pulse yn ringsur.
+
+LAPBAH ilote Ubrarf
+
+Nuksal. Example I. r,,,iiirn> 7 fnt 
+Doh is D.
+
+{|s, .1( :d Id .r :d |d .m :s .s |- .1 :'s }
+
+La leit noh ka pyr-em Ka ly-iur te ka la sdang
+
+{|m.s:m|m.f:tii |r.m:d .d|-.li:dl|
+
+U lap-bah u lap san u la khreh ba un wan.
+
+U Dash. (-) la une u dash la buh harum jong artytli 
+ne lai tylli ki notes (lane bun tylli ki notes ruh) da kunrine :* 
+( d .r :tn) kaba mut ba ia ka kyntien kaba don hapoh 
+jong kitei ki notes ba la pyniasnoh da u dash dei ban nwai 
+ringsur lang ia ka shikyntien ha ki ar ne iai tylli ki notes.
+
+36
+
+Al Tl LUT
+
+Nuksa II. Example II 
+Key is D.
+
+! I d .r itn I s .1 :fii I m.r :d I d.l . :d 
+Ri Kha - si ba ieij jong nga
+
+; I di t :1 . t I s : - . r I m .s : - .1 | s ; - }
+
+Ri urn snam u Nie u Pa
+
+f I r : m.s | - : l.s : m | m : m.r Id : r }
+
+Ngan im ngan iap na - mar jong pha
+
+! I s.f :nn I r.m :d |- .d :r |d :d |- ||
+
+Kyr - khu ko Ri ki khun jong pha
+
+(i Pulse sngap jar, (silent pulse)
+
+la u pulse sngap jar (Silent pulse) uba dei ban sngap 
+jdr shitied la buh dak da u kolon kumne (:) bad la khot 
+kyrteng ia u u Saa.
+
+la u pulse sngap jar uba dei ban sngap jar shiteng 
+lied la buh dak da u phulstop kumne (.) bad la khot kyrteng 
+II Sai.
+
+Haba iohi ia kine ki dak hapdeng ka jignrwai dei 
+oan sangeh sbak. Lada dei ha u Saa (:) dei ban sangeh 
+jar shitied, bad sa kem biang ia u note uba hadien. Lada 
+dei ha u Sai (.) dei ban sangeh sngap jar shiteng tied bad 
+sa kem biang ia u note ba hadien.
+
+Nuksa I. Ha u Saa. (:)
+
+Key is G.
+
+{|s .1 |s : :ni |- .r :m ; }
+
+faa aa tai taa SAA Taa aa tai Taa SAA
+
+37
+
+{|d .1 Id : :r |- .d :r i- }
+
+Taa aa Tai Taa SAA Taa aa Tai Tai
+
+{|d :li .r |r ;m .s |tn }
+
+Taa Taa tai taa SAA Taa tai taa
+
+{.r :d : |li .r :r |d - |(
+
+tai taa Saa Taa tai taa taa.
+
+MEI BAIEU
+
+Nuksa II. Example II.
+
+Doh is D.
+
+{|m.r :in.s|m;.d |r.r:rn ,s;r|-,- 
+Ko mei ko ba - ieij jong-nga ko met ba - thiang
+
+{|r :m .s |m : .m :r .d |r .d :d |-
+
+la wan noh mei I hep te t la sliang.
+
+Ha U Sai 
+Key IS G.
+
+{|d .d Id . :d |m :r . |m .r ;d |- 
+Taa aa Tai taa Sai taa taa taa Sai taa tai taa
+
+{|s ;in .r |m . :d .d |r . :1, .1, Id
+
+Taa taa tai taa Sai taa tai taa Sai taa tai taa
+
+KABA BUH LANG lA U SAA BAD U SAI
+
+Nuksa I. Example I 
+Key is G.
+
+{Id .d Id : Id .d :d . |d .d :r |-
+
+Taa aa tai taa Saa taa tai taa Sai taa tai taa
+
+{|r ;r .r |r . |d .d :d ; |r .d :d |
+
+Taa taa tai taa Sai taa tai taa Saa taa tai taa
+
+38
+
+SYNRAI
+
+NuksaW. Example II.
+
+Key is D.
+
+{|tn :f .s |fn :|tn :f .s |in :-.d |r .li :d .d |d:-} 
+Er lang thari lap bahlapsan khie leit noh bak myn-ta
+
+{jm :f.s |t; .s :l.|s :fe :s 
+Ba khyn-nah rit leh- kai kin sngewbha
+
+{|s :in . |ni .f :s .m : .d |r :in .r |r }
+
+Pyr-that bad ka lei-lieh shajngai to leit noh
+
+{|f :m .r jin . :d .d |r : :ti |d ||
+
+Mih ka syn - rai dap jing • kmen ba • roh
+
+Ka jingpyndonkam bniah ia u bar bad u brakckets.
+
+Ha kiba bun ki jingrwai phin shem ba ki jingrwai ki 
+sdang da u taa, da kaba ia u Lainkdup (Bracket, laiPishikap 
+ki (Singlebar) bad sa sdang u Note kumne (|d) lane (:d) 
+Hynrei don ki jingoA^ai kiba sdang na u shiteng tied, i.e, U 
+Trai (.) bad ruh na u shipawa tied (Quarter pulse U Trai 
+(,) ha kine ki jingnwai la buh na ba sdang tang da u Bracket 
+bad la sdang kumne (.) lane (,).
+
+Ba sdang da u Tai = (.0 |m) (.d ,m |s)
+
+Ba sdang da u Fe = (,d |m)
+
+39
+
+Jyntah Bang
+
+Nuksa I. Example I.
+
+Key is D.
+
+{.d Im .f :s |t .t :di .r' Id' }
+
+Ka doh ba - kshong tyl-liat sying u plat
+
+{.1 Is .f :m |d .d :r . t .d |r }
+
+Mu-sla Mu-sli mluh thep lang ar - tad
+
+{.m ,s Id' .s |t .1 |s }
+
+U nei iong bad lung rym-bai
+
+{,r .m |f .m |d ||
+
+Sngew-bang bam te shi ka rai.
+
+LYNNONG VIII
+
+Ka jingringsur ha u shitieo (one pulse bad u shiteng tied 
+(half pulse) One and half pulse continuation.
+
+Kane ka long ka jingpyni ban buh ia ki tied (pulse) 
+ban pynbiet ia ka jingring sur ha u shitied bad ha u shiteng 
+tied.
+
+1. (I-—.) 2.
+
+Aaa tai Aaa tai
+
+Nuksa I. Example I.
+
+{|d .d Id :d |- .d :d |- }
+
+Taa aa tai taa taa aa tai taa aa
+
+(Id I- .d :d I- :d |- .d :d |- .d |d ||
+
+Taa aa tai taa aa Taa aa tai taa aa aa tai taa
+
+40
+
+Ha kite! ki nuksa la iohi shai ba ka jingring sur ka 
+long katkum ka jingdon u Aa bad u tai la ha ka shitied 
+artied bad kumta ter ter.
+
+Rl BAIEIJ
+
+Nuksa It. Example II.
+
+Key is D.
+
+{|s:l|-.s:l|-.s:m |m .r ;c1 }
+
+Ko ri Kha-si Ri ba - ieij jong ngi
+
+{|d .r :m I- .d :r |t, ;d ; - : - |!
+
+Pha la kha ki khun phrang sngi
+
+Ref.
+
+{|m .s ;di I- .d' :di Id' .r' :t .1 :s }
+
+Sor Shyl-long kor-dor pha phong kum pan .‘^ngiat
+
+{|ni .s :t |- .s :1 |s :s |- }
+
+Dur jong pha pyn - i tyn - nad
+
+{|d .r :m|-.r;m|s.l:s|- . m . r :d }
+
+Hyn-hiew trap ha phi Ri ba- ieij ba tniang
+
+f I s . re :m 1- .d :r |t. :d |- ||
+
+U shong ha suk ha sain.
+
+Ka jingring sur ha u swtkd bad u laipawa:
+
+One and quarter pulse continueation.
+
+la kane la buh ban ithuh da ka jingbuh ia u Aa (|) (:) Bad ia u 
+Fe{..)1.(:--j--|..) 2. (I--
+
+Taa aa fe Taa aa fe
+
+41
+
+Nuksa I. Example I.
+
+{Id ..d Id Id ,d Id }
+
+Taa ac| fe taa Taa aa fe taa aa
+
+Id ..d Id I- .,d :d ||
+
+Taa aa fe taa aa aa fe taa
+
+KSHAID SOHRA
+
+Nuksa II. Example II 
+Key is D.
+
+{|d .. r Im :s (1 : s .,1 |d' }
+
+Kshaid Lai pa - teng - khoh slew
+
+{|ri .d' :t I- .,1 :s )- ..f :m |- .,r :d |- :-|| 
+Riat Soh-ra phum phum ha ki dymmiew.
+
+SUNAPANI
+
+{|d ..r :m | - ..r :tn .,s |r ;d .,r |ni .,m |in }
+
+Ko Su-na - pa-ni ki sah kha na tang ka Ri
+
+{|1, :r I- ..r :m |s, ..1, |d |- :r ..d |d ||
+
+Ki sah pang nud ki khun swet ki rangli
+
+Ka jingring sur ha u shitied da u SLUR ba la ai pyni dak 
+da kane ka rukom 1 . ( ) 2. djr 3. d :r Im . ter ter.
+
+I. Key is C.
+
+fi d :r fi d :r im fi d :r Im :f {|r, :in |f :§ }
+
+Ko Ri Ka ba
+
+f l d:rliii:f ls:l f l d:r lm:f ls:llt {|d:r|ni:f } 
+ieit jong ngi
+
+42
+
+{ldi;t fld'itll fldi;tll:s fld':tll:slf fid';
+
+: 1 1 1 : s 1 f ; m}
+
+Khun
+
+ka
+
+wait
+
+ki
+
+khun
+
+/CS
+
+{|di :t
+
+|1 :s
+
+|f :in |r
+
+{|d':t |1 :s If
+
+:m |r :d }
+
+Ka
+
+Stieh
+
+II.
+
+/TN
+
+r\
+
+fid' :t
+
+Is :t
+
+Is ;1 Is
+
+fif :m Ir :ni Id :r ld:-T
+
+Bah
+
+Kong
+
+{|r :fn
+
+19 -r
+
+lin .;s Is
+
+fid :r Im :d Ir
+
+Rang Thai
+
+r\ /r\ /7\ ir\
+
+{l ^ :g I t :1 {l§.:L Lt-1^ {|m ;f l§ :ni { I flT—ULLSl } 
+U Lum Sym per
+
+rr\ /T\ ir\ K\
+
+{|in_Lr_ljt!_LS :1 Is :ni fi s :t 11 :s fid :r Im :d || 
+Ha Ma Ha Ram.
+
+I. Ka JfNGRING SuR Ha U ShITENG TiEO 
+(Half pulse) Da u SLUR.
+
+Key is C.
+
+ir\ /T\
+
+(Id.Pi f l d.r;m f l d.r:m.f 
+Ko Lum Shyl -
+
+f I d.rrm.f ls.l:t 
+Jrong
+
+(I^LLliLlis {N.rif fig i } 
+long ba
+
+fl d.r.-m.fls.litld i }
+
+tarn
+
+/?\ /rs
+
+{IILjm (I d'.trl.S ridi.t:l.slf {| di.t:l.s|f .m }
+
+Ha Ri Kha - si bad
+
+fid ' .t :1 .s If -ffl :r fi d' .t :1 .s If .m :r Id } 
+Jain tia
+
+43
+
+r\ /T^
+
+(| f.tn:r.nild.r:d ns.l:t.sll.s:m } 
+Wah Myn - tdu
+
+/T\
+
+f| t.di:l.t|s.l:f (l ni.r:d.tll.t:d f I f .tnrr.mld.inrr } 
+Ha Ri Pnar
+
+r\ r\ ir\
+
+f l d.m:r.f Ir.m.d f I tn.rif .1 is.fels f I f ■s:l.tll.s:l } 
+Ker saw dong
+
+ir\ ^ ^
+
+|if .rriu.dlf .d:n i (| s.m:l.fnls.iii:f (Id.f :r.m lti.li:d ||
+
+Shnong Jo - wai.
+
+II.
+
+rrs ^ /r\
+
+{lii {|dj: m (Id r r.mlf (Id.r r in.f 1$ (I d-rim I f .s;! )
+
+Rang shad-wait symphiah ka khor soh shkor
+
+^ r\
+
+{|d '. r .m If . s.llt (Id.r :m :1 .tld' )
+
+u
+
+kyn -
+
+jfi
+
+Ba pyn - la - ta bah
+
+}
+
+{|di^
+
+1 s . 1 : s
+
+: {|^ IS-J. |f-S:f
+
+Ka
+
+Ryng
+
+kap
+
+Ka Na - ra
+
+{|1 -s
+
+: r __
+
+s |m.f:m fis.f :iTt.f lr.m:r
+
+}
+
+Ka
+
+mu
+
+ka
+
+Ka Jain boh
+
+(f .m ;r.
+
+jn !cL-xi
+
+d Cl dm :
+
+m.r If .tii:s f Ir.m :f .mis.f :1
+
+}
+
+U Thu - iu,
+
+kpifing pai la Ka jingphong shad
+
+/T\
+
+{iHLl
+
+: s.jn
+
+{ins :i^ |i_J. :cl'
+
+}
+
+Ka
+
+sop
+
+ti
+
+Ka wait lam khlek
+
+{IdLl
+
+:I.t
+
+1^
+
+:f.s Im.f :r.m |d'
+
+}
+
+Sa
+
+• ti
+
+ksiar
+
+lain spong kha lek
+
+{\<Ll
+
+:m.r
+
+|f .m :
+
+SJL IIlS :ni Id'
+
+II
+
+Ma -
+
+stieti
+
+shad
+
+wait pa - ha - ra.
+
+44
+
+Jingbatai - Hangne phin iohi shai ba ka jingkem 
+sur la ki notes ka long katkum ka jingdondor sangeh jong 
+ki tied (pulse) ba la hikai ha ki lynnong ba shakhmat.
+
+Ban kynud SUR ha u Ta - Fa - Tai (D .d ,d)
+
+JINGPYRSHANG I.
+
+Doh is C.
+
+f ld.r,m:r
+
+1 1 r . m . f : m
+
+{
+
+Im. f ,s:f (If .s,l:s
+
+Thai
+
+sot
+
+ti shad
+
+fis.l.t:!
+
+{|l.t,di:t
+
+ha
+
+lym -
+
+pung
+
+{[SlUlAiX
+
+{I
+
+ll.s.feis
+
+Syn-
+
+tiew
+
+Pan - sngiat
+
+t If.m.r,:™
+
+f lm.r,d:r
+
+( Ir.d.t, ’d
+
+Sai
+
+Khyl
+
+-
+
+long
+
+JINGPYRSHANG II.
+
+Ov
+
+{lri>r.'»
+
+:r
+
+(Ir.m.f :m (Im.
+
+:f {|
+
+I f ■■ S. J :s }
+
+^iuh -
+
+khlieh
+
+Ru - pa Soh ksiar
+
+Khai - la
+
+rs
+
+(ItuLl
+
+{|l.t,di :t
+
+{ it.di.r'
+
+:d' }
+
+Muh -
+
+mor
+
+Jaift sem
+
+Mu -
+
+ka
+
+r\
+
+r\
+
+(liLU
+
+:t
+
+:1 {|1
+
+•s.fe :s lls.f.m :f )
+
+u
+
+Shan
+
+ryn - dang
+
+Ma - hu
+
+- kha du
+
+/rs
+
+{ILi.r
+
+:m
+
+tini.r.d :r
+
+{lr.:.d,.,ti
+
+:d II
+
+Jam
+
+pien
+
+Kyn - jri
+
+pai
+
+- la.
+
+45
+
+JINGPYRSHANG lil.
+
+^ ^ /Ts /r>
+
+{lij: .in :r .f (iDLl .s :f {|f_s ,1 :s }
+
+Lai kynwat kpiengshadem shyr^priahkjat shad thir-thir
+
+/-TN /Ov
+
+{ 1 ^ ,t :1 {|.Ut ,d= :t :d' }
+
+Shad pyn - hap Ksing lyn - ii Tang niu - ri
+
+O,
+
+{ I d' . t ,1 :t {|t_J- s ,m:f}
+
+Thei - sot - ti ba - nyMa pyn noh kjat ha fympung
+
+{ ! LJH 1 i I riUr. » d • r ( | r_d , i‘ : d }
+
+Shad ba kmen shac; sngewbh:? Suk rnyn-siem.
+
+San kynud SLUR ha U Ta - Te - fo (:d ,d .d)
+
+/O /Tn /O.
+
+{ I d ,r .m : ^ { | r . m . f : m { ! .l£ { ! I j:. 
+Shad Ma ring jor;
+
+/TN ^
+
+: s
+
+ka
+
+r'
+
+fi d' .t.l:t
+
+1 . Shad
+
+2. Shad
+
+r\
+
+I ( f ■ m ■ r : tn 
+ka 
+ka
+
+{ I l.t.di :t 1 1 d' ]
+
+Ri
+
+I \tA.^.X
+
+La
+
+pyn -
+
+/Tv
+
+<'l m.r.d:r
+
+Ri
+
+Ri
+
+3 ho'
+
+f ! l'S.fe :s { I
+
+huh jcncj
+
+den jor.g
+
+{ I r-,d.ti:d } 
+Pnar 
+War
+
+. f
+
+Ban kynud ha u Ta - Te - fe (D ,d .d) continued.
+
+r\
+
+{ I d.r . m : r { | r_^ . f : m { | fp,f . s : f {I Lx.^ • 1 : s } 
+Ti - rol-sing Kum u Syiem ha pa - tok U shah iap
+
+(is.l :1 {|]Jt .d' -"t {|t^' .r' :d‘ }
+
+Kiang Nong- bah U shah lap dieng pha - si
+
+46
+
+{IdL^ .1 :t {llil.s:! {|1^ .fe :s {|Saf .m :f } 
+Khia ka wait Hyn-ftiewtrep Hyn-fliewskum Ki ai ti
+
+(If .m .r :in {iDur -d ^ (iL^d -ti ||
+
+la jing - im ban lait luid la ka Ri.
+
+Kaba kynud SLUR ha u Taa-Tai-Tee, E.g. (|d :d :d |d) = Lai
+
+pulse Shi Measure.
+
+{IdiTun |f Irun :f |ni |dir
+
+Lyer ba pyngngad wan beh
+
+f l s:f :inls :-|dir Imif :1 |s :* }
+
+Jing - iw ba nyl -la
+
+{|di :1 lliiit |§_Ll :m |s |-
+
+Myn - siem jong nga khreh
+
+{|f_ir Im :sLir |d |- ||
+
+Ki jing - sngew - bha
+
+LYNNONG IX
+
+Ka Jingrwai Sawsur
+
+(Harnnonisation in quartet).
+
+Kham bunsien la shem ia ki jingrwai la thoh ha ka 
+tonic Solfa Notation ban rwai ha ki shi sur, ar sur, lai sur 
+bad saw sur hynrei barobor la shem ba la thoh ia ki jingnvai 
+ha ki saw sur. Nangta ki Nongrwai ki jied ban rwai la ha 
+ka shisur, ar sur lai sur, ne saw sur katkum ka jingsngew 
+don lad jong ki. la kine ki saw sur la khot kyrteng kyrpang 
+da kumne harum
+
+47
+
+1. Ka Sur Khmat
+
+(Soprano)
+
+Kane ka long sur tynrai jong ka jingrwai. Ka Sur 
+khmat (Soprano) ka biang ban rwai bad ka bang ruh 
+kumjuh wat lada ym don ba lah ban n/vai ia kiwei pat ki 
+sur pyndap (Harnominasation), bad ki shaid rwai lang 
+kham borabor, shynrang bad kynthei.
+
+2. Ka Sur Kdup 
+(Alto)
+
+Kane ka rukom pyndap sur ka long ban kdup sbun 
+ia ka sur ba la don lypa ha ka Sur khmat (Soprano), la 
+kane ka Surkdup pyndap ym long ban rwai, bad ym 
+sngewtynnad ban rwai khlem ka Surkhmat ryngkat. ia 
+kane ka sur la ju kham rwai borabor da ki kynthei kiba 
+don sur jem ryndang.
+
+3. Ka Sur Syiang 
+(Tenor)
+
+Kane ruh kumjuh ka ia pyndap sui lang bad ka 
+Surkhmat. ia kane ka bynta sur la ju kham rwai borobor 
+da ki shynrang kiba syiang ryndang sur.
+
+4. Ka Sur Dap 
+(Bass)
+
+Ka long ka sur ba sawa jem khia, ba la buh sur ban 
+pyniadei bad ka Surkhmat. la kane ka bynta sur la ju 
+rwai kham borobor da ki shynrang kiba don ka sur kaba 
+jem khia jun jun.
+
+48
+
+Kumta phi iohi ba ka jingthaw sur ia ka Surkdup 
+(Alto), Sursyiang (Tenor) bad ia ka Surkdup (Bass) la 
+pynshong-nongrim ha ka jingdon surjong ka Surkhmat.
+
+Nuksa I.
+
+Soprano r
+
+d
+
+:r
+
+m
+
+Doh is G.
+
+Alto J
+
+Si
+
+:t,
+
+d
+
+: -
+
+Tenor |
+
+m
+
+:f
+
+s
+
+: -
+
+Bass L
+
+d
+
+:si
+
+d
+
+Nuksa 11.
+
+Soprano r
+
+d
+
+:r
+
+m :f
+
+s
+
+Alto J
+
+Si
+
+:ti
+
+d :ti
+
+d : -
+
+Tenor \
+
+m
+
+:f
+
+s :r
+
+m
+
+Bass [_
+
+d
+
+:si
+
+d :fi
+
+d : -
+
+Nuksa III. Doh is D.
+
+Soprano Hd :r |in :f |s:l |t :di
+
+Alto Jsi:ti |d :r |m;f |r :m
+
+Tenor js :s |di:di|l:s |f :m l“•“|
+
+Bass d :si |fi ;d |fi :d |Si :d I- •- J
+
+Soprano rid' :t |1 :s |f :m |r ;d
+
+Alto J m :r (f :m |r :d |ti :s. |- ^
+
+Tenor j s :s |d' :di |d' id' |s :m |- |
+
+Bass [_|d :s, |fi :d |f, :d |s, :d |- J
+
+Soprano rid :r |m :f |s : 1 1 1 :d' :d' | -
+
+Alto J Si ;ti |d :r |m :f |r ;m |s :iii 
+Tenor |L :f |s :1 |d' :di|s:s |t :s |-:-
+
+Bass (Jd :si |d :fi |d ;fi |Si :d |Si :d
+
+49
+
+Nuksa IV. Key is C.
+
+SopranoT m' .'f' Im' :r' |d' :t |1 :s if -ki Ir ;d
+
+Alto J s ;1 !s :f Im :r|f :mlr’ |-:-
+
+Tenor | d' -.ri |di :t II ;s |di :d! l .s | v im j - ■-
+
+Bass d : f I I s, : Si I d : Si I d : d i ■!= •, s, ! s, ; d j - : -
+
+Jingbatai - Da kaba peit bniah ia kite*’ !< i nuksa lah 
+ban iohi shai ba ka jingbuh ia ki note pyni.' I'nn sur ki bud 
+ia ka Surkhmat (soprano). Kumla f>a u,io uno u Note 
+jong ka Soprano, dei pat ban da jied io u note ba iadei 
+bad ka Surkdup (Alto), Sursyiang (Tenor) bad Surdap 
+(Bass).
+
+1 . Ha ka jingrwai kaba la buh key da u ‘B’ u note 
+uba syiang eh borobor ym ju kham buh palat la u f ha ka 
+Soprano borobor ruh kirn ju kham buh ia u note uba jem 
+palat ban ia u fi.
+
+2. Ha ka jingrwai kaba la buh key da u ‘D’ kham 
+bunsien u note uba syiang eh ha ka Soprano urn ju kham 
+palat ia u ‘m’ bad u note ha ka Bass urn iu kham hiar 
+palat ban ia u f<.
+
+3. Ha ka jingrwai kaba la buh ke., 'a u ‘C’, ka 
+jingsyiang u note ha ka Soprano kam ju kham palat ia u f 
+bad ha ka Bass ruh u note uba jem eh un nym hiar palat 
+ia u fi.
+
+50
+
+4. Ha ka jingrwai kaba la buh key da u ‘F* bad U ‘E’ 
+kham borabor u note uba syiang eh jong ka Soprano um 
+palat ia u m' bad u note jong ka Bass un nym hiar palat ia 
+u di.
+
+5. Ha ka jingrwai kaba ha g key ‘A’ u note ba syiang 
+eh jong ka Soprano borobor um kham syiang palat ia u f 
+ha ka Soprano bad um ju kham hiar jem ban ia u d..
+
+6. Ha ka jingrwai kaba la buh key da u 'G' ka sur 
+syiang ha ka Soprano kam ju kham kiew palat ia u s bad 
+ka jinghiar jem ha ka Bass borabor kam ju palat ia u d,.
+
+LYNNONG X
+
+Ki Jingrwai ha ki sur Minor :•
+
+Shaphang kumno ban wad ia u Key jong ki jingnwai 
+ba ki sur Minor ia batai ha ka lynnong kaba III, La shu ai 
+nuksa ruh hangne ia kawei ka jingrwai Minor key harum:-
+
+Nuksa I. Example I.
+
+Key is ‘D’ Minor
+
+{|li .ti :cl |cl.cl:d.li|d .r ;in|d.r :m |- }
+
+{jf .m :r |in .r :d jr .d :ti j- }
+
+{js .f :m |r .d :ti jm .r :d |d.ti :li j- }
+
+{|t, .d :r Id .t,:d .t, |1, ||
+
+51
+
+Ha ki saw sur
+
+(Harmonisation in quarter)
+
+Nuksa II. Example II.
+
+h
+
+tl
+
+Id
+
+:r
+
+|m
+
+:f
+
+Is
+
+:1 1-
+
+nil
+
+:sei
+
+|1.
+
+:ti
+
+Id
+
+:r
+
+|m
+
+:m ( - : -
+
+d
+
+:r
+
+|m
+
+:f
+
+Is
+
+:1
+
+It
+
+:d' |-
+
+nil
+
+:mi
+
+|mi
+
+:Si
+
+iRli
+
+:fi
+
+1 Si
+
+;nii |-
+
+LYNNONG XI
+
+KaJingkylla Key
+
+(Transition)
+
+Kane ka long ka jingkylla ia u Key jong ka jingrwai 
+na uwei sha uwei pat. Haba leh ia kane lah ban buh ia ka 
+sur jingnvai ha kajuh ka sur, hymei ha u Key uba thymmai. 
+Ha kawei ka rukom pat ka long ba tang shu pynkylla ia u 
+Key, ia ka jingrwai ruh ka kylla sur kat kum u key thymmai.
+
+Ka don ruh haba la pynkylla ia u Key la shu pynkut 
+ha uno uno u Key ba la pynkylla khadduh eh. Bad sdang 
+ban nwai da kaba kem biang ia ka sur jong u Key uba 
+sdang. Don ruh haba la pynkylla Key ia ka jingrwai ki 
+wan rah biang ia ka jingrwai ha u Key uba sdang bad ki 
+pynkut ia ka jingrwai. Haba leh ia kane khamtam ha ki 
+saw sur dei ban pelt bniah ia ka jingiadei ki notes kumba 
+la batai ha ka lynnong IX.
+
+52
+
+Nuksa I. Example I.
+
+Key is ‘F’
+
+{|d ;ni |f :s |fe :s |-:-|sd':t |1 :s |f 
+{(rli:d |r :m |d :r |-:-|tii :tn |d :r |d :d|-:-}
+
+Ha katei ka nuksa phin iohi ba ka sdang ka jingrwai 
+na u Key ‘F’. Ha kaba ar la pynkylla ia ka jingn/vai sha u 
+Key ‘C’ da kaba thoh sd', kaba mut ba utei u note uba rit 
+uba i kumba snoh bah nadien jong u d’ u sah ka surjong 
+u Key uba sdang. Kynud ia ka surjong u note uba rit bad 
+pynrung ia kata ka sur ha u d< bad nvai pat ia ki notes 
+kum ba la buh. Kumta ruh bud rukom ia ka nuksa rli. 
+kumta ka sur ka wan phai pat ha u original key F. la 
+kane la khot ka returning Transition.
+
+la u note uba snoh bah nadien la khot u Bridge 
+tone bad ia ka Jingthoh kaba lada buh Bridge tone janai la 
+khot ka perfect method.
+
+f Books by the same Atmio j )
+
+1. Ki Ktien Thiang snah (Poetry)
+
+2. Ka Persara Ki Sur Khasi ha ka Tonic Solfa Notation - 
+1982 (Approved Khasi Music Text Book in the 
+Institute of Art and Culture Meghalaya)
+
+3. Hir Hir Mynsiem (Rural Drama)
+
+4. Langtati - (Rural Drama)
+
+5. Khasi Folk Songs
+
+of
+
+North East India - Vol - 1
+
+6. Khasi Folk Songs
+
+of
+
+North East India - Vol - 2.
+
+.^HANOORA Press, 32/33 (1" Floor) Synod Complex/\ 
+y Shillong - 2 « 242237 )
+
+S/P 1000

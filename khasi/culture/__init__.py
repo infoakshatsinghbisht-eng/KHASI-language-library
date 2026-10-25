@@ -122,11 +122,18 @@ from .books import (
     BookPage,
     list_books,
     get_book,
+    get_book_full_text,
+    get_master_compendium_path,
+    get_master_jsonl_path,
+    get_pure_khasi_master_text_path,
+    get_pure_khasi_master_jsonl_path,
     search_books,
+
     total_books,
     total_pages,
     total_words,
 )
+
 from .folklore import (
     folklore,
     FolkloreStory,
@@ -273,10 +280,17 @@ __all__ = [
     "BookPage",
     "list_books",
     "get_book",
+    "get_book_full_text",
+    "get_master_compendium_path",
+    "get_master_jsonl_path",
+    "get_pure_khasi_master_text_path",
+    "get_pure_khasi_master_jsonl_path",
     "search_books",
+
     "total_books",
     "total_pages",
     "total_words",
+
     # Folklore Myths & Oral Legends
     "folklore",
     "FolkloreStory",

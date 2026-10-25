@@ -1,0 +1,617 @@
+International  Journal  of  Environment,  Ecology, 
+
+Family  and  Urban  Studies  (UEEFUS) 
+
+ISSN  (P):  2250-0065;  ISSN  (E):  2321-0109 
+Vol.  8,  Issue  3,  Jun  2018, 1-10 
+©  TJPRC  Pvt.  Ltd 
+
+GEO-ECOLOGICAL  CHANGE  OF  BORDER  AREAS  BETWEEN  KHASI 
+HILLS  AND  SOUTHERN  PLAINS  OF  ASSAM:  A  CASE  STUDY 
+WITH  GEOMATICS  APPROACH 
+
+BHASWATI  DAS1,  SASWATA  SAHARIA2  &  PRADIP  SHARMA3 
+
+1 Research  Scholar,  Gauhati  University,  Guwahati,  Assam,  India 
+2GIS  Professional,  Guwahati,  Assam,  India 
+
+3 Retired  Head  &  Associate  Professor,  Department  of  Geography,  Cotton  University,  Guwahati,  Assam,  India 
+
+ABSTRACT 
+
+The  Assam-Khasi  hills  border  area  with  its  ironic  natural  endowments  and  resource  luxuriance  craft  a  hot  spot 
+for  GIS  application  in  forest  resource  assessment.  Increasing  population  and  transforming  land  use  pattern  in  the  regions 
+is  molding  an  intricate  inconsistent  man-environment  relationship  with  perpetual  enigma  between  wildlife  conservation 
+and  livelihood  necessities  of  people.  Change  matrix  is  constructed  by  using  Change  Detection  and  Normalized  Difference 
+Vegetation  Index  (NDVI)  for  comparison  of  the  temporal  shift  in  land  cover  along  with  the  wetlands  as  well  as  swamps , 
+contiguous  to  piedmont  areas  of  Khasi  hills  using  the  LANDS  AT  7  and  LISS  III  imageries.  In  this  melting  pot  of  nature, 
+encroachment  of  forest  and  developmental  activities  adjacent  to  ecologically  opulent  wetlands  cause  man  and  wild  animal 
+conflict  as  well  as  jeopardy  of  environmental  degradation.  With  the  help  of  Remote  Sensing  and  GIS ,  special  emphasis  on 
+geo-ecological  change  like  the  impact  of  urbanization ,  depletion  of  wild  habitat ,  man-animal  conflict  and  a  relationship 
+between  surface  runoff  and  land  cover  changes  have  been  done. 
+
+KEYWORDS:  Khasi-Assam  Border ,  Wildlife  Conservation ,  Geo-Ecological  Change ,  NDVI ,  GIS  &  Remote  Sensing 
+
+
+TRANS 
+
+STELLAR 
+
+•Journal  Publications  •  Research  Consultancy 
+
+
+Received:  Mar  03,  2018;  Accepted:  Mar  24,  2018;  Published:  Apr  23,  2018;  Paper  Id.:  IJEEFUSJUN20181 
+
+INTRODUCTION 
+
+The  Assam-Khasi  border  area  is  an  ecologically  vibrant  region  with  rich  endowments  of  flora  and  fauna, 
+which  is  an  integral  part  of  the  Indo-Burman  biodiversity  hotspot.  The  concept  of  the  border  in  this  area  is 
+somewhat  a  complex  blend  of  socio-cultural  intermingling  process,  throughout  the  pages  of  historical  policies.  In 
+these  melting  pots  of  natural  benefactions,  innumerable  sites  of  opulent  flora  and  fauna  are  present  gloriously.  Sal 
+(Shorea  Robusta),  Makai  (Shorea  Assamica),  Bonsum  (Phoebegoal  parents),  different  varieties  of  bamboos  are 
+some  common  vegetation  species  found  in  the  region.  In  addition,  considerable  extension  of  the  moist  deciduous 
+forest,  combined  with  patches  of  evergreen  forest  found  in  the  interior  parts.  This  border  area  is  also  enriched  with 
+primordial  migration  corridors  of  Asian  Elephants  (Elephus  maximus).  Though  Meghalaya  has  become  a  full- 
+fledged  state  in  1972,  and  its  boundary  with  Assam  has  been  demarcated  through  North-Eastern  Areas 
+Reorganization  Act,  1971,  a  dispute  regarding  the  boundary  is  a  frequently  occurred  phenomenon  between  the  two 
+states  with  growing  population  pressures  and  economic  hassles  of  both  the  states.  But  the  administrative  line  of  area 
+demarcation  has  not  been  efficacious  in  ruling  out  age-old  socio-cultural,  economic  cross-border  interdependency 
+among  inhabitants  of  these  states. 
+
+
+www.twrc.ors 
+
+
+editor  @tjprc.  org 
+
+
+Original  Article 
+
+
+2 
+
+
+Bhaswati  Das ,  Saswata  Saharia  &  Pradip  Sharma 
+
+
+The  environmental  interdependency  of  both  the  states,  especially  in  the  border  region,  is  so  grave  that  any  kind  of 
+impairment  to  the  environment,  done  in  the  Meghalaya  side  may  produce  an  ecological  imbalance  in  Assam’ s  side  and  vice 
+versa.  The  wanton  and  haphazard  urbanization  process  in  the  side  of  Assam  with  the  fast  growth  of  population  and 
+transportation  facility  has  initiated  large-scale  geo  ecological  changes  in  the  area  with  heavy  detrimental  effects  on  the 
+natural  environment.  On  the  side  of  Meghalaya,  disorganized  colossal  deforestation  and  accumulative  mining  activities 
+have  threatened  the  sustainability  of  ecological  diversity.  Such  geo  ecological  changes  that  have  been  taking  place  in  this 
+border  region  has  commenced  various  problems  of  depletion  of  forest  and  wild  habitat,  man-animal  conflict  along  with 
+complications  of  the  flash  flood  as  well  as  heavyweight  siltation  connected  to  land  cover  changes  in  a  multifarious  but 
+byzantine  way. 
+
+GIS  has  great  relevance  in  the  assessment  of  geo-ecological  change  and  retaining  a  spatial  database  regarding 
+biodiversity  characterization.  A.  R.  R.  Menon  &  N.  Sasidharan  (2005)  and  Prasanth  Meiyappan  et  al.  (2016)  have 
+contributed  significantly  in  this  domain.  Goswami  et  al.  (2016)  carried  out  land  use  change  detection  study  along  the  25 
+villages  of  Jaintia  Hills  including  evaluation  of  community  forest  management  throughout  the  area.  The  increasing 
+deforestation  and  unscientific  land  cutting  process  on  the  higher  parts  of  Khasi  hills  have  been  adversely  influencing  the 
+lower  Piedmont  areas  of  Assam.  Burgeoning  soil  erosion  and  landslides  in  the  craggy  slopes  of  Khasi  Hills  often  create  the 
+heavy  siltation  problem  in  rivers,  rivulets,  and  drains  of  Guwahati  city,  creating  chronically  inundated  zones  by  flooding 
+and  waterlogging  (Barman  &  Goswami,  2009).  The  frequent  controversy  regarding  the  boundary  between  Assam  and 
+Meghalaya  and  rules  of  forest  ownership  in  Meghalaya  have  considerable  stimulus  in  the  aggregating  complexity  of  the 
+situation. 
+
+RESEARCH  OBJECTIVES 
+
+•  To  identify  the  changes  that  has  been  occurred  in  this  border  area  in  land  use  dynamics  by  the  use  of  temporal 
+satellite  imagery  data 
+
+•  To  see  the  vegetation  cover  changes,  ensued  in  the  area  through  initiation  of  different  economic  activities  with 
+NDVI  application 
+
+•  To  find  out  the  relationship  between  land  use  pattern  changes  and  geo-ecological  changes  that  have  been  taking 
+place  in  the  area,  with  special  emphasis  on  valuation  of  impact  of  urbanisation,  man-animal  conflict  and  newly 
+emerging  threats  to  age-old  environmental  and  socio-economic  sustainability  of  the  area. 
+
+STUDY  AREA 
+
+The  Border  area  between  Khasi  hills  and  southern  plains  of  Assam  and  Deepor  Beel  has  been  taken  as  the  study 
+area,  which  is  extracted  with  the  help  of  10  km  and  2  km  buffer  respectively.  During  our  study,  the  border  area  is 
+considered  less  as  a  politically  divided  region  or  more  as  a  magnificent  distinct  region  with  plentiful  biodiversity.  The 
+border  is  much  more  psychologically  generated  division  through  political  and  administrative  imposition,  but  culturally  and 
+geographically  it  is  hard  to  fix. 
+
+
+Impact  Factor  (JCC):  4.6869 
+
+
+NAAS  Rating:  3.58 
+
+
+Geo-Ecological  Change  of  Border  Areas  Between  Khasi  Hills  and  Southern 
+Plains  of  Assam:  A  Case  Study  with  Geomatics  Approach 
+
+
+3 
+
+
+Figure  1:  Location  of  Study  Area 
+
+
+DATA  USED  AND  METHODOLOGY 
+
+
+The  Remote  Sensing  images  like  IRS  RESOURCESAT  2  LISS  III  and  LANDSAT  ETM+  are  used  in  the  study. 
+Firstly  the  detailed  study  area  has  been  demarcated  through  buffering  with  a  10km  radius,  whereas  the  area  for  Deepor 
+Beel  has  been  extracted  with  a  2  km  buffer.  With  the  help  of  satellite  imageries,  land  use  and  land  cover  map  have  been 
+prepared  for  the  year  1977,  2004,  2007  and  2013.  A  Normalized  Difference  Vegetation  Index  (NDVI)  is  conducted  to 
+detect  vegetation  cover  changes  for  temporal  comparison  of  the  detailed  study  area. 
+
+
+Figure  2:  Methodology  for  Data  Interpretation 
+
+
+LITERATURE  REVIEW 
+
+
+Khasi  hills  as  an  integral  part  of  Meghalaya,  nature’s  abode  of  India,  follow  totally  different  rules  and  provisions 
+regarding  use  and  conservation  of  forest.  The  “State  of  the  Environment  Report,  2005,  Meghalaya”  resembles  the  fact  that 
+the  environmental  problems  of  the  state  can  be  divided  mainly  into  three  categories.  The  pulverized  issues  that  have  been 
+commencing  the  greater  environmental  difficulties  in  the  state  are  biodiversity  loss,  deforestation  as  well  as  shifting 
+cultivation,  which  is  categorized  as  the  green  issues.  In  the  category  of  brown  issues,  more  intricate  anthropogenic  issues 
+with  greater  detrimental  effects  like  coal  mining  and  urbanization  are  included.  Kiranmoy  Sarma  (2005)  conducted  a  study 
+on  the  impact  of  coal  mining  on  the  vegetation  of  Jaintia  Hills  of  Meghalaya  using  satellite  imagery  as  a  primary  tool  of 
+analysis.  The  tree  species  showed  a  drastic  reduction  in  their  composition  and  density  in  all  the  zones  prepared  according 
+to  different  impact  assessment  of  coal  mining,  throughout  the  mining  areas  than  that  of  the  un-mined  areas.  The  result  of 
+change  detection  revealed  a  decrease  of  forest  cover  in  the  Jaintia  hills  from  25%  of  total  area  in  1975  to  16%  of  it  in  2001, 
+
+
+www.twrc.ors 
+
+
+editor  @tjprc.  org 
+
+
+4 
+
+
+Bhaswati  Das ,  Saswata  Saharia  &  Pradip  Sharma 
+
+
+as  an  unswerving  impact  of  mining  expansion  (Sarma  2005).  Kasturi  Chakraborty  &  S.  Sudhakar  (2005)  have  analyzed  the 
+expansion  and  impact  of  cement  manufacturing  units  and  mining  areas  in  Lumshong  area  of  Jaintia  Hills.  In  the  study, 
+remote  sensing  and  GIS  have  been  used  for  change  detection  on  the  ground  which  is  further  compared  with  the  location  of 
+cement  manufacturing  units.  The  grander  environmental  problems  with  the  deceitful  nexus  of  innumerable  interrelated 
+environmental  degradation  processes  like  different  kinds  of  pollution  are  included  in  the  blue  category  (State  of  the 
+Environment  Report,  2005).  Deepor  Beel,  one  of  the  famous  wetland  of  Assam-  Meghalaya  border  area,  is  the  supreme 
+example  of  a  Ramsar  site  where  water  pollution  has  generated  a  threat  towards  its  biodiversity.  Encroachment  of  the  beer 
+for  different  settlement  and  industrial  purposes,  garbage  dumping  within  the  edge  of  the  beer  along  with  inflow  of 
+Guwahati  city  sewage  without  provision  of  outflow  have  tremendously  affect  the  ecological  balance  of  the  site  with  very 
+high  level  of  eutrophication,  (Report  on  visit  to  Deepor  Beel,  The  Ministry  of  Environment  &  Forest,  2008).  Due  to  the 
+construction  of  railway  tracks  within  the  boundary,  the  geo-ecological  stability  of  this  site  has  totally  got  distressed.  As  this 
+site  is  adjoined  to  the  migration  corridors  of  Asian  elephants  in  between  Assam  and  Meghalaya  such  sudden  environmental 
+change  has  certainly  hampered  their  free  movement  in  the  area,  with  presence  of  some  deadly  railway  tracks.  A. 
+Choudhury  (2004)  forwarded  that  human-elephant  conflict  has  become  a  conjoint  traumatic  event  of  Northeast  India,  as 
+more  than  half  of  the  elephant  habitat  has  been  lost  since  1950.  Deforestation  for  shifting  cultivation,  encroachment  of 
+human  in  elephant  habitat  and  developmental  activities  along  the  elephant  migration  routes  are  foremost  causes  behind 
+human-elephant  conflict  in  the  North  Eastern  India,  where  only  25%  of  the  habitat  of  elephant  comes  under  protected  areas 
+(Choudhury,  2004). 
+
+GIS  and  Remote  Sensing  plays  a  great  role  in  providing  an  analytical  overview  of  environmental  transformation 
+throughout  the  globe.  CY  Ju  et  al.  (2000)  involved  in  study,  of  coastal  area  sustainability  assessment  by  the  use  GIS  where 
+geo-environmental  factors  of  Laoshan  district  of  China  are  evaluated  in  the  light  of  multifaceted  transforming  dynamics  of 
+development.  P.  K.  Sarma,  Arup  Kr  Das  &  B.  K.  Talukdar  (2013),  analyzed  the  transforming  forest  cover  and  wildlife 
+habitat  of  Kamrup  metropolitan  district  with  geospatial  approach.  They  identified  19  notified  forest  areas  in  the  district 
+where  it  resembles  that  areas  of  human  settlement,  agriculture,  and  industries  are  expanding  at  the  expense  of  wildlife 
+habitat.  The  presence  of  shifting  cultivation  in  these  areas,  specifically  in  Rani  RF  (6.27%),  Garbhanga  RF  (8.12%), 
+Khanapara  Reserve  Forest  (4.36%)  and  Agricola  West  Reserve  Forest  (11.96%),  situated  in  the  border  of  Khasi  Hills  and 
+Assam,  shows  the  transmuting  landscape  of  geo-ecology  in  our  study  area.  Jahan  Saherah,  S.  Kalita  &  B.  B.  Kumar  (2015), 
+uses  Geoinformatics  in  assessing  land  use  changes  in  Sonai-Rupai  Wildlife  Sanctuary.  They  get  a  tragic  result  after  their 
+analysis  that  within  the  sanctuary,  the  amount  of  degraded  land  was  7.56  square  km  in  1988  which  increased  up  to  78.74 
+square  km  in  2005.  R.  K  Jaisawal,  Rajesh  Saxena  &  S.  Mukherjee  (1999)  analyzed  the  land  cover  change  of  mid-western 
+part  of  Gohparu  area  of  Madhya  Pradesh  through  remote  sensing  technology  with  a  detailed  classification  of  forest  cover. 
+
+RESULT  AND  DISCUSSIONS 
+
+Change  Detection 
+
+An  area  under  major  land  use  categories  is  calculated  for  the  purpose  of  change  analysis  for  the  years  2004  and 
+2013  (Table  1).  Land  use  has  been  categorized  into  four  classes  viz.  settlements,  vegetation  cover,  fallow  and  agricultural 
+land  as  well  as  water  bodies  during  the  study. 
+
+
+Impact  Factor  (JCC):  4.6869 
+
+
+NAAS  Rating:  3.58 
+
+
+Geo-Ecological  Change  of  Border  Areas  Between  Khasi  Hills  and  Southern 
+Plains  of  Assam:  A  Case  Study  with  Geomatics  Approach 
+
+
+5 
+
+
+Border  Areas  Between  Khasi  Hills 
+and 
+
+Southern  Plains  of  Assam 
+LISS-III  Satellite  Image  -  2004 
+
+
+Legend 
+
+-  Assam  -  Meghalaya  Border 
+
+
+Legend 
+
+-  Assam  -  Meghalaya  Border 
+
+
+Border  Areas  Between  Khasi  Hills 
+and 
+
+Southern  Plains  of  Assam 
+LANDS AT-7  Satellite  Image  -  2013 
+
+
+Figure  3:  Satellite  Imagery  of  the  year  2004  Figure  4:  Satellite  Imagery  of  the  year  2013 
+(10  Km  Buffer)  (10  Km  Buffer) 
+
+
+Border  Areas  Between  Khasi  Hills 
+and 
+
+Southern  Plains  of  Assam 
+Land  use  and  Land  cover  Map  -  2013 
+
+
+■  Fallow  and  Agricultural  Land 
+Water  Bodies 
+B  Vegetation  Cover 
+i*«*-20-e  si-sau-e  *i-m'-*o-e 
+
+
+Figure  5:  LU/LC  Map  of  the  Year  2004 
+
+
+Figure  6:  LU/LC  Map  of  the  Year  2013 
+
+
+Table  1:  Area  in  Percentage  (%)  Under  Different  Land 
+Use  Categories  in  Different  Periods 
+
+
+Land  use  Category 
+
+Area  In  Sq  Km 
+
+2004 
+
+2013 
+
+Settlement 
+
+22.47 
+
+50.20 
+
+Fallow  and  Agricultural  Land 
+
+52.63 
+
+23.15 
+
+Water  Bodies 
+
+2.61 
+
+0.02 
+
+Vegetation  Cover 
+
+174.97 
+
+179.31 
+
+TOTAL 
+
+252.68 
+
+252.68 
+
+Table  2:  Category-Wise  Changes  of  Land  Use  Area  (in  Sq  Km) 
+
+
+Land  use  Category 
+
+Area  In  Percentage  (%) 
+
+2004 
+
+2013 
+
+Settlement 
+
+9 
+
+20 
+
+Fallow  and  Agricultural  Land 
+
+21 
+
+10 
+
+Water  Bodies 
+
+1 
+
+0 
+
+Vegetation  Cover 
+
+69 
+
+70 
+
+TOTAL 
+
+100% 
+
+100% 
+
+www.tjyrc.ors 
+
+
+editor  @tjprc.  org 
+
+
+6 
+
+
+Bhaswati  Das ,  Saswata  Saharia  &  Pradip  Sharma 
+
+
+Settlement  Fallow  and  Water  Bodies  Vegetation 
+Agricultural  Cover 
+
+Land 
+
+
+Figure  7:  Graph  Showing  the  Differences  in  Area  of  the  Year  2004  &  2013 
+Change  in  Vegetation  Cover 
+
+Vegetation  cover  has  shown  an  increase  of  1%  to  total  area  under  study  during  the  study  period.  But  the  category 
+wise  variation  of  vegetation  cover  significantly  changed  as  reflected  in  the  maps  under  study. 
+
+Change  in  Settlement  Areas 
+
+Rapid  population  growth  has  produced  a  speedy  wanton  increase  in  settlement  area  of  the  study  area.  The  area 
+under  settlement  has  increased  from  22.47  km2  in  2004  to  50.20  km2  in  2013.  Such  hasty  expansion  of  human  habitat  has 
+initiated  enormous  geo-ecological  changes  during  the  study  period. 
+
+Change  in  Fallow  and  Agricultural  Land 
+
+A  major  change  has  recorded  in  the  fallow  and  agricultural  land  as  a  direct  impact  of  an  increase  in  human 
+settlement  in  the  study  area.  The  collective  effect  of  periphery  expansion  of  Guwahati  city  and  escalating  land  value  has 
+initiated  a  fast  transformation  of  fallow  and  agricultural  lands  into  settlement  areas. 
+
+Change  in  Water  Body 
+
+A  small  but  significant  decrease  is  noticed  in  the  area  in  case  of  the  water  body.  The  area  under  water  body  has 
+been  decreased  from  2.61  km2  in  2004  to  0.02  km2  in  2013.  The  main  reason  behind  the  change  is  the  enormous  land  - 
+filling  activities  in  the  area  for  the  purpose  of  settlement  and  infrastructure  development.  The  seasonal  variation  between 
+the  images  also  affects  the  variation  rate. 
+
+Vegetation  Index 
+
+With  the  help  of  NDVI  (Normalized  Difference  Vegetation  Index)  for  imageries  of  the  year  2004  and  2013,  the 
+variation  of  the  vegetation  cover  has  been  studied  in  detail  in  the  study  area.  It  has  been  noticed  that  vegetation  cover 
+within  the  area  has  remained  more  or  less  same  during  the  study  period. 
+
+
+Impact  Factor  (JCC):  4.6869 
+
+
+NAAS  Rating:  3.58 
+
+
+Geo-Ecological  Change  of  Border  Areas  Between  Khasi  Hills  and  Southern 
+Plains  of  Assam:  A  Case  Study  with  Geomatics  Approach 
+
+
+7 
+
+
+Border  Areas  Between  Khasi  Hills 
+and 
+
+Southern  Plains  of  Assam 
+Natural  Vegetation  -  2004 
+
+
+L«g«nd 
+
+
+NDVI  -  Normalized  Difference 
+
+
+Border  Areas  Between  Khasi  Hills 
+and 
+
+Southern  Plains  of  Assam 
+Natural  Vegetation  -  2013 
+
+
+Figure  8:  NDVI  Map  of  Year  2004  Figure  9:  NDVI  Map  of  Year  2013 
+
+
+Geo-Ecological  Change  Detection  of  Deepor  Beel 
+
+
+To  comprehend  the  geo-ecological  change  of  the  border  area  in  an  inclusive  angle,  the  land  use  and  land  cover 
+change  detection  of  Deepor  Beel  has  taken  into  consideration,  as  this  wetland  is  the  most  biologically  rich  part  of  the 
+Piedmont  area  of  Khasi  Hills. 
+
+
+Figure  10:  LU/LC  Map  of  Deepor  Beel,  Year  1977  Figure  11:  LU/LC  Map  of  Deepor  Beel,  Year  2007 
+Table  3:  Area  in  Sq  Km  Under  Different  Land  Use  Categories 
+
+
+Land  use  Category 
+
+Area  In  Sq  Km 
+
+1977 
+
+2007 
+
+Water  Body 
+
+1.98 
+
+1.9 
+
+Forest 
+
+16.8 
+
+14.8 
+
+Deepor  Beel  Proper 
+
+9.3 
+
+8.78 
+
+Barren/Crop  Land 
+
+19.2 
+
+12.8 
+
+Mixed  Built  up  Area 
+
+17.3 
+
+26.4 
+
+Total 
+
+64.68 
+
+64.68 
+
+www.twrc.ors 
+
+
+editor  @tjprc.  org 
+
+
+8 
+
+
+Bhaswati  Das ,  Saswata  Saharia  &  Pradip  Sharma 
+
+
+Figure  12:  Graph  Showing  the  Differences  in  Area 
+
+
+Though  the  water  body  of  the  beel  has  recorded  slight  decrease  in  the  beer,  the  proper  area  under  the  beer  has 
+resembled  a  significant  decrease  from  9.3  km2  in  1977  to  8.78  km2  in  2007.  The  main  factor  behind  this  devious 
+transformation  is  the  increase  in  the  mixed  built  -up  area  around  the  beer.  The  expanding  urbanization  process  of  Guwahati 
+city  with  an  amassed  increase  in  the  dwelling  and  industrial  units  especially  brick  kiln  factories  has  significantly  influenced 
+the  environment  of  the  area.  The  cropland  under  the  buffer  zone,  we  have  taken,  has  decreased  because  these  lands  have 
+been  continuously  transforming  to  build  areas  with  increasing  land  demand  throughout  the  area  (Sharma,  2017). 
+
+
+CONCLUSIONS 
+
+
+This  study  has  proved  that  the  border  area  between  the  Khasi  hills  and  Southern  plains  of  Assam  has  undergone 
+through  enormous  geo-ecological  transformation.  Though  the  area  has  not  faced  a  decrease  in  vegetation  cover,  in  the 
+Assam’ s  side,  overall  environmental  balance  of  the  area  has  been  threatened  through  haphazard  built  up  development  than 
+that  of  the  Meghalaya  counterpart.  The  growth  of  infrastructure  along  with  tremendous  population  pressure  and  unplanned 
+urbanization  has  created  difficulty  for  the  floral  as  well  as  the  faunal  diversity  of  the  area.  The  existing  comprehensive 
+forest  laws  have  to  strictly  enforce.  Those  laws  have  to  apply  on  the  ground  level  through  the  creation  of  awareness  among 
+the  people  of  both  the  states.  A  participatory  conservation  method  has  to  be  forwarded,  upholding  the  age-old  traditional 
+customs  of  the  community  forest.  The  dispute  between  the  states  regarding  the  boundary  has  to  be  resolved  as  it  is  creating 
+bottlenecks  in  the  conservation  process.  To  protect  the  area,  especially  the  Deepor  Beel  wetland  from  this  distress  a 
+sustainable  protection,  restoration  and  management  plan  has  to  be  constructed. 
+
+REFERENCES 
+
+1.  Barman  Plabita  and  Goswami  C.  Dulal  (2009),  Flood  zone  mapping  of  Guwahati  Municipal  Corporation  Area  using  GIS 
+Technology,  Geography  in  Action,  10th  ESRI  India  User  conference. 
+
+2.  Basistha  Sarma  Parangam  (2016),  Assessment  of  impact  of  urbanisation  on  Deepor  Beel  wetland  Report  submitted  to  the 
+fulfilment  of  internship  programme  with  the  ENVI  Centre-Assam  of  Assam  Science  Technology  and  Environment  Council, 
+Guwahati,  Assam. 
+
+3.  Chakraborty  Kasturi  and  Sudhakar  S  (2014),  The  expansion  and  impact  of  cement  manufacturing  units  and  mining  areas  in 
+Lumshnong,  Jaintia  hills,  Meghalaya,  CURRENT  SCIENCE,  VOL.  106,  NO.  7. 
+
+4.  Choudhury  Anwaruddin  (2004)  Human  Dimensions  of  Wildlife,  ISSN:  1087-1209  print/1 533-1 58X  online  9:261-270. 
+
+5.  Goswami  Rajkamal,  Mariappan  Muneeswaran,  Singh  Somendro  Thangjam  and  Ganesh  T  (2016),  Conservation  effectiveness 
+across  state  and  community  forests:  the  case  of  Jaintia  Hills,  Meghalaya,  India,  CURRENT  SCIENCE,  VOL.  Ill,  NO.  2. 
+
+
+Impact  Factor  (JCC):  4.6869 
+
+
+NAAS  Rating:  3.58 
+
+
+Geo-Ecological  Change  of  Border  Areas  Between  Khasi  Hills  and  Southern 
+Plains  of  Assam:  A  Case  Study  with  Geomatics  Approach 
+
+
+9 
+
+
+6.  Jaiswal  K.  Rajeev,  Saxena  Rajesh  &  Mukherjee  Saumitra  (1999)  Application  of  Remote  Sensing  Technology  for  Land  use/ 
+Land  cover  change  analysis,  Photonirvachak:  Journal  of  the  Indian  Society  of  Remote  Sensing,  Vol,  27,  No.2,  pg.  123-128. 
+
+7.  Ju  Y.  C,  Jia.  G.  Y,  Shan.  X.  H,  Tang.  W.  C,  Ma.  J.  W  (2012)  GIS  based  coastal  area  suitability  assessment  of  geo- 
+environmental  factors  in  Laoshan  district,  Qingdao,  Nat.  Hazards  Earth  Syst.  Sci.,  12,  143-150,  doi:  10.5194/nhess-12-143- 
+2012. 
+
+8.  Meiyappan  Prasanth,  Roy  S.  Parth,  SharmaYeshu  Ramachandran  M  Reshma,  Joshi  K  Pawan,  DeFries  S.  Ruth  and  Jain  K. 
+Atul  (2016)  Dynamics  and  determinants  of  land  change  in  India:  integrating  satellite  data  with  village  socioeconomics,  open 
+access  at  Springerlink.com  ,  DOI  10. 1007/s 101 13-016-1068-2. 
+
+9.  Menon  A.  R.  R.  and  Sasidharan  N  (2005)  Biodiversity  Characterization  at  Landscape  Level  Using  Remote  Sensing  and  GIS  in 
+Kerala,  Kerala  Forest  Research  Institute  KFRI  Research  Report  No.  274,  ISSN  0970-8103. 
+
+10.  Report  on  visit  to  Deepor  Beel  in  Assam-  a  wetland  included  under  National  wetland  Conservation  Management  Programme 
+of  the  Ministry  of  Environment  and  Forest,  13-14  August,  (2008),  Planning  Commission  Government  of  India. 
+
+11.  Jahan  Saherah,  Kalita  Sarbeswar  and  Baruah  Binode  Kumar,  (2015),  An  assessment  of  land  use-land  cover  change  using 
+Geoinformatics  in  Sonai-Rupai  wildlife  sanctuary  Assam,  India  Journal  of  Environmental  Research  and  Development  Vol.9 
+No. 4. 
+
+12.  Hasan,  S.  A.,  and  S.  M.  Khasim.  "Evaluation  of  different  cytokinins  for  in  vitro  multiplication  of  banana  var. 
+Robusta. "  International  Journal  of  Agricultural  Science  and  Research  (IJASR)  5.3  (2015):  47-54. 
+
+13.  Sarma  Kiranmay,  (2005),  Impact  of  coal  mining  on  vegetation:  A  case  study  on  Jaintia  Hill  District  in  Meghalaya,  India, 
+Thesis  supervised  by  Dr.  S.  P.  S  .Kushwaha  &  Dr.  Y.  A.  Hussin,  International  Institute  for  Geo  information  science  and  Earth 
+observation. 
+
+14.  Sarma  Kumar  Pranjit,  Das  Kumar  Arup  and  Talukdar  K.  Bibhab,  2015.  Assessment  of  forest  cover  and  wildlife  habitat  in 
+Kamrup  Metropolitan  District  of  Assam:  A  geo-spatial  approach,  International  Journal  of  science  and  Engineering  Invention, 
+Vol.  01,  www.  isii.  in 
+
+15.  State  of  the  Environment  Report,  2005,  Meghalaya  Prepared  by  Department  of  Environment  and  Forests  Government  of 
+Meghalaya  Shillong  793022  and  North  Eastern  Hill  University  Shillong  793022. 
+
+16.  Tiwari  K.  B,  Tynsong  H  and  Lynser  MB  (2009),  Forest  Management  Practices  of  the  Tribal  People  of  Meghalaya,  North-East 
+India,  Journal  of  Tropical  Forest  Science  22(3):  329-342. 
+
+17.  Sharma  Pradip  (2017),  Land  use  change  in  the  peripheries  of  wetlands  and  its  impact  on  the  water  bodies:  A  comparative 
+study  in  the  Deepor  and  Urpad  beels  of  Assam,  India,  IMPACT:  IJRANSS,  Vol.  5,  pp  65-72. 
+
+
+www.tivrc.ors 
+
+
+editor  @tjprc.  org 
+
+

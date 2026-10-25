@@ -1,0 +1,5624 @@
+TITLE: Studies on a small collection of leafhoppers (Homoptera cicadellidae) from Khasi Hills, Meghalaya
+AUTHOR: Ramachandra Rao, K
+YEAR: 1990
+ID: dli_zoological_occpapers_127
+------------------------------------------------------------
+
+OCCASIONAL PAPER NO 127
+
+Records of the 
+Zoological Survey of India
+
+Studies on a small collection of Leaf 
+hoppers (Homoptera : Cicadellidae) 
+from Khasi Hills, Meghalaya.
+
+K. R. Rao
+
+Zoological Survey of India
+
+RECORDS
+
+OF THE
+
+ZOOLOGICAL SURVEY OF INDIA
+
+OCCASIONAL PAPER No. 127
+
+Studies on a Small Collection of Leafhoppers 
+(Homoptera Cicadellidae) from Khasi Hills*
+
+Meghalaya
+
+By
+
+K. Ramachandra Rao
+
+Zoological Survey of India 
+Southern Regional Station 
+Madras - 600028
+
+gams
+
+Edited by the Director , Zoological Survey of India
+
+1990
+
+Copyright, Government of India, 1990
+
+Published : September, 1990
+
+PRICE : Inland i Rs. 85.00
+
+Foreign : £, 8.50 $ 9.50
+
+Production: Publication Unit
+
+Zoological Survey of India, Calcutta
+
+Printed at The Poor an Press, 21, Balaram Ghose Street, Calcutta-700 004 and 
+Published by the Director, Zoological Survey of India, Calcutta
+
+RECORDS
+
+OF THE
+
+ZOOLOGICAL SURVEY OF INDIA
+
+Occasional Paper
+
+No. 127
+
+1990
+
+Pages : 1—123
+
+CONTENTS
+
+Pages
+
+I. Introduction ... ... ... ... 1
+
+II. Physiography* of Khasi Hills ... ... 6
+
+III. Material and Methods ... ... ... 7
+
+IV. Terminology of Principal Parts of
+
+Taxonomic Importance ... ... ... 9
+
+V. Classification of Subfamilies ... ... 12
+
+VI. Key to the Subfamilies of Cicadellidae occurring
+
+in India ... ... ... 13
+
+VII. List of Genera and Species Including
+
+Check List of Leafhoppers from Khasi Hills ... 17
+
+VIII. Systematic Treatment of Taxa ... ... 20
+
+1. Subfamily Aphrodinaf. ... ... 20
+
+2. Subfamily Evacanthinae ... ... 25
+
+3. Subfamily Nirvaninae ... ... 33
+
+4. Subfamily Coelidiinae
+
+39
+
+iv
+
+5. Subfamily Penthimiinae ... ... 40
+
+6. Subfamily Acostemminae ... ... 44
+
+7. Subfamily Drabescinae ... ... 48
+
+8. Subfamily Hecalinae ... ... 48
+
+9. Subfamily Deltocephalinae ... ... 55
+
+DC. Discussion ... ... ... ... 108
+
+X. Summary ... ... ... ... 109
+
+XI. Acknowledgements ... ... ... m
+
+XII. References ... ... ... ii->
+
+*Part of Ph.D. Thesis submitted to the University of Madras
+
+I. Introduction
+
+Leafhoppers are members of the family Cicadellidae (Auchenorrhyncha : 
+Homoptera) and constitute the largest family in the order Hemiptera. They 
+range from minute, brilliantly coloured typhlocybines to large, robust euryme- 
+lines and cicadellines. Leafhoppers are considered closest to treehoppers 
+(Membracidae) from which they differ in having spines on their rather 
+angulate hind tibiae and in the proootum not extending aver the abdomen.
+
+Leafhoppers feed on leaves, shoots and stems of a variety of vegetation; 
+a few are restricted to feeding on roots, Douglas (1875). The members of 
+Eurymelinae (Evans 1947), Macropsinae, some Ledxinae (Chatterjee, 1934) 
+and Agalliinae are actively attended by ants. Several species are oligo- 
+phagous or polyphagous. Adults often feed on plants different from those 
+preferred for oviposition (De Long, 1971).
+
+In recent years leafhoppers have been gaining importance as pests of 
+economically important plants often causing direct damage by desapping 
+them and reducing their vigour; a few of them are also known to inject 
+toxins causing local destruction of tissues. The most important damage 
+caused by leafhoppers to crops is, however, by acting as vectors of several' 
+plant pathogens. Nielson (1979) listed 128 species of Cicadellidae as vectors 
+of plant pathogens in the World. A knowledge of their distribution and. 
+their correct identity is of vital importance since each plaint virus or Myco¬ 
+plasma-like-organism is often transmitted by a specific vector.
+
+The increasing interest on leafhoppers is evidenced by the number of 
+species added to the family every year. Viraktamath (1983) estimated 
+that fifty per cent (5600 species) of known species were discovered during 
+1956-62 and stressed the importance of making intensive surveys in Africa, 
+Asia and South America. Hamilton (1984) estimated that 15000 species 
+of leafhoppers were described so far from all over the world but considered 
+that, 15000 species more were yet to be described thus making a conserva¬ 
+tive estimate of 30000 world species of leafhoppers.
+
+Though the leafhopper fauna of the American continent and other 
+western parts of the world are well known, studies on Oriental leafhoppers.
+
+2
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+especially of the Indian subcontinent are very much limited. The only 
+pioneering work from the Indian subcontinent is that of Distant (1908, 
+1916, 1918). Distant’s work, however, is outdated as many new characters 
+are employed now in determining the species. Though Pruthi (1903, 1934b, 
+3936) revised some of Distant’s genera and species, his identifications have 
+sometimes been proved erroneous. Other notable works from India ara 
+Ramakrishnan and Menon (1971, 1972a, 1972b, 1973i, 1974), Datta (1972, 
+1973), Datta and Dhar (1984), Sohi and Dworakowska (1984) and Virak- 
+tamath (1976a, 3976b, 1979a, 1979b, 1980a, 1980b, 1981, 1982, 1983).
+
+The present study consists of a taxonomic treatment of nine subfamilies 
+of Cicadellidae encountered in Khasi Hills, Meghalaya. Linnavuori (1975) 
+in his revision of the Ethiopean species of Hecalini, treated Hecalini as a 
+tribe of the subfamily Deltocephalinae which is upheld by Oman (1985). 
+It is treated here as a distinct subfamily because of distinctive flattened body 
+and elongate head which is usually foliaceous. Nielson (1985) also treatfed 
+as a separate subfamily.
+
+The study of leafhoppers from Khasi Hills was taken up with a view 
+to enumerate the genera and species of cicadellidae occurring in the area* 
+to describe new taxa discovered during the study to construct keys to sub¬ 
+families, genera and species of the area for idetification and to bring out 
+zoogeographical relations between the cicadellid fauna of Khasi Hills and 
+rest of the country and Oriental Region.
+
+The persent work deals with the study of 2145 specimens of leafhoppers 
+belonging to 42 species. It includes one new genus, 12 neiw species, three 
+new combinations and one new synonymy which have been described else¬ 
+where (Rao, 1989). However a brief description for each of them is given 
+here for ready reference.
+
+Earlier to this work, only four species were known from the group of 
+subfamilies studied in this work. It is therefore evident that the cicadellid 
+fauna of Khasi Hills is very poorly known. The present study is an attempt 
+to fill this lacuna and all the species dealt here are new records to Khasi 
+Hills. Keys to the identification of subfamilies, genera and species have) 
+been provided. Zoogeographical relations between the leafhopper fauna of 
+Khasi Hills and the rest of the country and the Oriental Region have been 
+discussed. The distribution of leafhoppers in Khasi Hills compared to other 
+regions of the world is shown in Table No. 1.
+
+TABLE 1
+
+Table showing the distribution of leafhoppers of the subfamilies from different regions
+
+Subfamily
+
+From Indian 
+Subcontinent 
+No. of Genera
+
+No. of 
+species
+
+No. of species 
+recorded from 
+N.E. India
+
+From Khasi 
+Hills alone
+
+S.E. Asia 
+Pacific Fauna 
+No. Genn.
+
+No. of 
+spp.
+
+World Fauna 
+No. of spp.
+
+*
+
+*
+
+♦
+
+Aphrodinae
+
+6
+
+22
+
+1
+
+1
+
+2
+
+2
+
+119
+
+Evacanthinae
+
+8
+
+13
+
+2
+
+—
+
+1
+
+2
+
+57
+
+Nirvaninae
+
+11
+
+27
+
+—
+
+—
+
+19
+
+53
+
+75
+
+Coelidiinae
+
+7
+
+53
+
+7
+
+1
+
+8
+
+214
+
+432
+
+Penthimiinae
+
+8
+
+38
+
+3
+
+—
+
+29
+
+85
+
+109
+
+Acostemminae
+
+1
+
+1
+
+—
+
+—
+
+1
+
+1
+
+19
+
+Drabescinae
+
+6
+
+16
+
+—
+
+—
+
+6
+
+29
+
+34
+
+Hecalinae
+
+6
+
+26
+
+2
+
+—
+
+—
+
+—
+
+—
+
+Deltoceph&linae
+
+64
+
+165
+
+7
+
+2
+
+83
+
+275
+
+3104
+
+♦After Knight (1983)
+
+Rao : Collection of leafhoppers from Meghalaya
+
+4
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Economic importance of leafhoppers
+
+Leafhoppers are considered insects of economic importance as many of 
+them attack and suck sap from crops, trees and foliage and some spedies 
+transmit phytopathogenic agents. Oman (1949) reported on the species of 
+Erythroneura attacking ears, eyes and nose of workers in vineyards and 
+apple orchards. Ghauri (1983) reported on the nuisance caused to the 
+residents of Ascension island when huge swarms of Baklutha pauriUa 
+Lindberg, appeared before dawn and blocked sunlight in May 1976 and! of 
+the millions of these insects which got trapped in ceiling light fixtures of 
+many houses at the lime of dispersal. Distant (1908) reported on the 
+formation of huge swarms of Nephotettix in Calcutta towards the end of 
+October after the rains, dashing against the lights in houses and public! 
+streets. “Green flies” as they are popularly called, are found in heaps, 
+during this period, in public streets as well as in houses causing much 
+annoyance.
+
+It has been estimated by Harris (1983) that 130 known leafhopper 
+vector species and sub-species covering 10 subfamilies and 58 genera transmit 
+about 71 disease agents (about 33 viruses, 31 mycoplasma-like organisms 
+(MLO), 3 spiroplasmas and 4 rickettsia-like organisms. Harris (1983) also 
+lists 20 gener# and 34 species of leafhoppers as responsible for transmitting 
+33 viruses.
+
+Ling et al. (1983) in a review of insect-vectors of rice and mycoplasma¬ 
+like organisms associated with diseases of rice dealt in detail the virus- 
+vector-interactions and transmission mechanisms. Oman (1949) listed leaf- 
+hopper vectors and the viruses they carry. Blindra et al. (1973) listed 
+cicaddlid vectors of plant pathogens from India. Sohi (1977) reported on 
+pests of different plants in North-western India.
+
+Viraktamath (1983) provided a comprehensive key to all the economically 
+important species of cicadellidat in India covering 25 species in 17 genera. 
+Sohi (1983) provided a key for the identification of important typhlocybine 
+leafhoppers of cotton and rice from India and Oriental Region covering 24 
+species in 9 genera.
+
+Leafhoppers cause damage to the plants by (1) sucking plant-isap, 
+(2) injecting toxins while suckingf (3) by laying eggs and cover the leaf 
+surface and (4) as vectors by transmitting viruses and mycoplasma-like 
+organisms. In Table 2 are listed important leafhoppers in India which 
+are reported to cause damage to the plants in several ways.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+5
+
+Table 2
+
+Vectors
+
+Hishimonus phycitis (Distant) 
+Orosius albicinctus Distant
+
+Nephotettix virescens (Distant) 
+Nephotettix nigropictus (Stal)
+
+Recilia dorsalis (de Motschutsky)
+
+Cicadulina chinai Ghauri
+
+Cicadulina bipunctella (Matsumura) 
+Calodia kirkaldyi Nielson
+
+{=Coelidia indica Auct)
+
+Moonia albimaculate Distant 
+Alebroides nigroscutellatus (Distant)
+
+Phytopathogens transmitted
+
+MLO’s causing of little leaf brinjal
+
+MLO’s causing 
+Phyllody of seasame 
+Phyllody of gram 
+Potato purple top
+
+Rice tungro virus 
+Rice yellow dwarf MLO
+
+Rice tungro virus 
+Rice yellow dwarf MLO
+
+Rice stunt, MLO and virus 
+Orange leaf disease of Rice
+
+Ragi strak virus and ragi mottle 
+streak virus
+
+Sandal spike MLO
+
+Sandal spike MLO (Suspected)
+
+Purple top roll of potato, witch’s 
+broom of potato
+
+Pests of economic importance
+
+Amritodus atkinsoni (Lethierry) 
+Amritodus brevistylus Viraktamath 
+Idioscopus clypealis (Lethierry) 
+Idioscopus nagpurensis (Pruthi) 
+Idioscopus niveosparsus (Lethierry) 
+Amrasca splendens Ghauri
+
+Mango
+
+Empoascanara indica (Datta)
+
+Empoascanara mdculifrons (de Motschulsky) On seedling of rice, wheat and ragi 
+Cicadulina bipunctella (Matsumura) Rice
+
+Cicadulina chinai Ghauri
+
+Cofana spectra (Distant)
+
+Cofana unimaculata (Signoret) ^j ce
+
+Empoascanara alami (Ahmed)
+
+Empoascanara truncata (Ahmed)
+
+6
+
+Rec. Zool. Surv. Indu, Occ. Paper No. 127
+
+Table 2 ( Contd .)
+
+Fec/ors
+
+Thaia subrufa MotSchulsky 
+Thaia oryzivora Ghauri 
+Thai assamensis (Mahmood)
+
+Amrasca biguttula biguttula (Ishida)
+
+Empvasca motti Pruthi
+
+Empcasca kerri Pruthi 
+Empoasca terminalis Dist.
+
+Empoasca signaia Haupt
+
+Yamotettix sexnotatus (Izzard)
+
+Zygina manalicnsis Sawai Singh
+
+Phytopathogens transmitted 
+Seedling of rice
+
+Cotton, bhendi, sunflower, castor 
+Pulses
+
+Groundnut
+
+Castor 
+Sugarcane 
+Maize and wheat
+
+II. Physiography of Khasi Hills
+
+Khasi Hills is one of the three districts of Meghalaya, a small state in 
+the North-eastern India, the other two being Garo Hills and Jaintia Hills. 
+This area is little explored by any agency for any faunal investigation and 
+there exists a big lacuna in our knowledge on the fauna of leafhoppers. 
+The area is however zoogeographically important, because its fauna along 
+with that of Assam, Burma, Thailand and Malaya is peculiar and bears a 
+basic affinity with the fauna occurring in the hills of South India and' Sri 
+Lanka. Khasi Hills are seen to rise gradually from the plains of Assam in 
+the north but abruptly in the south, Rao (1974). The highest point is the 
+Shillong peak (1966 m). According to geological records Shillong plateau 
+was formed out of the eastern most tip of the Peninsular India during thei 
+process of mountain formation Zimba (1977). The Leitkar peak and 
+Shillong peak are parallel to each other.
+
+The south-west monsoon and the north-east monsoon control the climate 
+of Khasi Hills. During March and April the climate is usually warm and 
+may be called spring. The maximum temperature is reached during May 
+and this period may be termed as summer, the maximum temperature 
+recorded at Shillong so far being 26°C. The rainy season lasts from the 
+third week of May to middle of October and thereafter it gradually peters 
+out. The maximum rainfall occurs at Cherranpunji and Mawsynram 
+platforms (12,000 mm), the former with the distinction of having the 
+highest record of rainfall till recently in the whole world. The rainfall is
+
+Rao : Collection of leafhoppers from Meghalaya
+
+7
+
+highest in the central Meghalaya i.e., in Khasi Hills whereas it is less in 
+eastern Meghalaya i.e., Jaintia Hills and scanty in Western Meghalaya i.e., 
+Garo Hills. Shillong, the capital, alone has am annual average rainfall of 
+2500-3000 mm. The winter season is from November to February. During 
+this period the temperature goes down to 2°C or 1°C in the hills.
+
+The type of vegetation in Khasi Hills is a mixture of the temperate and 
+tropical. The tropical evergreen forests are seen upto an altitude of 900 m 
+and include evergreen or semi-evergreen forests, deciduous forests and grass 
+lands. The evergreen forests include tall trees, palms, epiiphytejs and ferns. 
+The deciduous type includes the sal forests with Shorea robudta dominating 
+and are found on the northern lower slopes. The grass lands are restricted 
+to the tops of flat hills. The temperate vegetation occurs at elevations 
+from 1300 to 2500 m in the Shillong plateau. The pitcher plant. Nepenthes 
+khasiana is one endemic insectivorous plant which is found in Khasi Hills. 
+; ‘Jhuming” a kind of primitive practice of burning forests before planting, 
+is still followed here. The kind of shifting cultivation for the past many 
+generations has drastically changed the forest ecosystem of Maghalaya and 
+secondary vegetation mainly bamboos, has come up to take its place.
+
+III. Material and Methods 
+1. Collection procedures :
+
+Being invariably associated with plants, leafhoppers were collected by 
+making sweeps on vegetation by a sweep-net. They were thetn aspirated 
+from the net and killed in a cyanide bottle and transferred to butter paper 
+packets after recording the relevant data. They were later mounted on 
+paper tips and appropriately labelled for further study.
+
+The places visited by the author for the collection of leafhoppers are 
+Sonapahar, Mairang, Nongklah, Maurapat Mawsynram, Jakriem, Satmowe- 
+don, Balal, RanikoT, Puksora. No agency had previously explored the above 
+areas for any zoological collections. Other areas of collection included 
+Ncngpoh, Cherrapunjee, Maphlong, Sohryongkham, Shillong, Umrani (Maps 
+1 and 2). Leafhopper collections present in the Eastern Regional Station, 
+Shillong were also made use of.
+
+All the collections were made during summer and post monsoon 
+months. The study period ranged from 1974-1985.
+
+8
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+2. Processing of material :
+
+For study of the male genitalia, the procedure described by Oman 
+(1949) was followed. The entire abdomen was separated by a minute pin 
+and macerated in 10% caustic potash and allowed to remain in it overnight 
+or for twenty four hours depending upon the degree of sclerotization ot 
+specimen. Dissection of the genitalia was made in glycerine using mounted 
+microneedles. Holding the abdomen in position, the connection between 
+male plates, the connective and the dorsal apodeme and the tenth segment 
+was severed. Thereafter, the whole of internal male genitalia i.e., aedeagus, 
+styles and connective were drawn out of the genital capsule. After study 
+and drawing the genital structures were replaced within the empty abdomen 
+which was then stored in a microvial containing a drop of glycerine at the 
+bottom. The pin bearing the specimen was then thrust diagonally through 
+the plastic stopper of the microvial so that the glycerine remained at the 
+bottom of the vial.
+
+The following meristic characters were considered necessary for identi¬ 
+fication of leafhoppers: 1. Median length of head; 2. Width of head,
+
+interocular width and width across the eyes; 3. Median length of prono- 
+turn; 4. Width of pronotum at its widest place; 5. Length of scutellum; 
+6. Width of scutellum; 7. Total length from tip of head to the tip of 
+folded tegmina.
+
+The abbreviations used in this work are as follows : A-appendix; 
+Aac-ante-apical cell; Ac-apical cell; Adp-aedeagal process; Ads-aedteagal 
+spine; Aed-aedeagus; Aeds-aedeagal shaft; Apd-apodeme; App-apophysis; 
+As-anal style; At-anal tube; Drc-brachial cell; Bt-basitarsus; Ca-carina; 
+Cl-davus; Clp-clypellus ; Cls-daval suture; Clv-daval vein; Cm-commis- 
+sural margin; Con-connective; Cona-connective arm ; Cons-conneotive shaft; 
+Cor-corium Dc-discal cell; F-femur; Fc-frontoclypeus; G-gena; Gd-ganoduct; 
+Gp-gonopore; H-hamulus; Hfs-hind femoral setae; lb-inner branch of I sec* 
+tor; J-jugum; L-lorum ; Lfs-lateral facial suture; Lm-lateral margin; Lp-lam- 
+ellatt process of apodeme; Mc-marginal comb of spines; Mdp-multi-digitatel 
+process; Mm-mesial margin; Mp-male plate; Mpp-male plate process; O- 
+ocellus; Ob-outer branch of I sector; Ooa-ooeHocular area; Ov-ovipositor; 
+P-pronotumi; Par-paramere (paraphysis); Prl-pre-apical lobe; Py-pygofer; 
+Pyh-pygofer hook/s; Pyp-pygofer process; Pys-pygofer spine/s; Sc-scutel- 
+lum; St-style; Sv-submarginal vein; V-vertex ; Vl-valve ; Vpa-venstral pro¬ 
+cess of aedeagus; Vps-vemtral process of shaft; I sr-first sector; II sr-second 
+sector; VII s-seventh sternum; X sg-tenth segment; XI Sg-eleventh seg¬ 
+ment ; 1, 2, 3, 4-apieal cells numbered.
+
+IV
+
+MAP OF KKASI HILU5 
+SHOWING
+
+C0LIECJIN6 STATIONS .
+
+q 1) KKS
+
+A \ t
+
+*%£*%* J }
+
+,•**9 C /
+
+<** V \^<
+
+llMLIHQ
+
+f " Ch^ 
+br-J' WMSAyAsoHKrRaAM
+
+^ lu
+
+o
+
+DIWON
+
+MOrcpON
+
+j NOMGSQHOAft
+
+kem 2wron
+
+(WUN >T
+
+WMSajiksai
+
+o
+
+MAWPAM0IANC,
+
+qNDNGKR£M
+
+►Cksing
+
+ONONCNQNCtEPl
+
+fSONARwW?
+
+MAWDOH/
+
+RAMBR^I
+
+"noncoacong''
+
+jsancsik
+
+NONC&REIU
+
+ngncxmh
+
+Mtmwo WAWNAlOl
+
+MAIRANC/
+
+y«R0n
+
+gAW0Rl
+
+•BARAPANI
+
+kicwJ
+
+u r
+
+J.AITD0M
+
+N&mvipl
+
+S '*’“*N-.NCNGMEN
+
+NONCSfON
+
+/MXJHUIN
+
+rO
+
+CMKRCm
+
+"O
+
+NONCSPWNC/;
+
+|MAP*JL£NCj
+
+AKREM
+
+nongjipritJ
+
+NONCHAHARU^
+
+WEllOli
+
+ncncmiang
+
+■% J IANCRInO r *
+
+> / HWSHYlUm BAWD *1iIMOW£00« 0
+
+-/ HMWWW_
+
+•V- **■*<
+
+yfU^ClHONG 
+' MAWSrNRAM
+
+kMAWRA^
+
+o
+
+MAWPHU
+
+1
+
+SHILLONG_ I 
+* mAWRVNGKpCNC^ 
+•HAPPr^UEY (X /
+
+N6 pcak ^rynGkhamv
+
+^ ,EM THYNftOlT i
+
+qIWNA
+
+iP^NURSU
+
+V—,
+
+UhEUA
+
+' .w' ,V
+
+90‘>S'
+
+Rao : Collection of leafhoppers from Meghalaya 9
+
+IV. Terminology of Principal Parts of Taxonomic Importance
+
+The principal morphology of a typical leafhopper is illustrated in Cicctdula 
+compressa Rao (Text fig. 1 & 2) and variatioss are depicted in the illustra¬ 
+tions of other species. The description of various parts of leafhoppers 
+followed here is based on Evans (1946, 1947), Oman (1949), Young (19521 
+1968), Davies (1975), Barnett (1977a) and Cwilda and Freytag (1983).
+
+Head : It is variable in size and shape. The length and width of 
+head and its relative size compared to that of pronotum are diagnostic 
+characters of some importance.
+
+Face : (Text fig. 1, b) : It is divided into frontoclypeus (Text fig. 1, Fc) 
+(dypeus and postclypeus of Young' and Barnett) and dypellus (Op). The 
+lora (L) (mandibular plates of Snodgrass) may or may not extend upto 
+clypellus.
+
+Ocelli ; Ocelli (Text fig. 1, Oc) occupy different positions on the head 
+and serve as useful characters for subfamily classification.
+
+Pronotum : (Text fig. 1, a, Pr) : Lateral margins of pronotum, 
+whether keeled or rounded and the nature of the surface of pronotum arel 
+useful characters. The pre-epistemum may be concealed oir exposed.
+
+Wings : (Text fig. 1, c & d) : Leafhoppers may be macropterous, 
+brachypterous or sub-brachypterous as seen in Deltocephalihae. Thiel venation 
+followed here is after Oman (1949) and' Young (1952) asd Barnett (1977a). 
+Two principal sectors of veins are met with, the first sector corresponding 
+to the R of Barnett before it branches. The veins arej usually distinct butt 
+may be evanescent as in Nirvana (Text fig. 8) except for the) apical ones. 
+In the hind wings the number of apical cells (Ac) the submarginal 1 vein 
+(Sv) provide useful diagnostic characters.
+
+Legs : The hind legs of leafhoppers provide a number of useful 
+characters as shown by (Davies, 1975). The arrangement of setae on the 
+posterior femora (Text fig. 2, Hfs) is denoted by a formula (Ribaut, 1952).
+
+Male genitalia : (Text fig. 2) : The ninth abdominal segment is usually 
+deeply incised dorsally and appears to consist of two lateral. lobes 
+called pvgofers (Text fig. 2, g). Each pygofer may have appendages of 
+various kinds. The pygofer may have a caudodorsal process, having apical 
+serrated margins or it may have articulated membranous caudal lobe as in
+
+2
+
+10
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+C icaduta compressa Rao
+
+et--—
+
+Central Aac 
+An i /Inner Aac
+
+P J Outer Aac //9 bl * r
+
+. ' //V ,-' D «
+
+• - Jblsr
+
+Text iig. 1. Cicadula compressa Roo a-Habitus. .dorsal view; b-Face. .ventral view;
+
+c-Forewing. .dorsal view ; d-Hind wing, .dorsal view; e-Female genitalia 
+.ventral view
+
+Cicadula compressa or its caudal and ventral processes may be hook-like. 
+Ventral aspect of genital capsule is the value and a pair of subgenital platesi 
+articulate with it caudally.
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+11
+
+Veoiratiy the genital capsule is differentiated into valve and plates. 
+Male plate for instance, may have a process, or they may have narrow 
+serrations or they may be frequently short, exceeded by styles.
+
+Cicaduia saaamia **«<>
+
+Text fig. 2. Cicadula compressa Rao f-Hind femdra. .lateral view; g-Pygofer. .
+
+lateral view; h-Anal tube, .dorsal view; i-Male plate, .ventral view; 
+fStyle. .dorsal view; k-Connective. .dorsal view; 1-Aedeagus. .dorsal 
+view; m-Aedeagus. .lateral view; n-Valve. .ventral view
+
+2A
+
+12
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+The inner parts of male genitalia are the aedeagus, the conmelctive and 
+the paired styles (Text fig. 2, j, k & 1). Styles articulate mesally with the 
+connective which in turn articulates with the aedeagus.
+
+Connective : This assumes a variety of shapes which are useful in the 
+recognition of tribes and genera in Deltocephalinae. Aedeagus and connective 
+may be either freely articulated or fused. The connective takes different 
+species. It may be like a racket or loop as in Aconurella solana (Text fig! 
+30, g).
+
+Aedeagus : The aedeagus usually articulates by its subterminal portion 
+with the connective, but the articulation may be terminal, dorsal or much 
+more basal. The shaft is usually straight but may be curved as in Cicadula 
+compressa (Text fig. 2, m). Aedeagus usually has one gonopore but some¬ 
+times is provided with two gonopores.
+
+The gonopore may be apical as in Glossocratus (Text fig. 18, h) or 
+may be subapical as in Cicadula (Text fig. 2, m). The processes of aedeagus 
+are varied. The aedeagus is strongly curved with a pair of caudal and 
+apical processes as in Cicadula (Text fig. 2, m). In Evacanthus the dorsal 
+apodeme has lamellate processes (Text fig. (6, h, Lp). In Glossocratus 
+(Text fig. 18, g, h) the aedeagus has dorsal and apical processes. Sometimes 
+aedeagus is with asymmetrical processes.
+
+Accessory genital structures, paraphyses (Barnett, 1977a) occurring 
+between the apex of connective and base of aedejagus are also useful in 
+determination of species especially in Scaphoideus (Text fig. 36, g. Par).
+
+Female genitalia : The shape of the female seventh sternum and the 
+ovipositor (Text fig. 1, e) extending beyond pygofer or not provide useful 
+characters. The same is followed in this work.
+
+V. Classification of Subfamilies
+
+It is rather unfortunate that no proper key has been devised for separating 
+all the known subfamilies of cicadellidae. The first attempt over made 
+to divide the family into various subfamilies was that of Evans (1947) who 
+proposed 17 subfamilies. Other workers proposed different methods of 
+primary subfamily divisions (Oman, 1949, Borror et al . 1976, Riibaut, 1952. 
+Hamilton, 1983). Oman (1949) treated Nearctic leafhoppers under a single 
+family. Metcalf (1962-1958) elevated the leafhopper family Cicadellidae 
+to the superfamily Cicadelloidea and assigned 17 families to it. Knight
+
+Rao : Collection of leafhoppers from Meghalaya
+
+13
+
+(1983) treated 24 subfamilies from from South-east Asia and Nielson (1085) 
+recognised 50 subfamilies and the same arrangement is followed in this work. 
+Knight and Nielson (1986) also listed nominal subfamilies and tribes of the 
+Cicadellidae. A key is now prepared here to separate 25 subfamilies 
+occurring in India based on Borror et d. (1976).
+
+VI. Key to Subfamilies of Cicadellidae occurring in India
+
+1. Entire body covered with hairs or scales, 
+lateral margins of abdominal terga not 
+covered by forewings. Forewing held flat, 
+largely or partly overlapping; appendix 
+wide, corrugated extending around apex as 
+costal margin
+
+-'Body rarely covered- by hairs, never by
+
+scales, if covered, hairs are short, very 
+sparse; macropterous forms with entire ab¬ 
+domen covered by forewings which are 
+usually gabled, appendix not as above
+
+2. Forewings without cross-veins proximal to 
+apical series; longitudinal veins indistinct 
+basally; apex of hind basitarsus sharply 
+pointed; smalt, slender, fragile leafhoppers
+
+——Forewings with cross-veins proximal to 
+apical series; longitudinal veins distinct at 
+base; apex of hind basistarsus truncate
+
+3. Ocelli on face, below fore margin of head; 
+male valve and pygofer fused; genital plates 
+narrow basally (in some Krisninae the 
+ocelli appear to be on fore margin of 
+head)
+
+-Ocelli on crown or fore margin of head;
+
+valve usually more or less triangular, often 
+articulated with pygofer, genital plates 
+usually triangular
+
+4. Lateral margin of pronotum moderately 
+long, carinate; ledge or carina above anten¬ 
+nal pit, transverse or nearly so
+
+-Lateral margins of pronotum short and not
+
+carinalte; ledge above antennal pit, if present 
+oblique
+
+Hylicinae
+
+2
+
+Typhlocybinae
+
+3
+
+4
+
+11
+
+5
+
+6
+
+14
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+5. Hind wing with submarginal vein extending 
+to jugum; large robust leafhoppers
+
+-Hind wing with submarginal vein not extend¬ 
+ing to jugum
+
+6. Forewings with large appendix with over¬ 
+lapping apices; lateral facial sutures extend¬ 
+ing beyond antennal pits to or near ocelli
+
+-Forewings without or with a very narrow
+
+appendix and not overlapping caudally, 
+lateral facial sutures terminating at antennal 
+pits
+
+7. Male plates fused not concealed by eighth 
+sternum ; antennal pit shallow ; placed nearetr 
+to anterior margin of eye
+
+—-Male plates separate, concealed by eighth 
+sternum for the most part; antennal pit deep 
+placed nearer to posterior margin of eye
+
+8. Hindwings always present, with three closed 
+apical cells, distance betwetn ocelli equal to 
+or usually greater than twice the distance 
+from ocellus to eye
+
+^-—Hindwings wherever present with four closed 
+apical cells, distance between ocelli not ovei 
+twice the distance from ocellus to eye
+
+9. Face with carinate frontal sutures above 
+antennal pits
+
+-Face without such carinate
+
+10. Pronotum extending foward beyond anterior 
+margin of eye, very shout, entirely black, 
+heavily sclerotized leafhoppers
+
+-Not as above, may be black
+
+11. Crown narrow, little or no wider than eye 
+in dorsal view; frontoclypeus narrow and 
+parallel sided
+
+—*—Crown much broader than eye, clypeus 
+usually wider above
+
+12. Ocelli on croiwn, if submarginal, frontocly¬ 
+peus not medially carinate
+
+-Ocelli on margin anterior to eye, if sub-
+
+marginal, frontoclypeus with median carina
+
+Krisninae
+
+7
+
+Idiocerinae
+
+8
+
+Acostemminae*
+
+Iassinae
+
+Macropsinae
+
+9
+
+MegopthaJminae
+
+10
+
+Nioniinae
+
+Agalliinae
+
+Coelidiinae*
+
+12
+
+13
+
+16
+
+Rao : Collection of leafhoppers from Meghalaya
+
+15
+
+13. Lateral facial sutures extending over margin 
+and well on to crown, almost reaching ocelli 
+which are large and remote from eye; lateral 
+margins of pronotum rounded with a weak 
+keel, head not produced
+
+-Lateral facial sutures not or briefly extending
+
+on to crown, head often produced forward 
+and often laminate
+
+14. Antennae very long, ocelli lateral in position, 
+dorsal to marginal carina, pronotum with 
+only traces of a longitudinal keel, flattened 
+delicate forms
+
+-Antennae short, ocelli more central in posi¬ 
+tion, lateral margin of pronotum widely and 
+sharply keeled
+
+15. Hind tibiae with short, fine widely spaced 
+setae usually behind well developed serra¬ 
+tions, genae below eyes sinuate, exposing 
+pro-epistema; ocelli nearer to hind margin 
+of head than to front margin ; large elongate 
+forms
+
+-Hind tibial spines normal, large and densely
+
+packed, pro-epistema concealed by genae, 
+ocelli nearer to anterior margin of crown; 
+forewing with large appendix
+
+16. Entire pro-epistema exposed, entire body 
+with circular pits, fdrewings coriaceous; 
+hind wings reduced or absent
+
+——Pro-episterna largely concealed; other cha¬ 
+racters variable
+
+17. Ocelli in impressed, lateral areas, isolated 
+both above and below by keels or ridges, 
+frontoclypeus with a median carina
+
+-Ocelli not in impressed areas, if with keels
+
+both above and below lateral areas not 
+isolated
+
+18. Pronotum extended backward to cover entire 
+mesoscutum; head, pronotum and atleast 
+basal V 3 of forewing heavily pitted
+
+-Pronotum normal, exposing mesoscutum;
+
+head, pronotum and basal part of forewing 
+not usually pitted
+
+Cicadellinae
+
+14
+
+Nirvaninae*
+
+15
+
+Ledrinae
+
+Pen thimiin ae*
+
+TJlopinae
+
+17
+
+18
+
+19
+
+Signoretiinae
+
+Evacanthinae*
+
+16
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+19. Ocelli situated on a narrow marginal rim 
+which separates the crown from the face of 
+the head, antennal ledges prominent
+
+-Not as above
+
+20. Forewings overlapping apically with raised 
+spots on the veins
+
+-Forewings not overlapping, without raised
+
+spots on the veins
+
+21. Frontoclypeus extending laterally over base 
+of antennae, thus forming a relatively deep 
+inconspicuous antennal pit, small species 
+with head rounded, eyes small, clypeus ovate, 
+antennae near margin of eye
+
+-Frontoclypeus not extending laterally over
+
+base of antenna to form an antennal pit, 
+species variable but not with above com¬ 
+bination of characters
+
+22. Submarginal vein extending around jugum 
+and receiving 3A; large leafhoppers with 
+pronatum extending forward to crown 
+medially
+
+-Submarginal vein not extending around
+
+jugum; pronotum ndt as above
+
+23. Ocello-ocular area with a distinct transverse 
+ledge above antennal pit; face broad, 
+relatively flat
+
+-Ocello-ocular area not produced into a
+
+distinct ledge or carina above antennal pit, 
+face variable
+
+24. hfargin of gena below eye strongly sinuate 
+or incised, dcxrsoventrally flattened, crown 
+fiat, strongly produced, anterior margin acute 
+or foliaceous, lateral margins of pronotum 
+carinate and usually as long as or longer 
+than the short diameter of eye in dorsal 
+view
+
+-Margin of gena not incised or strongly
+
+sinuate, if sinuate or incised, head not pro¬ 
+duced and body not dorsoventrally flattened ; 
+lateral margins of pronotum not carinate or 
+very feebly so
+
+20
+
+21
+
+Drabescioae*
+
+Selenooephalinae
+
+Xestocephalinae
+
+22
+
+Tartessinae
+
+23
+
+Aphrodinae*
+
+24
+
+Hecalinae*
+
+Deltocephalinae*
+
+•indicates subfamilies treated in this work.
+
+RAo : Collection of leafhoppers from Meghalaya 17
+
+VII. List of Genera and species including Check List of 
+Leafhoppers from Khasi Hills (Meghalaya)
+
+Family Cicadellidae Latreille, 1825 
+Subfamily 1 Aphrodinae Haupt, 1927
+
+I Genus Stroggylocephalus Flor, 1861
+
+Stroggylocephalus indicus Rao, 1989
+
+II Genus Gurawa Distant, 1908
+
+Gurawa vexillum Distant, 1908
+
+Subfamily 2 Evacanthinae Crumb, 1911
+
+III Genus Evacanthus Le Peletier and Serville, 1825 
+Evacanthus repexus (Distant), 1908
+
+Evacanthus extremus (Walker), 1851
+
+IV Genus Onukia Matsumura, 1912 
+Onukia connexia (Distant), 1918
+
+V Genus Dussana, 1908 
+Dussana quaerenda Distant, 1908
+
+Subfamily 3 Cicadellinae Latreille, 1825'
+
+VI Genus Atklnsonlella Distant, 1908
+
+** Atkinsoniella maculata Distant, 1908 
+**Atkinsoniella gregalis (Distant, 1908)
+
+** Atkinsoniella sulphurata (Distant, 1908)
+
+VII Genus Bothrogonia Meliehar, 1926 
+**Bothrogonia ferruginea (Fabricius, 1787)
+
+VIII Genus Anatkina 
+**Anatkina assamensis (Distant, 1880)
+
+18 Rec. Zool. Surv. India, Ox. Paper No. 127
+
+Subfamily 4 Nirvaninae Baker, 1923 
+DC Genus Chudania Distant, 1908 
+Chudania delecta Distant, 1908
+
+X Genus Nirvana Kirkaldy, 1900 
+Nirvana shillongensis Rao, 1989 
+Nirvana pallida Melichar, 1903
+
+Subfamily 5 Idiocerinae Baker, 1915 
+XI Genus Idioscopus Baker, 1915
+
+**Idioscopus shillongensis Viraktamath, 1976
+
+Subfamily 6 Coelidiinae Dohm, 1859 
+XII Genus Taharana Nielson, 1982 
+Taharana khasiensis Raot 1989
+
+Subfamily 7 Tassinae Amyot and Serville, 1843
+
+XIII Genus Trocandella Pruthi, 1930
+
+**Trocandella shillongensis Pruthi, 1930
+
+Subfamily 8 Penthimiinae Kirsehbaum, 1868
+
+XIV Genus Penthlmia Germar, 1821 
+Penthimia melanocephala Melichar, 1963
+
+Subfamfly 9 Acostemminae Evans, 1972 
+XV Genus Acostemma Signoret,, 1860
+
+Acostemma walkeri (Kirkaldy, 1901)
+
+Subfamily 10 Drabescinae Ishihara, 1953 
+XVI Genus Drabescus Stal, 1870 
+Drabescus shillongensis Rao, 1989
+
+Subfamily 11 Hecalinae Distant, 1908
+
+XVII Genus Hecalus Stal, 1864 
+Hecalus porrectus (Walker, 1858)
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+Hecalus arcuatus (de Motschulsky, 1854)
+
+XVIII Genus Glossocratus Fieber, 1866
+
+Glossocratus sp.
+
+Subfamily 12 Deltocephalinae Fiber, 1869
+
+Tribe Opsiini Emdjanov, 1962
+
+XIX Genus Hishimonus Ishihara, 1953
+
+Hishimonus sonapaharensis Rao, 1989
+
+Tribe Macrostf.ltni Kirkaldy, 1906
+
+XX Genus Macrosteles Fieber, 1866
+
+Macrosteles picturatus Rao, 1989 
+Macrosteles brevis Rao, 1989
+
+XXI Genus Balclutha Kirkaldy, 1900
+
+Baldutha versicolorides Ghauri, 1971 
+Balclutha saltuella (Kirschbaum), 1868
+
+Tribe Dkltocephalini Dallas, 1870
+
+XXII Genus Recilia Edwards, 1866
+
+Recilia dorsalis (de Motschulsky, 1859)
+
+Recilia prabha (Fruthi, 1930)
+
+Recilia indica Rao, 1989 
+Redlia maculata (Pruthi, 1930)
+
+Recilia intermedia (Melichar, 1903)
+
+XXITI Genus Paramesodes Ishihara, 1952
+
+Paramesodes montanus Rao, 1989
+
+Tribe Doraturini Ribaut, 1952
+
+XXIV Genus Aconurella Ribaut, 1948
+
+**Aconurella montana (Distant, 1908)
+
+Aconurella solona Ghauri, 1978
+
+Tribe Fieberiellini Wagner 1951
+
+XXV Genus Phlogotettix Ribaut, 1942
+
+Phlogotettix indicus Rao, 1989
+
+20
+
+Rec. Zool. Surv. India, Qcc. Paper No. 127
+
+Tribe Stirellini Emeljanov, 1966
+
+XXVI Genus Doratulina Melichar, 1903
+
+Doratulina jacosa Melichar, 1903 
+Doratulina indra (Distant, 1908)
+
+Doratulina rubrolineata (Distant, 1908)
+
+Doratulina solitaris (Melichar, 1903)
+
+Tribe Scaphoideini Oman, 1943
+
+XXVn Genus Scaphoideus Uhler, 1889
+
+Scaphoideus assamensis Distant, 1918 
+Scaphoideus coloratus Rao, 1989
+
+Tribe Euscelini Naude, 1926
+
+xxvm Genus Exitianus Rail, 1929
+
+Exitianus indicus (Distant, 1908)
+
+Exitianus coronotus (Distant, 1918)
+
+XXIX Genus Nephotettix Matsumura, 1902 
+_ Nephotettix nigropictus (Stal, 1870)
+
+Nephotettix virescens (Distant, 1908)
+
+Nephotettix malayanus Ishihara & Kawase, 1968
+
+XXX Genus Cicadula Zetterstedt, 1840
+
+Cicadula compressa Rao, 1989
+
+Tribe Jassarginj Emeljanov, 1962
+
+XXXI Genus Khasiana Rao, 1989
+
+Khasiana prima Rao, 1989
+
+VIII. Systematic Treatment of Taxa 
+1. Subfamily : Aphrodinae
+
+The subfamily Aphrodinae includes small, usually brownish to yellow 
+Ieafhoppers. Ocelli situated on the margins of vertex. Antennal pits 
+shallow. Frontoclypeus large and well developed. Lateral facial sutures
+
+♦♦Species net represented in the present work.
+
+Rao : Collection of lecefhoppers from Meghalaya,
+
+21
+
+distinct. Aedeagus symmetrical. The tribe Aphrodiini includes leafhoppers 
+which are flattened and exhibit brown to yellow colour markings. They 
+have complete ventation and often resemble some members of Ledrinae.
+
+Pruthi (1930) synonymised Kartwa with Ohiasmus Mulsant and Ray. Sawai Singh 
+(1969) added two more species to the genus Chiasmus from Himachal 
+Pradesh.
+
+Evans (1947) included the genera Gurawa and Stroggylocephalus Flor 
+under the tribe Aphrodini which arrangement is followed here.
+
+rhe Aphrodini are reported fromi all the principal geographical regions 
+and are known to feed on grasses.
+
+Out of the seven genera known from India viz., Baileyus Pruthi, 
+Stroggylocephalus Flor, Chaismus Mulsant & Roy„ Gurawa Distant, Posturms 
+Distant, Leofa Distant and Prasittagus Distant, only Stroggylocephalus and 
+Gurawa are dealt here. The genus Stroggylocephalus has been recorded for 
+the first time from the Oriental region in this study.
+
+Key to the genera included In this study
+
+t. Pronofum twice the length of vertex; pygo- 
+fers with pincer-like process; aedeagus with
+
+9 pair of pre-apical process ... Stroggylocephalus Flor
+
+-Pronotum as long as or shorter than ver¬ 
+tex ; pygofer without a pincer-like prooess;
+
+aedeagus simple ... Gurawa Pruthi
+
+Genus Stroggylocephalus Flor, 1861
+
+Stroggylocephalus Flor, 1861, Arch. Naturk. Liv. Est.-u. Kurlands, 4(2) : 357.
+
+Type species : Stroggylocephalus agrestis Fallen
+
+Stroggylocephalus indicus Rao 
+(Text fig. 3, a-c)
+
+Stroggylocephalus indicus Rao, 1989, Hexapoda, 1 (1) : 59, fig. 1-7.
+
+Diagnosis : Vertex, pronotum and scutellum molted all over with
+
+wife irregular markings. Fore wings with four apical cells and with brown 
+markings all over. Aedeagus with pre-apical process reaching the middle of 
+shaft. Male 6.65 mm long and 1.98 mm wide.
+
+Distribution : Balat, Khasi Hills, Meghalaya.
+
+3
+
+G
+
+«—' ■ i»
+
+0*5 mm
+
+Text fig 3. Stroggyloceplialus indicus Rao a-Head and thorax, .dorsal view; b-Face 
+ventral view; c-Fore wing, .dorsal view
+
+Genus Gurawa Distant, 1908
+
+Gurawa Distant, 1908, Fauna Brit. India, Rhynchota, 4 : 262. Type species : Gurawa 
+vexillum Distant.
+
+Gurawa : Pruthi, 1930, 1934, Mem. Indian Mus. 11 (1) & (2) : 29 & 76; Evans, 
+1947, Trans. R. Ent. Soc. Lond., 98 : 149; Hamilton, 1975, Can. Ent., 
+107 : 1009.
+
+Diagnosis : Vertex sub-triangular, broad and depressed; ocelli on lateral 
+margins. Face long, narrow, transversely impressed at base, and' more than
+
+Rao : Collection of leafhoppers from Meghalaya 25
+
+twice as long as dypellus. Pronotum shorter than vertex. Seutellum 
+medially depressed, apex acute. Posterior tibia thickly spinulose. Fora 
+wing broad, surpassing abdominal apex with five apical and three ante-apical 
+cells ; claval veins curved 1 .
+
+Four species are so far knows under this genus. One of them is reported 
+from Flores and out of the remaining three present is India, only one spedes 
+G. vexillum Distant is represented in the collection.
+
+Gurawa vexillum Distant
+
+Gurenva vexillum Distant, 1908, Fauna Brit. India, Rhynchota, 4 : 263 ; Pruthi, 1934, 
+Mem. Indian Mus., 11 (2) : 77; Evans, 1947, Trdns. R. ent. Soc. Lond., 
+98 : 149.
+
+Dull ochraceous. Vertex subacute, foliaceous into a broad median 
+longitudinal black stripe and a pair of black dots near base, (dots sometimes 
+obsolete) ; ocelli on lateral margins midway between eye and ape<x. Face 
+greyish, longer than broad with irregular, small, black spots; dypeus long, 
+narrow with a shallow depression at base and apex; cljypellus rectangular; 
+lora not reaching apex. Pronotum shorter than vertex, with transverse black 
+fasciae on anterior margin. Seutellum with a black spot near each basal 
+angle, ometimes obsolete. Forewiing with five apical and three ante-apical 
+cells.
+
+Male genitalia : Pyeofer almost triangular with a deft at the anterior 
+end which is broadened at the caudal end. Male plate narrow at 
+the base and broadened at the caudal end with minute setae at the lateral 
+margins. Style long, narrow, broad at base and curved laterally at apex; 
+pre-apical process blunt with minute setae. Connective U-shapedl Aedeagus 
+strongly curved with a paiir of short and painted apical hooks with lateral 
+margins deeply serrated.
+
+Female genitalia : Pygofers long with minute setae; hind margins of 
+seventh sternum concave; ovipositor stout, projecting beyond the posterior 
+extremity of abdomen.
+
+Measurements: Male 3.9 to 3.90 mm long and 1.15 to 1.37 wide; 
+female 3.63 mm long and 1.15 mm wide.
+
+3A
+
+24
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Specimens examined : India ; Meghalaya : Shillong, 2 c?cf» 9.ix. 1975, 
+M. S. Jyrwa, Coll.; Cherrapunji, 1 $ , 15.i.l978, K. R. Rao, Coll.
+
+AedS
+
+Text fig. 4. Gurawa vexillum Distant a-Heiad and thorax, .dorsal view; b-Face.
+
+ventral view; c-Pygofer. .dorsal view; d-Male plate. ventral 1 view; 
+e-Aedeagus, Connective, Style and Plate, .dorsal view; f-Aedeagus... 
+lateral view; g-Apex of aedeagns. .dorsal view; h-Fefale genitalia... 
+ventral view
+
+Rao : Collection of leaf hoppers from Meghalaya 25
+
+Distribution : This is reported from Eastern Himalayas and South India.
+
+Remarks : This species resembles Gurawa ndnotcephaia Fruthi from 
+which it can be distinguished by the shorter pronotum and the serrated 
+process of the aedeagus.
+
+2. Subfamily : Evacanthinae
+
+Robust leafhoppers, black or brown suffused with yellow, their size 
+measuring from 4.5 mm to 9 mm. Frontoclypeus with a distinct median 
+carina. Ocelli situated near the anterior margin of vertex, at times in 
+depressions. Pronotum with lateral margins either parallel or converging 
+anteriorly. Hind femoral spinulation 2+1 + 1 in most of the species. 
+Pygofers large and usually with processes. Style short.
+
+Evacanthinae are distributed in the Oriental and Holarctic regions. 
+Usually cylindrical, in shape and resembling Cioadellinae.
+
+The following gienera are known from India: Evacanthus Le Feletier 
+and Serville, Bundera Distant, Mainda Distant, Cunedda Distant, Dussana 
+Distant, Onukia Matsumura ( —Apphia Distant).
+
+Four species belonging to three genera, viz., Evacanthus, Dussana and 
+Onukia are represented in the present collections.
+
+Key to the genera of Evacanthinae of Khasi Hills
+
+1. Median carina of vertex raised, vertex about 
+1.5 times as long as wide between eyes
+
+■ — Median carina of vertex not raised. Vertex 
+either as long as or shorter than width 
+between eyes
+
+2. Male pygorer without a ventral process; 
+disc or vertex longitudinally rugose; clypeus 
+lateroanteriorly strongly convex ; hind femoral 
+spinulation 2+1 + 1
+
+-Male pygofer with a ventral process; disc
+
+of vertex smooth, not rugose; clypeus rather 
+flat; hind femoral spinulation 2+0+0
+
+Dussana Distant
+
+2
+
+Onukia Matsumura
+
+Evacanthus Le Peletiei 
+and Serville
+
+4
+
+26
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Genus Evacanthus Le Peletier & Serville, 1825
+
+Evacanthus Le Peletier and Serville, 1825, Encycl. Method., 10 : 612. Type species : 
+Cicada interrupts Linnaeus.
+
+Euacanthus : Burmeister, 1835, Handb. Ent. 2 : 116 (invalid emendation of Evacanthus 
+Le Peleitier & Serville) ; Distant, 1908, Fauna Br. India, Rhynchota, 4 : 227.
+
+Evacanthus : Van Duzee, 1917, Tech Bull. Calif, agric. Exp. Sm. ent., 2 : 607 (=Eucan- 
+thus Burn. 1835 ; =Eucanthus (Sic) van Duzee, 1894; =Evacantha 
+provancher, 1889) ; Ribaut, 1952, Faune Fr., 57 : 350; Ishihara, 1979, 
+Trans, shikoku. ent. Soc., 14 : 99.
+
+Oman (1949) has provided a detailed description of the genus.
+
+Key to the Indian species of Evacanthus
+
+Le Poletier & Serville
+
+1. Face black
+
+--Face ochraceous, sometimes a black spot on
+
+upper part of the face
+
+2. Pronotum black with extreme lateral and 
+posterior margins ochraceous; shaft of 
+aedeagus longer than the lamellate process 
+on dorsal apodeme
+
+-Pronotum with anterior half black and
+
+posterior half ochraceous
+
+3. Pronotum black, basal margins broadly 
+testaceous, the apex of face with a minute 
+black spot
+
+-Pronotum ochraceous, with a broad central
+
+fascia and two black spots which sometimes 
+occupy the whole of the lateral areas; shaft 
+of the aedeagus as long as the laminate 
+procss of dorsal apodeme
+
+Evacanthus repexus (Distant)
+
+(Text fig. 5, a-h)
+
+Euacanthus repexus Distant, 1908, Fauna Br. India, Rhynchota, 4 ; 228; 1918, Ibid. 
+7 : 11 ; Mathur, 1953, Hemiptera, Indian Forest Leaft., 121 (3) ; 167; 
+Dattia, 1973, Zool. Anz., 190 (3/4) : 215.
+
+Evacanthus repexus : Metcalf, 1963, Evacanthidae, General Catalogue of the 
+Homoptera, 6 (6) ; 43; Ishihara, 1979, Trans. Shikoku, ent. Soc., 14 : 99.
+
+Vertex wholly piceous with anterior and posterior margins ochraceous, 
+an elevated spot sometimes present on either sidle! of median 1 carina. Face
+
+2
+
+3
+
+repexus Distant 
+bellus Distant
+
+militaris Distant
+
+extremus Distant
+
+Rao : Collection of leafkoppers from Meghalaya 27
+
+Evacanthus repexus(Distant)
+
+Text fig. 5. Evacanthus repexus (Distant) a-Habitus.. .dorsal; b-Face.. .ventral view;
+
+c-Pygofer...lateral view; d-Male plate...venltral view; e-Style...dorsal 
+view; f-Connective...dorsal view; g-Aedeagus...dorsal view; h-Aedeagus 
+...lateral view
+
+black, frontoclypeus carinate. Pronotum black and finely transversely striate, 
+the lateral and posterior margins normally ochraceous. Scutellum black;
+
+28 Rec. Zool. Surv. India, Occ. Paper No. 127
+
+pronoitum and scutellum finely pubescent. Forewing piceous, the costal, 
+inner, and claval margins ochraceous, apical cells four in inumber and 
+appendix well developed.
+
+Male genitalia : Pygofers with a ventral process mot reaching the 
+apex of posterior margin. Male plate long, narrow and with concentration 
+of setae on lateral and apical margins. Style long apophyses foot-like 
+Connective Y-shaped. Aedeagus with a well developed dorsal apodetme, 
+pre-atrium long and cylindrical, lamellate process of dorsal apodeme not 
+reaching shaft of aedeagus, shaft curved and simple.
+
+Female genitalia: Pygofer long; seventh sternum concave at the 
+posterior margin, ovipositor long, narrow, projecting beyond posterior 
+margin of abdomen.
+
+Measurements : Male 5.11 to 5.5 mm long and 1.32 to 1.48 mm 
+wide. Female 5.61 to 6.87 mm long and 1.48 to 1.70 mm wide.
+
+Specimens examined : India : Meghalaya : Shillong, 1 <^, 24.xii.1977, 
+K. R. Rao, Coll.; 1 f , 25.xi.1977, K. R. Raoi, Coll ; 2 gg, 2 9 9' 
+Mawsynram, 5.xil.'1977, K. R. Rao, Coll.; 2 9 9 , Mawsynram, 8xii.l977, 
+K. R. Rao, Coll.
+
+Distribution : Northern India.
+
+Remarks : Tn the male genitalia figured by Datta (1973), the pygofer 
+process is shown as arising from the lateral slide, while it actually arises from 
+the ventral side.
+
+Th's species resembles E. bellus Distant in having black face but differs 
+in having the pronotum entirely black.
+
+Evacanthus extremus (Walker)
+
+(Text fig. 6, a^~h)
+
+Tettigonia extremus Walker, 1851, List Horn. ins. Br. Mus., 3 : 76.
+
+Euacanthus extremus (Walker ) : Distant, 1908, Fauna Br. India, Rhynchota, 4 : 227.
+
+Evacanthus extremus : Metcalf, 1963, Evacanthidae, General Catalogue of the 
+Homoptera, 6(6) : 25.
+
+Ochraceous. Vertex with a large black fascia on the disc, Ia eral and 
+basal areas ochraceous, carinate medially and foveate on either side of 
+carination. Face ochraceous, lorae narrow. Pronotum with a broad central
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+29
+
+£vacanthu$ «xtr«mus (Walker)
+
+Text fig. 6.
+
+Evacanthus extremus (Walker) a-Head and thorax...dorsal view; b-Face 
+.. .ventral view ; c-Forewing.. .dorsal view ; d-Pygofer.. .lateral view ; 
+e-Style.. dorsal view; f-Connective...dorsal view; g-Aede&gus...dorsal 
+view; h-Aedeagus...lateral view
+
+fascia and two black spots which sometimes occupy whole of lateral surface, 
+Scutellum black. Tegmina with four apical cells and well developed appendix
+
+30
+
+Rec. Zool. Surv. India, Ooc. Paper No. 127
+
+Male genitalia : Pygofer with ventral process extending bayond posterior 
+margin. Style long, with a blunt preapical process on the lateral side. 
+Connective Y-shaped, the arms widdy separated. Aedeagus long, with well 
+developed dorsal apodeme and preatrium, shaft curved, ending in two 
+points; laminate process of dorsal apodeme as long as the shaft.
+
+Measurements : Male 5.99 mm long and 1.43mm wide across eyes.
+
+Specimens examined : India : Meghalaya : Shillong 1 <$, 3'.xi.l977, 
+K. R. Raoi Coll.
+
+Distribution : Distributed in Northern India and Fukien (China).
+
+Remarks : E. extremus resembles E. militaris in general appearance 
+especially the face being ochraceous, but differs from' it and other species of 
+Evacanthus in having a black lateral spots on pronotum. Laminate process 
+of the dorsal apodeme in E. extremus is as long as the shaft.
+
+Gerius Onukia Matsumura, 1912
+
+Onukia MaJteumura, 1912, Annot. Zool. Jap., 44; Type species : Onukia anukii 
+Matsumura.
+
+Onukia connexia (Distant)
+
+(Text fig. 7, a-c)
+
+Platyretus eonnexus Distant, 1918, Fauna Br. India , Rhynchota, 7 : 37.
+
+Onukia connexia : Rao, 1989, Hexapodd, 1 (1) : 60, fig. 8-13.
+
+Diagnosis : Dark plceous species Frontoclypeus latero-anteriorly 
+convex medially carinate. Male plate broad with numerous macrosetae 
+towards mesial side. Connective Y-Shaped with spatulate arms; aedeagus 
+with two pairs of sulbapical processes. The species connexia has been com¬ 
+bined with Onukia because of conical vertex, convex nature of fronto¬ 
+clypeus and aedeagal processes.
+
+Male 5.17 mm long and 1.15 mm wide.
+
+Distribution : Eastern Himalayas; Bengal (Metcalf, 1967).
+
+RAo : Collection of leafhoppers from Meghalaya
+
+31
+
+Onunkia connexia (Distant)
+
+i—-—i
+
+0*5 m no.
+
+Text fig. 7. Onukia connexia (Distant) a-Head andi thorax...dorsal view; b-Face... 
+ventral view; c-Forcwing...dorsal view
+
+Genus Dussana Distant, 1908
+
+Dussana Distant, 1908, Fauna Br. India, Rhynchota, 4 : 322. Type species : Dussana 
+quaerenda Distant’; Pruithi, 1934, Mem. Indian Mus., 11 (2) : 85; Evans, 
+1947, Trans. R. ent. Soc. Lond., 98 : 154.
+
+Diagnosis : Vertex subtriangular, median carina lamellately raised, 
+ocelli below the margins anteriorly and closer to eyes than to apex. Oenae 
+sinuate, frontoclypeus much longer than clypellus. Forewing extending 
+beyond the apex of abdomen. Posterior tibiae finely spinulose.
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+33
+
+Vertex subtriangular, medially carinate apex a little reflexed upwards 
+and moderately foveate on either side of carination. Ocelli below lateral 
+ridged margins and situated closer to eye® than to apex. Face longer 
+than broad, piceous with oblique rows of furrows; frontoclypeus more 
+than three times median length of clypellus, lora long, narrow, not reaching 
+apex of clypellus; igenae sinuate; face finely punctuate. Pronotum piceous, 
+narrowed anteriorly and broadened posteriorly. Scutellum triangular, basally 
+piceous, and ochraceous at apex. Eyes fuscous brown. Hind femoral 
+spinulation, 2+1 + 1. Fore wiing dark Ibrowini, costal margin pale ochraceous 
+and disc minutely punctate; apical cells four in number.
+
+Measurements : Female 7.ili mm long 1.37 mm wide.
+
+Specimens examined : India : Meghalaya : Ranikor 1 $ , 9.xiii.l977, 
+K! R. Raoi, Coll.
+
+Host : Collected from vegetation having Gnophatum butea alb. Lin.
+
+Distribution : This species is so far known from Sri Lanka and 
+Southern India only.
+
+Remarks : Apart from the present species Genus Dussana has only 
+one more species which occurs in Fukien (China). It is Dussana sinensis 
+Jacobi, 1944.
+
+3. Subfamily : Nirvaninae
+
+Nirvaninae are flattened leafhoppers ranging from 6 to 9 mm in size. 
+They are of yellow, white or orange colours, sometimes with red or dark 
+markings. They have long antennae and the ledges are usually prominent. 
+The ocelli are situated on the crown of the head. Tegjminal venation obscure, 
+some like Omaranus Distant, exhibit sexual dimorphism.
+
+The subfamily is distributed throughout the Oriental Region, Afro- 
+tropical, Australian and Neptropical areas. Wesley (1980) reviewed 1 the 
+Nirvaninae of the Indian sub-continent.
+
+The following genera are known from Indlia : Balbillus Distant, Kana 
+Distant, Nirvana Kirkaldy, Mohunia Distant, Omaranus Distant, Ophiuchus 
+Distant, Chudania Distant and Sophonia Walker. Out of these only two 
+genera, Chudania and Nirvana are represented in the material under study. 
+Viraktamath and Wesley (1989) revised Indian Nirvaninae.
+
+4A
+
+34
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Key to the genera occurring in Khasi Hills
+
+I. Predominantly black; dorsal apodeme of 
+aedeagus poorly developed!, aedeagus with a
+
+pair of comb-like processes ... Chudani a Distant
+
+•^—Predominantly yellow or stramineous; dorsal 
+apodeme of aedeagus well developed;
+
+with processes not comb-like ... Nirvana Kirkaldy
+
+Chudania and Nirvana have venation very similar to that of Typhlo- 
+cybinae. They differ from Typhlocybinae in having dorsoventrally flattened 
+bodies, ocelli on disc of vertex near margin of compound eyes and a blunt 
+hind basitarsus.
+
+Genus Chudania Distant, 1908
+
+Chudania Distant, 1908, Fauna Br. India , Rhynchota, 4 : 268. Type species : Chudania 
+dejecta Distant ; Pruthi, 1934, Mem. Indian Mus., 11 (2) : 78 ; Evans, 1947, 
+Trans. R. ent. See. Lond., 98 : 177.
+
+Diagnosis : Vertex about as long as wide between eyes; ocelli situated 
+sublaterally in front of eyes which project behind the anterior margins of 
+pronotum. Face centrally carinate on basal half, and somewhat globose. 
+Pronotum convex at the anterior margin and concavely sinuate at the 
+posterior margin. Forewing broad, extending beyond the apex of abdomen. 
+Posterior tibiae thickly and finely spinulose. Male pygofors sclerotised; 
+connective Y-shaped, aedeagus with a pair of corhb-like processes laterally.
+
+Chudania is represented by three species, one e(ach from India, Africa 
+and Fukien. Chudania delecta Dist. is reported here. Other species are 
+C. exposita (Fukien, China), C. africana Heller (Cameroon, Africa).
+
+Chudania delecta Distant 
+(Text fig. 9, a-h)
+
+Chudania delecto Distant, 1908, Fauna Br. India ., Rhynchota , 4 : 268 ; 1918, Ibid., 
+7 : 29; Pruthi, 1934, Mem. Indian, Mus., 11 (2) : 78 ; Jacobi, 1944, Munchen 
+Ent. Geseh. Mitt., 34 : 52; Evans, 1947, Trans. R. ent. Soc. Lond., 98 : 17.
+
+Diagnosis : Predominantly blackish; head, pronotum and scutellum 
+completely black. Vertex about as long as wide between eyes; margins 
+slightly reflexed. Ocelli sublateral, situated dose to eyes. Eyeis and ocelli 
+castaneous. Face with its basal half black and finely punctate; clypelius, 
+lora and genae ochraceous; basal half of frontodypeuis medially carinate; 
+lora long, not reaching the apex of clypelius. Forewing marked with black, 
+as in figure. Legs yellow; hind femoral spinulation 2+1+1.
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+35
+
+Chudanta detecta Olstant
+
+Text fig. 9. Chudattia delecta Distant a-Habitus.. .dorsal view; b-Face.. .ventral view;
+
+c-Male plate...ventral view; d-Style...dolrsal view; e-Style apex...dorsal 
+view ; f-Aedeagus.. .lateral view ; g-Aedeagus.. .dorsal view; h-Connec- 
+tive...dorsal view
+
+Male genitalia : Pygofer rounded and highly sderotised with a ventral 
+club-like process. Tenth segment long and sderotised. Male plate with 
+an oblique row and numerous marginal hair-like setae. Style spanmer-shapped
+
+36
+
+Rec. Zool. Surv. India, Occ. Paper No, 127
+
+with a long base. Connective Y-shaped with a long stem. Aedeagus 
+strongly bent at the middle, basal half sclerotised, the apical half membraneous 
+and divided caudally; a pair of antero-dorsally directed long processes arise 
+from point, where aedeagus articulates ventrally with the connective; a 
+pair of three to four digitate processes arise laterally at the point where the 
+shaft is bent and another pair of simple ventrally directed' processes at about 
+the mid-ventral point of the membraneous part of the aedeagus.
+
+Measurements : Male 5.55 mm long and 1.2 mm wide.
+
+Specimens examined : India : Meghalaya : Mairang 1 cT, 2.xii.l977„ 
+K. R. Rao, Coll.
+
+Host: Collected by sweeping on plants having Fragarb nilgiriensis Schl.
+
+Remarks : Chudawa delecta is knowim from Kurseong and Bengal.
+
+It is also reported from Fukien by Jacobi (1944).
+
+Genus Nirvana Kirkaldy, 1900
+
+Nirvana Kirkaldy, 1900, Entomologis*, 33 : 292; Type species : Nirvana
+
+pseudommdios Kirkaldy; Distant, 1908, Fauna Br . India, Rhynchota, 4 : 
+281 ; 1918, Ibid., 7 : 33; Pruthi, 1934, Indian Forest Rec. ent. ser., 19 (4) :
+
+17 ; Evans, 1947, Trans. R. ent. Soc. 98 : 177 ; Ishihara, 1953, Matsuyama 
+agr. Coll. Sci. Rep., 11 : 19.
+
+Diagnosis : Yellowish white or pale ochraceou®, vertex nearly twice as 
+long as pronotum; apex subangular. Ocelli situated' on lateral margins of 
+vertex, closer to the eyes. Antennae simple, long. Frontodypdus slightly 
+concave. Scutellum about as long as pronotum. Tegmiina with veins 
+evanescent except for apical ones.
+
+At present 10 species of Nirvana are known from the world. They are 
+N. adelaideae Evans, N. babai Ishihara, N. insignis Distant, N. koreana 
+Matsumura, N. orientals Matsumura, N. pallida MeBchar, N. phUIppinensts 
+Baker, N. placida Stal, N. pseudommatos Kirkaldty and! N. suturalis Melichar.
+
+Two species are reported from Khasi Hills viz., Nirvana pallida 
+Melichar and Nirvana shillongensls Rao.
+
+Key to the species of Nirvana from Khasi Hills
+
+1. Vertex with a black spot, from which two 
+longitudinal lines arise and unite at the base 
+of vertex, ventral process of pygofer curved 
+dorsally; aedeagus with a pair of subapical 
+caudally directed divergent processes
+
+-Vertex without black spot, but with a
+
+median white line from base to tip
+
+Nirvana shilhtigensis 
+Rao
+
+pallida Melichar
+
+Rao : Collection of leafhoppers from Meghalaya 37
+
+Nirvana shiUongensls Rao 
+(Text fig. 10, a-c)
+
+Nirvana shttlotigensis Rao, 1989, Hexapoda, 1 (1) : 62, fig. 14-19.
+
+Nirvana shiUonaensjs $p. nov.
+
+a
+
+Text fig. 10. Nirvana shillongensis Rao a-Habitus...dorsal view; b-Face...ventral view; 
+c-Forewing.. .dorsal view
+
+Diagnosis : Vertex long more than than one and half a times the 
+median length of prosotum; dorsal apodeme, aedeagus with short spines, 
+shaft curved anteriorly,, ventral process of pygotfer accumiinate.
+
+Male 4.08 mm long and 0.92 mm wide.
+
+Distribution : Moirang, Meghalaya.
+
+3$ Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Nirvana pallida Melichar 
+(Text fig. 11, a-d)
+
+Nirvana pallida Melichar, 1903* Homopteren Fauna Von Ceylan , 166 , Distant, 1908, 
+Fauna Br. India, Rbyndhota, 4 : 284; Pruthi, 1934, Indian Forest Rec. enL 
+ser., 19 (4) : 17 ; Evans, 1947, Trans. R. ent. Soc. Lond., 98 : 176 Ishihara. 
+1953, Matsuyama agric. Coll. Sci. Rpt., 11 : 19; MaJtbur, 1953 1 , Hemiptera, 
+Indian Forest Lcaft 121 (3) : 164.
+
+Nirvana pallida Melichar
+
+Text fig. 11. Nirvanna pdllida Melichar a-Head and thorax...dorsal view;
+
+ventral view; c-Forewing...dorsal view; d-Female genitalia...ventral view
+
+Rao : Collection of leafhoppers from Meghalaya 39
+
+Vertex pale ochraoeous, less than twice as long as length of pronotum; 
+a pale white line running from its apex to the base. In some, it extends 
+to the pronotum medially upto one-third of its length. An orange yellow 
+streak present on each lateral side of vertex. Face pale ochraceous, fron- 
+toclypeus with faint transverse striations, medially carinate from basal one- 
+third, thrice the length of dypellus medially. Pronotum with a distinct 
+well impressed oblique line ini anterior margin. Scutellum whitish. 
+Forewing with a brownish dot in median apical cell, two large marginal 
+oblique brownish stripes on the costal margin beyond' middle. Abdomen 
+pale ochraceous beneath.
+
+Female genitalia : Pygofers long and convex; hind margins of 
+seventh sternum concave.
+
+Measurements : Female 4.12 to 5.4 mm long and 0.88 to 1 mm wide.
+
+Specimens examined : India : Meghalaya : Sonaipahar, 4 9 9 , 20.xi 
+1977, K. R. Rao, Coll.
+
+Distribution : This is well distributed in the Oriental Region especially 
+in the Indo-Malayan and Indo-China Regions. In India, it is known from 
+Calcutta. Box (1953) reported it also from Madras.
+
+Remarks : This species superficially resembles kana decora Melichar 
+in having yellowish longitudinal stripes along the lateral sides of vertex, 
+but can be distinguished by the distinct longitudinal vefim on fore wing 
+and by the bright yellow stripes on it. In the case of decora, the longitudinal 
+veins are obscure and the stripes on the hind wing are brownish.
+
+4. Subfamily : Coelidiinae
+
+Leafhoppers ranging from 5 to 9 mm in length usually brownish or 
+blackish. Head always narrower than pronotum; frontoclypeus long, 
+narrow and parallel-sided; lateral facial sutures extending to ocelli; genae 
+very broad, completely covering the epistemum and meieting dypellus as 
+a broad plate; fore wings usually broad apically, costal margins of wings 
+expanded basally in macropterous forms, appendix well developed.
+
+Coelidiinae is well represented in all the principal geographical regions 
+of the world, and particularly abundant in the Oriental and Neotropical 
+Regions.
+
+40
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Nielson while revising the subfamily, Coelidiinae of the World, included 
+nine tribes namely, Tinobregmini, Sandersellini, Thandni, Teruliini, Hikagriini, 
+Youngolidini, Gabitini, and Coelidiini in it. He synonymised several genera, of 
+Distant with the genus Thagria and also transferred several Indian specifes of 
+Jassus into Thagria.
+
+The following genera are reported from India : Thagria (Synonyms : 
+Sabima Distant, Dharmrm (Distant), Guliga Distant, Mukwana Distant and! 
+Soortana (Distant), Placidius Distant, Coelidia Germar, Aeternus Distant, 
+Taharana Nielson.
+
+A single genus viz., Taharana Nielson occurs in Khasi Hills. Primarily 
+being' an Oriental genus and well distributed 1 in South East Asia, it is being 
+reported from India for the first time.
+
+Genus Taharana Nielson, 1982
+
+Taharana Nielson, 1982. Pacif. Ins. Monogr., 38 : 50; Type species : Coelidia sparsa 
+St&l.
+
+The genus Taharana has been' reported from the following countries : 
+Burma, Thailand,' Vietnam, Singapore, Malaysia, Indonesia, Cambodea, 
+China, Philippines and Laos and ose species range® into Ethiopian Region 
+also (Nielson 1982).
+
+Taharana khasiensis Rao 
+(Text fig. 12, a-lb)
+
+Taharana khasiensis Rao, 1989, Hexapoda, 1 (1) : 64, fig. 20-27.
+
+Diagnosis: Vertex with a central fine carinatifon!; face longer than 
+broad. Fore wing with pre apical oellsi, appendix well developed. Male 
+plate with serrations on meso and latero caudal angles.
+
+Distribution : Satmowedom, Khasi Hills, Meghalaya.
+
+5. Subfamily : Penthimiinae
+
+Oman (1949) and Evans (1972) have enumerated the diagnostic 
+characters of the subfamily.
+
+Linnavuori (1977) gave a detailed description of the subfamily.
+
+Body short and depressed, of black, duU red or brownish colouration 
+with yellow, orange or green markings. Head, thorax asd abdomen and 
+be pitted and bear microsetae. Face usually wider than long. Ocelli
+
+Rao : Collection of leafhoppers from Meghalaya
+
+41
+
+Taharana khasiensis Rao
+
+Text fig. 12. Taharana khasiensis Rao a-Head and. thorax...dorsal view; b-Face... 
+ventral view
+
+situated adjacent to the lateral facial sutures or may be placed vettutrally or 
+dorsally, rarely marginal. Lateral facial sutures terminate at antennal pits 
+or extend beyond the anterior margin of head. Macropterous, forewing 
+broad and appendix wide. Hind femora with five macrosetae, hind tibiae 
+curved with an armature of strong spines. Male pygofers without processes 
+and often bilebed. Styles short. Connective Y-shaped. Male plate broad, 
+basally.
+
+Evans (1971) suggested that the genus Magnentius Pruthi, which he 
+had formerly included in the subfamily Macropsinae should be transferred 
+to Pentbimiinae. Linnavuori (1978) placed Magnentius in the subfamily 
+Nfoniinae under a new tribe Magnentiini.
+
+Penthimiinae are universally distributed in all principal geographical 
+regions, especially in the Oriental region. They are also well represented 
+in Afrotropical, Australian and Holarctic regions.
+
+42
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+They inhabit boith trees and shrubs. In Africa they are abundant in 
+rain forests and Savannah (Knight 1983). Penthimia theae Matsumara 
+feeds on tea in Formosa.
+
+The following genera are known from India viz.. Penthimia Germar, 
+Haranga Distant, Tambitia Distant, Malichus Distant, Vultumus Klrkaldy. 
+Neodartus Melichar and Uzelina Melichar. Out of the seven genera only 
+the genus Penthimia has been collected from Khasa Hills.
+
+Genus Penthimia Germar, 1821
+
+Penthimia Germar, 1821, Mag. Ent., 4 : 46; Type species : Cicada nigra Geoze;
+
+Distant, 1908, Fauna Br. India, Rhynchota, 4:21; Merino, 1936, Philip.
+
+/. Sci., 61 : 343 ; Chatterjee, 1939, Indian J. ent., 1:18; Evans, 1947, Trans.
+
+R. ent. Sac., 98 : 211 ; Ribaut, 1952, Faune Ft. 57 : 355; Ishihara, 1953,
+
+Matsuyama agric. Coll. Sci. Rep, 11 : 5; Linnavuori, 1977, Etudes, Cont.
+
+afr., 4 : 10.
+
+Diagnosis : Oman (1949) has redefined genus Penthimia. The genus 
+Penthimia is represented by 17 species in India out of which Penthimia 
+melanocephala de Motschulsky alone is being reported from Khasi Hills.
+
+Penthimia melanocephala de Motschulsky 
+(Text fig. 13, a-i)
+
+Penthimia melanocephala de Motschulsky, 1863, Bull. Soc. Nai. Moscou, 36 : 95;
+
+Distant!, 1908, Fauna Br. India, Rhynchota, 4 : 241 ; 1918, Ibid., 7 : II;
+
+Pruthi, 1934, Indian Forest Rec. {Ent. Ser .) 19 (4) : 13.
+
+Vertex piceous, shorter than pronotum, anterior half convex, strongly 
+striate transversely, posterior half flat, minuldy punctate, ocelli on disc 
+situated nearer to eyes than to each other. Face piceous, frootoclypeus 
+strongly reflexed anteriorly and transversely striate; anterior area with an 
+arched greyish furrow. Scutellum triangular, castaneous, basal angles with 
+a short brown spot at each side, transversely impressed with a piceous arch 
+on disc, apical area finely transversely wrinkled. Forewing castaneous, 
+inner claval margins upto the apex of scutellum and claval suture dark 
+piceous, forewing with pale white round spots, apex with a pale oblique 
+whitish fascia, appendix broad and well marked on the inner margin. Femora 
+generally black, apices of femora and tibiae ochraceous.
+
+Male genitalia : Pygofer broad, ventral margin truncate, postero- 
+dorsal margin with numerous setae, valve triangular. Male plate broad at 
+base, narrowed towards apex. Style long, narrowly produced anteriorly.
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+43
+
+Penth'imia meUnpcephata Melfchar
+
+Text fig. 13. Penthimia mclanocephah Melichar a-Head and thorax.. .dotrsal view;
+
+b-Face...ventral view; c*Pygofer...lateral view; d-Valve and Male plate 
+...ventral view; e-Connective...dorsal view; f-Style...dorsal view; 
+g-Aedeagus...dorsal view; h-Aedeagu*...ventral view; i-Female genitalia 
+...ventral view
+
+44
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+pre-apical lobe poorly developed!, apophysis short, apex curved laterad 
+Connective Y-shaped, arms widely separated. Aedeagus short, shaft short 
+and curved, gonopore broad, subapical.
+
+Female genitalia Seventh sternum posteriorly produced, lateral 
+margins sinuate; pygofers broad, piceous anteriorly.
+
+Measurements : Male 4.6 mm long and 1.68 mm wide. Female
+
+4.76 mm long and 1.69 mm wide.
+
+Specimens examined : Indit : Meghalaya : Shillong : 1 cf, 1 $ » 6.xi. 
+1981, C. A. Viraktamath, Coll.
+
+Distribution : India, Burma and Sri Lanka. Within Indian limits, it 
+is restricted to Southern India i.e. Nandidrugk Madras and Coorg.
+
+Remarks : Penthimia melanocephala resembles P. compacta Walter 
+in the shape of head, pronotum and scutellum but can be distinguished 
+from it by the castaneous colouration of the body. In P. melanocephala 
+the apex of forewing is provided with a pale oblique whitish fascia and 
+the entire forewing is covered with pale whitish round shadings. In 
+P. compacta however, apex of foiewing is hyaline and veins are covered 
+with fuscous spots.
+
+6. Subfamily : Aoostemminae
+
+Linnavuori & Quartau (1975) characterised the subfamily in detail. 
+Appanna and Dover (1932) and Pnithi (1934a) discussed the economic 
+aspect of the species Acostemma walkeri Kirkaldy, the only species of the 
+subfamily occurring in the Indian subcontinent
+
+Genus Acostemma Signoret, I860
+
+Acostemma Signoret, I860, Homopteres Soc. Ent. de France Ann., 8 (3) : 204 ; Type- 
+species : Acostemma marginalis Signoiet.
+
+Aero porn : Melichar, 1903, Horn. Fauna Ceylon, 68; Type species : Gypona prasina 
+Walker; Distant, 1908, Fauna Br. India, Rhynchota, 4 : 300.
+
+Acostemma : Evans, 1954, Mem. Inst. Sci. Madagascar, (E) 4 : 116 ( —Acropona 
+Melichar).
+
+Diagnosis : Linnvuori and Quartau (1975) characterised the genus 
+in detail.
+
+RAO : Collection of leaf hoppers from Mtighalaya 45
+
+Acostemma walker! (Kirkaldy)
+
+(Text fig. 14, a-j)
+
+Acostemma walk erH Kirkaldy)
+
+Text fig. 14. Acostemma walkcri (Kirkaldy) a-Head and thorax...dorsal view; b-Face 
+...ventral view; c-Forewing...dorsal view; d-Pygofer...lateral view; 
+e-Style...lateral view; f-Sfyle...dorsal view; g-Aedeagus and Connective 
+...dorsal view; h-Aedeagus and Connective...lateral view; i-Male plate 
+of one side.. ventral view; j-Female genitalia.. .ventral view
+
+46
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Gypona prasina Walker, 1858, List. Horn. Bn Mus. suppl., 258.
+
+Titia (?) walkeri Kirkaldy, 1900, Entomologist, 33 : 294, nom. nov. pro Gypona 
+prasina Walker, 1858, not Gypona prasina Burmestier, 1839.
+
+Eogypona walkeri Kirkaldy. 1901, Entomologist,, 34 : 39 (—Gypona (?) walkeri 
+Kirkaldy, =Gypona prasina Walker not Burmestier.
+
+Acropona prasina : Distant, 1908, Fauna Br. India, Rhynchota 4 : 300 ( =Gypona 
+prasina Walker, =Acropona (?) walkeri Kirkaldy.
+
+Acropona walkeri : China, 1926, Ann. Mdg. not. Hist., 17 (9) 349, 350 ( =Gypona 
+prasina Walker not Burmestier, Gypona walkeri Kirkaldy, =Acropona prasina
+
+Melichar; Appana and Dover, 1932, Indian Inst. Sci. jour., 6 : 13 ; Pruthi, 
+1934, Indian forest Rcc., 19 18; Mathur, 1953, Indian Forest Leaft,
+
+121 (3) : 160.
+
+Acostemma walkeri : Metcalf, 1966, Iassidae, General Catalogue of the Homoptera, 
+VI, 15 : 196.
+
+Female : Pale ochraceous or virescent. Vertex subtriangular with the 
+anterior margins ridged and with a central impressed line from base to half 
+ihe distance. Ocelli on the front border of the vertex close to eye®. Face 
+ochraceous, smooth; frontoclypeus convex; clypdlus narrow at base and 
+broader at apex; lora large, broad but not reaching apex of clypellus; genae 
+sinuate; lateral facial sutures extending to ocelli. Pronotum about one 
+and half times the length of vertex. Scutellum large, a little more than 
+twice the length of vertex and impressed transversely before apical area. 
+Legs ochraceous, posterior tibiae slightly curved. Forewing wiith four apical 
+cells and a cross vein between the claval veins. Posterior tibial spinulation 
+2+1 + 1 .
+
+Female genitalia : Seventh sternum large, posterior margin produced 
+slightly towards the ovipositor; ovipositor long, stout and slightly projecting 
+beyond posterior extremity of the abdomen.
+
+Male : Above virescent and beneath pale virescent. Eyes and a thin 
+streak along the anterior margin of vertex purplish red. Vertex faintly and 
+longitudinally striate. Pronotum finely punctate and transversely striate. 
+Posterior femoral spinulation 2+1 + 1. All' other characters same as in the 
+female.
+
+Male genitalia : Pygofer large, posterior margin notched, connective 
+broadly Y-shaped with the arms united posteriorly. Male plate long, united 
+basally and free at the apical end. Style long, the basal portion spanner¬ 
+shaped, posterior end membraneous. Aedeagus long, tubular in dorsal 
+aspect.
+
+RAO : Collection of leafhoppers from Meghalaya
+
+47
+
+Measurements : Male 8.85 mm long and 2.64 mm wide. Female 
+7.92 mm long and 2.42 mm wiide.
+
+Specimens examined : Indiia : Meghalaya : Shillong : 1 $ , 22,ix.1976, 
+K. R. Rao, Coll.; Karnataka : Bangalore : 1 4.ii 1983, C. A. Viraktamath, 
+Coll.
+
+Remarks : One male specimen collected and donated by Dr. Virakta¬ 
+math from Bangalore has been made use of for studying male genitalia. 
+The female is from Khasi Hills.
+
+Distribution : This species is distributed in Sri Lanka, India, Mahe 
+islands and Seychelles islands.
+
+7. Subfamily : Drabescinae
+
+Robust, broad and flattened species. Vertex three times broader 
+between eyes than long; ocell placed in fossae on cephalic margins. Elytra 
+with an appendix, two closed ante-apical cells. Anterior tibiae above sulcate. 
+Male plates with broad base, style well developed, apophysis distinct; 
+connective short Y-shaped; aedeagus symmetrical, gonopore subapical •„ 
+pygofer sclerotised with or without appendage.
+
+Genus Drabescus Stal, 1870
+
+Drabescus St&1, 1870, Ofvers. K. sevenska ventensk Akad. Forth., 27 : 73®; Type- 
+species : Bylhoscopus remotus Walker; Distant, 1908, Fauna Br. India , 
+Rhynchota, 4 : 304; Pruthi, 1930, Mem. Indian Mus. t II : 36; Merino, 
+1936, Philipp. J. Set., 61 : 366; Ishihara, 1953, Matsuyama agr. coll. Set.,. 
+Rep., 11 : 23 ; Mathur, 1953, Hemiptera , Indian Forest Leafl., 121 (3) : 
+161 ; Linnavudri, 1960, Acta ent. fenn., 150 : 144; Evans, 1972, Pacif. Insects, 
+14 (1) : 196.
+
+Diagnosis ; Linnavuori (1960) redescribed the genus. The genus is 
+distributed in Japan, Oriental Region and Afrotropical Regions. In India, 
+the genus is so far represented by seven species. A new species was described 
+from Khasi Hills (Raoi, 1989).
+
+Drabescus shillongensis Rao 
+(Text fig. 15, a-b)
+
+Drabescus shillongensis Rao, 1989, Hexapoda, 1 (1) : 65, fig. 28-34.
+
+5A
+
+48
+
+Rec. Zool. Surv. India, Oce. Paper No. 127
+
+Diagnosis : Vertex more than three times as broad as long. Fore 
+wing with a pale broad stripe across before the apex of clavus, veins with 
+white dots.
+
+Male 7.2 mm long and 2.6 mm wide.
+
+Distribution : Shillong, Meghalaya.
+
+Drabescus shillonqensis Rao
+
+Text fig. 15. Drabescus shillongensis Rao a-Head and thorax...dorsal view; b-Face... 
+ventral view
+
+8. Subfamily : Hecalinae
+
+Brownish or greenish, often with orange markings and usually distinctly 
+flattened dorsoventrally. Vertex flat, strongly produced with anterior margin 
+acute or foliaceous. Ocelli located on the antero-lateral margins or on the 
+crown near margiin. Genae uually sinuate at the margins. Lateral margins 
+of the head usually carinate. Some species exhibit strong sexual dimorphism. 
+Pygofers highly setose or bare they may be hooked, rounded or subacutely 
+pointed posteriorly. Valve triangular. Male plates are of various shapes 
+and possess setae. Connective Y-shaped. Aedeagus usually with processes 
+of various shapes, the shaft may be tubular, dorsoventrally flattened or 
+laterally compressed; gonopore apical or subapic
+
+RAO : Collection of leafkoppers from Meghalaya
+
+49
+
+Though most often grasses constituted host-plants, a few species have 
+been reported from Casuarina and Melaleuca. The subfamily is reported 
+from Casuarina and Melaleuca. The subfamily is reported from all the 
+principal geographical regions of the world.
+
+The fallowing genera are known from India viz., Hecalus Stal, Glosso - 
+cratus Fieber. A key to separate them has been provided by Morrison 
+(1973).
+
+Key to the genera included in the present study
+
+1. Hind femoral spinulation 2+2+1 +1 + 1 ; 
+female ovipositor not extending beyond 
+pygofer; male pygofer, with 2-3 rows of 
+short, stout setae on posterior margin
+
+-Hind femoral spinulation 2+2+1 ; female
+
+ovipositor extending beyond pygofer, male 
+pygofer without stout short setae on poste¬ 
+rior morgin
+
+Genus Hecalus St&l, 1864
+
+Hecalus St&l, 1864, Ann. Soc. ent. Fr., 4 (4) : 65, Type species : Hecalus pavkulli 
+St&l
+
+Parabolocratus Fiber, 1866, verh. Zool. bot. Ges. Wien., 16 : 502 ; Type species : 
+Parabolocratus glaucescens Fieber
+
+Thomsoniella Signoret, 1880, Ann. Soc. ent. Fr., 10 (5) : 52. Type species : Colum- 
+banus misranus Distant
+
+Linnavuorriella Evans, 1966, Mem. Aust. Mus., 12 : 134 ; Type species : Linnavuoriella 
+arcuatus (de Motschulsky)
+
+Hecalus : Distant, 1908, Fauna hr. India, Rhynchota, 4 : 273; Merino, 1936, Philip. 
+/. Sch, 61 : 313; Evans, 1947, Trans. R. ent. Soc. Lond., 98 : 141 ; Mathur, 
+1953, Hcmiptera, Indian Forest Leaft, 121 (3) : 158; Ishihara, 1953,
+
+Matsuyama agri. Coll. Sci. Rep., 11 : 35, Morrison, 1973, Facif. Insects, 
+15 (3-4) ; Anufriev, 1978, Trudy, ent. Obschch., 60 : 51.
+
+Diagnosis : Vertex sub-angularly acute, body oblong, elongated and 
+depressed. Eyes small or moderate. Ocelli on margins, next to eyes. 
+Pronotum transverse, very obtusely rounded at apex. Forewing rounded at 
+apex. Hind femoral setal spinulation 2+2+1. Posterior half of male 
+pygofer bears setae. Aedeagus with terminal processes. Female ovipositor 
+extending beyond pygofers. Seventh sternum with or without median 
+projection or notches.
+
+Glossocratus Fieber
+
+Hecalus Stal
+
+50
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Heccdus is represented in India by five species while two species are 
+reported from Khasi Hills. Varta moshiensis Rao is synonymised with 
+Hecalus arcuatus (de Motsch.)
+
+Key to the species of Hecalus Stal occurring in Khasi Hills
+
+1. Concentric parabolic fasciae on head and
+
+thorax; aedeagus with two pairs of processes ... arcuatus
+
+(de Moitschulsky)
+
+-Longitudinal orange fasciae on head, pro-
+
+notum and scutellum; aedeagus with a single
+
+pair of process ... porrectus( (Walker)
+
+Hecalus porrectus (Walker)
+
+(Text fig. 16, a-g)
+
+Acocephalus porrectus Walker, 1858, List. Horn. Br. Mus. Suppl., : 362.
+
+Thomsoniella porrecta : Melichar, 1903, Horn. Fauna Ceylon, 171. (= Acocephalus
+
+porrectus Walker) ; Distant, 1908, Fauna Br. India, Rhyncholta, 4 : 278. 
+(Acocephalus porrectus Walker)
+
+Parabolocratus porrectus : Distant, 1918, Fauna Br. India Rhynchofa, 7 : 31 (=Thom* 
+soniella porrecta Walker)
+
+Hecalus porrectus : Morrison, 1973, Pacif. Insects, 15 (3-4) : 421 (= Parabolocratus 
+porrectus Walker : Thomsoniella albomaculata Distant) ; Rad, 1973, zool. 
+Anz., 191 (1/2) : 93-94; 1980, Rec. Zool. Surv. India, 76 : 192; 1981, 
+Ibid., 78 : 2 (—Hecalus albomaculatus Distant)
+
+This species is well described by Morrison (1973) and hence only a 
+brief description is given' below. Pale ochraeeous or greenish ochraceous 
+species. Longitudinal orange fasciae—four on vertex, six on pronotum and 
+three or four on scutellum. Apex of fore wing with white round spots in 
+male and female without spots. Aedeagus with a pair of apical processes 
+directed laterad.
+
+Measurements : Male 4.34 to 5.22 mm long and 1.26 to 1.37 mm wide. 
+Female 5.94 to 6.05 mm long and 1.43 to 1.54 mm wide.
+
+Host: Oryza sativa
+
+Specimens examined .: India ; Meghalaya : Shillong, Fruit Garden, 
+3 J’J', 6 $ $ , 29.vii.1977, M. S. Jyrwa, Coll ; Umroi, 5 6 $ $ 20.xiL
+
+RAO : Collection of leafhoppers from Meghalaya
+
+51
+
+Hecalus porrec tus (Walker)
+
+Text fig. 16. Hecalus porrectus (Walker) a-Head and thatrax...dorsal view; b-Face...
+
+ventral view; c-Farewing...dorsal view; d-Pygofer...lateral view; e-Male 
+plate...ventral view; f-Sfiyle.. .dorsal view; g-Aedeagus and Connective... 
+dorsal view
+
+1977, Jyrwa, Coll.; Nongstoin, 11 5 $ 2 , 27.xi.1977, K. R. Rao,
+
+Coll.; Sonapahar, 10 9 2 2 , 26.xi.1977, K. R. Rao, Coll.; Sohryngkham,
+
+10 18 2 2, 13.L1978, K. R. Rao, Coll.; Shillong, Mallei forest,
+
+12 <?<?, 15 2 2 , 21.ix.1977, M. S. Jyrwa, Coll.
+
+52
+
+Rec. Zool Surv. I n dia, Ooc. Paper No. 127
+
+Distribution : The species is well distributed in Sri Lanka, India, 
+Burma, Maidive Islands, Java, Formosa, karakatau, sunda islands, Sambawa 
+and Australia.
+
+Remarks : Hecalus porrectus closely resembles Hecalus arcuatus
+
+(de Motschulsky) in having sanguineous fasciae on the vertex and the body, 
+but differs from it in having straight sanguineous fasciae to the vertex and 
+and pronotum and obsolete fasciae to the tegmeni. In case of Hecalus 
+arcuatus the fasciae are arcuate in shape and those an the fore wing are 
+distinct. Aedeagal shaft is with a pair of apical processes, where as arcuatus 
+has two pairs of apical processes.
+
+Hecalus arcuatus (de Motschulsky)
+
+(Text fig. 17, a-c)
+
+Acocephalus arcuatus de Motschulsky, 1859, Etud. Ent., 8 : 15.
+
+Hecalus arcuatus (de Motschulsky) : Rao, 1989, Hexapoda, 1 (1) : 66, fig. 35-40.
+
+Varta moshiensis Rao is synonymised with Hecalus arcuatus (de 
+Motschulsky) by Rao (1989) along with detailed description of the species. 
+Here only a brief account of the species is given.
+
+Diagnosis : Head and thorax with concentric parabolic fasciae. Pygofers 
+large; apophysis broad and attached to the style mid laterally; connective 
+Y-shaped; the arms distinct; aedeagus with two pairs of processes
+
+Males 5.06 to 5.77 mm long and 1.43 to 1.65 mm wide. Female 5.99 
+to 6.6 mm long and 1.54 to 1.65 mm wide.
+
+Distribution : Southern Asia, Queensland.
+
+Genus Glossocratus Fieber, 1866
+
+Glossocratus Fieber, 1866,, Verhi ZooL bot Ges. Wien., 16 : 502; Type species : 
+Glossocratus foveolatus Fieber
+
+Hecalus : Distant, 1908, Fauna, Br. India, Rhynchota, 4 : 273 (=Glosisocratus) ; 
+Evans, 1947, Trans. R. ent. Soc. Lend., 98 : 141 (= Glossocratus) ; Oman, 
+1949, Mem. ent. Soc. Wash., 3 : 32 (= Glossocratus) ; Ishihara, 1953, 
+Matsuyama agri Coll. Sci. Rep., 11 : 32 (^Glossocratus).
+
+Glossocratus Fieber : Morrison, 1973, Pacif. Insects, 15 (3-4).
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+53
+
+Hecalus arcuatusl deMotschulsky)
+
+0*5 mm
+
+Text fig. 17. Hecalus arcuatus (de Motschulsky) a-Head and thorax...dorsal view; 
+b-Face...ventral view; c-Forewing...dotrsal view
+
+Diagnosis : Vertx with lateral margins recurved. Ooelli nearer to eyes 
+than to each other. Hind femoral spinulatioai 2+2+1+1 + 1, Pygofers with 
+2-3 rows of short, stout setae on the posterior margin. Aedeagus with two 
+pairs of terminal processes. Female ovipositor not extending beyond pygofers.
+
+Glossocratus sp.
+
+(Text fig. 18, a-h)
+
+Vertex a little shorter than distance between eyes, narrowed toi apex, 
+lateral margins slightly recurved and with two central rows of piceous spots, 
+a piceous spot at the basal margin in the centre. Ocelli lateral), nearer to
+
+54
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Text fig. 18. Glossocratus sp. a-Head and thorax, .dorsal view; b-Face. .ventral view ;
+
+c-Forewing. .dorsal view; d-Male plate, .ventral view; e-Style. 
+dorsal view; f-Connective. .dorsal view; g-Aedeagus. .dorsal view; 
+h-Aedeagus. .lateral view.
+
+the eyes.. Pronotum brownish occhaoeous with minute piceous spots, the 
+latter well concentrated at the disc and the lateral and posterior margin 
+sinuate. Scutellum as long as pronotum, with castaneous spots at the disc.
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+55
+
+a piceous spot on lateral margin and apex with ferrugimeous spots. Scutellum 
+indistinctly punctate. Fore wing brownish cchraceous with nigroferrugineous 
+markings in the cells, veins reddish, apical cells four, outer anteapical cell 
+with two cross veins. Face at the anterior and lateral striations of fronton 
+clypeus darkly speckled with minute reddish brown spots; lora, clypellus 
+and genae with piceous to reddish brown spots; lora not reaching apex of 
+clypellus; dypellus and lora with minute setae white in colour. Posterior 
+tibial spinulation 2+2+1 + 14-1.
+
+Male genitalia : Pygofers heavily setose in apical half. Male plate 
+broad at base, more or less triangular with a few marginal setae. Style 
+with the apophysis finger-like with pre-apical lobe well developed. Con¬ 
+nective Y-shaped. Aedeagus with a short dorsal apodeme and with a 
+bulbous base, shaft with 'two dorsal lamellate more or less triangular pro¬ 
+cesses about one-fourth of its length; a pair of apical processes of the shaft 
+laterally curved with a basal tooth; gonopore apical.
+
+Measurements : Male 8.47 mm long and 2.42 mm wide.
+
+Specimens examined : Meghalaya : Shillong, 1 <^, 3.xi. 1976, K. R. 
+Rao, Coll.
+
+Remarks : The species dealt with here is the onid already studied and 
+recognised as a new species from Karnataka by Mr. B. V Ramakrishna 
+of the University of Agricultural Sciences, Bangalore. However, his results 
+are yet to be published.
+
+9. Subfamily : Deltocephaljnae
+
+Form variable but never too long or depressed; macropterous, brachyp- 
+terous, or subbrachypterous. Head sometimes strongly produced but never 
+foliaceous. Ocelli on anterior margin of head mostly near eyes. Lateral 
+facial sutures extending to ocelli. Ocellocular area not forming a ledge 
+above antennal pits. Lateral margins of pronextum short and not strongly 
+carinate.
+
+Male valve triangular or semicircular. Plates mostly triangular. Styles 
+with curved apophyses and more or less fused wlith posterior lateral angles 
+of plates.
+
+This is the largest subfamily of leafhoppers consisting of 3000 species 
+and has a universal distribution. This subfamily also harbours the largest 
+number of economically important genera and species; 77 out of 130 known
+
+56
+
+Rec. Zool. Surv. India, Ooc. Paper No. 127
+
+veotor species of plant pathogens belong to thiis subfamily (Viraktamatb 
+1983).
+
+Key to the tribes and genera of Deltocephcdinae found in Khasi Hills
+
+1. Aedeagal shaft and gdnopores paired (tribe 
+Opsiini) ; aedeagus with atrium not extend¬ 
+ing ventrad of shaft
+
+-Aedeagal shaft and gonopore single, not
+
+paired
+
+2. Forewing venation with four or more re¬ 
+curved cross veins; pygofer with dense 
+tufts of long setlae (tribe Scaphoideini)
+
+-Forewing venation without recurved cross-
+
+veins ; pygofer either densely or sparsely 
+setose
+
+3. Male style with poorly developed apophysis 
+for articulation with connective; branches 
+of connective greatly divergent laterally, 
+lying as a flat arc or on a straight line 
+(tribe Fieberiellini) male pygofer with 
+numerous long hair-like setae; vertex with 
+median large black spot
+
+-Male style with well developed apophysis;
+
+branches of connective diverge at an acute 
+angle or parallel to each other or parallel or 
+linear
+
+Hishimonus Ishihara.
+
+2
+
+Scaphoideus Uhler
+
+Phlogotettix Ribaut
+
+4
+
+4. Male connective forked with divergent ot 
+parallel branches never converging apically
+
+-Male connective loop-like or racket-like with
+
+apices of branches close together or meeting
+
+5. Two ante-apical cells on forewing; genital 
+plate usually with long apical appendage 
+(tribe Maciostelini)
+
+-Three ante-apical cells on forewing; plate
+
+usually without long apical appendage (tribe 
+Euscelini)
+
+6. Head without markings; basal segment of 
+hind tarsus distinctly sulcate; head usually 
+very short; aedeagus without processes
+
+5
+
+9
+
+6
+
+7
+
+Bdclutha Kirkaldy
+
+RAO : Collection of leaf hoppers from Meghalaya
+
+57
+
+-Head with black markings; basal segment
+
+of hind tarsus not sulcate basilly; head 
+longer medially than next: to eyes; aedeagus 
+with processes
+
+7. Male plate short, exceeded by style with 
+numerous long, filamentous setae in addition 
+to usual spine-like setae
+
+-Male plate normal noit exceeded by style,
+
+with usual spine-like setae only;
+
+8. Green species with black markings; apical 
+areas of forewing black; aedeagus with a 
+series of spines on its mesial area
+
+-Brown species with black markings; apical
+
+area of forewing not black ; aedeagus without 
+spines
+
+9. Male connective linear, fused with aedeagus 
+(tribe Deltocephalini)
+
+-Male connective and aedeagus articulated
+
+10. Male pygcfer with long dorsal processes; 
+vertex with a transverse black band between 
+eyes
+
+-Male pygofer without: dorsal long processes;
+
+vertex without a transverse black band but 
+may be marked with marginal and often 
+connected black spots
+
+11. Gonopore on dorsum of aedeagal shaft very
+
+poorly delineated ; shaft ending in a spine¬ 
+like process
+
+——Gonopore at apex of aedeagal shaft and 
+clearly delineated; extreme apex of aedeagus 
+notched
+
+12. Forewing with pale spots on broiwn or black 
+background
+
+——Forewing without such spots
+
+13. Male plate with an elongated process; pygo¬ 
+fer with a caudal articulated lobe (tribe 
+Jassargini)
+
+Macrosteles Fieber
+
+Cicadula Zetterst’edt
+
+8
+
+Nephotettix
+
+Matsumura
+
+Exitianus Ball
+
+10
+
+12
+
+Paramesodes Ishihara
+
+11
+
+Recilia Edwards
+
+Deltocephalus
+
+Burmeister
+
+Paraiimnus Matsumura 
+13
+
+Khasiana Rao
+
+6
+
+5S
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+-Male plate simple, pygofer entire not with
+
+articulated lobe
+
+14. Male pygofer with marginal black comb of 
+short, stout spines; aedeagus not very long 
+(tribe Doraturini)
+
+-Male pygofer without a comb; aedeagus
+
+very long and tubular (tribe Stirellini)
+
+14
+
+Aconurella Ribaut
+
+Doratulina Melichar
+
+Tribe Opsiini Emeljamov
+
+Macropterous. Vertex often wide, transverse. Eyes with or without 
+grooves on inner margin facing the scapes of the antennae. Space between 
+eyes and frontoclypeus wide even when frontoclypeus is narrow; ptfonotum 
+with lateral carina. Pygofers spinose, plates triangular with marginal stout 
+setae often with terminal membranous appendages; aedeagus paired with 
+two gomopores. Emeljanov (1962) while establishing the tribe recognised 
+three sulbtribes namely Opsiina, Circuliferima and Achaetina. Of these the 
+first two tribes occur in India. However Hishimonus of Olpsiina was found 
+to. occur in Khasi Hills.
+
+Genus Hishimonus Ishihaia, 1953
+
+Hishimonus Ishihara, 1953, Matsuyama agric. Coll. Sci. Rep., 11 : 38 ', Type Species :
+
+ThamnotettSx scllc.ta Uhler ; Knight, 1970, Suom hyont. Aikak., 36 : 125;
+
+1973, Ibid., 39 : 153; Ishihara, 1972, Trans. Shikoku ent. Soc ., It : 84;
+
+Hamilton, 1975, Can. Ent. 107 : 493.
+
+Diagnosis : Knight (1970) redefined Hishimonous.
+
+Sawai Singh (1971) suppressed Hishimonus and Hishimonddes in favour 
+of Cestius. Knight (1973) after studying the female Holotype of Cestius 
+versicolor recorded their separate status and concluded that “similarity 
+between Cestius and Hishimonus group of genera ( Hishimonus HishimOnoides, 
+Litura and Naevus), lies in the male genitalia only and that externally the 
+two groups are quite distinct” Ishihara (1972) considered Hishimonus a 
+valid genus. In India the genus is represented by four species viz-, H. phycitis 
+<Sohi). H. viraktamathi Knight and H. bengalnesis (Distant. None of these 
+is represented in the collections from Khasi Hills but a fifth One H. sona- 
+paharensis Rao is reported here.
+
+From the agricultural point of view, H. phycitis (Distant) transmits the 
+pathogens of “the little leaf of egg plant”, whiHe H. indicus (Sohi) and 
+H. viraktamathi Knight attack species of Terminalm in North and South 
+India, respectively. H. discigutta (Walker) is a serious pest of mulberry in 
+Japan.
+
+Rao : Collection of leaf hoppers from Meghalaya 59
+
+Hishimonus sonapaharensis Rao 
+(Text fig. 19, a-b)
+
+Hishimonus sonapaharensis Rao, 1989, Hexapoda, 1 (1) 67, fig. 41-45.
+
+Hishimonus sonapaharensis Rao
+
+Text fig. 19. Hishimonus sonapaharensis Rao a. Head and thorax, .dorsal view; 
+b. Face, .ventral view.
+
+Diagnosis: Vertex with a dark biown trams verse fascia at thie anterior 
+margin and disc. Pronotum more than one and half times the length of 
+vertex, brownish ochraceous. Scutellum shorter than pronotum. Male plate 
+without any process and with a series of stout sete along the lateral margins 
+aedeagus with short cylindrical shafts and apices with curved hooks directed 
+anteriorly.
+
+Male 2.86 mm long and 1.1 mm wide.
+
+Distribution : Sonapahar, Meghalaya.
+
+Tribe Macrostelini Kirkaldy
+
+Clypeus not constricted basally, genae not expanded, least width of 
+genae near clvpellus less than the least width of ocellocular area below 
+ooellus. Ocelli near eyes. Macropterous species. Forejwing with only two 
+amto-apical cells, the outer ante-apical cell being absent; style robust, pre- 
+apical lobe well developed., connective Y-shaped, aedeagus with well deve¬ 
+loped dorsal apodome.
+
+60
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+The genera belonging to this tribe have been collected from the Khasi 
+Hills viz., Macrosteles Fieber, Balclutha Kirkaldy.
+
+Genus Macrosteles Fieber, 1866
+
+Macrosteles Fieber, 1866', Verh. Zool. hot. Ges. Wien., 16 : 504; Typt species :
+
+Cicada sexnotata Fallen, 1896 ; Beime, 1982, Can. Ent. 84 208 ; 1956, 
+Ibid., SuppL, 2 : 65 ; Moore & Rose, 1957, Ann. ent. Soc. Am. 109, 115; 
+Anufriev. 19r58t, Zool. Zfli., 47 : 555 ; Nielson, 1968s Tech. Bull. US. Dep. 
+Agric., 1382, 165 ; Le Quesne, 1969, Handb. Ident. Bp. Insects, 2 (2b) : 133; 
+De Long, 1970, Ohio J. Sci., 70 : 114; Ishihara, 1983, Proc. Int. Symp. On 
+Leajhoppers and Plant hoppers economic importance, London, C.I.E. 459; 
+Viraktamath, 1983. Ibid., 490.
+
+Diagnosis: Oman (1949) has redefined the genus.
+
+Macrosteles is represented hitherto in India by two species viz., M. 
+sexnotatus (Fallen ) and M. indrina (Pruthi) Two new species in the 
+genus have been described elsewhere.
+
+Macrosteles picturatus Rao 
+(Text fig. 20, a-f)
+
+Macrosteles picturatus Rao, Hexapoda, 1 (1) : 69, fi$ 46-53.
+
+Diagnosis : Vertex with two black spots and two transverse bands. 
+Pygofer lobes squarish; aedeagus with ventrally curved processes which cross 
+each other. Males 2.54. to 2.99 mm and 0.64 to 0. 84 mm wide. Females 
+3.36 to 3.8 mm long and 0.85 to 0. 98 mm wide.
+
+Distribution : Sohoryngkham, Meghalaya
+
+Macrosteles brevis kao 
+(Text fig. 21, a 1 , a 2 , lb 1 , b 2 )
+
+Macrosteles brevis Rao, 1989, Hexapoda, 1 (1) : 70, fig. 54-61.
+
+Vertex with forceps-shaped or J-shaped black markings and without 
+transverse bands. Pygofer with lobe rounded caudally; aedeagus with 
+anteriorly curved processes which do not cross each other.
+
+Male 2.68 mm to 3.24 mm long and 0.77 to 0.86 mm wide Female 
+3.36 to 3.43 mm long.
+
+Distribution : Ranikor, Balat, Meghalaya.
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+61
+
+Macrosteles picturatus Rao
+
+Text fig. 20. Macrosteles picturatus Rao a. Habitus. .dorsal view; b. Face, .ventral 
+view; c. Fore wing, .ventral view.
+
+Rec. Zool. Surv. India, Ox. Paper No. 127
+
+62
+
+Macrosteles bfevis Rao
+
+a-I
+
+Text fig. 21, Macrosteles brevis Rao a-1 & a-2. Habitus of two forms, .dorsal view;
+
+b-1 & b-2. Faces of a-1 & a-2. .ventral view; c. Fore wing, .dorsal view
+
+Genus Balclutha Kirkaldyr-'I^OO
+
+Gnat hod us Fieber, 1866 not Pander, 1866, Verh. Zool.-bot- Ges. Wien., 16 : 505 ; 
+Type-species : Cicada punctatus Thunberg
+
+Balclutha Kirkaldy, 1900, Entomologist, 33 : 2431, Nom. nov. proc. Gnathodus Fieber, 
+1866 not Gnathodus Pander, 1856, Type-species : Cicadula punctatus Thun- 
+berg
+
+Eugnathodus Baker, 1903, Invert. Pacificia, Type-species : Gnathodus abdomtnalis 
+Van Duzee.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+63
+
+Anomiana Distant, 1918, Fauna Br. India, Rhynchota, 7 : 109; Type-species : 
+Anomiana longula Distant
+
+Balclutha : Pruthi, 1930, Mem. Indian Mus., 11 : 48 ; Evans, 1947, Trans. R. ent. 
+Soc. Land., 98 : 248 (=Gnathodus Fieber; Anomiana Distt'ant, Nesosteles 
+Kirkaldv eror) ; Distant, 1908, Fauna Br. India, Rhynchota, 4 : 36® ; Ribaut, 
+1952, Faune Fr., 63 : 40; Ishihara, 1953, Matsuyama A grid Coll. Sci. Rep., 
+11 : 36; Ghauri, 1%3, Ann. Mag. not. Hist., 13 (6() : 562; Blocker, 1967, 
+Proc. U.S. natn. Mus., 122, No. 3581 : 4-7. Sharma & Badan, 1985, 
+Entomotaxonomia, 7 (2) : 149-156; Knight, 1987, J. Nat. Hist., 21 : 1173.
+
+Diagnosis ; Slender, relatively small leafhoppers. Head slightly nar¬ 
+rower than pronotum. Elytra long, appendix well developed. Spinula- 
+tion of hind tibia 2 +2+1. Colour dull green to stramineous.
+
+Male plates broad basally and ending in slender somewhat membraneous 
+process distally, macrosetae uniseriate. Style with finger-shaped apophysis. 
+Connective Y-shaped. Aedeagus simple, recurved and acuminate, gonopore 
+subapical.
+
+The distribution of the genus is world-wide. Because of tliedr poly- 
+phagous grass feeding nature, these leafhoppers have beten easily transported 
+by commerce and have attained a wide distribution Knight (1987) pro¬ 
+vided a check list of species of Balclutha from the world, and redescribed 
+several species. He provided a key to the maids of Pacific species.
+
+Key to species of Balclutha from the Khasi Hiils
+
+1. Aedeagal shaft more than 3x longer than 
+basal bulbous area; head, pronotum, scutel- 
+lum and cells of forewing marked with dark
+
+brown ... versicolorides Ghauri
+
+--Aedeagal shaft not more than 2x as long as
+
+basal bulbous area; head, pronotum and
+
+scutellum not as above ... saltuella (Kirschbaum)
+
+Balclutha versicoloroides Ghauri 
+(Text fig. 22, a-f)
+
+Balclutha versicoloroides Ghauri, 1971, Bull. ent. Res., 61 : 117.
+
+Vertex pale ochraceous with two brownish spots on either side of the 
+brownish median line. Face ochraceous, ctypeus with pale brownish trans¬ 
+verse striations, dypellus long with lateral margins parallel; tat small.
+
+64
+
+Rec. Zool. Surv. India, Ore. Paper No. 127
+
+Balclutha versicoloroides Ghauri
+
+Text fig. 22. Balclutha versicoloroides Ghauri a-Head and thorax, .dorsal view, b-Face 
+ventral view; c-Forewing. .dorsal view; d-Style. .dorsal view; 
+e-Conneetive. .dorsal view; f-Aedeagus. .lateral view.
+
+not reaching the apex of clypellus. Pronotum more than twice the length 
+of vertex with five linear sanguineous fasciae, the central onq being narrowest, 
+anterior margin of pronotum with a series of small brownish spots, pos¬ 
+terior sinuate. Scutellum brightly ochraoeous, with a large transvese patch
+
+Rao : Collection of leafhoppers from Meghalaya
+
+65
+
+on each basal angle, a central thin longitudinal fascia and lateral margins 
+at the apex of scutellum all-sanguineous. Forewing pale brownish with 
+inner margins of some apical and ante-apical areas dark brownish.
+
+Male genitalia : Connective Y-shaped, arms short, well separated from 
+each other. Style with a well developed pre-aipical lobe and having long 
+setae, apophyses long deeply curved. Aedeagus with a well developed' dorsal 
+apodeme, shaft slender, tubular, long and curved.
+
+Measurements : Male 2.74 mm long and 0.8 mm wide.
+
+Host : Collected from weeds having chiefly chromolaena odoratum 
+(Linn.)
+
+Specimens examined : India : Meghalaya : Mairang, 1 l.xii.1977,
+
+K. R. Rao, Coll.
+
+Distribution : This species was originally described by Ghauri from 
+specimens from Simla and not reported from anywhere else
+
+Remarks : The single male specimen available differs from typical 
+B. versicoloroides as it has slightly shorter aedeagus and in the absence of 
+clouded pattern of colouration on vertex. But it agrees well with other 
+characters. It is presumed that variations observed are within the range of 
+variation expected in this species.
+
+Halclutha saltuella (Kirschbaum)
+
+(Text fig. 23, a-h)
+
+Jassus saltuellus Kirschbaum, 1868, Massau, ver. f. Naturk. JShrb. 21-22 : 86
+
+Cnathodus angustus Puton, 1866, Catalog. Hemp, psyllides fauna palearctic,, 3e Ed. 
+81 ; Then, 1901, Naturw. Ver. f. Stelemark nitt., 37 : 2615.
+
+Balclutha saltuella : (Oshanin) 1906, Lieferung, Mus. Zool. St. Petersburg Ann., 
+11 : 186 (—Jassus (Thamnotettix) saltuellus Kirschbaum, =Gnathodus 
+angustus Then) ; Ribaut 1952, Faune Fr., 63 : 67 ; Hamilton, 1983, Can. 
+Ent. 11S : 489.Knight 1987, /. Nat. Hist., 21 : 1182
+
+Measurements Male 2.03 to 2.08 mm long and 0.77 to 0.79 wide.
+
+Host: Collected by sweeping on Digitaria pedicellarts Pram.
+
+Specimens examined : India : Meghalaya : Shillong : Elephant Falls, 
+1 2 9 9 , 6.X.1977, K. R. Rao, Coll. ; Mairange, 3 5 9 9 , l.xii.1977,
+
+K. R. Rao, Coll.; Jakriem, 2 gg 8 9 9 , 4.xii.l977, K. R. Rao, Coll.;
+
+66
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Batclutha sattueUa (Kirschbaum)
+
+C
+
+Ttat fig. 23. Balclutha saltuella (Kirschbaum) a?Habitus. .dorsal view; b-Face. .
+
+ventral view; c-Forewing. .dorsal view; d-Male plate, .ventral view; 
+e-Style, apex, .dorsal view; f-Connective and Aedeagus. .dorsal view; 
+g-Aedeagus. .lateral view; h-Female genitalia, .ventral view.
+
+Mawsynram, 2 6 $ $ , 5.xii.l977, K. R. Rao, Coll; Bala, 2 $ $
+
+9.xid.l977, K. R. Rao, Coll.
+
+Rao : Collection of leafhoppers from Meghalaya 67
+
+Distribution : ll is well well distributed in Europe, Egypt and India,
+
+Remarks : This species resembles B. nicolasi (Leth.) in the general 
+shape of the male genitalia but can be distinguished from it by aedejagus 
+having a well developed dorsal apodeme and the shaft having only one 
+curvature instead of two.
+
+Tribe Deltocephalini Dallas
+
+Oman (1948) and Linnavuori (1960) defined this tribe in detail.
+
+Under the tribe Deltocephalini four genera from the Khasi Hills are 
+studied viz.. Recilia Edwards, Paralimnus Matsumura and Paramesodes 
+Ishlihara.
+
+Genus Recilia Edwards, 1866
+
+Recilia Edwards, 1922, Entomologist’s mon. Mag., 58 : 204; Type-species : Jassus 
+coronifer Marshall
+
+Inazuma Ishihara, 1953, Matsuyama agric. Cell. Set. Rep., 11 : 15 & 48; Type species : 
+Deltocephalus dorsalis de Motschulsky
+
+Recilia : Kramer, 1962, Proc. biol. Soc. Wash., 75 : 259; Nielson, 1968, Tech. Bull. 
+US. Dep. Agric. 1332 : 315 ; Ghauri, 1980, Reichenbachia, 18 (25) : 166..
+
+Diagnosis : Vertex obtuse, ocelli on anterolateral margin. Scuteillum 
+triangular broader than long; forewing longer in males of some species. 
+Male plate triangular with stout setae on lateral side; connective Y or U- 
+shaped and arms approximated. Aedeagus and connective fused, shaft long 
+and pointed at tip, gonopore dorsal.
+
+The genus is well distributed in the Palearctic, Ethiopian and Oriental 
+Regions. Tire genus Recilia differs from Deltocephalus ini the gonopore 
+being dorsal and ill-defined, whereas in the latter the gonopore is well-defined 
+and apical in position. The arms of the connective in ReciUa are approxi¬ 
+mated while they are divergent anteriorly in Deltocephalus.
+
+In India Recilia is so far represented by three species viz., R. dorsalis 
+(de Motschulsky), R. prabha (Pruthi ) and R. veinatus (Pruthi). Five 
+species are now reported from the Khasi Hills viz., R. dorsalis, R. prabha , 
+R. indica Rao R. maculata (Pruthi) and R. intermedia ( Melichar ).
+
+Recilia dorsalis (de Motschulsky) is the only species of the genus so 
+far known as a vector of virus disease of paddy (Nielson, 1979).
+
+Rec. Zool. Surv. India, Ooc. Paper No. 127
+
+68
+
+Key to the species of Recilia found in the Khasi Hills
+
+1. Fore wing with a zigzag brown stripe
+
+dorsalis
+
+(de Motschulsky)
+
+-Forewing either entirely brown or without
+
+zigzag brown stripe
+
+2
+
+2. Vertex with distinct large black spots
+
+3
+
+-Vertex without spots; if present, small, ill-
+
+defined, pale brownish
+
+intermedia (Melichar)
+
+3. Vertex with 4-5 brown to dark submarginal 
+spots, pronotum with four longitudinal brown 
+stripes, aedeagus tubular, gonopore short, 
+dorsal subapical
+
+indica Rao
+
+-Vertex with either three large or a single
+
+large black spot; pronotum without longitu¬ 
+dinal stripes; aedeagus boat-shaped, gono¬ 
+pore large, not well marked
+
+4
+
+4. Vertex with three well defined apots; pro¬ 
+notum yellow, scutellum with basal black 
+triangle
+
+maculata 
+(Pruthi), Rao
+
+-Vertex with single large black spot inter-
+
+rupted by three small ochraceous areas; 
+pronotum and scutellum dark brown
+
+prabha (Pruthi)
+
+Recilia dorsalis (de Motschulsky)
+
+(Text fig. 24, a-h)
+
+Deltocephalus dorsalis de Motschulsky, 1859, Etude, Ent., 8 :
+
+114.
+
+Deltocephalus fulguralis Matsumura, 1902, Termeszetr. Fuz 2 : 391.
+
+Deltocephalus dorsalis : Distant, 1908^ Fauna Br. India, Rhynchcta, 4 : 380 (=Delto¬ 
+cephalus fulguralis Matsumura ) : Pruthi, 1934, Indian Forest Rec. Ent. Ser., 
+19 (4) : 1-30.
+
+Inazuma dorsalis Ishihara, 1953, Matsuyyama agric. Coll. Sci. Rep-, 11 : 48
+
+(=Deltocephalus dorsalis de Motschulsky)
+
+Recilia dorsalis : Nielson, 1968, Tech. Bull. U.S. Dept. Agric., 1382 : 315 (=Inazuma 
+dorsalis Ishihara) ; Viraktamath, 1983, Proc. 1st International Symp. Leaf - 
+hoppers and planthoppers of economic importance, London, CUE., 497.
+
+Vertex ochraceous with a short pale brownish fascia and two short sub¬ 
+marginal fasciae; two pale obscure brown spots between eyes; (sometimes)
+
+RAO : Collection of leaf hoppers from Meghalaya
+
+69 -
+
+Recilia dorsalis Cde Motschulsky)
+
+Olmm
+
+Text fig. 24. Recilia dorsalis (de Motschulsky) a-Habitus. .dorsal view; b-Face.
+
+ventral view ; c-Forewing. .dorsal view ; d-Pygofer. .lateral view ; e?Male 
+plate and Style, .ventral view; f-Aedeagus and Connective, .dorsal view ; 
+g-Aedeagus and Connective, .lateral view; h-Female genitalia, .ventral
+
+vertex either with two longitudinal short pale brownish streaks aft apeix or 
+two semicircular pale spots and two brownish spots between eyeis. Ocelli 
+placed on lateral margins, nearer to eyes than to apax. Face broadler than
+
+7
+
+70
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+tong, ochraceous; lora short, convex, not reaching apex of dypellus; 
+fronitoclypeus marked with or without lateral brownish striations. Pronotum 
+ochraceous with irregular markings. Scutellum small, as long as vertex 
+with obscure pale patches at basal angles and a small brown streak 
+on each lateral margin. Forewing with zigzag markings, a brownish longi¬ 
+tudinal band arising from antero-lateral part traversing daval suture upto 
+clavus and then diagonally crossing to costal margin from the apex of 
+clavus, a central pale spot enclosed on claval sutures where fordwings meet.
+
+Male genitalia : Pygofer large, caudal margin minutely dentatel large 
+setae arising from mid-dorsal region, caudoventral region oblique. Male 
+plates large, narrowed to the apical end with large stout setae at lateral 
+margins. Connective Y-shaped, anus fused, Style large, the inner limb 
+(mesal) with a small curve at apex turned mesiad, pre-apical lobei small, 
+apophysis long, narrow at apex. Aedeagus long, fused with the connective, 
+shaft long, dagger-like.
+
+Female genitalia : Seventh sternum short, posterior margin truncate, 
+pygofers long, narrow, with stout setae at posterior margins; ovipositor long, 
+reaching posterior extremity of abdomen.
+
+Measurements : Male 3.07 to 3.32 mm long and 0.86 to 0.92 mm wide. 
+Female 3.35 to 3.52 mm long and 0.88 to 0.98 mm wide.
+
+Host : Collected from Oryza sativa
+
+Specimens examined : India : Meghalaya : Balat, 2 6 9 $
+
+8.xii.l977, K. R. Rao, Coll.; Shillong : Nogthumai, 1 <$, 4 9 9, 10.xii.1977, 
+K. R. Rao, Coll.
+
+Distribution : This species is distributed in India, Sri Lanka, Borneo, 
+Formosa, China and Japan.
+
+Remarks : It can be easily distinguished from other species of the 
+genus by the zigzag brown stripe on the forewing.
+
+Ling et al. (1983) listed four viruses of plant diseases transmitted by 
+this vector, viz., Dwarf, Gall Dwarf, Orange leaf and Tungio Virus. 
+Harris (1983) also reported on the transmission of Tungro virus by this 
+species. Viraktamath (1983) included this in the illustrated key for 
+separating the economically important leafhoppers.
+
+71
+
+Rao : Collection of leafhoppers from Meghalaya
+
+Recilia prabha (Pruthi)
+
+(Text fig. 25, a-h)
+
+Thamnotettix prabha Pruthi, 1930, Mem. Indian Mas., 11 : 62; Datta, 1972, Zodl 
+Am., 189 (1-2) : 199.
+
+Recilia prabha : Ghauri, 1980, Reichenbachia, 18 (25) : 166( (=ThamnoWix prabha 
+Pruthi)
+
+Recilia prabha (Pruthi)
+
+Text fig. 25. Recilia prabha (Pruthi) a-Habitus. .dorsal view; b-Face. .ventral view;.
+
+c-Foxewing. (male) .dorsal view; d-Forewing (female) .dorsal view; 
+e-Male plate and Style, .ventral view; f-Style. .lateral view ; g-Aedeagus 
+and Connective, .dorsal view; h-Aedeagus and Connective, .lateral view
+
+72
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Vertex anteriorly obtuse, anterior margin piceous, interrupted by three 
+pale ochraceous spots, posterior margin of vertex pale ochraceous. Face 
+broader than long, a small spot at base of frontodlypeus, posterior margins 
+and lateral transverse striae fuscous, sometimes fromtoclypeus with a pale 
+median fascia; clypellus broad at base and narrowed to apex with a 
+rectangular black patch on the disc; lora convex and dark fuscus. Pronotum 
+dark fuscous, anterior margin rounded, posterior margin nearly truncate, 
+anterior margin with a few pale ochraceous markings. Scutellum broader 
+than long, fuscous, with lateral margins ochraceous. Forewing dark brown, 
+long, narrow, reaching the posterior extremity of abdomen, appendix short; 
+forewing in females short, broad, with apical cells small and not reaching 
+the posterior extremity of abdomen. Legs ochraceous, posterior femoral 
+spinulatioon, 2+1 + 1.
+
+Male genitalia : Male plate triangular, with hair-like marginal setae 
+and stout submarginal setae on lateral margin. Connective V-shaped with 
+the arms fused and also fused with aedeagus. Style flattened anteriorly, 
+internal claw short, the pre-apdcal lobe well developd, apophysis short, apex 
+nearyl pointed, better discernible in lateral aspect. Aedeagus' fused with 
+connective, shaft boat-shaped, apical spine-like process short and straight.
+
+Female genitalia : Seventh stenum short, postrior margin concave, 
+•ovipositor long, slender, not exteaidig to posterior extremity of abdomen.
+
+Measurements : Male 2.51 to 2.83 mm long, and 0.83 to 0.86 mm 
+Avide. Female 2.84 to 3.08 mm long and 0.86 to 1 mm wide.
+
+Host : Collected from vegetation containing chiefly Paspalum drstidum 
+Linn, and Osbeckia crinita Benth.
+
+Specimens examined : India : Meghalaya : Shillong, Nongthumai, 
+2 cfc?, 3 9 9 , 9.viii.l975, M. S. Jyrwa, Coll.; Shillong, Happy valley,
+
+1 9 , 23.viii.1976, M. S. Jyrwa, Coll.; Shillong, Golf links, 3 5
+
+9 9 , 6.dx.l976, M. S. Jyrwa, Coll.; Upper Shillong, 2 <&?, 4 9 9 * 
+30.iv.1977, K. R. Rao, Coll.; Shillong, Moitinagar, 1 $ , 20.v.il978, P. B. 
+Thapa, Coll.; Shillong, Fruit Garden, 1 J 1 , 1 $ , ll.viid.1977, K. R. Rao, 
+Coll.; Shillong, Fruit Garden, 2 <&?, 3 9 9, 8.viii. 1983, M. S. Jyrwa, Coll.
+
+Distribution : This species is known to occur only from Dumpeep, 
+Khasi Hills.
+
+Rao : Collection of leajhoppers from Meghalaya
+
+73
+
+Remarks : This species closely resembles R. maculata (Bruthi) in 
+the general shape of male genitalia especially in the boat-shapped aedeagal 
+shaft. But it can be distinguished from maculata by colouration and by the 
+aedeagal shaft having the apical process short and straight, whereas in 
+maculata the aedeagal shaft is characterised by a strongly curved apical hook. 
+In addition to this, the colouration of vertex also serves to distinguish the 
+two species.
+
+Recilia indica Rao 
+(Text fig. 26, a-c)
+
+Recilia indica Rao, 1989, Hexapoda, 1 (1) : 72, fig. 62-64.
+
+Re cilia indica Rao
+
+C
+
+K
+
+05 mm
+
+Text fig. 26. Recilia indica Rao a. Head and thorax, .dorsal vitw; b. Face, .ventral 
+view; c. Fore wing, .dorsal view
+
+74
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Diagnosis : Vertex with 4-5 brown to dark submarginal spots, pro- 
+notum with) four longitudinal brown stripes. ScutaUum ochraceous, broodier 
+than long with three ochraceous bands. Fore wing with four apical and 
+three anteapkal cells. Style broad 1 basally, apophysis finger like with a 
+ventral tooth near apical one third. Aedeagus tubular, shaft slightly curved 
+dorsally near apex at it caudal margin, terminated by an elongated acumi¬ 
+nate spine.
+
+Male 3.75 mm long, 1.03 mm wide, females 3.4 to 3.45 mm long and 
+0.9 to 0.95 mm wide.
+
+Distribution : Nongstoin, Meghalaya.
+
+Recilia maculata (Pruthi)
+
+(Text fig. 27, a-d)
+
+Cicadula maculatus Pruthi, 1930, Mem. Indian Mus., 11 : 80-81.
+
+Recilia maculata (Pruthi) : Rno, 1989, Hexapoda, 1 (1) : 65-66.
+
+Diagnosis : Vertex with a small piceous spot at apex and two large} 
+piceous round spots below it. Scutellum ochraceous with a piceous spot 
+at each basal angle. Fore wing with four apical cells. Connective and 
+aedeagus fused, aedeagal shaft boat-shaped.
+
+The species maculata is taken from Cicadula and combined with Recilia 
+because of aedeagal shaft is long and pointed at tip where as in Cicadula 
+it is strongly curved dorso-anterbrly.
+
+Male 2.8 to 3.36 mm long and 0.89 to 95 mm wide.
+
+Female 3.05 to 3.36 mm bug and 0.95 to 1.03 mm wide.
+
+Distribution : This species is soi far recorded from Sikkim and Bengal.
+
+Recilia intermedia (Melichar)
+
+(Text fig. 28, a-c)
+
+Deltocephalus intermedius Melichar, 1903, Horn. Fauna Ceylon, 205.
+
+Recilia intermedia (Melichar) : Rao, 1989, Hexapoda, 1 (1) : 75, fig. 67-68.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+75
+
+RecilU maculata (Pruth‘0
+
+Text fig. 27. Recilia maculata (Pruthi) a. Habitus, .dorsal view; b. Face, .ventral 
+view; c. Fore wing, .dorsal view; d. Female genitalia, .ventral view
+
+76
+
+Rec. Zool. Surv. India, Ooc. Paper No. 127
+
+Recilia intermedia(Melichar)
+
+Text fig. 28. Recilia intermedia (Melichar) a. Habitus, .dorsal view; b. Face. . 
+ventral view; c. Fore wing, .dorsal view
+
+Diagnosis : Pronotum pate ochraceous, anterior margin rounded,
+
+posterior margin truncate. Scutellum broader than long, lateral margins 
+sinuate. Fore wing with four apical and three anteapical cells and a small 
+appendix.
+
+Male 2.66 to 3.3 mm long and 0.67 to 0.78 mm wide.
+
+Female 2.74 to 3.33 mm long and 0.75 to 0.78 mm wide.
+
+Distribution : This is known from India and Sri Lanka.
+
+Rao : Collection of leafhoppers from Meghalaya 
+Genus Paramesodes Ishihara, 1953
+
+77
+
+Paramesodes Ishihara, 1953, Matsuyama agric. Coll. Sci. 'Rep., 11 : 451; Type- 
+species : Athysanus albinervosus Matsumara; Linxiavuori, 1962, SuomaL 
+elain-ja kasvit. Seur. Van Julk-, 24 (3) (— coexitianus) ; Wilson, 1983, Ent.. 
+Sc and., 14 :
+
+Diagnosis: The genus includes broad, flattened, species of pale yellow 
+to brown colouration with prominent black subnmrgitnal band! on vertex 
+between ithe eyes.
+
+Wilson (1983) revised the genus Paramesodes and 1 reported 11 species 
+out of which eight were new from the old world.. Wilson also synonymised 
+Paramesodes ishurdii Mahmcod & Meher of Pakistan with P. lirteaticollis 
+(Distant).
+
+In India the genus Paramesodes is known by species viz., P. lineaticolUs 
+Distant and P. pusae Wilson and P. montanus Rao.
+
+Paramesodes montanus Rao 
+(Text fig. 29, a-c)
+
+Paramesodes montanus Rao, 1989, Hexapoda, 1 : (1) : 75, fig. 69-74.
+
+Diagnosis : Vertex four times as broad as long, shorter than pronotum 
+and wider than long with a broad transverse fasciae between the eyes. 
+Pronotum with seven longitudinal fasciae. Pygofer broad, process extending 
+beyond posterior margin of lobes.
+
+Male 6.27 mm long and 1.76 mm wide, female 6.32 mm long and 
+1.67 mm wide.
+
+Distribution : Sonapahar, Meghalaya.
+
+Tribe Doraturini Ribaut
+
+Vertex with anterior margin thickened as in Dora’ura and Doraturopsis 
+or may be smooth from vertex to face; usually brachyipterous. Sc and R 
+in hind wing join the apical sector. Plates triangular, broadly or narrowly 
+rounded, apically or obliquely truncate; connective and aedeagus distinctive,, 
+connective long and branched at anterior end of style. Aedeagus with 
+thick shaft, gonopore subapical. Ovipositor long, extending beyond pygofer,.
+
+8
+
+78
+
+Re c. Zool. Surv. India, Occ. Paper No. 127
+
+Paramesodes montan us Rao
+
+c
+
+i-1
+
+05 mm
+
+Text fig. 29. Paramesodes montanus Rao a. Head and thdrax. .dorsal view; b. Face 
+ventral view;c Fore wing, .dorsal view
+
+Genus Aconurella Ribaut, 1948
+
+Aconurella Ribaut, 1948, Bull Sod. Hist. nat. Toulouse, 83 : 57; 1952, Faune, Fr., 
+57 : 10; Type-species : Thamnotettix prolixus Lethierry; Lindberg, 1954, 
+Commentat. biol., 14 (1) : 217; Ghauri, 1974, Bull. ent. Res l, 63 : 553; 
+Anufriev, 1978, Trudy. Vses. ent. Obschch., 60 : 163.
+
+Diagnosis: Ribaut (1952) characterised the genus.
+
+The genus is well distributed in Palearctic and Oriental Regions. 
+<Jhauii (1974) reported Aconurella sofiana and A. erebus (Distant) from 
+India of which only A. solana occurs in the Khasi Hills.
+
+Rao : Collection of leafhoppers frpm Meghalaya 
+Aconurclla solana Ghauri, 1974
+
+79
+
+(Text fig. 30, a-i)
+
+Aconurella solana Ghauri, 1974, Bull. ent. Res., 63 : 533.
+
+Text fig. 30. Aconurella solana Ghauri a-Habitus. .dorsal view; b-Face. .ventral 
+view; c-Forewing. .dorsal view; d-Pygofer. .lateral view; e-Male plate 
+.ventral view; f-Style. .dorsal view; g-Gonnective. .dorsal view; 
+h-Aedeagus. .dorsal view; i-Aedaagus. .lateral view
+
+80
+
+Rec. Zool. Surv. India, Oce. Paper No. 127
+
+Vertex ochraceous with a transverse black fascia on the anterior margin, 
+shorter than pronotum. Face black, as long as broad, clypeus piceous, 
+laterally ochraceous, a large black patch on disc; lora small, black, not 
+reaching the apex of clypellus; genae ochraceous lower margins just reaching 
+the posterior margins of lora. Pronotum dark brown, longer than vertex, 
+anterior margin with small irregular black spots, minutely striate; anterior 
+margin round, posterior margin almost truncate, scutellum small with a 
+large piceous disc leaving the lateral margins ochraceous, transversely 
+impressed in the middle, two minute black spots above the transverse line. 
+Forewing hyaline, veins dark, abdomen black.
+
+Male genitalia : Pygofer with postero-ventral marginal and submarginal 
+areas wih a dark and dense comb of spines, disc with large and small' setae, 
+but not extending beyond the serrations. Male plate small, broad at base, 
+blunt at apex. Style broad at base, pre-apical lobe long and curved, 
+apophysis long. Connective Y-shaped with arms dose together. Aedegus 
+with a well developed dorsal apodeme, shaft long, gonopone apical.
+
+Female genitalia : Seventh sternum broad, posterior margin produced 
+in the middle with a piceous spot at the disc; pygofers dark brown with 
+stout bristles at the posterior margin; ovipositor dark brown extending tio 
+the posterior extremity of abdomen.
+
+Measurements : Male 2.8 to 2.94 mm long and 0.8 to 0.84 mm wide. 
+Female 2.94 to 3.3 mm long and 0.94 to 0.98 mm wide.
+
+Host : Collected chiefly from Solanum tuberosum.
+
+Specimens examined : Meghalaya : Shillong, Elephant Falls, 1 <?, 
+1 9' > 6.x. 1977, M. S. Jyrwa, Coll.; Shillong, Fruit Garden, 1 <£, 11 $ 9 ,
+
+S.xi.1977, M. S Jyrwa, Coll.; Nongklah, 2 3 9 $ , 4.xii.l977, K. R.
+
+Rao, Coll.; Dumpeep hills, 1 <£, 2 9 9 , 15.U978, K. R. Rao, Coll.
+
+Distribution : It is probable that the species is distributed throughout 
+the sub-himalayan range. Earlier it was reported from Simla only.
+
+Remarks : This species closely resembles Aconurelia erebus (Distant) 
+but can be distinguished from it by the structure of male pygofer. In A. 
+solana the postero-ventral margin is serrated along more than half its length 
+whereas in A. erebus it is entire, free of serrations. Male plates are much 
+shorter than pygofer in A. solana but they are slightly longer than pygofers 
+in A. erebus. A. solana also resembles A. sibirica (Leth.) but differs from 
+it by the aedeagus not being swollen.
+
+Rao : Collection of leafhoppers from Meghalaya 
+Tribe Fieberiellini Wagner
+
+81
+
+Fairly narrow frontoclypeus, apically wider, anteclypeus. There ard 
+distinct -though not sharp carinae above the antennae. The genital valve is 
+short, transverse. Plates, long with slightly subapically curved outer margins, 
+and with long marginal hair-like setae. Styles long, slightly curved with 
+scarcely developed apophysis for articulation with connective; connective with 
+greatly divergent branches lying! almost in a straight line. Pygofer long and 
+anal tube tapering.
+
+Genus Phlogotettix Ribaut, 1942
+
+Phlogotettix Ribaut, 1942, Bull. Soc. Hist 1 , nat. Toulouse, 262; Typ© species : Joss us 
+cyclops Mulsant and Rey, 1855.
+
+Phlogotettix indicus Rao 
+(Text fig. 31, a-c)
+
+Phlogotettix indicus Rao, Hexapoda, 1 (1) : 77, fig. 75-82.
+
+Diagnosis Vertex shorter than pronotum, with a large circular spot 
+in mid dorsal region the spot touching the posterior margin of vertetx. 
+Scutellum large, triangular. Fore wing with four apical cell's and well deve¬ 
+loped appendix. Aegeagus with pre-apical lobe and; ventral processes of 
+the same length; ventral processes of aedeagus directed dOrsally and termi¬ 
+nated by a pair of divergent processes.
+
+Male 4.6 mm long and 1.6 mm wide. Female 4.68 mmi long and 
+1.28 mm wide.
+
+Distribution : Ranikor, Meghalaya.
+
+Tribe Stirellini Emeljanov
+
+Small leathoppens. Head about as wide as pronotum, apex blundy 
+subconial; clypellus long, parallel-sided and extending beyond the normal 
+curve of genae; genae expanded, lateral margins sinuated, crowm distinctly 
+longer medially than next to eye; forewing) rather short, often brachypterous, 
+when fully developed not exceeding tip of abdomen in- maid and not 
+exceeding pygofers in female. Male genital capsule large, plates short, 
+triangular; connective elongate, anteriorly forked, aedeagus U-shaped, simple, 
+tubular. Ovipositor much longer than pygofer.
+
+The tribe Stirellini as defined here includes the Nearctic genera viz., 
+Stirellus Oslborn and Ball, Penestirellus Beamer and Tuthill, Gillettilla Osborn,
+
+82
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Kinonia Ball; and the Old World genus Doratulina Melichar as defined by 
+Vidas-te. Of these Doratulina is represented in the Khasi Hills
+
+Phlogotettix indicus Rao
+
+Text fig. 31. Phlogotettix indicus Racx a. HabiVus. .dorsal view; b. Face, .ventral 
+view ; c. Fore wing, .dorsal view
+
+Rao : Collection of leaf hoppers from Meghalaya 83
+
+Genus Doratulina Melichar, 1903
+
+Doralulina Melichar, 1903, Horn. Fauna, Ceylon, 198; Type-species : Doratulina 
+jacosa Melichar; Distant, 1908, Fauna Br. India, Rhynchota, 4 : 391 ; 
+Pruthi, 1930, Mem. Indian Must., 11 : 26, 29; 1934, Ibid., 11 : 97; 1936, 
+Ibid., 11 ; 11 ; Evans, 1947, Trans. R. Ent. Soo. Lond., 98 : 232.; Jshihiara, 
+1953, Matsuyama agric. Coll. Sci. Rep., 11 : 10; 1954, Dobutusugaku zasshi, 
+63 : 377 ; Vilbaste, 1965, Notul. ent., 45 : 1 (genus distinct’ from stirellus ) ; 
+Viraktamath 1976, Orient. Insects, 10 (1) : 79; 1980, Entomon., 5 : 1315.
+
+Diagnosis : Melichar defined the genus as under : “Vertex triangular, 
+produced as in Deitocephalus. Its anterior margin rounded, not cornered; 
+hexagonal beneath, face narrowed to the clypeus; ptfonottum shorter than 
+vertex, tegmina leathery, short, slightly truncated behind” The genus 
+however includes macropterous forms as well, having forewing with distinct 
+veins.
+
+Vilbaste (1965) reviewed the genera Stirellus Osborn and Ball, Aconura, 
+Lethierry t Aconura auct, Doratulina Melichar and a host of other genera 
+erected by Distant (1908, 1916) and Pruthi (1936). Be synonymised Vhry- 
+tiophyes Kirkaldy, 1906, Ary a Distant, 1908; CampbellineUa Distant, 1918 ; 
+Bituitus Distant, 1918; Paternus Distant, 1918; Voluscenus Distant),. 1918; 
+Nandidrug Distant, 1918; Allectus Distant, 1918 Galerius Distant, 1918, 
+Paivanana Distant 1918 ; Bella Pruthi, 1930; Sunda Pruthi, 1936; Aconura 
+Ribaut, 1948 and auct; Umesdem. Ishihara, 1961 with Doratulina Melichar, 
+1903. He also opined that a further subgeneric division of the genus will 
+be necessary based, on different head shapes. Following this clue, 
+Viraktamath (1976b) erected the subgenus Cymbopogonella. Viraktamath 
+and Viraktamath (1980) redescribed Doratulina notatus (Dsitant).
+
+Doratulina is represented in the Khasi Hills by four species, and a key 
+to separate them is included.
+
+Key to the species of Doratulina Melichar from the Khasi Hills
+
+1. Brachypterous, abdomen with five pale longi¬ 
+tudinal fasciae ... jacosa Melichar
+
+-Macropterous abdomen without fasciae ... 2
+
+2. Vertex with either black or sanguineous
+
+markings ... 3
+
+-Vertex without such markings ... solitaris (Melichar)
+
+3. Vertex with two round black spots; a large 
+piceous spot below antennal pits
+
+indra (Distant)
+
+84
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+--Vertex with a transverse sanguineous fascia
+
+before eyes, two oblique dark spots near
+
+base; no spots below antennal pits ... rubrolineata (Distant)
+
+Doratulina jacosa (Melichar)
+
+(Text fig. 32, a-f)
+
+Doratulina jacosa (Melichar)
+
+Text fig. 32. Doratulina jacosa (Melichar) a-Head and thorax, .dorsal view; b-Face 
+.ventral view; c-Forewing. .dorsal view; d-Valve and Male plate..., 
+ventral view; e-Connective, Aedeagus and Style, .dorsal view; f-Connec¬ 
+tive and Aedeagus. .lateral view
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+85
+
+Doratulina facosa Melichar, 1903, Horn. Fauna Ceylon, 199; Distant, 1908, Fauna
+
+Br. India, Rhynchota, 4 : 393 ; Pruthi, 1936, Mem. Indian Mus., 11 ; 110;
+
+Evans Trans. R■ ent. Soc. Land., 98 : 232.
+
+Vertex dark brownish with two round piceous spots near each eye on 
+disc; a pair of small piceous streaks below eyes. Face dark brown; 
+frontoclypeus long, finely punctate, piceous; olypellus pale ochraceous, 
+margins parallel; lora short, united to clypeltus beyond its middlle; genae 
+running through lower margins of lora; a foveate patch below eyes, piceous. 
+Pronotum dull brownish, shorter than vertex, a pair of small reddish spots 
+on the anterior margin and a narrow piceous submarginal band anteriorly, 
+posterior part of pronotum finely striate. Scutellum with a basal spot and 
+two angular obscure piceous spots. Forewing short only covering abdomen 
+at base, posteriorly truncate, longitudinal veins simple. Abdomen pale 
+yellow with five pale brownish longitudinal stripes. Apex of posterior 
+femora and inner and lower sides of the same black.
+
+Male genitalia : Pygofer large with an obscure small denticle on the 
+posterior rounded margin. Valve triangular. Male plate small with fine setae on 
+the caudal end. Connective Y-shaped, arms well separated. Style long, narrow 
+with the apophysis turned laterad, pre-apical lolbe not well developed 
+Aedeagus with a well developed dorsal apodeme, shaft long and slender* 
+sinuate.
+
+Measurements : Male 2.50 to 2.66 mm long and 0.80 to 0.82 mm in wide
+
+Specimens examined : India : Meghalaya : Mawsynram, 3^^, 5.xii.l977* 
+K. R. Rao, Coll.
+
+Distribution : This species is known from Sri Lanka and Japan.
+
+Remarks : This species can be distinguished from all other species of 
+the genus by the forewing being short and' covering the abdomen at base 
+only, and in being posteriorly truncate and also by five brownish, longitudinal 
+marks on the abdomen.
+
+Doratulina indra (Distant)
+
+(Text fig. 33, a-h)
+
+Typhlocyba indra Distant, 1908, Fauna Br. India, Rhynchota, 4 : 415.
+
+9
+
+36 Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Paivanana indra : Distant, 1918, Fauna Br. India, Rhynchata, 7 : 915 (=Typhlocyba 
+indra Disrtiant) ; Matsumura, 1931, Insecta matsum., 6 : 190; Prutfai 1934, 
+Mem. Indian Mus., II : 98 ; Evans, 1947, Trans. R. ent, Soc. Lend., 98 : 237.
+
+Doratulina indra : Vilbaste, 1965, Notul. ent., 45 : 10.
+
+Doratulina indra (Distant)
+
+Text fig. 33. Doratulina indra (Distant) a-Habitus. .dorsal view; b-Face. .ventral 
+view; c-Forewing. .dorsal view; d-Pygafer. .lateral view; e-Connective 
+.dorsal view; f-Style. .dorsal view; g-Aedeagus. .lateral view; 
+h-Female genitalia, .ventral view
+
+Rao : Collection of leafhoppers from Meghalaya
+
+87
+
+Vertex ochraceous, rounded at apex with two circular spots slightly 
+above disc piceous. Face brownish ochraceous; frontoclypeus long, broad 
+at base, lateral margins pale ochraceous, rest of the area brownish ochra¬ 
+ceous; clypellus long, pale ochraceous; lora small, outer margins in close 
+apposition with margins of genae; a large foveate marking below each 
+antenna, piceous. Pronotum ochraceous, as long as vertex. Scutdlum pale 
+ochraceous, triangular. Forewing ochraceous at the costal and claval 
+margins and greyish elsewhere: apical ells four, appendix small. Abdomen 
+greyish ochraceous.
+
+Male genitalia : Male plate small, narrow with setae on the mesial 
+(border. Pygofer small, its caudal end truncate, dorsal margins minutely 
+setulose, a small denticle-like structure dorsal! on posterior side. Connec¬ 
+tive Y-shaped with arms widely divergent. Style broad at base, pre-apioal 
+lobe moderately developed. Aedeagus with a well developed! apodeme, 
+shaft long and narrow.
+
+Female genitalia : Seventh sternum short, posterior margin sinute? 
+and notched at the centre. Pygofers long, ovipositor long, slender, extending 
+beyond posterior extremity of abdbmen, pygofers and ovipositor with stout 
+setae.
+
+Measurements : Male 2.8 to 3.06 mm long and 0.9 to 0.92 mm wide.. 
+Female 2.96 to 3.24 mm long and 0.88 to 1.2 mm wide.
+
+Host : Collected from plants containing chiefly Mikania micranthar 
+HB & K.
+
+Specimens examined : India : Meghalaya : Shillong, Fruit Garden, 
+2 2.xi.l976, K. R. Rao, Coll.; Nongklah, 9 9 9, l.xid.1977, K. R.
+
+Rao, Coll.; Puksora, 1 <$, 15 9 9 > 7.xi.l977, K. R. Rao, Coll.; Shillong,
+
+Tripura Castle Read, 2 9 9. 23.ix.1977, M. S. Jyrwa, Coll.
+
+Distribution : This is reported from India, Bengal.
+
+Remarks : This species closely resembles D. durga Distant in general 
+colouration and shape of vertex but differs from it in the presence of two 
+prominent black spots on the vertex between the anterior margin of the 
+eyes.
+
+Rec. Zool. Surv. India, Ox. Paper No. 127
+
+38
+
+Doratulina rubrolineata (Distant)
+
+(Text fig. 34, a-h)
+
+Ary a rubrolineotn Distant, 1908, Fauna Br. India. Rhynchota, 4 : 322; Pruthi,
+
+1930, Mem. Indian Mus., 11 : 40 ; Evans, 1947, Trans. R. ent. Soc. Lond.,
+
+98 : 229.
+
+Doratulina rubrolineata : Vilbaste, 1965, Notul. Ent., 45 '. 10 (=Arya rubrolineata 
+Distant)
+
+Arya rubrolineata : Rao, 1967, J. Bombay nat. His. Soc., 64 (1) ; 130; 1980, Rec.
+
+Zool. Surv. India, 76 : 193 ; 1981, Ibid., 78 : 2.
+
+Ooratulina robrolineata( distant)
+
+Text fig. 34. Doratulina rubrolineata (Distant) a-Habitus. .dorsal view; b-Face.
+
+ventral view; c-Forewing. .dorsal view; d-Pygofer. .lateral view; 
+e-Male plate, .ventral view; f-Aedeagus, Style and Connective, .dorsal 
+view; g-Aedeagus. .lateral view; h-Female genitalia, .ventral view
+
+Rao : Collection of leafhoppers from Meghalaya
+
+89
+
+Vertex pale ochraceous, rounded anteriorly with a transverse sangui¬ 
+neous fascia between the eyes and interrupted in the middle; a small patch 
+on either side of the dark median line sanguineous. Face ochtraceous; 
+frontoclypeus long, broad at base with 7-8 brown lateral fasciae, frontoclypeus 
+long, broad at apex; lora small, convex not reaching the apex of dypehus; 
+a spot on either side of the antennal base piceoius, pronotuom greyish 
+ochraceous. Scutellum ochraceous with a transvtrse impressed line in the 
+middle. Forewing long with a small appexdlix. Abdomen ochraceous, legs 
+pale ochraceous.
+
+Vertex pale ochraceous, rounded anteriorly with a transverse sangui¬ 
+neous fascia between the eyes and interrupted in the middle; a small patch 
+on either sids of the dark median line sanguineous. Face ochraceous; 
+frontoclypeus long, broad at base with 7-8 brown lateral fasciae, fronto¬ 
+clypeus long, broad at apex; lora small, convex not reaching the apex of 
+clypellus; a spot on either side of the antennal base piceous, pronotum 
+greyish ochraceous. Scutellum ochraceous with a transverse impressed line 
+in the middle. Forewing long with a small appendix. Abdomen ochra¬ 
+ceous, legs pale ochraceous.
+
+Male genitalia : Pygofer, large, rounded posteriorly and with an 
+obscure denticle on its posterior side. Male plate small with setae on the 
+lateral margins; connective Y-shaped, the arms well separated. Aedeagus 
+with a short dorsal apodeme, shaft long, slender, gonopore apical.
+
+Female genitalia : Seventh sternum broad, posterior margin deeply 
+concave, pygofers convex with stout setae on the disc, ovipositor long, stout, 
+extending to posterior extremity of abdomen.
+
+Measurements : Male 4.01 to 4.45 mm long and 0.96 to 0.99 mm 
+wide. Female 4.79 to 4.84 long and 1.0 to 1.18 mm wide
+
+Specimens examined : India : Meghalaya : Umran, 2 <^, 3 .99 
+3.xi.l975; M. S Jyrwa, Coll.; Shillong,Nongthumai, 6 9 9 , 4.xi.l976,
+
+M. S. Jyrwa, Coll.; Mawsynram, 1 <$, 5.xii.l977, K. R. Rao, Coll.; Maiwrapat 
+1 5 9 9 , 3.xii.l977, K. R. Rao, Coll.; Puksora, 16 9 9 , l.xii.1977,
+
+K. R. Rao, Coll., Malki Forest, 12 9 9 , 6.L1978, K. R. Rao, Coll.
+
+Distribution : It is reported from Bengal, Assam and Manipur.
+
+Remarks : Rao (1967) showed that the transverse sanguineous hand 
+on vertex varies from a single transverse band to two isolated transverse spots.
+
+90
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Doratullna solitaris (Melichar)
+
+(Text fig. 35, a-f)
+
+Aconura solitaris Melichar, 1903, Horn. Fauna Ceylon, 188. Distant, 1908, Fauna Br. 
+India, Rhynchota, 4 : 379.
+
+Doratulina solitaris Vilbaste, 1965, Notul. ent., 45 : 10.
+
+Doratulina solitaris (Melichar)
+
+Text fig. 35. Doratulina solitaris (Melichar) a-Habitus. .dorsal view; b-Face.
+
+ventral view; c*Forewing. .dorsal view; d-Pygofer. .lateral view; 
+e-Style. .dorsal view ; f-Aedeagus and Connective, .lateral view
+
+Rao : Collection of leafhoppers from Meghalaya
+
+91
+
+Vertex triangular, brightly ochraceous, lower margin pale ochraceous 
+and centrally impressed with a thin line, a pair of small brownish dot9 on 
+either side of the median line which are often absent. Eyes ferrugineous. 
+Face punctate all over. Frontoclypeus long with four to five short transverse 
+dull fuscorufous fasciae. Clypellus long, lora short, convex, not reaching 
+the apex of clypellus; genae enclosing lower margin of lora. Fronoitum pale 
+ochraceous, obscurely ridged longitudinally; scuitellum triangular piceous 
+marking at base and beyond middle an arcuate impression on the disc. 
+Forewing hyaline with four apical cells and a small appendix.
+
+Female genitalia : Seventh sternum bread, concave and notched at the 
+middle in the posterior margin. Pygofers large, pale ochraceous with short 
+setae at the lateral margins. Ovipositor long, than, extending beyond the 
+posterior extremity of abdomen.
+
+Measurements : Male 2.88 mm long and 1 mm wide. Female 3.36 mm 
+long and 1.02 mm wide.
+
+Host : Collected by sweeping on chromolaena odoratum (Linn.)
+
+Specimens examined : 1^,1 9 , India : Meghalaya : Ranikor,
+
+10.xii.1977, K. R. Rao, Coll.
+
+Distributions : It is so far known from India and Sri Lanka.
+
+Remarks : Two dark elongated spots near base of vertex and two 
+transverse linear impressions near anterior margins of pronotum with a 
+central ridge observed by Melichar, are noe discernible in the specimens at 
+hand. However, they agree with the rest of the description of the species. 
+It resembles D. columbensis in the general shape of body, but can be distin¬ 
+guished from it by the obscure impressions on the vertex and by the absence 
+of marginal spots on lora.
+
+Tribe Scaphoideini Oman
+
+Head subacuminate. Forewing long with well developed appendix. 
+Male plate short subtriangular. Pygofers with stout setae. Connective 
+Y-shaped. Aedeagus usually with a pair of paraphyses gonopore apical or 
+subapical.
+
+Genus Scaphoideus Uhler, 1889
+
+Scaphoideus t/bler, 1889, Trans. Maryland, Acad. Scl, 1:3-3; Type-species : Jassus 
+immistus Say; Distant, 1908, Fauna Bt. India. Rhynchota, 4 : 371, 1918, 
+Ibid., 7 : 64.
+
+92
+
+Rr.c. Zool. Surv. India, Occ. Paper No. 127
+
+Hussa Distant, 1918, Fauna Br. India, Rhynchota, 7 : 68; Type-species : Hussa 
+insignis Distant.
+
+Bolanus Distant, 1918, Fauna Br. India, Rhynchota, 7 : 89; Type-species ; Bolanus 
+laeticus Distant.
+
+Scaphoideus : Oman, 1949, Mem. ent. Soc. WaSpi., 3 120 (=Lonenus De Long;
+
+=Angenus De Long ; —Latenus De Long; Barnett, 1977, Trans. Am. ent.
+
+Soc-, 102 (4) : 494 (—Hussa Distant) ; 1979, /. Kans. ent\ Soc. 52 (3) :
+
+471; Anufriev, 1978, Trudy, Vses. enr. Obschch., 60 : 136.
+
+Diagnosis: Leafhoppers usually with brown or yellowish brown 
+colouration and with orange or yellow patterns on the body. Head trian¬ 
+gular, vertex as long as wide between, eyes or longer, Pronotum more 
+curved infront than behind. Forewing long with moderately developed 
+appendix; outer anterior anteapical cell small, placed obliquely in relation to 
+costal margin and usually acuminate distally; outer claval vein curved 
+distally and joining the commissural margin almost at right angles.
+
+Apex of male pygofer variously shaped with stout!, long pencils of 
+setae; connective Y-shaped with fused or attached apical paraphyses 
+aedeagus with shaft tubular, with or without a pair of apical or sub&pical 
+processes often articulated with the membranous and sclerotised anal collar 
+processes. Ovipositor extending well beyond gonopore in females.
+
+A cosmopolitan genus, Scaphoideus Uhler is represented in all the prin¬ 
+cipal zoogeographical regions. Distant (.1908, 1918) reported 18 species 
+from the Indian region. Matsumura (1932) and Barnett (1977b) have 
+synonymised Distant’s genera Bolanus and Hussa respectively with Sca¬ 
+phoideus. Scaphoideus coloratus Rao is reported from here.
+
+Key to the species of Scaphoideus occurring in the Khasi Hills
+
+Vertex with six connected vertical black 
+fasciae between eyes; pygofer with five stout 
+setae; outer of paraphyses before apex and 
+inner margin of aedeagal shaft with minute 
+denticles, arms of connective close to each 
+other; apex of aedeagal shaft minutely 
+bifid
+
+assamensis Distant
+
+Rao : Collection of leafhoppers from Meghalaya
+
+93
+
+■Vertex with transverse and arcuate sanguine* 
+ous fasciae between eyes; pygofer with 
+numerous slender setae; margins of para* 
+meres and aedeagal shaft entire; arms of 
+connective slightly divergent; apex cf aedea-
+
+shaft simple ... coloratus Rao
+
+Scaphoideus assamensis Distant 
+(Text fig. 36, a-h)
+
+Scaphoideus assamensis Distant, 1918, Fauna Br. India, Rhynchota, 7 : 67.
+
+Dark brownish species; vertex slightly shorter than width between eyes, 
+ochraceous with a spot at apex and six piceous linear patches connected with 
+each other between eyes. Eyes with dark inaciilations. Face ochraceous, 
+fronitoclypeus with lateral brownish stations. Pronotum about as long as 
+scutellum, dark brownish, anterior margin black one median and! two lateral 
+thin longitudinal lines, pale Juteous. Scutellum with a d!ark piceousi patch 
+at each basal angle and an obscure pale brownish longitudinal patch on the 
+disc; forew.ing -brownish with dark prominent veins and dark markings in 
+claval area, four oblique dark brown fasciae at subcostal area beyond middle..
+
+Male genitelia : Pygofer large with five long setae at dorsal area, its; 
+margin minutely serrated. Connective short, Y-shaped, its arms close to 
+each other, paraphyses of aedeagus long, united at the middle with 3-4 smalt* 
+denticles on the lateral margins beyond middle, apices pointed. Style long , 
+with pre-apical lobe well developed and provided with long setae, apophysis; 
+long, narrow and curved laterad; aedeagus with well developed dorsal! 
+apodeme, shaft long, bifid with two papillose structures at apex.
+
+Female genitalia : Hind margin of seventh sternum concave with a 
+median notch.
+
+Measurements : Male 5.22 mm long and 1.32 mm wide; female 
+5.91 mm long and 1.43 mm wide.
+
+Host : Collected by sweeping on grasses.
+
+Specimens examined ; Tndiia ; Meghalaya : Shillong, Malki forest,
+
+1 23.ix.1975, K. R. Rao, Coll.; Shillong, Malki forest, 1 9 , 19.v.l978„
+
+K. R. Rac, Coll.
+
+10
+
+Rec. Zool. Surv. India, Occ. Paper No. 127 
+Seaphoideus assaroensis Distant
+
+Text fig. 36. Scaphoideus assamensh Distant a?Habitus. .dorsal view; b-Faoe.
+
+ventral view; c-Pygofer. .lateral view; d-Aedeagus. .dorsal view; 
+e-Aedeagus. .lateral view; f-Style. .dorsal view; g-Connective and 
+paraphyses. .dorsal view; h-Female genitalia, .ventral view
+
+Distribution : After Distamt’s description in 1918 from Assam, this 
+species has not been reported from anywhere, which makes the present one 
+is second record.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+95
+
+Remark : The colouration of vertex is very distinct among the known 
+species of Scaphoideus . This species resembles S. stigmaticus Distant in 
+having three carinations on the pronotum and similarity in proportions of 
+head, pronotum and scutellum.
+
+Scaphoideus coloratus Rao 
+(Text fig. 37, a-b)
+
+Scaphoideus coloratus Rao
+
+d
+
+Text fig. 37. Scaphoideus coloratus Rao a. Habitus, .dorsal view; b. Face, .ventral 
+view.
+
+96
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Diagnosis : Vertex with transverse and arcuate sanguineouos fasciae 
+between eyes. Pygofer with numerous slender setae; margins of paraphyses 
+and aedeagal shaft entire; arms of connective slightly divergent; apex of 
+aedeagal shaft simple.
+
+Distribution : Shillong Nongthumai, Meghalaya.
+
+Male 4.34 to 5 mm long and 1.1 to 1.15 mm wide.
+
+Tribe Euscelini Naude
+
+Body form often robust. Elytra with two or three closed ante-apical 
+cells. Connective robust, Y- shaped, branches distinctly diverging and 
+articulate with aedeagus; other characters as in Deltocephallini.
+
+The tribe Euscelini is distributed in all all the principal zoo geographical 
+regions of the world. Three geners have been collected from the Khasi Hills 
+viz., Nephotettix Matsumura, Cicadula Zetterstedt and Exitianus Ball.
+
+Genus Exitianus Bull, 1929
+
+Exitianus Ball, 1929, Trans. Am. ent. Soc., 55 : 5 ; Type species : Cicadula obscurinervis 
+Stal, 1 £59.
+
+Mimodrylix ZachvaUkin, 1935, Ber. Moskauer Staats. Univ., 4 : 108; Type
+
+species : Athysanus capicola Stal, 1855.
+
+Exitianus : Evans, 1947. Trans. R. ent. Soc. Lond., 98 : 233 ( =Mimodrylix Zachvatkin); 
+Oman, 1949, Mem. ent. Soc. Wash., 3 : 153 ; Ross, 1968, Bull. Br. Mus. not. 
+Hist. (Ent.) 22 : 1-30; Gahuri, 1972, Bull. ent. Res., 61 : 689; 1974, Ibid., 
+63 : 531.
+
+Diagnosis : Oman (1949) and Ross (1968) have redescribed the genus.
+
+The genus Exitianus has been recorded from all the continents except 
+Antarctica. Ross (1968) distinguished five distinct groups of Exitianus 
+from the Old World viz., okahandia group, nanus group, obscurineruis group, 
+distanti group and taeniaticeps group. Ghauri (1972, 1974) described four 
+new species from Africa. Distant (1908, 1918) described four species 
+from India under the genus Athyasanus Burmjedster and Phrynomorphm 
+Curtis, but Ross (1968) transferred all of them to Exitianus viz., E. nanus, 
+indicus, coronatus and E. ootacamundus. Only (four) specieg are reported
+
+Rao : Collection of leaf hoppers from Meghalaya
+
+97
+
+from India viz., E. indicus (Distant), E. coronatus (Distant) and E. 
+taeniaticeps (Kirsch.) Sohi and Kapur (1973') out of which the first two are 
+collected and studied from the Khasi Hills.
+
+Key to the species of Exitianus occurring from the Khasi Hills
+
+(modified from Ross, 1968)
+
+Dorsum of head yellow with a short trans¬ 
+verse and two more anterior rounded rigidly
+
+defined black spots (Text fig. 24, a) ... coronatus (Distant)
+
+-Dorsum of head with a single arcuate dark
+
+line reaching linear margin of eyes (Text 
+fig. 23, a) sometimes with additional light
+
+brown suffusions ... indicus (Distant)
+
+Exitianus indicus (Distant)
+
+Athysaiuts fusconervosus de Motschulsky, 1863, Bull. Soc. Nat. Mosc., 36 : 97.
+
+Alhysanus indicus Distant, 1908, Fauna Br. India, Rhynchota, 4 : 344.
+
+Athysanus atkinsoni Distant, 1908, Fauna Br. India, Rhynchota, 4 : 345.
+
+Phrynomorphus fusconervosus : Distant, 1918, Fauna Br. India, Rhynchota, 7 : 51 
+(Alhysanus fusconervosus Dist.).
+
+Exitianus indicus : Ross, 1968, Bull. Br. Mus. not. Hist., (Entt) 22 : 12.
+
+Measurements : Male 3.92 to 4.24 mm long and 1.2 to 1.28 wide. 
+Female 4.72 to 5.2 mm long and 1.6 to 1.68 mm wide.
+
+Host : Collected by sweeping chiefly on Mikania micrantha HB & K.
+
+Specimens examined : India : Meghalaya : Shillong, Nongthumai, 
+2 cTcT, 10 H , 14.viiil975, M. S. Jyrwa, Coll.; Somtpahar, 14 
+48 9 $ , 29.xi 1977, K. R. Rao, Coll; Jakriem, 2 9 9 $ , 4.xii.l977,
+
+K. R. Rao, Coll.; Balat, 5 J'J 1 , 21 $ $ , 8.xii.l977, K. R. Rao, Coll;
+
+Ranikor, 10 16 9 9 , 9.vii.l977, K. R. Rao, Coll.
+
+Distribution : Throughout the Indian sub-continent.
+
+Remarks : This species resembles E. coronatus (Dist.) in the markings 
+on vertex, but can be distinguished from it by the presence of a single 
+arcuate dark line on head. Apex of the apophysis of style is pointed in 
+coronatus whereas it is not so in indicus.
+
+98
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Exitianus coronatus (Distant)
+
+(Text fig. 38, a-i)
+
+Phynomorphus coronatus Distant, 1918, Fauna Br. India, Rhynohota, 7 : 52.
+
+Athysanus kumaonis Baker, 1925, Philip. J. Set , 27 : 537 nom. nov. Pro. Athysanus 
+coronatus Distant, 1918 not Athysanus coronatus Berg, 1879.
+
+Exitianus kumaonis : Metcalf, 1967, General catalogue of the Homoptera, Euscelidae, 
+10 (l) : 324.
+
+Exitianus coronatus : Ross, 1968, Bull. Br. Mus. nat. Hist. (Ent.) 22 : 14.
+
+Vertex ochraceous, round in front, two small piceous spots at the 
+anterior margin near eyes; a broad transverse piceous band on the disc 
+between the eyes. Face broader than long, frontodypeus ochraceous with a 
+median and transverse fuscous striae; lora large, not reaching the apex of 
+dypelius. Pronotum pale ochraceous in anterior margin with an interrupted 
+arched piceous line submarginally. Posterior margin of scutellum greyish 
+ochraceous with one basal and two angular spots dark brown, transversely 
+impressed in the middle. Forewing hyaline, veins dark, appendix well 
+developed' covering the apex of forewiingl, apical cells four and ante-apical 
+cells three, inner and outer apical cells sometimes divided. Abdomen and 
+legs ochraceous, posterior femoral spinulation 2+2+1.
+
+Male genitalia : Pygofer caudally flattened, first spine long, directed 
+dOrsally, second spine short, stout, pointed at apex and directed posteriorly. 
+Male plate triangular with long, stout setae on lateral! and sublateral margins. 
+Style large with pro-apical lobe well develbped, apophysis stout, terminat¬ 
+ing in a small pointed spine, mesial margin of apophysis at base obtuse* 
+and raised. Connective Y-shaped. Aedeagus with a well developed dorsal 
+apodeme, shaft broad at base terminating in narrow tube, gonopore ovate 
+subapical.
+
+Female genitalia : Seventh sternum large with the posterior mar gin 
+notched; pygofers convex; ochraceous 1 ; ovipositor long, extending beyond 
+the posterior extremity of abdomen.
+
+Measurements : Male 4.04 to 4.36 mm long and 1.28 to 1.4 mm 
+wide. Female 4. to 5.6 mm long and 1.4 to 1.52 mm wide.
+
+Host: Collected from plants containing Osbeckia crinata Benth.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+99
+
+Exitanus coronatus (Distant)
+
+Text fig. 38. Exitianus coronatus (Distant') a-Habitus. .dorsal view; b-Face. .ventral 
+view; c-Forwing. .dorsal view; d-Pygofer. .lateral view; e-Connective 
+dorsal view; f-Style. .dorsal view; g-Apex of style, .dorsal view; 
+h-Aedeagus. .lalateral view; i-Female genitalia, .ventral view
+
+Specimens examined : India : Meghalaya : Shillong, Elephant Falls, 
+4 ($($, 21 9 9 , 20.xi.l976, K. R. Rao, Coll.; Shillong Fruit Garden,
+
+100
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+9 <$<$, 12 2 2 '29.viii.1977, M. S. Jyrwa, Coll.; Shillong, Umroi 10^,
+
+21 $ $ 12.ix.1977, S. K. Chanda, Coll.; Nongklah, 30<&£, 42 $ 2 I, 29.xfi.1977, 
+K. R. Rao, Coll.; Sonapahar, 9 12 $ $ , 2Q.xi.1977, K. R. Rao, Coll.;
+
+Balait, ! J 1 ,15 2 2, 8.xi.l977, K. R. Rao, Coll.; Ranikor, 6 , 12 9 2,
+
+7.xii.l977, K. R. Rao, Coll.
+
+Distribution : This species is so far known only from North India (U.P.)
+
+Remarks : E. coronatus closely resembles E. indicus but can be 
+distinguished from it by the well defined black spots. Spine no. 2 of 
+E. coronatus is stouter and less curved than spine no. 2 of E. indicus.
+
+Genus Nephotettix Matsumura, 1902
+
+Nephotetlix Matsumura, 1902, Termeszetr. Fuz-> 25 : 378 ; Type-species : Selenocephalus 
+cincticeps Uhler; Distant, 1908, Fauna Br. India, Rihynchota, 4 : 317 ; 1918, 
+Ibid., 7 : 60 ; Merine, 1936, Philip. }. Sci., 61 : 373 ; Evans, 1947, Trans. 
+R ent. Soc. Land., 198 : 236 ; Ishihara, 1953, Matsilyama, agria Coll. Set. 
+Rep., 11 : 39; 1964, Trans. Shikoku ent. Soc., 8 : 39-44; 1983, Proc. 1st 
+International Symp. Leafhoppers and Plant hoppers of economic importance, 
+London, C.IJE., 459 ; Mathur, 1953, Indian Forest Leaft., 121 (3) : 158; 
+Linnavuori, 1960, Insects, Micronesia,, 6 : 231 ; Nielson, 1968, Tech. Bull. U.S. 
+Dep. Agric., 1382 : 269; Ishihira & Kawase, 1968, Appl. Ent. Zool., 3 : 119; 
+Ghauri, 1971, Bull. ent. Res., 60 : 481.
+
+Diagnosis : The genus Nephotettix includes leafhoppers having always 
+green colour with black markings on head, face, pronotum, forewing and 
+other parts of the body and showing variable degres of sexual dimorphism 
+Female with reduced black markings. Ghauri (1971) subsequently provided 
+an excellent redescription based on the type material. He provided common 
+and differential characters for the genera Nephotettix and Exitianus.
+
+Owing to its economic importance, the genus has attracted the attention 
+of many entomologists and in recent times many significant contributions 
+have been made on the biotaxonomy of the genus.
+
+Nielson (1979) listed six viral and mycoplasma diseases transmitted by 
+Nephotettix virescens (Distant) and N. nigropictus (Stal) from all over the 
+world, two of these diseases being known from India viz., the Rice Tungro 
+and the Yellow Dwarf. The former is a viral and the latter a mycoplasma 
+disease. Sivaramakrishnan and Sen Sarma (1978) demonstra'ed the trans¬ 
+mission of sandJal spike disease by Nephotettix virescens in the laboratory 
+but field studies in this regard are wanting.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+101
+
+Ghauri (1971) recognised nine species of Nephotettix for the world 
+out of which N. virescens, N. nigropictus , N. mafayanus and N. paryus occur 
+in India. Three species namely N. virescens, N. nigropictus and N. tncua- 
+yanus are found in the Khasi Hills. Ramakrishnan (1983) Worked' on 
+morphometries of the species of Nephotettix.
+
+Key to the species of Nephotettix from the Khasi Hills 
+(Modified & adopted from Ghauri, 1971)
+
+1. Vertex with a transverse submarginal black 
+band ; anterior margin of pronotum marked 
+by a transverse blakc band which is some¬ 
+times very thin ; discal spot on forewing in 
+males touch the claval sutures; aedeagus with 
+eight pairs of spines (in lateral aspect)
+
+-'Vertex without submarginal band or if
+
+present, only traces behind the ocelli; 
+anterior margin of pronotum without black 
+band; discat spot on the forewing when 
+present never touchts the claval suture; 
+aedeagus with four or five pairs of spines
+
+2. Vertex slightly longer medially then next to 
+eye ; pygofer with one stout spine; aedeagus 
+with four pairs of spines
+
+——■Vertex much longer medially than next to 
+eye; pygofer with four small spines besides 
+one stout spine; aedeagus with five pairs of 
+spines
+
+Nephotettix nigropictus (Stal)
+
+Thamnotettix nigropicta Stal, 1870, Of vers. K. Svenska. Ventensh. Akad. Forth., 27 : 
+740.
+
+Nephotettix apicalis (de Motschulsky) : Distant, 1908, Fauna Br. India, Rhynchota, 
+4 : 360 (—Pediopsis apicalis de Motschulsky; =Pediopsis nigromaculatus de 
+Motschulsky =Thamnotettix nigromaculatus Kirby =Thamnotettix nigropicta 
+Stal; = Nephotettix nigropictus Kirkaldy) ; Misra, 1980, Indian Dep. Agric. 
+Mem. ent. ser., 5 207-239; Ishihara, 1964, Trans. Shikoku ent. Soc., 8 : 42;. 
+1968, Appl. Ent. Zool., 3 : 123 ; Nielson, 1968, Tech. Bull. U.S. Dep. Agric 
+1382 : 269
+
+nigropictus (Srt&l)
+
+2
+
+palayanus Ishihara 8cz 
+Kawase
+
+virescens (Distant)
+
+11
+
+102
+
+Rec. Zool. Surv. India, Ooc. Paper No. 127
+
+Nephotettix nigropictus : Ghauri, 1971, Bull. ent. Res., 60 : 491 ( —Thamnotettix 
+nigropictus Stal, =Nephotettix apicalis sensu Distant and sensu Ishihara) ; 
+Rao, 1980, Rec. Zool. Surv. India, 76 : 193 ; 1981, Ibid., 78 : 3 ; Hongsaprug, 
+1983, Proc. 1st International Symp. teafhoppers and Plant hoppers of economic 
+importance London, C.I.E., 68; Claridge, 1983, Ibid., 117; Wilson, 1983, 
+Ibid, 128 ; Siwi & Roechan, 1983. Ibid., 262-275 ; Ramakrishnan, 1983, Ibid., 
+328; Inoue, 1983, Ibid., 341-342 ; Ishihara, 1983, Ibid., 459-460; Viraktamath, 
+1983, Ibid., 490-491.
+
+The species has been described in detail by Ghauri (1971) and hence 
+not further described here.
+
+Measurements : Male 4.01 to 4.13 mm long and' 1.1 to 1.23 mm wide. 
+Female 4.62 to 5.11 m/m long and 1.21 to 1.37 mm wide.
+
+Host : Oryza sativa
+
+Specimens examined : India : Meghalaya : Umsing, 1 10 $ $ •
+
+22.x. 1974, M. R. Rhynth, Coll.; Umroi, 4 <$<$, 60 9 9 12.X.1977, S. K.
+
+Chanda, Coll.; Nongstoin, 65 9 9 , 27.xi.1977, K. R. Rao, Coll; Sona- 
+pahar, 3 20 9 9 , 28.xi.1977, K. R. Rao, Coll.; Nongklah, 19 9 9 ,
+
+l.xii.1977, K. R. Rao, Coll.; Mahan®, Maria Road, 3 10 9 9 , 2.xii.l977,
+
+K. R. Rao, Coll; Jakriem, 2 <$<$, 25 9 9 , 4.xii.l977, K. R. Rao, Coll.; 
+Satmowedon, 1 J 1 , 2 9 9 , 5.xii.l977, K. R. Rao, Coll.; Ranikor, 299 
+45 9 9, 7.xii.l977, K. R. Rao, Coll.; Balat, 1 35 9 $ . 8.xii.l977,
+
+K. R. Rao, Coll.; Dumpeep Hills, 5 JV?, 40 9 9 , 201.1978, M. S. Jyrwa, 
+Coll.; Upper Shillong, 2 $$, 56 $ 9 , 20.xi.1978, P. B. Thapa, Coll.
+
+Distribution : New Guinea, Phillipines, China, Laos, Hongkong, South 
+Vietnam, Thailand, Malaysia, Burma, Pakistan, Nepal, India and Sri Lanka.
+
+Remarks: N. nigropictus resembles closely the African species 
+N. modulatus Melichar in the presence of three parallel black bands—Ithe 
+marginal and submarginal on vertex and the anterior band on pronotum. 
+It also bears a resemblance to another African species viz., N. afer Ghauri 
+in having inner black margin of clavus and discal spot on corium touching 
+claval suture. However, it can be distinguished from (both these by the 
+aedeagus having eight pairs of spines on the lateral side whereas the African 
+species do not possess the aedeagal spines at all.
+
+Rao : Collection of leafhoppers from Meghalaya 103
+
+Nephotettix vlrescens (Distant)
+
+Cicada bipunctata Fabricius, 1803, Syst. R'hyng., 78 , nom. praeocc. by Cicada 
+bipunctata Scopoli, 1763. Methodo Linnaena : 115.
+
+Thamnotettix bipunctata Stal, 1869, Svenska Vetensk. Akad. Hand!., 8 : 82. 
+Nephotettix bipunctata Matsumura, 1902, Termeszetr. FuZ-> 25 : 379 (=Thamnotettix 
+bipunctatus Fabricius)
+
+Selenocephlus virescens Distant, 1908, Fauna Br. India, Rhynchota, 4 : 291. 
+Nephotettix bipunctatus : Distant. 1908, Fauna Br. India, 4 : 359 (=Cicada bipunc¬ 
+tata Fabricius, —Thamnotettix bipunctatus (SUal) ; Misra, 1920, Indian Dep. 
+Agric. Mem. ent. ser., 5 : 207-239.
+
+Nephotettix impicticeps Ishihara, 1964, Trans. Shikoku, ent. Soc., 8 : 42; (nom. nov. 
+for Cicada bipunctata Fabricius, 1803, not Cicada bipunctata Scopoli, 1763, 
+not Cicada bipunctata Linnaeus, 1767,. not Cicada bipunctata Gmelin, 1789) ; 
+Ishihara & Kawase, 1968, Appl. Ent. Zool., 3 : 123.
+
+Nephotettix virescens : Ghauri, 1971, Bull. ent. Red., 60 : 484; Rao, 1981, Rec. Zool. 
+Surv. India, 78 : 3; Hongsaprag, 1983, Proc. 1st International, Symp. 
+Leafhoppers and Plant hoppers of economic importance London C.I.E., 88 ; 
+Claridge, 1983, Ibid., 117; Wilson, 1983, Ibid., 128 ; Siwi & Roochan, 1983, 
+Ibid., 263-27.5 ; Ramakrishnan, 1983, Ibid., 328 ; Inoue, 1983, Ibid., 341-342; 
+Ishihara, 1983, Ibid., 460-461 ; Virakramath, 1983, Ibid., 490-491.
+
+This species has been described in detail by Ghauri (1971) and hence 
+not further described here.
+
+Measurements : Male 3.96 mm to 4.56 mm long and 1.1 to 1.26 nun 
+wide; Female 4.45 to 4.51 mm long and 1.21 to 1.37 mm wide.
+
+Host: Or\za sativa.
+
+Specimens examined : India : Meghalaya : Umsing, 5 <?<?, 20 ,S 5- 
+22.x.1976, M. R. Rynth, Coll.; Umroi, 12 eft?, 48 9 9 , 12.xi.1977, S. K. 
+Chanda, Coll.; Sonapahar, 25 55 $ $ , 28-29.xi.1977, K. R. Rao,
+
+Coll.; Nongklah, 5 <?e?, 40 9 9 , l.xii.1977, K. R. Rao, Coll.; Mairang, 
+10 e?<?> 25 9 9 , 2.xii.l977, K. R. Rao, Coll.; Satmowedon, 10 e?c?> 
+45 9 $ , 3.xii.l977, K. R. Rao, Coll.; Jakriem, 10 <?(?, 25 9 9 „4.xii.l977, 
+K. R. Rao, Coll; Puksora, 12 eft?, 40 9 9 , K. R. Rao, Coll.; Balat, 10 
+eft?, 50 9 9 , 8.xi.l977, K. R. Rao, Coll.; Sohryngkham, 10 <?<?, 45 9 9 
+13.11978, K. R. Rao, Coll.; Sohryngkham, 10 <?<?, 45 9 9 , 13.i.l978, 
+K. R. Rao, Coll.; Shillong,, Nongthumai, 3 <$<$, 30 9 9 » 15.11978, M. S. 
+Jyrwa, Coll.; Shillong, Malki Forest, 3 eft?, 15 9 9, 20.xi.1977, K. R„ 
+Rao, Coll.
+
+104
+
+Rec. Zool. Surv. India, Ox. Paper No. 127
+
+Distribution : Pakistan, India, Sri Lanka, Burma, China, Hongkong, 
+South Vietnam, Thailand, Loas, Malaysia, and Indonesia. In India it has 
+a wide distribution.
+
+Remarks : This is one of the most common species found in rice 
+fields. Males resemble Nephotettix nigropictus and N. cincticeps in general 
+colour and can be separated from them by the rounded dorsal and ventral 
+corners of pygofers and in having fewer spines on dorsal carioae of 
+aedeagus. Females can be distinguished from other species by the imma¬ 
+culate head, pronotum and clavus. Some females, however, may have 
+apical third of tegmen black.
+
+Nephotettix malayanus Ishihara & Kawase
+
+Nephotettix malayanus Ishihara & Kawase, 1968, Appl. Ent. Zool., 3 : 119-121 ; 
+Ghauri, 1971, Bull. Ent. Res., 60 : 496 ; Rao, 1981, Rec. Zool. Surv. India, 
+78 : 3-4; Hongsapurg, 1983, Proc. 1st International Symp. Leafhoppers 
+and Plant hoppers of economic importance Eondon, C.I.E. 89; Wilson, 1983, 
+Ibid., 128-131 ; Siwi & Roechan, 1983, Ibid., 263-275; Inoue, 19®3, Ibid., 
+341-342.
+
+Variations of disced spots on forewing :
+
+Ghauri (1971) described the species in detail along with other species 
+of the genus. The important diagnostic character of this species is its 
+vertex rounded anteriorly. The males have apical margins of vertex black 
+and the submarginal band is represented by short bars behind ocelli, 
+whereas,, females have fine broken lines. According to Ishihara and 
+Kawase (1968) a central black spot is present or absent on the forewing 
+and the aedeagus has 4-5 spines on either side. Ghauri (1971) in his 
+redescription of the species, reported four pairs of spines instead, but did 
+not make any mention of the presence of a disoal spot on the forewing. 
+The present material shows that the discal spot is present on (the forewing 
+and that the aedeagus has four pairs of spines, though not in a separated 
+condition as observed by Ghauri (1971) and Hongsaprug (1983). Rao 
+(1981) noticed intraspecific variations in specimens studied from Assam 
+with reference to discal spot on forewing, number of aedeagal spines and in 
+the size of the submarginal band on the vertex. Viraktamath (personal 
+communication) also noticed variations in aedeagal spines. It is clear that 
+this species exhibits intraspecific variations.
+
+Measuremenes : Male 3.78 to 4.18 mm long and 1.2 to 1.32 mm 
+wide. Female 4.36 to 4.4 mm is long and 1.4 to 1.44 mm wide. Females
+
+Rao : Collection of leafhoppers from Meghalaya
+
+105
+
+without discal spot on forewing; 3.94 to 4.56 mm long and 1.32 to 
+1.48 mm wide.
+
+Host: Oryza saliva
+
+Specimens exam : ned : India : Meghalaya, Sonapahar, 5 <$<£,
+
+8 9 $, 28.xi.1977, K. R. Rao, Coll.
+
+Distribution ; Malay Peninsula, Philippines, China, Surma, India and 
+Sri Lanka. In India, it was recorded from Calcutta, Madhupur (W. 
+Bengal), Kahitama, Manas (Assam) and Alleppy (Kerala). The present 
+record is new to Khasi Hills.
+
+Remarks: This species resembles Nephotettix nigropictus in colour 
+pattern but can be distinguished by the male pygofer spine being elongate 
+and the distodorsal and distoventral corners of pygofer being rounded. 
+The aedeagal shaft in N. malayanus is almost straight and elongate in 
+ventral ^aspect.
+
+Genus Cicadula Zetterstedt, 1840
+
+Cicadula Zetterstedt. 1840, lnsecta Lapponica, 1 : 296 ; Type-species : Cicadula 
+guadrinotata Fabricius; Pruthi, 1930, Mem. Indian Mus., 11 : 53; Distant, 
+1908, Fauna Br. India, Rhynchota, 4 : 366; Ribaut, 1952, Fauna Er., 57 : 152 ; 
+Ishihara, 1953, Matsuyama, agric. Coll. Rep., 11 : 40; Mathur, 1953, Indian 
+Forest Uaft., 121 (3) : 158.
+
+Diagnosis ; Oman (1949) redescribed the genus in detail.
+
+Pruthi (1930) described a number of new species in Cicadula viz., 
+fletcheri, indica, indrina, maculata and a new variety, Cicadula ( Deltoce - 
+phalus) montanus macropterous. He transferred Deltocephalus montanus 
+Distant to Cicadula. Now all the above species have been relegated to 
+different genera. Ghauri (1963) transferred C. fletcheri to Deltocephalus. 
+Emeljanov (1964) transferred C. indica and D. montanus to Aconurella. 
+Sawai Singh (1973) transferred C. indica to Macrosteles. Now in this work 
+Cicadula maculata has been transferred to Recilia.
+
+The genus is known in the Indian sub-continent by C. vaga Melichar. 
+Cicadula compressa Rao is reported from Khasi Hills.
+
+106
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Cicadula compressa Rao 
+(Text fig. 1, a-e; 2, f-n)
+
+Cicadula compressa Rao, 1989, Hexapoda, 1 (1) : fig. 91-164.
+
+Diagnosis : Vertex with two large fuscous spots on the anterior margin 
+and two small spots on the laeeral margin. Fore wing with costal and 
+claval areas pale brown, rest of the area dark brown. Aedeagal shaft 
+compressed, strongly curved dorsoventrally, with two pairs of processes.
+
+Male 3.68 to 4.28 mm long and 1.04 to 1.2 mm wide.
+
+Female 3.75 to 4.06 mm long and 1.12 to 1.2 mm wide.
+
+Distribution : Shillong, Meghalaya.
+
+Tribe Jassargini Emeljanov
+
+Head fairly elongate, usually with a flat pentagonal vertex which is 
+sharply, though not abruptly delineated from the face. Face slightly elongated 
+with an apically tapering clypellus and frenula, the upper margins of which 
+are only slightly albove the upper margin of the clypellus so that inner 
+margin of the frenula (border on the frontoclypeus for a short distance only. 
+The inner margins of eyes always with a groove facing the antennal scapes. 
+Pronotum with long lateral margin without carinae. Conneceive characteris¬ 
+tic, being rackept-shaped wieh its branches always apically joined. Genital 
+plates, style and aedeagus of variable shape.
+
+Genus Khasiana Rao. 1989 
+Khasiana Rao, 1989, Hexapoda , 1(1) : fig.
+
+Diagnosis : Vertex triangular, as long as pronotum. Male pygofer 
+with a caudal articulated lobe; male plate with an elongated process.
+
+Type species : Khasiana prima Rao.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+Khasiana prima Rao
+
+(Text fig. 39, a-c)
+
+Khasiana primo Rao, 1989, Hexapoda, 1(1) t
+
+Khasiana prima Rao
+
+0-5 mm.
+
+Text fig. 39. Khasiana prima Rao a. Head and thorax. . dorsal view; b. Face 
+ventral view; c Fore wing, .dorsal view
+
+108
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Diagnosis : Vertex with ehe fusctus longitudinal fasciae on the antero¬ 
+lateral margins before eyes, and centrally two longitudinal fasciae. Pronotum 
+with four ochraceous longitudinal bands from anterior to posterior marg|in. 
+Aedeagal shaft stout basallv, narrowed towards epex and strongly curved 
+anteriorly.
+
+Male 2.57 mm long and 0.7 mm wide.
+
+Distribution : Balat, Khasi Hills, Meghalaya.
+
+IX. Discussion
+
+In the present work the study of leafhoppers of Khasi Hills has revealed 
+42 species, many of them being new and many exhibiting variations at the 
+intra-specific level. From the point of zoogeography, the leafhoppers of 
+Khasi Hills provide an interesting admixture of various elements, being 
+cosmopolitan, Holarctic, Ethiopian and oriental in distribution. Some 
+leafhoppers belonging to certain genera are observed to have restricted 
+distribution in India occurring in Eastern Himalayas, Assam or Southern 
+block including Sri Lanka and showing their Indo-Chinese and Malayan 
+affinities. All tsese points are discussed here in detail.
+
+With regard to species diversity and intraspecific variations, it is seen 
+that Hecalinae and Deltocephalinae constitute the largest numbers as against 
+Aphrodinae, Evacanthinae, Nirvaninae, Coelidiinae, Penthimiinae and Aco- 
+stemminae. Intraspecific differences were noticed in species of Nephotettix 
+which exhibit wide variations in the number of aedeagal spines. N. malayanus 
+shows variations in the presence or absence of discal spots on forewings. 
+Exitianus coronatus shows variations in ehe nature of markings on vertex 
+and scutellum. Macrosteles brevis Rao exhibits markings of vertex. However, 
+detailed internal examination of these specimens reveals that these are only 
+individual differences. With regard to Recilia maculata (Pruthi), males 
+figure more in the collections in the post-monsoon season, whereas Pruthi 
+(1930) found more males in summer Hecalus porrectus shewed variations 
+ini markings on the forewing in the two sexes. Many species with Holarctic 
+and Palearceic affinities are intermingled in this area, besides having Indo- 
+Chinese and Malayan affinities.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+109
+
+Regarding zoogeography, the leafhopper fauna of the Khaisi Hills has 
+representative genera from all the zoogeographical regions. The genera 
+Exitianus Ball, Macrosteles Fieber, Balclutha Kirkaldy, Scaphoideus Uhler, 
+and Hecalus Seal are cosmopolitan in distribution. The genera Stroggylo* 
+cephalus Flor and Phlogotettix Rilbaut which are being reported’ here for 
+the first time from the Oriental Region, are actually Holarctic genera whereas 
+Nephotettix Matsumura, Acostemma Signoree, Glossocratus Fieber, Doratulina 
+Melichar, Nirvana Kirkaldy, Chudania Distant, Dussana Distant, and Onukia 
+Matsumura are Oriental. Nephotettix, Acostemma and Chudania are how¬ 
+ever, also found in Africa. The genus Evacanthus Le Peletier and Servielle 
+is both Oriental and Palearctic in distribution. Taharana Nielson is also 
+Oriental 'in distribution but is reported here for the first time from India.
+
+Medlicott and Blanford (1879) were one of the earliest workers to 
+remark on the phenomenon of discontinuous distribution of fauna and flora. 
+Discontinuity is observed between southern block including Sri Lanka and 
+the Eastern Himalayas, Assam, Burma and Malaya. Many workers have 
+observed this phenomenon in several groups of animals especially in 
+Amphibia and Reptilia. It is interesting to note that some leafhoppers of 
+the genera, Gurawa, Evacanthus, Dussana and Doratulina are discontinuously 
+distributed in India. Some species of Evacanthus and Doratulina are 
+restricted in distribution to Eastern Himalaya, Assam or to Souithem block 
+including Sri Lanka (vide Table No. 3), and display their Indochinese and 
+Malayan affinities.
+
+X. Summary
+
+The study consists of leafhoppers belonging to nine subfamilies of the 
+family Cicadellidae from Khasi Hills. They are Aphrodinae, Evacanthinae, 
+Nirvaninae, Coelidiinae, Penthuniinae, Acostemminae, Drabescinae, Hecalinae 
+and Deltocephalinae.
+
+Of the nine subfamilies dealt with here, only the genera of one 
+subfamily viz., Deltocephalinae have been grouped under various tribes. 
+They are nine: Opsiini Emeljanov; Macrostelini Kirkaldy; Doraturini 
+Ribaut; Fieberiellini Wagner; Stirellini Emeljanov; Scaphoideini Oman; 
+Euscelini Naude and Jassargini Emeljanov. The above arrangement proposed 
+by Nast (1972) is accepted with the following modifications. In the tribe
+
+12
+
+TABLE 3
+
+Discontinuous distribution of taxa from the Khasi Hills, studied in this work
+
+DISTRIBUTION IN
+
+Name of taxon East India South India Indo-Chinese Other
+
+Sri Lanka and Malayan areas
+
+Doratulina solitaris (Melich.)
+
+Khasi Hills
+
+Sri Lanka
+
+—
+
+—
+
+Doratulina jacosa (Melich.)
+
+Khasi Hills
+
+Sri Lanka
+
+—
+
+Japan
+
+Doratulina rubrclineata (Disit.)
+
+Khasi Hills, Manipur,
+
+Assam, Bengal
+
+—
+
+—
+
+—
+
+Doratulina indra (Dist.)
+
+Kihasi Hills, Bengal
+
+—
+
+—
+
+—
+
+Evaccmthus extremus (Walk )
+
+Khasi Hills, Assam
+
+—
+
+Fukien
+
+Northern India, 
+Punjab
+
+Evacanthus repexus (Dist.)
+
+Khasi Hills, Sikkim, Bengal
+
+—
+
+—
+
+U P., H P., 
+Punjab
+
+Dussana guaerenda Dist.
+
+Khasi Hills
+
+Palani Hills,
+
+Sri Lanka
+
+Fukien
+
+—
+
+Gurawa vexillum Dist'.
+
+Khasi Hills,
+
+Eastern Himalayas
+
+Kodaikanal,
+
+South India
+
+Onukia connexia (Dist.)
+
+Khasi Hills, E. Himalayas, 
+Kurseong
+
+—
+
+—
+
+—
+
+R ec. Zool. Surv. India, Oec. Paper No. 127
+
+Rao : Collection of leaf hoppers from Meghalaya lit
+
+Deltocephalini Paramesodes is also included in addition to Recilia. Nepho - 
+tettix and Exitiamis (which arc included in Stirellini, and Cicadula which 
+is included in Athysanini by Nast) are here included in Euscelini; Scaphoideus 
+is included in a distinct tribe Scaphoideini Oman and; Jassargini is recognised 
+as a valid tribe.
+
+A total number of 2145 leaf hoppers were identified out of which 13 are 
+new to science. One new genus has been proposed. Three new combina¬ 
+tions and one new synonymy have been recognised 1 .
+
+Physiographical features of Khasi Hills along with climate and vegetation 
+have been described.
+
+Scientific methods of collection, preservation and techniques used for 
+taxonomical studies on leaf hoppers have been included. A brief review 
+on economic importance of leafhoppers has been provided.
+
+Various characters of morphological significance including genitalia 
+have been well described in identification of leafhoppers. Details of various 
+trends in classification of the subfamilies of Cicadellidae have been dis¬ 
+cussed. A key for separating the subfamilies has (been constructed which 
+serves to separate 23 subfamilies of Cicadellidae. Necessary keys to separate 
+genera and species in the study area have been provided.
+
+XI. Acknowledgements
+
+I wish to express my deep sense of gratitude and thanks to my guide 
+and supervisor Dr. R. S. Pillai, Scientist ‘F* and Officer-in-Charge,. 
+Zoological Survey of India, Southern Regional Station, Madras, for his 
+constant encouragement, valuable advice and for ungrudging help provided 
+to carry out this work.
+
+I thank the Director, Zoological Survey of India, Calcutta, for facilities 
+extended to me by making available Pruthi’s ‘types’ and other identified 
+leafhopper collections present at Calcutta.
+
+I thank the Director, "Commonwealth Institute of Entomology, London, 
+for confirmation of some of the identifications.
+
+112
+
+Rec. Zool. Surv. India, Ogc. Paper No. 127
+
+I am greatly indebted to Dr. C. A. Viraktamath, Associate Professor of 
+Entomology, University of Agricultural Sciences, Bangalore, for thoroughly 
+checking the identity of my collections, confirmation of new taxa, supply of 
+essential literature and all the help and encouragement so unstinting!}' 
+provided.
+
+I thank Dr. K. V. Lakshminarayana, and Dr. Koshy Mathew for all 
+the help rendered. I express my sincere thanks to Dr. W. J. Knight 
+British Museum (N.H.), London, Dr. (Mrs.) Usha Ramakrishnan, 
+Scientist-3, I.A.R.C., New Delhi and late Dr. N. R. Prabhoo, Professor of 
+Zoology, University of Kerala, Trivandunt, for critically examining my 
+work and for helpful suggestions offered.
+
+My thanks are also due to Shri S. Sengupta, Shri S. S. Roy Artistsi, 
+for all help rendered in making the illustrations. I thank Dr. (Mrs.) K. 
+Rema Devi, (Mrs.) T. J. Indira and Shri M. S. Ravichandran for all help 
+provided in the preparation of this paper.
+
+I thank my parents, brothers and my wife and children for constant 
+encouragement given through out this work.
+
+I offer my respects to His Holiness Shri Viswesa Teertha Swamdji of 
+Pejawar mutt and my guru Shri Guru Govinda Vittala, Dasaru for their 
+kind blessings.
+
+XII. References
+
+Appanna, M. and Dover, C. 1932. Investigations on the spike disease of 
+sandal. Entomological investigations by the Forest Research 
+Institute. Indian Inst. Sci. Jour., 6 : 12-14.
+
+Barnett, D. E. 1977a. External morphology of adult leafhoppers of the 
+genus Scaphoideus. Trans, ky. Acad. Sci., 38 : 26-37.
+
+Barnett, D. E. 1977b. A revision of the Nearctic species of the genus 
+Scaphoideus (Homoptera : Cicadellidae). Trans. Am. ent. 
+Soc., 102 : 485-598.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+113
+
+Bindra, O. S., Singh, S., Sohi, A. S. and Gill, M.I.P.K. 1973. Taxonomic 
+studies on the cicadellid species, p. 2-10. In O. S. Bindra 
+(ed.) Cicadellid Vectors of Plant-Pathogens. Department of 
+Entomology, Punjab Agricultural University, Ludhina.
+
+Borror, D. J., Belong, D. M. and Triplehiorn, C. A. 1976. An introduction 
+to the study of Insects. Fourth Edition, Hort, Pinehort and 
+Winston, New York, 1-85.
+
+Box, H. E. 1953. List of sugarcane insects. A synonomic catalogue of 
+the sugarcane insects and mites of the world and of their 
+insect parasites and predators arranged systematically. 
+London, C.I.E., 1-101.
+
+Chatterjee, N. C. 1934. Entomological investigations on the spike 
+disease of sandal. 19. On the life history and morphology of 
+Petalocephala nigrilinea Walk. (Jassidae : Homoptera), 
+India Forest Rec., 19 (9) : 1-30.
+
+Cwikla, P. S. and Freytag, P. H. 1983. External morphology of Xestoce - 
+phales subtessellatus (Homoptera : Cicadellidae xestocepha- 
+linae).— Ann. ene. Soc. Am., 76 (4) : 641-651.
+
+Datta, B. 1972. On Indian Cicadellidae (Inseota : Homoptera) 1-XI, 
+Zool. Am. , 188 , 189 : 180-429.
+
+Datta, B. 1973. On Indian Cicadellidae (Insecta : Homoptera) XII-XXII., 
+Zool Am. , 190 (3-4) : 207-230; 191 (1-2) : 98-108; 
+191(5-6) : 420-468.
+
+Datta, B. and Dhar, M, 1984. On some collections of Cicadellids (Homop¬ 
+tera : Cicadellidae). Bull. Zool. Surv. India, 6 (1-3) : 181-207.
+
+Davies, R. B. 175. Classification of selected higher categories of Auchenor- 
+rhynchous Homoptera (Cicadellidae) and Aetalionidae., Techs. 
+Bull. U.S. Dep. Agric. No. 1494, 1-52.
+
+De Long, D. M. 1971. The bionomics of leafhoppers. A. Rev. Ent .„ 
+16 : 179-209.
+
+114
+
+Rec. Zool. Surv. India, Ox. Paper No. 127
+
+Distant, W. L. 1908 The fauna of British India, including Ceylon and 
+Burma, Rhynchota, IV, Homoptera, 1-501, London, Taylor 
+and Francis.
+
+Distant, W. L. 1916. The fauna of British India, including Ceylon and 
+Burma, Rhynchota, VI, Homoptera : appendix : 1-248, London, 
+Taylor and Francis.
+
+Distant, W. L. 1918. The fauna of British India including Ceylon and 
+Burma, Rhynchota, VII, Homoptera : appendix : 1-210, 
+London, Taylor and Francis.
+
+Douglas, J. W. 1875. Notes on British Homoptera with descriptions of 
+additional species. Ent. Mon. Mag., 12 : 115-116.
+
+Emeljanov, A.F. 1962. New tribes of leafhoppers of the subfamily 
+Fuscelinae (Auchenorrhyncha, Cicadellidae). Ent. Obozr., 41 * 
+388-397.
+
+♦Emeljanov, A. F 1984. New species of steppe leafhoppers (Homoptera :
+
+Cicadellidae) from Transbaikalia and other eastern regions of 
+(J.S.S.R.— Ent. Obozr., 43 : 626-632.
+
+Evans, J. W. 1946. A natural classification of leafhoppers (Jassoidea, 
+Homoptera). Part 1. External morphology and systematic 
+position. Trans. R. ent. Soc. Land., 96 (3) : 47-59.
+
+Evans, J. W. 1947. A natural classification of leafhoppers (Jassoidea :
+
+Homoptera) Part. 3. Jassidae. Trans. R. ent. Soc. Lond., 98 • 
+105-271.
+
+Evans, J. W. 1971. Leafhoppers from New Guinea and Australia belonging 
+to the subfamilies Macropsinae and Agalliinae with notes on 
+the position of Nionia Ball and Magnentius Pruthi (Homoptera : 
+Cicadelloidae). Pacific Ins', 13 : 343-360.
+
+Evans, J. W. 1972. Characteristics and relationships of Penthimiinae and 
+some new genera and new species from New Guinea and 
+Australia; also new species of Dralbescinae from Nem Guinea 
+and Australia (Homoptera : Cicadellidae). Pacif. Insects .» 
+14 : 169-200.
+
+Rao : Collection of leaf hoppers from Meghalaya 115
+
+Ghauri, M. S. K. 1963. A new genus based on Orosius maculatus Pruthi 
+and generic reassignment of some of Pruthis species of cica- 
+dellioidea (Auchenorrhyncha : Homoptera), Ann. Mag. not. 
+Hist. Soc., 13 (6) : 559-563.
+
+Ghauri, M. S. K. 1971. Revision of the genus Nephotettix Matsumura 
+(Homoptera : Cicadelloidea : Euscelidea) ibased on the type 
+of the material. Bull. ent. Res., 60 : 481-512.
+
+Ghauri, M. S. K. 1972. New species of Exitianus Rail (Homoptera, 
+Cicadelloidea, Euscelidae) from Africa., Bull. ent. Res., 61 • 
+689-692.
+
+Ghauri, M. S. K. 1974. New genera and species of Cicadelloidea (Homop¬ 
+tera : Auchenorrhyncha) from economic plants in India. Bull, 
+ent. Res., 63 : 551-554.
+
+Ghauri, M. S. K. 1983. A case of long-distance dispersal of a leafhopper.
+
+Proc. 1st International Symp. Leafhoppers and Plant hoppers 
+of economic imporeance London, C.I.E., 249-255.
+
+Hamilton, K. G. A. 1975. A review of northern Hemisphere Aphrodina 
+(Rliynchota : Homoptera : Cictdellidae) with special reference 
+to Nearctic fauna. Can. Ent., 107 : 1009-1027.
+
+Hamilton, K. G. A. 1983. Classification, morphology and phylogeny of 
+the family Cicadellidae (Rhynchota : Homoptera). Proc. 1st 
+International Symp. Leafhoppers and Plant hoppers of economic 
+importance London, C.I.E., 15-37.
+
+Hamilton, K. G. A. 1984. The tenth largest family? Tymbal, 3 : 4-5.
+
+Harris, K. F. 1983. Auchenorrhynchous vectors of plant viruses : Virus— 
+vector interactions and transmission mechanism. Proc. 1st 
+International Symp. Leafhoppers and Plant hoppers of economic 
+importance London, C.I.E., 405-414.
+
+Hongsaprug, N. 1983. Taxonomy of Nephotettix in Thailand. Proc. 1st 
+International Synp. Leafhoppers and Plant hoppers of economic 
+importance London, C.I.E., 87-95.
+
+116
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Ishihara, T. 1961. Tlie family Xestocephalidae of Japan (Hemiptera). 
+Trans. Shikoku ent. Soc., 7 : 19-25.
+
+Ishihara, T. 1972. A valid genus Hishimonus Ishihara 1953 (Homoptera: 
+Euscelidae). Trans. Shikoku ent. Soc., 11 (3) : 84.
+
+Ishihara, T. and Kawase, E. 1968. Two new Malayan species of the genus 
+Nephotettix (Hemiptera : Cicadellidae). Appl. Ent. Zool. t 
+3 (3) : 119-123.
+
+* Jacob, A. 1944. Die Zikadenfauna der Provinz Fukein in Suddhina and 
+ihre tiergeographischen Beziehungen. Munchen. Ent. Gesell. 
+Mitt., 34 : 5-66.
+
+Kalode, M. B. 1983. Leafhoppers and planthopper pests of rice in India.
+
+Proc. 1st International symp. Leafhoppers and planthoppers of 
+economic importance, London, C.I.E., 225-245.
+
+Knight, W. J., 1970. A revision of the genus of Hishimonus Ishihara 
+(Homoptera : Cicadellidae). Suom. hyont. Aikak., 36 : 125-139.
+
+Knight, W. J. 1973. A new species of Hishimonus Ishihara (Homoptera :
+
+Cicadellidae) attacking Terminalia spp. in India, with comments 
+on the relationship of the genus to Cestius Distant. Suom. 
+hyont. Aikak., 39 : 153-156.
+
+Knight, W. J. 1983. The Cicadellidae of S.E. Asia—Present knowledge 
+and obstacles to identification. Proc. 1st International Symp. 
+Leafhoppers and Plant hoppers of economic importance 
+London, C.I.E., 197-224.
+
+Knight, W. J. 1987. Leafhoppers of the grass-feeding genus Baiclutha 
+(Homoptera : Cicadellidae) in the Pacific Region. J. Hat. 
+Hist.. 21 : 1173-1224.
+
+Knight, W. J. & Nielson, M. W. 1986. The higher classification of the 
+C'cadellidae. Tymbal, 8 : 10-14.
+
+Ling, K. C. Tiongco. E. R. and Cabunagan, R. C. 1983. Insect vectors 
+of Rice virus and MLO-associated diseases. Proc. 1st Inter¬ 
+national Symp. Leafhoppers and Plant hoppers of economic 
+importance London, C.I.E., 415-431.
+
+Rao : Collection of leafhoppers from, Meghalaya
+
+117
+
+Linnavuori, R. 1960. Homoptera : Cioadellidae. Insects Micronesia, 
+6 : 225-344.
+
+Linnavuori, R. 1975. Revision of the Cicadellidae (Homoptera) of the 
+Ethiopian region. Deltocephalinae, Hecalini. Suomal elain 
+kasvita seur van Julk., 143 : 1-37.
+
+Linnavuori, R. 1977. Revision of the Ethiopian Cicadellidae (Hemiptera :
+
+Homoptera) : Penthimiinae Etudes de Continent African 
+Ease., 4 : 1-76.
+
+Linnavuori, R. 1978. Revision of the African Cicadellidae, (subfamilies 
+Nioniinae, Signoretiinae and Drabescinae) (Homoptera : Au- 
+chenorrhyncha). Suom. hyont. Aikak., 44 : 33-48.
+
+Linnavuori, R. and Quart aw, J. A. 1975. Revision of the Ethiopian 
+Cicadellidae (Hemiptera : Homoptera : Jassinae and Acro- 
+poninae). Etudes Cont. afr., 3 : 1-170.
+
+Matsu mura, 1932. The Typhlocybid genera of the late Distant. Insecta 
+matsum., 6 : 190-191.
+
+Medlicott, H. B. and Blanford, W. T. 1879. Faunal of Geology of 
+India, lxx, 374-375.
+
+Melichar, L. 1903. Homoptera—Fauna Von Ceylon, 1-248.
+
+Metcalf, Z. P. 1962-1968. General catalogue of the Homoptera—Fascicle 
+VI—Cicadelloidea, (17 parts and bibliography). United States 
+Department of Agriculture, Agricultural Research Service.
+
+Morrison, W. P. 1973. A revision of the Hecalinae (Homoptera :
+
+Cicadellidae) of the Oriented Region. Pacif. Insects ., 15 
+(3-4) : 379-438.
+
+Nasi. J. 1972. Palaerctic Auchenorrhyncha (Homoptera). An annotated' 
+check list. Polish scientific Publishers, Warszawa, 1-550.
+
+Nasu, S., Suguira, M., Wakimoto, S. and Idia, T. T. 1967. Pathogen of 
+rice yellow dwarf disease. Ann. Phytopathol. Soc. Japan, 33 
+343-344. (Abstr. in Japanese).
+
+13
+
+118
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Nielson, M. W. 1968. The leafhopper vectors of pathogenic viruses 
+(Homoptera : Cicadellidae). Taxonomy, biology and virus 
+transmission. Tech. Bull U.S. Dep. Agric., 1382 : 1-386.
+
+Nielson, M. W. 1979. Taxonomic relationships of leafhopper vectors of 
+plant pathogens. In Maramorosch, K. Harris, K. R. (eds.). 
+leafhopper vectors and plant disease agents, 3-27. Academic 
+Press, New York.
+
+Nielson, M. W. 1982. A revision of the subfamily Coelddiinae (Homoptera :
+
+Cicadellidae) IV. Tribe Coelidiini. Pacif. Insects Monogr. % 38 • 
+1-318.
+
+Nielson, M. W. 1985. Leafhopper sysfemaitics. In Nault, L. R. and 
+Rodriguez, J. G. (Eds.). The leafhoppers and plant hoppers. 
+John Wiley & Sons., xvi + 500 pp.
+
+Oman, P. W. 1949. The Nearctic leafhoppers (Homoptera : Cicadelli¬ 
+dae). A generic classification and checklist. Mem. ent. soc. 
+Wash., 3 : 1-253.
+
+Oman, P. W. 1985. A synopsis of the Nearctic Dorycephalinae (Homop¬ 
+tera : Cicadellidae). J. Kansas ent. soc., 58 : 314-316.
+
+Pathak, M. D., Ling, K. G, Lowe, J. A. and Yoshimura, S. 1967. A 
+survey of inseots and diseases of rice in India. International 
+Rice Research Institute, Los Banos, Philippines, 1-7.
+
+Pruthi, H. S. 1930. Studies on Indian Jassidae (Homoptera) Part 1.
+
+Introduction and designation of some new genera and species. 
+Mem. Indian Mus., 11 : 1-68.
+
+Pruthi, H. S. 1934a. Entomological investigations on the spike disease 
+of Sandal (14). Jassidae (Homopt.) Indian Forest Rec. Ent. 
+Ser., 19 (4) : 1-30.
+
+Pruthi, H. S. 1934b. Studies on Indian Jassidae (Homoptera) Part II.
+
+Description of the genotype of some of the genera founded 
+by W. L. Distant with a revision of the genus Moonia Distant, 
+Mem. Indian Mus., 11 : 69-99.
+
+Rao : Collection of leaf hoppers from Meghalaya 119
+
+Pruthi, H. S. 1936. Studies on Indian Jaissidae (Homoptera) Part HI.
+
+Descriptions of some new genera and species with first records 
+of some known species from India, Mem. Indian Mus., 11 - 
+101-131.
+
+Ramakrishnan, U. 1983. Morphomotrics of various populations of 
+Nephotettix species in India. Proc. 1st International Symp. 
+Leafhoppers and Plant hoppers of economic importance London, 
+C.I.E., 319-333.
+
+Ramkrishnan, U. and Menon, M. G. R. 1971. Studies on Indian Typhlo- 
+cybinae (Homoptera : Cicadellidae) 1. Five new genera and 
+a new record of Dikraneurini. Orient. Insects , 5 (4) : 455-468.
+
+Ramakrishnan, U. and Menon, M. G. R. 1972a. Studies on the Indian 
+Typhlocybinae (Homoptera : Cicadellidae) 2. Ten new species 
+of Typhlocybini. Orient. Insects, 6 (1) : 111-129.
+
+Ramakrishnan, U. and Menon, M. G. R. 1972b. Studies on the Indian 
+Typhlocybinae (Homoptera : Cicadellidae) 3. Three new genera 
+and four new species of Typhlocybini. Orient. Infects, 6 (2) : 
+183-192.
+
+Ramakrishnan, U. and Menon, M. G. R. 1973. Studies on the Indian.
+
+Typhlocybinae (Homoptera : Cicadellidae) 4. Seven new 
+genera with fourteen new species of Erythroneurini. Orient .. 
+Insects, 7 (1) : 15-47.
+
+Ramakrishnan, U. and Menon, M. G. R. 1974. Seudies on the Indian 
+Typhlocybinae (Homoptera : Cicadellidae) 5. The tribe Ery- 
+thioneurini. Oriental Ins. 8 (4) : 433-455.
+
+Rao, A. S. 1974. The vegetation and phytogeography of Assam-Burma 
+In : M. S. Mani (ed.). Ecology and Biogeography in India. 
+204-244.
+
+Rao, K. R. 1967. A note on Ary a rubrolineata Dist. (Jassidae, Homoptera) 
+from Kalyani. J. Bombay nat. Hist. Soc„ 64 (1) : 130.
+
+Rao, K. R. 1973. Studies on a small collections of Jassids from Poona. 
+Zool. Anz., Leipzig 191 (£) : 93-98.
+
+120
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Rao, K. R. 1981. Studies on the leafhopper fauna of Meghalaya and 
+adjacent areas II. Cicadellid collections from Manas and 
+Dibrugarh (Assam) surveys. Rec. Zool. Surv. India , 78 : 1 - 6 .
+
+Rao, K. R. 1989. Descriptions of some new leafhoppers (Homoptera :
+
+Cicadellidae) with notes on some synonymies and imperfectly 
+known species from India. Hexapoda , 1 (1) : 59-84.
+
+Raychaudhuri, S. P., Mishra, M. D. and Ghosh, A. 1967. Preliminary 
+note on the occurrence and transmission of rice yellow d*warf 
+virus in India. Plant. Dis. Rep., 51 : 1040-1041.
+
+♦Ribaut, H. 1948. Demembrement de quelques generes de Jassidae. Bull, 
+nat. Hist. Soc., 83 : 57-59.
+
+Ribaut, H. 1952. Homopteres Auchenorhynques. II (Jassidae). Fauna Fr. t 
+57 : 1-474.
+
+Ross, H. H. 1968. The evolution and dispersal of the grassland leafhopper 
+genus Exitianus, with keys to the Old World species (Cicadel¬ 
+lidae : Hemiptera). Bull Br. Mus. nat. Hist. (Ent .) : 22 • 
+1-30.
+
+Sawai Singh, 1969. Fifteen new species of Jassids (Cicadellidae from 
+Himachal Pradesh). Res. Bull. Punjab. Univ. (Sci .), 20 • 
+339-361.
+
+Sawai Singh, 1971. Hishimonus Ishihara, 1953 aadi Hishimonoides Ishihara, 
+1965 as synonyms of Cestius Distant, 1908 (Cicadellidae : 
+Hemiptera), J. nat. Hist., 5 : 241-250.
+
+Sawai Singh, 1973. Final report P.L. 480 project No. AT. Ent. 22 : 
+Punjab Agri. Univ. 16 (ed. Bindra, O.S.).
+
+Sivaramakrishnan, V. R. and Sen-Sarma, P. K. 1978. Experimental 
+transmission of spike disease of Sandal, Santalum album by 
+the leafhopper Nephotettix. Indian Forester, 104 (3) :
+
+202-205.
+
+♦Not seen in original.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+121
+
+Sohi, A. S. 1977. Typhlocybines (Homoptera, Cicadellidae, Typhlocybinae) 
+as pests of plants in north-western India. Second Oriental 
+Entomology Symposium, Madras, 99-100, (Abstract).
+
+Sohi, A. S. 1983. The Oriental Typhlocylbinae with special reference to 
+pests of cotton and rice : a review. Proc. 1st International 
+Symp. Leafhoppers and Plant hoppers of economic importance , 
+London, C.I.E., 47-74.
+
+Sohi, A. S. and Dworakowska, I. 1984. A review of the Indian Typhlo- 
+cybinae (Homoptera : Cicadellidae) from India. Orient. 
+Insects, 17 : 159-213.
+
+Sohi, A. S. and Kapoor, V. C. 1973. New record of Exitianus taeniaticeps 
+(Kinschibaum) with a description of a new species of Eryth- 
+roneura Fitch (Cicadellidae : Homoptera) from India. Ento¬ 
+mologist's Rec. J. Var., 85 (2) : 294^297.
+
+Vilbaste, J. 1965. On the genus Aconura Leth. (Homoptera : Jassidae). 
+Notul. ent. 45 : 3-12.
+
+Viraktamath, C. A. 1976a. Four new species of idiocerime leafhoppers 
+from India with a note on male Bcdocha astuta (Melfchai) 
+(Homoptera : Cicadellidae : Idiocerinae). Mys. agric. /., 
+10 : 234-244.
+
+Viraktamath, C. A. 1976b New species of Doratulina and Bumizana 
+(Homoptera : Cicadellidae) from Karnataka. Orient. Insects ., 
+10 (1) : 79-86.
+
+Viraktamath, C. A. 1979a. Jogocerus gen. nov. and new spedes of 
+idiocerine leafhoppers from Southern India (Homoptera : 
+Cicadellidae)., Entomon., 4 : 17-26.
+
+Viraktamath, C. A. 1979b. Four new species of Idioscopus (Homoptera :
+
+Cicadellidae) from Southern India. Entomon., 4 : 173-181.
+
+Vjraktamarh, C. A. 1980a. Indian Macropsinae (Homoptera : Cicadel¬ 
+lidae) I. New species of Macropsis from South India. J. nat. 
+Hist., 14 : 319-329.
+
+122
+
+Rec. Zool. Surv. India, Occ. Paper No. 127
+
+Viraktamath, C. A. 1980b. Notes on Idioscopus species (Homoptera :
+
+Cicadelildae) described by Dr. H. Pruthi with description 
+of a new species from Meghalaya, India. Entomon., 5 ’ 
+227-231.
+
+Viraktamath, C. A. 1981. Indian Macropsinae (Homoptera : Cicadel- 
+lidae) II. Species described by W. L. Distant and descriptions 
+of new species from the Indian subcontinent. Ent. Scand. 
+12 : 295-310.
+
+Viraktamath, C. A. 1982. A generic revision of Old World Agalliini 
+(Homoptera : Cicadellidae). Ph.D. Thesis submitted to the 
+Univ. Agril. Sciences Bangalore, India, 1-367.
+
+Viraktamath, C. A. 1983. Genera to be revised on a priority basis. The 
+need for keys and illustrations of economic species of leaf- 
+hoppers and preservation of Voucher specimens in recognised 
+institutions. Proc. 1st International Symp. Leaf hoppers and 
+Plant hoppers of economic importance, London, C.I.E. 
+471-492.
+
+Viraktamath, S. and Viraktamath, C. A. 1980. Redescription of 
+Allectus, Diviaticus and Lampridius (Homloptera : Cicadel¬ 
+lidae) described by W. L. Distant, Entomon., 5 : 135-140.
+
+Viraktamath, C. A. and Wesley, C. S. 1989. Revision of Nirvaninal of 
+the Indian subcontinent. In : Nielson, M.W. (ed.). A 
+tribute to Paul V. Oman. Memoirs, 12 : Great Basin 
+Nationalist Memoirs, 12 :
+
+Wesley, C. S. 1980. Taxonomic studies on Nirvaninae (Homoptera :
+
+Cicadellidae) of the Indian subcontinent. M.Sc. (Agri.) thesis. 
+Univ. Agril. Sciences, Bangalore, 1-117.
+
+Wilson, M. R. 1983. A revision of the genus Paramesodes Ishihara 
+(Homoptera : Auchenorrhyncha : Cicadellidae) with descrip¬ 
+tion of eight new species. Ent. Scand., 14 : 17-32.
+
+Rao : Collection of leafhoppers from Meghalaya
+
+123
+
+Young, D. A. 1952. A reclassification of Westenr Hemisphere Typhlo- 
+cyfoinae (Homoptera : Cicadellidae). Kans. Univ. Sci. Bull „ 
+35 : 1-217.
+
+Young, D. A. 1968. Taxonomic study of the Cioadellinae (Homoptera :
+
+Cicadellidae) Part I. Proconiini. Bull. U.S. natn. Mus. 261 : 
+1-287.
+
+Zimba. D. T. 1977. Geography of Meghalaya, Standard Printing Press, 
+Gauhati, 1-66.

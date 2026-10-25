@@ -47,11 +47,22 @@ from .syntax import (
     SyntaxEngine,
     build_sentence,
     interrogative_sentence,
+    build_complex_sentence,
+    build_conditional_sentence,
+    build_relative_clause,
+    build_comparative_sentence,
+    build_passive_sentence,
 )
 from .echo_words import (
     ECHO_WORDS,
     list_echo_words,
     find_echo_word,
+)
+from .rules import (
+    GrammarRule,
+    CLASSICAL_GRAMMAR_RULES,
+    GrammarRulesEngine,
+    grammar_rules,
 )
 
 __all__ = [
@@ -95,8 +106,18 @@ __all__ = [
     "SyntaxEngine",
     "build_sentence",
     "interrogative_sentence",
+    "build_complex_sentence",
+    "build_conditional_sentence",
+    "build_relative_clause",
+    "build_comparative_sentence",
+    "build_passive_sentence",
     # Echo Words
     "ECHO_WORDS",
     "list_echo_words",
     "find_echo_word",
+    # Classical Grammar Rules Engine
+    "GrammarRule",
+    "CLASSICAL_GRAMMAR_RULES",
+    "GrammarRulesEngine",
+    "grammar_rules",
 ]

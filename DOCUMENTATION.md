@@ -1,6 +1,6 @@
 # Khasi Language Library (Ka Ktien Khasi) — Complete API Documentation
 
-Comprehensive technical documentation for the `khasi` Python library (version 1.11.0).
+Comprehensive technical documentation for the `khasi` Python library (version 1.16.0).
 
 ---
 
@@ -13,10 +13,16 @@ The root `khasi` package provides direct, high-level access to the most common o
 | Function | Signature | Description |
 |---|---|---|
 | `translate()` | `translate(text, source='auto', target='khasi', dialect='sohra')` | Translates English, Hindi, or Hinglish into Khasi with dialect adaptation. |
-| `lookup()` | `lookup(word: str)` | Looks up a word in the 415,000+ trilingual dictionary with prefix stripping fallback. |
+| `lookup()` | `lookup(word: str)` | Looks up a word in the 608,000+ comprehensive dictionary with prefix stripping fallback. |
 | `search()` | `search(query: str)` | Searches for matching words across Khasi, English, and Hindi. |
 | `analyze()` | `analyze(word: str)` | Decomposes a word morphologically (lemma, POS, prefixes). |
-| `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (450,000+). |
+| `total_word_forms()` | `total_word_forms() -> int` | Returns total combinatorial forms represented (600,000+). |
+| `build_sentence()` | `build_sentence(subject, verb, obj, tense, aspect, negative)` | Generates complete grammatical simple sentences with copy agreement. |
+| `build_complex_sentence()` | `build_complex_sentence(main, sub, conjunction)` | Links clauses with subordinate conjunctions (`namar ba`, `ba`, `katba`). |
+| `build_conditional_sentence()` | `build_conditional_sentence(condition, consequence, concessive)` | Generates conditional (`Lada...`) and concessive (`Wat la... pynban...`) sentences. |
+| `build_relative_clause()` | `build_relative_clause(antecedent, verb_clause, gender)` | Constructs relative clauses (`uba`, `kaba`, `kiba`, `iba`). |
+| `build_comparative_sentence()` | `build_comparative_sentence(item1, item2, adjective)` | Builds comparative superiority clauses (`kham... ban ïa`). |
+| `build_passive_sentence()` | `build_passive_sentence(patient, verb, agent, adversative)` | Constructs adversative (`shah`) and neutral passives. |
 | `num_to_words()` | `num_to_words(n: int) -> str` | Converts integer to formal Khasi words. |
 | `words_to_num()` | `words_to_num(text: str) -> int` | Converts Khasi word number back to integer. |
 | `ordinal()` | `ordinal(n: int) -> str` | Returns ordinal form (e.g., 1 -> `ba-nyngkong`). |
@@ -37,9 +43,8 @@ The root `khasi` package provides direct, high-level access to the most common o
 - `khasi.proverbs.all()` / `khasi.proverbs.random()` : 65+ authentic moral proverbs (*Ki Ktien Tymmen* / *Phawar*) with literal and contextual translations.
 - `khasi.riddles.all()` / `khasi.riddles.random()` : 52 traditional Khasi riddles (*Ki Jingkyntip*) with solutions and cultural hints.
 - `khasi.instruments.all()` / `khasi.instruments.get(name)` : Traditional musical instruments (*Duitara*, *Tangmuri*, *Ksing*, *Nakra*, *Maryngod*, *Mieng*, *Besli*, etc.).
-- `khasi.songs.all()` / `khasi.songs.get(title)` : 300 traditional folk songs, ballads, chants, and phawars across 58 categories complete with authentic Khasi lyrics, stanzas, and English translations.
-- `khasi.books.all()` / `khasi.books.get(id_or_title)` / `khasi.books.read(id, page)` : Whole digitized books reader with 370 foundational classical masterworks (25,722 pages, 7,121,329 words).
-- `khasi.audio_dataset` : 500 studio-grade spoken audio recordings (16kHz 16-bit Mono PCM WAV) across phrases, proverbs, idioms, literature, phawar, nature, and culture with paired multilingual manifests.
+- `khasi.books.all()` / `khasi.books.get(id_or_title)` / `khasi.books.read(id, page)` : Whole digitized books reader with **1,233 foundational classical and academic masterworks directly in the library** (127,880 pages, 32,456,918 words), supporting page-by-page reading, in-book text search, and cross-book full-text search without any external PDF dependencies. Complete with 1,939 preserved historical PDF scans and full editions in `data/khasi_books/`.
+- `khasi.grammar_rules.all()` / `khasi.grammar_rules.get(id)` / `khasi.grammar_rules.by_category(c)` : **100 Classical Khasi Grammar Rules Engine** catalogued across 9 formal grammatical categories (Nominal Agreement, TAM, Case Marking, Derivational Morphology, Complex Syntax, Enclitics & Expressives, Numeral Classifiers, Discourse Particles, Phonotactics & Morpho-Phonology).
 - `khasi.clothing.all()` / `khasi.clothing.get(name)` / `khasi.clothing.by_gender(g)` : Traditional garments (*Jaiñsem*, *Dhara*, *Jaiñkup*, *Kyrshah*, *Tapmohkhlieh*, *Jaiñpien*, *Jymphong*, *Spong*, *Jaiñboit*).
 - `khasi.jewellery.all()` / `khasi.jewellery.get(name)` / `khasi.jewellery.by_gender(g)` : Traditional jewellery & ornaments (*Pansngiat*, *Paila Mukmor*, *Kynjri Ksiar*, *Kynjri Rupa*, *Shanryndang*, *Siar Kynthei*, *Mahu*, *Ta-kora*, *Sa-shiah*, *Siatsngi*, *Kynjri Tabah*).
 - `khasi.fabrics.all()` / `khasi.fabrics.get(name)` : Indigenous sacred handloom textiles (*Ryndia* peace silk from Ri Bhoi, *Thoh Khyrwang* from Jaintia, *Jaiñsem Muga*, *Sulan*).
@@ -56,6 +61,7 @@ The root `khasi` package provides direct, high-level access to the most common o
 - `khasi.idioms.all()` / `khasi.idioms.get(query)` : 34 coupled rhyming idioms (*Ki Ktien Kynnoh*) and parables (*Ki Pharshi*).
 - `khasi.roots.all()` / `khasi.roots.get(root)` / `khasi.roots.by_category(c)` : Authentic Austroasiatic/Mon-Khmer roots (*Ki Ktien Tynrai*) for anatomy, elements, moral pillars, and verbs with etymological cognates.
 - `khasi.expressives.all()` / `khasi.expressives.get(name)` / `khasi.expressives.by_domain(d)` : World-famous Khasi phonaesthetic ideophones (*Ki Ktien Pynshai Dur*) vividly expressing colors, textures, temperatures, gaits, and sounds.
+- `khasi.grammar_rules.all()` / `khasi.grammar_rules.get(id)` / `khasi.grammar_rules.by_category(c)` / `khasi.grammar_rules.search(q)` : 90 classical grammar rules engine (*Ka Riti Ktien Khasi*) covering 9 categories: nominal agreement (8 rules), tense-aspect-mood (23 rules), case marking (10 rules), derivational morphology (12 rules), complex syntax & clause subordination (11 rules), enclitics & expressives (11 rules), numeral classifiers (7 rules), discourse particles (5 rules), and phonotactics & morpho-phonology (3 rules).
 
 ---
 
@@ -691,4 +697,88 @@ print(clouded["status"])          # State Animal of Meghalaya
 birds = khasi.by_wildlife_class("bird")
 print(f"Documented Bird Species: {len(birds)}")
 ```
+
+---
+
+## 19. Parallel Corpus & MT Toolkit (`khasi.parallel_corpus` / `khasi.corpus`)
+
+Sentence-aligned parallel dataset and machine translation benchmarking suite for Khasi language computational linguistics:
+
+```python
+import khasi
+from khasi import parallel_corpus, ParallelCorpus
+
+# 1. Corpus Statistics
+stats = parallel_corpus.get_stats()
+print(f"Total Sentences: {stats['total_records']:,}")
+print(f"Sources Represented: {stats['sources']}")
+
+# 2. Retrieve Parallel Sentence Pairs
+pairs = parallel_corpus.get_pairs()
+for kh, en in pairs[:3]:
+    print(f"Khasi:   {kh}")
+    print(f"English: {en}\n")
+
+# 3. Filter by Source Book or Book ID
+book_sents = parallel_corpus.get_records(source="Pilgrim")
+for s in book_sents[:2]:
+    print(f"{s['khasi']} -> {s['english']}")
+
+# 4. Search Parallel Corpus
+matches = parallel_corpus.search("Hok")
+
+# 5. Export for Hugging Face or Bitext Training
+parallel_corpus.export_huggingface_format("hf_parallel.jsonl")
+parallel_corpus.export_bitext("train.kha", "train.en")
+
+# 6. Evaluate Machine Translation BLEU Scores
+hypotheses = ["U briew u leit sha ïing"]
+references = ["U briew u leit sha ïing"]
+bleu = ParallelCorpus.compute_bleu(hypotheses, references)
+print(f"BLEU: {bleu['bleu']}")  # 100.0
+```
+
+---
+
+## 20. Classical Khasi Grammar Rules Engine (`khasi.grammar_rules`)
+
+The `khasi.grammar_rules` engine formalizes **100 authoritative classical Khasi grammar rules** derived directly from historical foundational grammars and treatises (*Rev. H. Roberts 1891*, *Rev. Thomas Jones 1841*, *Rev. W. Pryse 1855*, *Dr. G. A. Grierson 1903*, *Babu Jeebon Roy 1897*, *Dr. R. S. Lyngdoh 1983*):
+
+### Distribution Across 9 Grammatical Categories:
+1. **Nominal Agreement (`AGR`)**: 9 formal rules (Article Prefixation, Gender Harmony, Pronominal Copy Agreement, Kinship Honorific Plural, Diminutive Reverence).
+2. **Tense-Aspect-Mood (`TAM`)**: 25 formal rules (Habitual, Definite Future, Perfective Consecutive 'Sa', Optative 'To', Apprehensive 'Ioh', Concomitant 'Nangta').
+3. **Case Marking (`CAS`)**: 11 formal rules (Differential Object Marking with 'ïa', Dative-Benefactive, Locative, Synteng Allative 'che'/'cha', Postpositional 'ha-khet').
+4. **Derivational Morphology (`DER`)**: 13 formal rules (Causative 'pyn-', Nominalizer 'jing-', Agentive 'nong-', Privative 'bym-', Reciprocal-Causative 'ïa-pyn-').
+5. **Complex Syntax (`CLA`)**: 12 formal rules (Subordinate Clause Order, Comparative 'kham... ban ïa', Concessive 'La bha ba... pynban', Temporal Inversion).
+6. **Enclitics & Expressives (`EXP`)**: 12 formal rules (Echo Reduplication, Coupled Rhyme, Attenuative Reduplication 'stem-stem', Ideophonic Motion).
+7. **Numeral Classifiers (`NUM`) / (`CLS`)**: 8 formal rules (Personal 'ngut', Inanimate 'tylli', Arboreal 'tynrai', Foliar 'sla', Sheaf 'rynjup').
+8. **Discourse Particles (`DIS`)**: 6 formal rules (Hortative 'To'/'Seh', Confirmation Tag 'Mo', Reportative 'Da Ong', Focus Enclitic 'Te', Assertive 'Re').
+9. **Phonotactics & Morpho-Phonology (`PHO`)**: 4 formal rules (Glottal Stop '/ʔ/', Minor Syllables, Vowel Contrast 'I' vs 'Ï', Glide Epenthesis, Coda Gemination).
+
+### Example Python Usage:
+
+```python
+import khasi
+
+# 1. Inspect engine summary
+summary = khasi.grammar_rules.summary()
+print(f"Total Rules: {summary['total_rules']}")         # 100
+print(f"Categories: {summary['categories_count']}")     # 9
+
+# 2. Retrieve a specific rule by ID
+rule = khasi.grammar_rules.get("TAM-24")
+print(rule.name)          # Historical Optative-Precative with Archaic 'Ioh' and 'Khein'
+print(rule.formula)       # [Ioh ba / Khein ba] + [Subject] + [Verb Phrase]
+print(rule.khasi_examples) # ['Ioh ba U Blei un isynei', 'Khein ba ngin ioh ka jingsuk']
+
+# 3. Filter rules by category
+tam_rules = khasi.grammar_rules.by_category("Tense-Aspect-Mood")
+print(f"TAM Rules: {len(tam_rules)}")  # 25
+
+# 4. Search rules by keyword
+classifier_rules = khasi.grammar_rules.search("classifier")
+for r in classifier_rules:
+    print(f"[{r.id}] {r.name}: {r.formula}")
+```
+
 

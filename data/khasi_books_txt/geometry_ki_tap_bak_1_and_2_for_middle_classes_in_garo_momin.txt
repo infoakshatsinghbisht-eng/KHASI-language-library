@@ -1,0 +1,1822 @@
+TITLE: Geometry Ki Tap Bak 1 And 2 For Middle Classes In Garo
+AUTHOR: Momin, H. Brill
+YEAR: Unknown
+ID: geometry_ki_tap_bak_1_and_2_for_middle_classes_in_garo_momin
+------------------------------------------------------------
+
+GEOMETRY KITAP 
+BAK I & II 
+FOR 
+MIDDLE CLASSES IN GARO 
+BY 
+H. BRILL MOM IN B.SC., B.T. 
+Published by 
+Tura Book Room, West Garo Hills. 
+Tura, Meghalaya 
+& 
+Printed by 
+Jay Kay Enterprises 
+Gauhati-781 001 
+JANAPCHENGANI 
+Anga ia kitapko middle classrango jakkaltona gita 
+Achikkuchi seaha.Daodipet Achik bi sarangna in- 
+dakgipa kitaprangko Achikkuchi segimin komibeenga- 
+ni gimin ia kitap poraienggipa A chik chatro- 
+chatrirangna aditan jakkaltogipa ong gen ine anga 
+bebera a.Ia kitapko Meghalaya Board of School Edu- 
+cation^ authorityrangba text book dake jakkalna 
+approve ka pagen ineba anga ka donga. 
+Ia kitapko namdapatani bidingo saoba maiba 
+kupattiani gnangode angona uiatpachina mobmola. 
+Kitapko scgipa, 
+Dist. Science Supervisor. 
+West Garohills, Tura. 
+JANAPCHENGANI. 
+Anga Geometry Bak-II-ko Middle classrango 
+jakkaltona gita Achikkuchi seaha. Ia angni segimin 
+gnigipa kitapo Geometryni dingtang dingtang bimang- 
+rangko noksa sale mesokanirang aro uarangko noksa 
+salani niamrangko mongsongbate nikna man* gen. 
+Iarangna agreba Geometryni adita ming problemrang- 
+koba ia kitapo man' chapataha.
+
+Ia kitapko namdapatna saoba maiba kupattiani 
+gnangode, uarangko angona uiatpaode mittelbegen. 
+Anga uarangko ra'chaksona kusi ong gen. 
+Kitapko segipa, 
+Shri. H. Brill Momin., B.Sc,B.T., 
+Dist Sceince Supervisor, 
+KATTA BI CHONGRANG. 
+BAK-I 
+Page. 
+1. CHAPTER-1 
+1 
+2. CHAPTER-2 
+3 
+3. CHAPTER-3 
+5 
+4. CHAPTER-4 
+9 
+5. CHAPTER-5 
+12 
+6. CHAPTER-6 
+18 
+7. CHAPTER-7 
+24 
+8. CHAPTER-8 
+32 
+9. CHAPTER-9 
+39 
+10. CHAPTER-10 
+44 
+11. ANSWER 
+47 
+1. BAK-1 
+BAK-II 
+Page 
+2
+
+2. BAK-2 
+7 
+3. BAK-3 
+17 
+4. BAK-4 
+24 
+5. BAK-5 
+27 
+BAK-I 
+CHAPTER- 1 
+Airching hang bea bosturangko anchingni sam- 
+jtangtango nikna man a, aro uarang ge - sa ge'gipinoni 
+■ bimango dingtanggrika. Adita bosturangni biman- 
+grangko ka - mao noksa baksa mesokenga. 
+( UBOI D A l. 
+BA 
+CUBOID 
+fv 
+CYLINDRICAL 
+BA 
+CYLINDER 
+CONICAL 
+BA 
+(ONE 
+2 
+EXERCISE-1 
+1. Ka mao mesokgipa bostu mingprakni kamac 
+bimangni bimungko see mesokbo. 
+Chi ring.chakani Mug. Robol. Bakos. 
+Bol-bite. Mula. Kerosene Tin. 
+Kitap. Pencil ku’chot. Krong dotsa. 
+3 
+2. (a) Cylindrical bimangrangko ming 3 noksa sale 
+mesokbo. 
+(b) Cuboidal bimangrangko ming 3 noksa sale
+
+mesokbo. 
+(c) Conical bimangrangko ming 2 noksa sale 
+mesokbo. 
+(d) Spherical bimangrangko ming 2 noksa sale 
+mesokbo. 
+CHAPTER-2 
+PLANE SURFACE 
+Je Bostuni bakkon an.ching nikna aro jakchi 
+dangtape nina mama uandakgipa bakrangkon surface 
+ine minga.Kamao mesokgipa bosturangni surfacerang- 
+ko namedake nibo. 
+An-ching sronggipa go-ol ge-sako ra e bolplengni 
+kosako je rokom dakeba done nina man -a. Go-ol 
+bolplengni kosakgipa bako ba surfaceo pilak bakran- 
+gon nangdika ine nikna mana.Unigimin, bolplengni 
+surface plane ong'a ine aganna mama. 
+An-ching robolni kosako go'olko done niskana 1 
+.Gool robolni banggija bakrangosan nangdikaia ine 
+nikna man-a.Unigimin robolni surfaceara plane ong-ja 
+4 
+(ga'nangja) inc uina man’a. 
+Da odc anching goolko wa'singtokni kosako 
+done niskana. Go olko wa'singni ro - a joljol donon 
+gool wa'singni pilak bakrangon nangdika me nikna 
+man'll, indiba apsan go olko wa singtokni kosako 
+dambcnge donskaon go ol wa'singni kosako banggija 
+bakrangosan nangdikaia ine nikna man a.Unigimin, 
+wasingtokni surfaceara plane ongja ine uina mana. 
+Lekkani surface plane ong a. Una agreba kelki aro 
+do garangni surfacerangba plane ong a. 
+EXERCISE-II. 
+1 . Plane surface donggipa bosturangko ming 4 mingbo. 
+2. Glaxo tinni mitain surface plane ong a aro mitam 
+plane ong ja. Indakgipa bosturangni bimungrangko 
+ming 3 mingbo.
+
+Fig-Ill 
+Fig-IV 
+5 
+3 Ka mao mesokgipa noksarangko rue badia bostur- 
+angni surface plane ong a arc badia puinc ong ja 
+on gimin bostu mingprakm ka mao sec mesokbo 
+Fig- VII 
+Iig-VIIi 
+CHAPTER-111. 
+DOTGIMIKGIPA BIMANGRANG. 
+(Solid figures) 
+1 CUBE. : 
+Cubcm bimangko surface 
+ge dokchi duula Cube gc’sao 
+siderang (riking) ge 12 aro 
+noknik (vertex) ge 8 gnang. 
+Surface ge prakm pilak sider- 
+angan apsan onga. Pilak 
+sidcrangan apsan ong gipa 
+surface ge 6 chi duulgipa 
+bimangkon CUBE ine minga. 
+Side (riking) 
+6 
+Cubeni bimangko ong atgipa surfacerangko 
+niode, Surface geprakni siderang ba rikingrang aro 
+noksikrang (vertices) pilakan apsan ong a ine nikna 
+marra.Unigimin Cubeni surface ge prakni bimang 
+square ong-a ine uina man a. 
+j i 
+Chatro-chatrirangko lekka ba-ao kosako.mcsokgi- 
+pa noksako saldape uarangko mesokgimin linerang gita 
+(dotted lines) uarangko tem e Cubeni bimangko lariat- 
+bo. Uamangko surface ge prakko gesa ge-gipin baksa 
+dondape uarang apsan ongama ong ja dakc niatbo. 
+2. CUBOID :
+
+Jakrachi Cuboidni bimangko 
+mesoka.Cuboid-oba Cubeo 
+gitan surface ge 6, siderang 12 
+aro noksikrang ge 8 gnang.In- 
+diba Cuboido uni surfacerang 
+gesa ge gipin baska apsan 
+ong ja. indiba uni mikkang- Cuboid 
+grikgipa surfaccrangsan apsan 
+7 
+ongaia.Dotgimikgipa bimangni mikkanggrikgipa sur- 
+facerangsan apsan ong*aiode indakgipa bimangko 
+Cuboid ine minga. 
+Cube aro Cuboidni dingtanggrikanide Cuboido 
+mikkanggrikgipa surfacerangsan apsan ong*aia,indiba 
+C'ubeode pilak surfacerangan ge-sa ge*gipin baksa 
+apsan ong*a. 
+3. CYLINDER Jakrachi Cylinderni noksako meso- 
+ka. Ian chi ringchakani mug ba wa*s- 
+ing-tokni bimang gita dakanga. Iano 
+surface ge*gitam gnang.Kosakgipa 
+aro ka'magipa surfacerang plane sur- 
+face-rang ong-a.Ua surface getgniko 
+duulgipa surfaceko curved (gong- 
+gegipa surface) minga. Cylinderni 
+bimango noksikrang (vertex) dongja. 
+Cylindero plane surface ge*gniko uni 
+CYLINDER base ine minga. 
+4. SPHERE : Sphcrcni noksako jakrachi mesoka. Ian 
+binvromgipa bimang ge sa ong-a. Ia 
+bimango side aro noksikrang dong-ja. Ia 
+bimangko surface ge sachisan duulaia 
+aro surfaceba plane ong*ja. Je bimangon 
+surface ge sasan dongaia, indakgipa 
+SPHERE bimangko sphere ine minga. 
+8
+
+5. CONE : Conc-ni bimangko jakrachi mesoka. lane 
+Vertex surface gc*gni gnang. Plane surface ge'sa 
+A jekon Cone-ni base ine minga. Ia bimangc 
+/ \ noksik gc'sasan dongaia. Iandakgipa 
+/ \ bimangkon Cone ine minga. 
+/ Curved \ 
+/ Surface \ 
+CbascJ) 
+Cone 
+EXERCISE-III. 
+1. Cuboidni bimang dakgipa bosturangko ming 3 
+mingbo. 
+2. Cylinderni bimang dakgipa bosturangko ming 3 
+mingbo. 
+3. Cylindero badita ge surfacerang gnang aganbo. 
+Uarangoni badiagipa surfacerang ge sa ge gipin 
+baksa apsan ong.a aganbo. 
+4. Cubeni bimang dakgipa bosturangko ming 2 noksa 
+sale mesokbo. 
+5. Cone-ni bimang dakgipa bosturangko ming 3 
+mingbo. 
+6. Maina robolko Cube ba Cuboidni bimango tarija, 
+indiba Sphereni bimangosa taria. nang ni uia gita 
+aganchakbo. 
+7. Coneni bimango badita noksik aro surfacerang 
+gnang aganbo. 
+8. Sipairangni tambuni bimang maigita daka aganbo. 
+Maina tambuko indake taria aganbo 
+CHAPTER-IV. 
+PLANE SURFACERANG. 
+Anching banga dingtang dingtang bimangrangan 
+surfacerangchi duula inc nikna mana.Surfaceni biman- 
+rangba bimangni kri dingtang dingtang onga.Ang- 
+•ching surfaccrangni gimin sandie niangkuna. 
+1. RECTANGLE Cuboidni bimangko ong’atgipa
+
+surface geprakan rectangle 
+onga. Ua surface ge prako noksik 
+ge 4 gnang. Anchingni Exercise 
+bohiba rectanglcni bimang gita 
+daka. 
+Rectangle 
+2. SQUARE Cubeni bimangko ongatgipa surface 
+ge prakan square onga Square-oba rcc- 
+tangleo gitan side ge 4 aro noksikrang 
+ge 4 gnang. Indiba squareo side ge.* 
+prakni ro an ge sa getgipin baksa apsan 
+onga. 
+Square 
+SQUARE aro RECTANGLE ni dingtanggrikani. 
+Squareo pilak siderangan apsan ong a, indiba 
+rectanglco mikkang-chakgrikgipa siderangsan apsan 
+ongaia. 
+10 
+Square aro Rectangleni bimangrangko dake mesokani. 
+1. (a) SQUARE Squareni bimangko tarina rectangle 
+onggipa lekka kingsako ra e jakasi- 
+chi noksao mesoka gita tembo. 
+Tenra gitchagipa lekkako rate gal- 
+bo. Tenva-ko badalon Square ni 
+bimangko man -gen. 
+(b) Rectangleni bimangogipa apsan dal-gipa lekka 
+kinggniko jakrachi mesokgipa 
+gita kingsa kinggipinko don- 
+dapbo. Don-dapa gitchagipa 
+lekkako rate galbo. An ching 
+Square ge gniko man-gen. 
+2. RECTANGLE Nang ni exercise bohioniko lekka 
+kingsako chite uni noksik samg- 
+niko gipin noksik samgni baksa 
+meliate tem bo.Mikkanggrikgipa
+
+nok-sikrang aro mikkanggrikgipa 
+Rectangle siderang apsan ong-ama ong,ja 
+dake nibo. 
+3. CIRCLE : lan garichakani bimang gita dakanga. 
+O Cylindero indakgipa surface ge-gni 
+gnang aro Cone-ni bimango ge*sa gnang-; 
+.Circleo noksikrang dongja. Na a jaksan 
+ba paisa gong sani bimangko lekkako 
+done saldulode circleni bimangko 
+Circle nikgen. 
+11 
+4. TRIANGLE 
+Vertex 
+Ian side ge-gitam aro noksik ge*gitam 
+gnanggipa bimang gesa onga.Bi- 
+mangni side ge'gni nok-sik geprakko 
+ong*ata.Indakgipa bimangko Triang- 
+le ine minga. 
+Triangle 
+Triangleko dake mesokani. 
+Square ong gipa lekka 
+kingsako ra e uko mikkang- 
+grikgipa noksikrangko apsan 
+tenrbo. Tenrgimin bimang 
+triangle ong-a.Tem.gipa lek- 
+kako tem.ajoljol ratode 
+triangle ge gniko man -gen. 
+EXERCISE-IV. 
+1. On'gimin noksarangoniko rectangleni bimangko 
+sandibo. 
+Fig-V 
+12 
+2. Ka mao on gimin noksarangoniko squareko 
+mcsokbo. 
+Fig- V
+
+3. Circleni bimang gnanggipa bosturangko ming 3 
+noksa sale bimung donbo. 
+4. Maina motor garini chakkarangko circlem bimango 
+taria chanchie aganchakbo. 
+5. Square ong' gipa lekka kingsako ra-c uko mikkang- 
+grikgipa ku chot ge gniko nangrimate apsangrik 
+tern -bo. Tern- ako badale na a badita triangle ge ko 
+ongatna man a dake nie aganchakbo. 
+6. Ka mao mcsokgipa noksarango badita gc triangle- 
+rangko nika chane aganbo. 
+CHAPTER-V. Fig-1 Fig-II 
+POINT ARO LINE-SEGMENT. 
+An ching rectangle, square aro trianglerangni 
+gimin adita skie ra baaha. Ua janapgipa bimang 
+13 
+ge.prakon line-segment aro noksikrang gnang. Tab- 
+leni rikingrang ba siderang line-segmentrangko 
+mesoka. 
+POINT : Pointni miksongani- 
+ko an.ching mingsa duke 
+mesokanichi talatna mama* 
+Jekai, an.ching lekka king- 
+sako tem.ode tem ani chinko 
+nikna man. a. Apsan lckkakon 
+skanggipa chinko temdape 
+gipin chinko ong'atna man* a. 
+Ua chin gegni biap damsao 
+batsotgrika ine nikna man a. 
+Ua batsotgrik-ram biapan 
+Point ge sa ongaha. Jekai, 
+Kosako mesokgipa noksao lekka kingsako tern on 
+AB chinko nika. Apsan lekkako tenrtaie CD chinko 
+nikna man a.Da*o AB aro CD biap gesao batsotgrika 
+ine nikna mama. (Chong. motan P pointo) Unigimin P 
+point ge'sa ong aha.
+
+Minggipin, Pointni miksonganiko Ickkao pencilchi 
+sir tote chinko dakachi rncsokna man* a. Plane ge*sao 
+pointrangko mesokna Oikorrangko jakkala, Jekai, 
+Kosako Point ge‘gitamko mesoka. Uarang A,B 
+aro C pointrang ong a. Plane ge sao channa amsokgija 
+pointrang dongna man* a. 
+14 
+STRAIGHT LINE : Exercise bohi, kitap, ruler ba 
+tableni rikingko straight line ba sronggipa line ine 
+chanchina man*a.Jekai, 
+Kosako mesokgipa noksao AB line ko mesoka. Line 
+ge sao bang bea pointrang dongna mama Lineni sam- 
+tangtangchi bra ku'chotrangko donani miksongania, 
+line jechiba bariangna man a ine mesoka. 
+An ching rong’teo kilding ka e kilding ku chot 
+samsako rime uko dingdeode uaba Straight lineni 
+bimangko mesoka. Jekai, 
+Chongipa oikorrangko jakkaleba Lineko biming 
+dona. Jekai, “1” line, “m” line. 
+CURVED LINE BA GONGGEGIPA LINE : Curved 
+line ba gonggegipa line ko ka-mao mesoka. Jekai, a, b, 
+c, etc. 
+LINE-SEGMENT : Ka'mao line segmentm noksako 
+mesoka. Lene-segmentara line gesani baksan ongaig. 
+(part of a line). Line segmentko samtangtangchi point 
+ge’gnio bon-chotate sala. Jekai, AB line-segment aro 
+CD line-segment. 
+15 
+Line aro Linc-segmentni dingtanggrikaniko ka mao 
+noksachi mesoka. Jekai, 
+A b 
+AB line 
+AB line-segment. 
+RAY : Line ba line-segmentko “Ray” ineba jakkala. 
+Ray-ni orto teng suani ja dil onga. Jekai,
+
+B pointko Ray-ni ku’chot (endpoint) inc minga. 
+Kosako ray gegitamko mesoka. Jekai, OA ray, 
+OB ray aro OC ray. Jensalo line gegni batsotgrika 
+uarang pangnan point ge sao batsotgrika. Jekai, 
+O D 
+Skanggipa noksao (Figl) CD line aro OA line O 
+pointo batsotgrika. Gnigipa noksao (Fig2) AB aro CD 
+16 
+linerang X pointo batsotgrika. Gitamgipa noksao 
+(Fig3) RQ aro RP linerang R pointo batsotgrika. 
+LINE-SEGEMTNKO TOANI. 
+An’ching metre scale, ba rulerko jakkale linc- 
+scgmentni ro’aniko tona man’a.Line-segmentni ro’ako 
+tona salgimin line-segmentni ku chot samsao scaleni 
+Zero chinko tiktak done scaleni rikingko salgimin 
+line-segment baksa joljol nangchapate donbo. Line 
+scaleni baditaona soka uan line-segmentni ro’ani ong’a- 
+.Jekai, 
+rfrjffrrnTrn' 
+0 I 1 1 4 * ft 
+Kosako mcsokgipa noksao line-segmentni ro’ani 
+3cm. ong’a. 
+Basakoba, scaleni zero chin cham’.ahaon ba scale- 
+ni samsachini be’tongahaon zero chinoni ro’aniko tona 
+man’jawaha. Indake ong'on, an’ching ka mao noksao 
+mcsoka gita line-segmentni ro’aniko tona man’a.Jekai, 
+I! HI I I ffffff ffrr 
+0 I 2 ' 4 -s h 7 S 
+Iano line-segmentni ro’a (7-1) cm ba 6centimetre 
+ong’a. Apsan dake. 
+irnrin i nniifiM 
+"12 34 5 ft 7 8 9 
+Iano lineni ro ani (8-2)cm. ba 6cm.ong a. 
+17 
+JANAPGIMIN RO'ANI GITA
+
+LINE-SEGMENTRANGKO SALE MESOKANI. 
+5Cm. ro* gipa line-ko salna an ching scale ge'sako 
+ra*e uko lekkani kosako done, scaleni rikingo segipa 
+zero chin aro 5 chinni kosako tongtong sir tote 
+ra*chengbo. Uni ja mano scaleni riking-joljol Ieadpen- 
+cilchi line sale point ge-gniko nangrimatbo. Unon 
+salgimin lineni ro a 5Cm. ong gen. .Jekai, 
+|l |l 1 1 1 1 1 1 1 1 J r l 1 
+0 I 2 1 4 s 6 7 
+NB : Skigiparang scalcko maikai linerangko salmit- 
+ingo jakkalna nanga skibo. Scaleko kraa gita rake 
+rinvjaode biap tang’jujae line salani tik ong jawa. 
+EXERCISE-V. 
+1. Ka mao on’gimin pointrangko numberrangni kri 
+.2 1 . .2 1 . .2 
+1 . 
+3 4. .3 4. <3 
+Fig-1 Fig-2 Fig-3 
+sulsul nangrimate uarang mai bimangrangko ong-ata 
+aganbo. 
+18 
+2. Lekkao point ge*sako done uko batsote ge 6 
+line-segmentrangko sale mesokbo. Ge 6 na bateba 
+line-segmentrangko salangkuna mangenma dake 
+nie aganchakbo. 
+3. Lekkao point gegniko done na*a badita linerangko 
+uarangko batsote salna man* a sale mesokbo. 
+4. Apsan ritingo ong gija point gegitamko dingtang 
+dingtang biapo rae changprako point ge gni gita 
+batsote badita line-segment- rangko salna man- a sale 
+mesokbo. 
+5. Point gebriko dingtang dingtang biapo ra e chang- 
+prako point ge’gni gita batsote badita ge line- 
+segmentrangko salna man* a sale mesokbo. Point 
+ge’gitamko apsan ritingo rana nangja.
+
+6. Ka.mao janapgimin line-segmentrangko noksa 
+salbo. 
+(1) 3.5Cm. (2) 2'7Cm. (3) 4’6Cm. (4) 5 9Cm. (5) 
+7'3Cm. 
+CHAPTER-VI. 
+ANGLE. 
+An'ching lekkao point 
+ge saoni banga line-segment 
+ba ray-rangko salna mama. 
+Jekai. 
+19 
+Kosako salgimin bimangni jc ray gegniko O 
+pointko ra-c noksa salode indakc nikna mama. Jekai, 
+la kosako mcsokgipa bimang gcprakan angle 
+onga. Unigimin an ching point gc saoni ray gc gniko 
+sale Angle gesako dakna man a. Angle gesako 
+ong-atgipa ray gc-gnikon Angleni jakpong-rang (arms) 
+ba siderang ine minga. Uarangni gronggrikgipa point- 
+kon angleni vertex (ku’chot) ine minga. 
+Kosako mcsokgipa noksarango skanggipa noksao 
+(Fig.l), angleni vertex B ong'a aro BC aro BA angleni 
+siderang ba rayrang ong a. Kosako mesokgipa angleni 
+binning ABC ba CBA ong*a. Angleko bimung mingon 
+pangnan angleni vertexko mesokgipa Oikor bijatchio 
+20 
+ongronga ine nikna mangen. Kosako mesokgipa ABC 
+ba CBA angleo angleni vertex B pangnan bijatchio 
+onga ine nikna man‘a. 
+Angleko mesokna “Z_” chinko jakkala. Jekai angle 
+CBA ba angle ABC ko “/.ABC" ba “Z.CBA” indake see 
+mesokna man- a. Basakobade angleko noksa 2(Fig2) 
+aro 3-o(Fig3) mesoka gita see mesokna mama. Jekai, 
+“a” ba “Zl”. 
+Angle ABC ni ningo an-ching gesako raode ua 
+pointko angle ABC ni ning o ine minga. Uandake point
+
+ge sako angle ABC ni a'palo ra ode ua pointko angle 
+ABC ni a*palo ine minga.Jekai, 
+O point angle ABC ni ning'o aro D point angle ABC ni 
+a*palo ong*a. Na*aba nang-ni jakskuko tem e angle 
+ge'sako dakna man a.Nang'ni jakskuan angleni 
+ku'chot ba vertex ong*a. 
+Minggipin gol'sri ge gniko ra e uarangko ka*mao 
+21 
+mesoka gita uarangko done angle gesako dakna 
+mana. Jekai. 
+ANGLERANGKO TOAN1. 
+Angle ge sako tona amching unit angle ge sako 
+nanga. Jekai, Z.POY La na chang 6 dal'batode. tndidc 
+Z.POY ko La ni chang 6 ba ZPOY=6a indakc see 
+mesokna man* a. 
+Anglerangko tona an ching PROTRACTOR ko 
+jakkala.Protractorko name niode O-oni 180° ona chin 
+dakaniko nikna man'a.Sualgimin chin ge prakan angle- 
+ni dal’ani ba degreeko mesoka. Degree-an angleko 
+22 
+toani Unit onga. An'ching angleni degreeko mesokna 
+“o" chinko jakkala. 
+L BAP ko toanio uni dal’ani 30° or.g-ode uko 
+ka mao mesoka gita sec mesokna man'a.Jekai, 
+ZBAP=30° ; ZBAO=70° aro /BAR=120°. 
+Da o L POO ni dafaniko protractorchi tona, 
+protractorni bijatchigipa pointko L O point baksa 
+nangrimatbo. aro AP sideko protractorni jakrachini 
+zero chin baksa meliatbo.OQ side protractorni badita 
+degreeni chin gita batsotanga nibo. Ka- mao mesokgipa 
+noksao OQ line protractorni 60 segipa chin gita 
+batsotanga. Unigimin L POO ni dal ani 60° 
+ong’a.Chong-motan L POQ=60°. 
+O O 
+OP O
+
+If 00=60° /POQ=70° 
+Uandake airching angle 70° ko salna nangode, 
+line ge-sako chong-motan OP lineko sale ra*chengbo. 
+23 
+Uni Ja* mano protractorni bijatchigipa pointko O point 
+baksa nangrimate protractorni jakrachi segipa zero 
+chinko OP line baksa meliatbo. Uni ja’ mano Protrac- 
+torni angleni degreerangko jakraoni jakasiona chan- 
+ange 70 chinni kosako tiktak Q pointko su.tote 
+ra‘ bo.Protractorko ra gale O aro Q ko line chi nangri- 
+matbo. Da o Z.POQ ni dal ani 70° ong aha. 
+EXERCISE- VI. 
+I. Ka'mao salgimin anglcrangna bimungrangko don- 
+bo. Angle ge*prakni vertex aro siderangko janapbo. 
+2. Plane ge sao P,Q aro R pointrangko on*soaha. 
+On gimin pointrangko nangrimate ka*mao janapgim- 
+in angle ge'prakni vertex aro siderangko mingbo. 
+(i) ZPQR. (ii) Z.QRP. (iii) ZRPQ. (iv) ZPRQ. 
+24 
+3. Ka*mao mesokgipa noksaoniko nie badia pointrang 
+Z.ABC ni ning*o aro apalo ong’a mesokbo aro badia 
+B h D A 
+pointrang L ABC baksa tiktak melia ukoba mingbo. 
+4. Jakrachini noksaoniko nie janapgimin anglerangni 
+dal roroangani kri sulsul biming donbo. 
+L POT, /.POR, L POS, L POO. 
+5. Ka-mao janapgipa anglerangko noksa sale mesok- 
+bo. (1) 15°. (ii) 90°. (iii) 65°. (iv) 105°. (v) 115°. 
+(vi) 180°. (vii) 135°. (viii) 45°. (ix) 30° (x) 100°. 
+CHAPTER-VII. 
+ANGLENI ROKOMRANG. 
+(Kinds of angles). 
+1. RIGHT ANGLE : 
+Je angleni degreean 90° 
+ong'a, indakgipa angleko
+
+right angle ine minga. 
+LA O B =90° (RIGHT 
+ANGLE). 
+25 
+2. ACUTE ANGLE ; 
+Je angleni degreean 90° ha 
+right angle gesana komia in- 
+dakgipa angleko Acute angle 
+minga. MOB = ACUTE 
+ANGLE. 
+3. OBTUSE ANGLE : 
+Je angleni degreean 90° na 
+dal' bata indiba 180° ba right 
+angle ge~ gnina komia indakgip- B 
+a angleko Acute angle 
+minga. MOB = OBTUSE 
+ANGLE. 
+1. Apsan degree ong'gipa anglerang pilakan gesa 
+ge gipin baksa apsan ong a. 
+2. Right angle onggipa ba 90° ong‘gipa anglerang 
+pilakan ge sa ge'gipin baksa apsan ong'a. 
+4. COMPLEMENTARY ANGLERANG : 
+/AOC+ZCOB=90° 
+B 
+O A 
+Kosako mesokgipa noksao IAOC aro Z.COB angle 
+ge-gniko ra dime 90° ba right angle ge sako ong ata. 
+Uandake angle ge'gniko chandimani gimik right angle 
+26 
+ge-sa ba 90° ong - ode indakgipa anglerangko Com- 
+plementary anglcrang ine minga. 
+Mesokanina • Z50° ni complementary angle 40° ong'a 
+(50°+40°=90°). Uandake 60° ni Complementary angle 
+30° ong’a. 
+5. SUPPLEMENTARY ANGLER ANG :
+
+Je angle gegniko chandimani 
+gimik 180° ba right angle ge - 
+gni ong a, indakgipa angle- 
+rangko Supplementary angle- 
+rang ineminga.Jekai, Jakrachi 
+mesokgipa noksao, /A()( an* 
+Z.COB ko ra‘ dimode uaiang B A 
+180° ba Right angle gcgni 
+ong*a ine nikna man*a.Unigimin. ZAOC aro ZCOB 
+supplementary anglerang ong'a. 
+Mesokanina, Z120° ni supplement angle 60° 
+ong'a(120°+60°=180°). 
+Apsan dake, Z.110° ni supplement angle 70° 
+ong'a(l 10°+70°= 180°). 
+6. REFLEX ANGLE. 
+Angle gesani degree 180° na dal'batode indiba 
+360° ba right angle ge 4 na komiode indakgipa anglekon 
+27 
+Reflex angle ine minga.Unigimin Z.180 0 aro 060° ni 
+ning'o donggipa je angleba Reflex angle ge-sa ong'na 
+mana. 
+REFLEX ANGLEKO SALE MESOKAN1. 
+Reflex angle ge’sa chong'motan Z330° ko sale 
+mesokani. 
+330° 
+A 
+Salani Niam : 
+1. On*gimin reflex angle gesako salna skang, ua 
+anglcko 360° niko changale bangki anglcko kosako 
+sale mesoka gita salbo. 
+2. Line ge sako jekai OA line ko salchengbo. 
+3. Protractorko salgimin lineni ka'machipak done 
+protractomi bijatchigipa pointko O pointo done 
+angleko jakraoni jakasiona chanbae 30° ko chin 
+dake ra*bo.
+
+4. Protractorko ragale chin dakgipa pointko O point 
+baksa scalechi nangrimatbo. 
+5. ZAOB reflex angle ge sa ong aha aro uni degree 330° 
+ong*a. 
+28 
+7. STRAIGHT ANGLE: Je angle gesani degreean 180° 
+ba right angle ge'gni baksa 
+apsan ong’a, indakgipa angle* 
+ko Straight Angle ine minga. 
+A O B Jekai, 
+Kosako mesokgipa noksao ZAOB baZBOA 
+Straight angle ge*sa ong*a. 
+COMPASS ARO RULERKO JAKKALE 
+ANGLERANGKO NOKSA SALE MESOKANI. 
+1. Angle 90°Ko Noksa salani. 
+>h 
+(i) AC lineko salchengbo. 
+(ii) AC lineo O pointko 
+centre ra’e compasschi - 
+ZXOM ko salbo. A x ° M c 
+(iii) X aro M ko centre ra'e aro XM ko radius ra e 
+arc ge gniko P pointo batsotgrike salbo. 
+(iv) O aro P pointrangko linechi nangrimatbo. 
+Da-o ZXOP=ZPOM=90°. 
+Minggipin Niam. 
+(i) OA lineko salchengbo. H 
+(ii) O ko centre ra*e aro 
+radiusko skatang ra e 
+arc ge sako OA lineko 
+M pointko batsote salbo. 
+29 
+(lii) M ko centre rice aro radiusko skang gitan 
+apsan ra'taie skanggipa arcko X pointo sal- 
+tongbo. 
+(iv) X ko centre ra e radiusko apsan ra'kue skang-
+
+gipa arcko Y pointo saltongbo. 
+(v) O.X aro O.Y pointrangko OB aro OC line- 
+rangchi nangrimatbo. 
+(vi) X aro Y ko centre ra e aro XY ko radius rtre 
+arc gegniko G pointo batsotgrike salbo. 
+( vn ) O aro G ko linechi nangrimatbo. 
+Da*o ZMOG°=90° 
+G 
+2. Angle 45°ko Noksa salani. 
+(i) Angle 90°ko kosako 
+janapgipa je niamkoba 
+jakkale salchengbo. 
+(ii) Salgimin angle jckai 
+ZMOG ko bisect ka*na 
+nanga. 
+(iii) P aro M ko centre ra'e aro 
+PM ko radius ra - e, arc ge-gniko N pointo 
+batsotgrike salbo. 
+(iv) O aro N pointrangko linechi nangrimatbo. 
+Da-o ZMON=/NOG=45° 
+3. Angle 60°ko Noksa salani. 4 : ' 
+(i) OA lineko salchengbo. » ' 
+30 
+(ii) O ko centre ra e aro 
+radiusko skatang ra e 
+OA lineko arc chi M 
+pointo saltongbo. 
+(iii) M ko centre ra e aro 
+radiusko apsan ra taie 
+skang salgimin arcko P 
+pointo densotbo. 
+(iv) O aro P pointrangko linechi nangrimatbo. 
+Dao ZMOP=60°. 
+4. Angle 30°ko Noksa salani. 
+(i) 60° angle ge'sako
+
+kosako mesokgipa 
+Niamko jakkale 
+salchengbo, Jckai. 
+ZMON. 
+(ii) Uko bisect ka-na, M aro N 
+ko radius ra e aro MN ko radius ra e, arc 
+ge'gniko X pointo batsotgrike salbo. 
+“ Da-o ZMOX=ZXON=30°. 
+5 . 
+Angle 120°ko Noksa' salani. 
+(i) OA lineko salchengbo. 
+(ii) O ko centre ra-e aro 
+radiusko skatang ra e 
+OA lineko arc-chi M 
+pointo saltongbo. 
+M 
+A 
+31 
+(iii) M ko centre ra e aro radiusko apsan rataie 
+skang salgipa arcko L pointo saltongbo. 
+(iv) L ko centre ra*e aro radiusko apsan ra'kue 
+skang salgipa arcko P pointo saltongbo. 
+(v) O, aro p ko linechi nangrimatbo. 
+Dao IAOP ba ZMOP=120°. 
+EXERC1SE-VII 
+Ka* mao sale mesokgimin anglerangoni badiagipa 
+anglerang Acute, Obtuse, aro Right angle onga 
+protractorchi toe nie aganbo. 
+2. (a) Jakrachi mesokgipa 
+noksaoniko nie mai 
+m a i anglerang 
+(a)Acute, (b)Obtuse 
+aro (c)Right angle. 
+(d)Straight angle 
+ong*a anglerangni
+
+bimingko minge EGA 
+aganbo. 
+(b) Apsan noksaonikon (i) Complementary aro 
+(ii) Supplementary anglerangko biming mingbo 
+32 
+3. Kamao janapgimin anglerangni Complementrang- 
+ko hisab kabo. 
+(i) 35°. (ii) 55°. (iii) 19°. (iv) 70°. (v) 45°. (vi) 87°. 
+(Angle 60°ni Complementary angle=90°-60°=30°.) 
+4. Ka mao janapgimin anglerangni supplement 
+anglerangko hisab ka bo. 
+(i) 55°. (ii) 120°. (iii) 1(X)°. (iv) 75°. (v) 45°. 
+(Angle 30°ni Supplement anglc=180°-30 o =150°.) 
+5. Ka-mao on gimin reflex anglerangko noksa salbo. 
+(i) 200°. (ii) 260°. (iii) 320°. (iv) 340°.. 
+6. Ka-mao janapgimin anglerangni degreerangko hisab 
+kabo. 
+(i) Right angle ge*sani ‘/ 8 ('/„ of a right angle). 
+(ii) Right angle gesani % (% of a right angle). 
+(iii) Right anglee ge sani V 10 (V 10 of a right angle 
+(iv) Right angle ge sani 7 /i 0 ( 7 / 1 0 of a right angle). 
+7. OA line ge sako salbo. O pointko centre rate aro 
+radiusko skatang rae OA lineko are ge-sachi P 
+pointo saltongbo. P ko centre ra e aro apsan 
+radiuskbn ra-kue salgimin arcko ge gipin arc chi Q 
+pointo saltongbo. OO ko scalechi nangrimatbo. Sal- 
+gimin angleni degreeko (ZPOQ) protractorchi toe 
+badita ong-a aganbo. 
+CHAPTER-Vm 
+TRIANGLE 
+An*ching trianglerangni bimangrangko nok aro 
+dolongrangko rikanirango nikna man a.Indakgipa 
+33 
+bimangrangko nok aro dolongrango jakkale uarangko 
+mangrakbatata.
+
+Anching plane gesao 
+point ge'gitamko ra*e uarang- 
+ko linerangchi nangrimatode, 
+ua bimangan Triangle gesa 
+ong'a.Noksao ABC triangle 
+ge'sako mesoka.A.B aro C 
+pointrangko triangleni vcrtexrang minga. Trianglena 
+“A” chinko jakkala. Unigimin Triangle ABC ko 
+“A ABC” indake see mesoka. 
+TRIANGLENI ROKOMRANG 
+Trianglerangko uarangni side aro anglerangni kri 
+bakgitam dake sualna man’a.Jekai, 
+1. EQUILATERAL TRIANGLE 
+Triangle gesani pilak 
+siderangni ro an ge'sa 
+ge'gipin baksa apsan 
+ong'ode indakgipa triangle 
+ko Equilateral Triangle4ne 1 2 
+minga. EC 
+2. ISOSCELES TRIANGLE: 
+Triangle ge sani side ge‘ 
+gni gesa ge'gipin baksa 
+apsan ong'ode indakgipa 
+trianglekon Isosceles 
+AB=BC 
+v =CA. 
+*c 
+EQUILATERAL 
+pie TRIANGLE. 
+PQ=PR 
+Triangle ine minga. ISOSCELES TRIANGLE. 
+34 
+3. SCALENE TRIANGLE: 
+Je triangleni side- rangni 
+rcani ge-sa gegipin baksa
+
+apsan ong'jaode indakgipa 
+trianglekon Scalene 
+Triangle ine minga. SCALENE TRIANGLE. 
+Trianglerangko Anglerangni kn bak 4dake sualna 
+man*a. 
+1. ACUTE-ANGLED TRIANGLE: 
+Triangle ge'sani angle 
+ge'prakan right angle 
+ge-sana komiode indakgip- 
+a triangleko Acute- 
+angled Triangle ine minga. ACUTE-ANGLED 
+TRIANGLE. 
+2. OBTUSED-ANGLED 
+TRIANGLE: 
+Triangleni angle gc*sa 
+right angle ge*sana dal.ba- 
+tode indakgipa triangle- 
+kon Obtused-Angled 
+Triangle ine minga. OBTUSED- ANGLED 
+TRIANGLE. 
+3. RIGHT-ANGLED 
+TRIANGLE: 
+Triangleni angle ge*sa 
+right angle ge*sa ong’ode 
+indakgipa trianglekon 
+Right-angled Triangle ine 
+minga. RIGHT-ANGLED 
+TRIANGLE. 
+35 
+4. EQUIANGULAR 
+TRIANGLE: 
+Triangle ge*sani pilak 
+anglerangan gesa gegip- 
+in baksa apsan ong’ode 
+indakgipa trianglckon
+
+Equiangular Triangle ine 
+minga. E Q U 1 - ANGULAR 
+TRIANGLE. 
+NB: Dingtang dingtang trianglcni modelrangko song- 
+bad gitcham ba card boardko rate bi’sarangna 
+mesokna mana. Una agreba gofsrirangko jak- 
+kaleba dingtang dingtang trianglcni modelrangko 
+mesokna man' a. Ian bi'sarangna chong motgipa 
+ma sianiko on na dakchakgen aro an*tangtangan 
+uarangko jaktangchi dake ninaba cholko 
+man-gen. 
+Triangle gc'sam anglerang badita ong*a? 
+An ching kawnao mesokgipa triangle ge'prakni angle 
+rangko toe niwde indake nikna man-gen. 
+36 
+. 
+LI 
+4.2 
+Ll 
+WBEEBMM 
+1 ABC 
+Mr 
+50° 
+90° 
+•iir+sir+gir-iw) 
+2 DFF 
+Mr 
+120° 
+30 ° 
+Ml +120 l, + ^f“ 180" 
+} POR 
+so 6 
+60° 
+7 ( 1 “ 
+so +«r+7rr=i80°
+
+Kosako mesokgipa trianglerangko nie triangle 
+ge'piakni anglerangko ra dime gimik 180° ba Right 
+angle ge'gni ong'a inc uina man a. 
+An ching iani bidmgo minggipinko dake niang- 
+kuna man'a. 
+Lekkako rate triangle ge'sani modelko taribo. 
+Triangle ge'sani anglerangko ka'mao mesoka gita 
+triangleko tenve uni vertexrangko point ge'sao grong- 
+grikatbo. Indakc triangleko tcnvon OA aro OB side - 
+rang apsan striaght line one a gita nikgen. Da o /AOB 
+ko straight angle ine minga. Straight angle ge'sao 180° 
+ba Right angle ge'gni donga. Jekai, 
+Triangle ge'sani angle ge'gitamko chandimode 
+180° ba Rightanglc ge'gni ong'a ine mesokani. 
+A 
+37 
+Kosako mesokgipa noksao, ABC triangle ge*sako 
+salaha.Side BC ko Vertex C oni D pointona bariatbo- 
+.Da*o ZDCE koZ.2 baksa apsan ong’e salbo.Z. 1 aro 
+ZECA ko toe nion uarang apsan ong*a ine nikgen 
+Unigimin, L1+12+B =ZBAC+ZABC+ZBCA=ZACB+ 
+LACE+ LECB= 180°. 
+EXERCISE- VIII 
+1. Ka'mao mesokgipa triangle ge*prakko nie mai 
+triangle ong*a aganbo. 
+2 Scm 
+Fig-1 Fig-2 Fig-3 Fig-4 
+2. Ka’mao mesokgipa on’sogimin ro’aniko jakkale mai 
+mai trianglcrangko rikna man* a noksa sale 
+mesokbo. 
+(a) 
+(b) 
+(c) 
+(d) 
+3cm
+
+3.5cm 
+4cm. 
+4cm 
+4cm 
+4cm. 
+4cm 
+4cm 
+3cm. 
+4.5cm 
+3cm 
+4.5cm. 
+38 
+3. Ka’mao mesokgipa trianglerangoniko ZX ko 
+bikotbo 
+Ka'e mesokani - Triangle ge-sani angle ge’gni 50° 
+aro 75° ongjode bangki angleko bikotbo. 
+50° + 75° =1*25 . .‘.Bangki angle=180°- 
+125°=55°Ans. 
+4. Isosceles triangle ni apsan ong gipa anglerangoni 
+ge*sa 70’ ong’ode bangki angle ge’gniko bikotbo. 
+5. Equilateral trianglcni angle ge-prak badita ong’na 
+nanga aganbo. 
+6. Ka’mao mesokgipa trianglem ZX.ZY aro ZZ ko 
+bikotbo. 
+Fig-II 
+CHAPTER-1X 
+TRIANGLE ARO PERPENDICULAR LINEKO NOK- 
+SA SALANI 
+1. SCALENE TRIANGLE: 
+SALANI NIAM: 
+1. On*gimin linerangoni gesako salchengbo.Jekai AB 
+side (4Cm). 
+2. A pointko centre ra‘e aro radius ko 3.5Cm.ra e arc 
+ge'sako salbo. 
+3. B pointko centre ra e aro radiusko 3Cm. ra*e skang
+
+salchenggipa arcko ge'gipin arcchi C pointo sal- 
+tongbo. 
+4. AC aro BC ko linechi nangrimatbo. 
+Da*o ABC on'sogimino pangchake salgimin 
+triangle ge # sa ong’aha. AB=4Cm.; AC=3.5Cm., 
+BC=3Cm. 
+40 
+2. ISOSCELES TRIANGLE: 
+1. Orrsogimin line ge'gnioni jekoba salchengbo. 
+2. B ko centre ra*e aro radiusko 4cm.ra‘e arc ge'sako 
+salbo. 
+3. C ko centre ra - e aro radiusko 4cm. ra*kue skang 
+salchenggipa arcko ge'gipin arcchi A pointo sal- 
+tongbo. 
+4. A,B aro A,C pointrangko linerangchi nangrimatbo. 
+ABC Isosceles triangle ge*sa ong'aha. 
+AB=AC=4cm.; BC=5cm. 
+NB: Kosako Isosceles triangleko rokomgni dake shle 
+mesokaha. 
+Skanggipao 5cm. Ko triangleni base ra'aha.gnigip- 
+a noksao on-gimin siderangoni 4cm. ko triangleni 
+base dake ra*skaaha. 
+41 
+EQUILATERAL TRIANGLE : 
+SALANI NIAM : 
+1. Orrsogimin sideko salchengbo.Jekai, BC side. 
+2. B ko centre ra*c aro radiusko BC ni rcvako ra'e arc 
+ge'sako. salbo. 
+3. C ko centre ra'c apsan radiuskon ra - kue skang 
+salchenggipa arcko ge’gipin arc-chi. A pointo sal- 
+tongbo. 
+4. A,B aro A,C pointrangko linerangchi nangrimatbo. 
+ABC Equilateral ge - sa ong aha. 
+AB=AC=BC=4.5Cm. 
+PERPENDICULAR LINE.
+
+p 
+K 
+I— ■ ■ » 
+0 
+B 
+r 
+R 
+1 E 
+O 
+> 
+7 * 
+z 
+- » 
+Kosako mesokgipa noksa ge*gitamo perpendi- 
+cular linerangko mesoka. Skanggipa noksao (Fig.l) PR 
+line *aro PQ line right angle ge'sako ong'ata. 
+42 
+Gnigipa noksao (Fig. 2) OA line aro OB line right 
+angle ge'sako ong'ata. 
+Gitamgipa noksao (Fig. 3) SZ line aro ST line right 
+angle ge*sako ong’ata. 
+Jensalo line ge'gni ba side ge’gni right angle 
+ge-sako ong’ata, unon ua line gcgniko ge sa ge gipinna 
+perpendicular ong’a ine agana. 
+SET SQUARE ARO PROTRACTORKO JAKKALE 
+PERPENDICULAR LINERANGKO SALE MESOK- 
+ANI. 
+Perpendicular linerangko mesokna “ -L ” chinko 
+jakkala.Jekai, OA OB. Ian OA side OB side perpen- 
+dicular ong'a. ine miksonga. 
+EXERCISE-IX. 
+1. Ka’mao on’gimin siderangko ra e trianglerangko 
+salbo aro, salgimin trianglerang mai trianglerang 
+ong’a aganbo. 
+43
+
+(a) 5Cm. ; 4Cm. ; 3Cm. (a) 5Cm. ; 4Cm. ; 3Cm. 
+(h) 2.5Cm. ; 3.9Cm. ; 4.5Cm. (b) 2.5Cm. ; 3.9Cm. ; 
+(c) 4Cm. ; 4Cm. ; 4Cm. 4.2Cm. 
+(d) 3Cm. ; 3Cm. ; 3Cm. ( c ) 4Cm. ; 4Cm. ; 6Cm. 
+(c) 3Cm. ; 3Cm. ; 5Cm. (d) 3Cm. ; 3Cm. ; 2Cm. 
+3. Jakrachi mcsokgipa noksao A ro B pointrang gita 
+perpendicular line ge gniko sale mesokbo. 
+4. Jakrachi salgipa noksao O pointoni M. N aro L 
+linerangona perpendicular linerangko sale 
+mesokbo. 
+5. Jakrachi mesokgipa OA lineo O pointoni set- 
+squareko jakkale perpendicular line gc'sako sale 
+mesokbo. 
+6. Jakrachi mesokgipa XY lineo P pointoni protractor- 
+ko jakkale perpendicular line ge'sako sale mesokbo. 
+CHAPTER-X. 
+DOTGIMIKGIPA BIMANGRANGKO (Solid 
+geometrical figures) NOKSA SALE MESOKAN1. 
+CUBE. 
+STEP-1. STEP-2. STEP- 3. 
+CUBOID. 
+STEP-1. 
+* L 
+STEP- 2. 
+X 
+STEP- 3. 
+CYLINDER. 
+act;::; 
+s ^ 
+1 
+1 
+1 
+! 1 1 
+1 ; i 
+* 1 i
+
+i i 1 
+^ ' 
+1 
+l 
+1 
+-*• 
+1 
+1 S • 
+CD 
+STEP-1. 
+STEP- 2. 
+STEP- 3. 
+45 
+STEP-1. STEP-2. STEP-3. 
+CIRCLEKO JAKKALE NOKSA SALE MESOKANI. 
+STEP-4. 
+46 
+EXERCISE-X. 
+1. Ka’mao janapgimin square ni siderango pangchake 
+Cube-ni noksako sale mesokbo. 
+(i) 3.5cm. (ii) 4Cm. (iii) 5cm. (iv) 4.5cm. 
+2. Ka*mao janapgipa rectangleni gro arc gipengko ra*e 
+Cuboidni noksako sale mesokbo. 
+(i) Gro-4cm. ; Gipeng-2.5cm. 
+(ii) Gro-5cm. ; Gipeng-4cm. 
+(iii) Gro-4.5cm. ; Gipeng-3cm. 
+3. Ka’mao Cylinderni chuani aro baseni ro’aniko ra*e 
+Cylinderni noksako sale mesokbo. 
+(i) Chuani-5cm ; Base-2. 6cm. 
+(ii) Chuani-6cm ; base-4. 8cm. 
+4. Ka*mao janapgipa Cone-ni chuani aro base-ni 
+ro*ako ra ; e cone-ni bimangko noksa sale mesokbo. 
+(i) Chuani-4cm ; base-2cm. 
+(ii) Chuani-5cm ; base-4cm. 
+5. Ka’mao janapgipa Circleni radiusko ra’e Cirdeni
+
+dingtang dingtang bimangko noksa sale mesokbo. 
+(i) 2.5cm. (ii) 3cm. (iii) 4cm. (iv) 3.6cm. 
+47 
+ANSWERS. 
+EXERCISE-I. 
+1. Chi ringani mug-Cylinder ; Robol-Sphere ; 
+Bakos-Cuboid. 
+Chochokki-Cone ; Watok-Cylinder ; 
+Dislai bikop-Cuboid. 
+Bol bite-Sphere ; Mula-Cone ; 
+Kerosene-tin-Cuboid ; Kitap-Cuboid 
+Pencil kuchot-Cone. Krong-Cylinder. 
+EXERCISE-II. 
+3. Fig.I-Planc surface ; Fig.ll-Plane ong-ja ; 
+Fig. Ill-Plane ong-ja ; Fig.IV-Plane ong-ja ; 
+Fig.V-Plane ong-ja ; Fig.VI-Plane ong a ; 
+Fig.VIl-Planc ong-a ; Fig.VIII-PIane ong-ja. 
+EXERCISE-IV. 
+1. Fig.I & Fig.IV-Rectangle. 
+2. Fig.I & Fig. Ill-Square. 
+6. Fig.I-Triangle ge 4. Fig.II-Triangle ge 6. 
+EXERCISE-V. 
+ft 
+1. Fig.I-Triangle ; Fig.Il-Rectangle ; Fig. Ill-Square. 
+2. Bang en salangkuna man gen. 
+3. Line ge*san salna man a. 
+4. Line ge gittam. 
+5. Line ge 4. 
+48 
+EXERCISE-VI. 
+2. (i) Q-v^rtex ; PQ & RQ. (ii)R-vertex ; PQ & RO. 
+(iii) P-vertex ; PQ & PR. (iv)R-vertex ; PR & PQ. 
+3. P aro Q ning o ; H & F - a palo aro C & D tiktak 
+melia. 
+4. POQ, POR, POS & POT.
+
+EXERCISE* VII. 
+1. Fig. I- Acute angle ; Fig.II-Right angle ; 
+Fig.III-Obtuse angle ; Fig.IV-Acute angle. 
+2. (a) ZAOB ; ZBOC ; ZCOD aro ZDOE ge prakan 
+acute angle ong*a. 
+(b) ZAOD ; ZEOB ge prakan Obtuse angle ong a. 
+(c) ZAOC ; ZCOE ge prakan rt-angle ong a. 
+(d) (i) ZAOB+ZCOB ; ZCOD+ZCOE complemen- 
+tary anglerang ong a. 
+(ii) ZAOB-t-ZBOE ; ZDOE+ZDOA Supplemen- 
+tary anglerang ong*a. 
+3. (i) 55° (ii) 35° (iii) 71° (iv) 20° (v) 45° (vi) 3° 
+4. (i) 125° (ii) 60° (iii) 80° (iv) 105° (v) 135° 
+6. (i) 22%° (ii) 40° (iii) 9° (iv) 63° 
+7. 60° 
+EXERCISE- VIII. 
+1. Fig. I-Rf angled triangle ; Fig.II-Isosceles triangle. 
+Fig.III-Equiangular triangle ; Fig.IV-Obtuse angled 
+trinagle ; Fig.V-Scalene triangle ; 
+49 
+Fig. Vi-Equilateral triangle ; Fig.VII-Scalcne 
+triangle ; Fig VIII-Acute angled triangle. 
+3. (a) ZX=45° (b) ZX=80° (c) ZX=30° (d) ZX=60° (e) 
+ZX=120° 
+4. 70° aro 40° 
+5. Angle ge’prak 60° 
+6. Fig. I (ZY=60° ; ZX=100° : ZZ=40°) 
+Fig. II (ZX=88° ; LV= 92° ; ZZ=58°) 
+BAK-II 
+BAK-I. 
+PARALLEL LINERANG. 
+An ching an* chingni samtangtango bangbea 
+parallel linerangni bimangrangko nikna man a.Jekai, 
+Scaleni riking samgnian parallel linerang ong a.Una 
+agreba, kelki ba do gani mikkangchakgrikgipa sam-
+
+beng- rang (chong - motan siderang) parallel hnerangko 
+mesoka. Kamao parallel linerangni bimangrangko 
+mesoka. 
+Kosako mesokgipa noksarango, kelkini go olrang, 
+scaleni rikingrang aro Tableni jachokrang parallel 
+linerang onga.Kosako mesokgipa noksao AB aro CD 
+linerang parallel linerang onga.Parallel linerang pang- 
+naba gesa gegipinko gronggrikja. Parallel lineko 
+mesokna “||” chinko jakkala. Jekai, “AB|| CD” Iani 
+miksongani AB aro CD linerang parallel onga ine 
+mesoka. 
+3 
+Parallel linerangni sakkirang. 
+Kosako mesokgipa noksao AB aro CD parallel 
+linerang ong a. Ua line ge gniko ge gipin EF linechi P 
+aro O pointrango saltongaha. Protractorko jakkale 
+uarangni anglerangko toe nion indake nikna man' a. 
+LI-L2; 15=17; 13=L4; 16=18; 15=14; 16=12. Ia janapgipa 
+anglerangoni jorasa mangmang apsan ong aioba line- 
+rang parallel onga ine aganna man'aia. 
+Parallel linerangko noksa salani niamrang. 
+l.Set Squareko jakkale parallel linerangko sale mesok- 
+ani. 
+4 
+Talatani. 
+1. AB line gesako salchengbo. Uni kosako P aro Q 
+pointrangko donbo, je pointrang gitan linerangko 
+AB na parallel ong a salna nanggen. 
+2. Kosako mesoka gita (Fig2) set squareni triangle 
+ge sani rikingko AB line baksa chapchap meliatbo. 
+Gegipin triangleko jakasichipak done uni rikingko 
+jakrachini riking baksa nangchape donbo. 
+3. Jakasichini triangleko illengatgija kinvkim rirn-.e 
+jakrachini triangleko P pointona kosakchi sikdoat- 
+bo. (Feg3)P point gita triangleni riking joljol CK
+
+lineko salbo. 
+4. Jakasichini triangleko illengatgija kinvkim rira kue 
+jakrachini triangleko 0 pointona ka sine sikdoatbo. 
+Set Squareni rikingjoljol Q point gita EF lineko 
+salbo. 
+Salgimin parallel line ge.gittamko Fig3 oniko 
+nikna man- a. 
+Parallel linerangko noksa salanio jakasichini 
+triangleni pal scaleko jakkaleba salna man a Jekai, 
+J 
+2. Protractorko jakkale parallel linerangko noksa 
+salani 
+(I) AB aro CD linerangko P pointo battonggrike 
+salchengbo. 
+(2) Protractorko |akkale 
+IX ko tobo. 
+(3) AB lineo Q pointko 
+ra*e uno ZY ko /X baksa 
+apsan ong c EF linechi 
+saltongbo. 
+CD aro EF parallel linerang ong a ine mkna 
+mana. Noksako kamao mesoka. 
+EXERCISE— I 
+I. Jakrachi mesokgipa nok- 
+saoniko nie parallel onggip- 1 
+a linerangko mingbo. 
+2. Jakrachi mesokgipa noksarango parallel linerangko 
+mesoka. Uarangoniko L X ko bikotbo. 
+t) 
+•3 Ka mao mcsokgipa noksarangontko me badiagipa 
+noksa parallel linerangko mesoka mesokho 
+4. Jakrachi mesokgipa nok- 
+sao PQ linena onsogimin 
+M aro N pointranggita 
+protractorko jakkale para-
+
+llel linerangko sale mesok- 
+bo. (Iano je anglekoba 
+skatang ra e salna mama) 
+o • 
+3. Set Squareni triangle ge’sa p * 
+aro scaleko rae. onsogim- 
+in AB linena P,Q aro R a b 
+pointrang gita parallel 
+linerangko sale mesokbo. 
+7 
+0. Ku* mao salgimin noksarango Protractor aro scaleko 
+ra*c. AB linena C point gita parallel line gesako 
+sale mcsokbo. 
+( 
+Bak— 2. 
+GEOMETRY NI NOKSARANGKO SALE MESOK 
+ANIRANG. 
+An- ching mathematical box ba Instrument box- 
+oniko niode uano adita bosturangko nikna inan gen- 
+.Jekai, 
+I. SCALE BA RULER. 
+Isosceles rt-angled triangle Rfangled triangle. 
+8 
+3. COMPASS ARO DIVIDER 
+Pencil Compass Divider 
+PROTRACTOR 
+iwr _ o 1 
+Protractor 
+Kosako janapgimin ostroiang gri an-chjng 
+Geometry ko skie ra-na- man- ja.Iandakgipa ostrorang- 
+ko jakkalachisan geometryni noksarangko tiktak 
+ong-e salna man aia. 
+PROBLEM— I 
+On-sogimin Angle ge-sako apsangrik bakgni dake 
+sualani.
+
+(To bisect a given Angle). 
+9 
+ZPQR onsogimin angle gesa onga aro uko apsan 
+bakgni dake sualna nangani. 
+Rikani Niam : 
+1. O ko centre ra-e. aro radiusko skatang ra-c. ZPOQ 
+ko PQ aro OR siderangko M aro N pointrango arc 
+gc sachi saltongbo. 
+2. M ko centre ra e aro MN ko radius rax*, arc ge*sako 
+sal bo 
+3. N ko centre ra*e aro MN ko radius ra*e skang 
+salchenggipa arcko gipin arcchi O pointo saltongbo. 
+4. Ov aro Q pointrangko nangrimatbo. 
+Da o OQ line /POO ko apsan bakgni dake 
+sualaha. 
+ZPOO=/ROO. 
+PROBLEM— 2 
+On sogimin st line ge sako apsangrik bakgni dake 
+sualani. XY on*sogimin stiine ge sa ong a aro uko 
+apsangrik bakgni dake sualna nangani. 
+10 
+R1KANI N1AM : 
+1. X ko centre ra - e aro radiusko XYni ro-ani adhana 
+bate ro c rae arc ge^sachi XY ko saltongbo. 
+2. Yko centre ra'e radiusko apsan skanggitan ra-kue 
+skang salchcnggipa arcko gc-gipin arcchi P aro 0 
+pointrango saltongbo. 
+3. P aro O pointrangko nangrimatbo. 
+Da o PQ XY sflineka O pointo apsangrik bakgni 
+dakaha. 
+OX=OY. 
+PROBLEM— 3. 
+On gimin st line gesani ning o on sogimin point gita 
+una perpendicular ge-sako salani. 
+LM st line ge sao O pointko on soaha.Da-o O
+
+point gita LM linena perpendicular gc sako salna 
+nangani. 
+LX o VM 
+RIKANI NIAM 
+1.0 ko centre ra e aro radiusko skatang ra e 
+LM st lineko X aro Y pointrango arc ge gnichi 
+saltongbo. 
+11 
+2 . X ko centre ra e aro XY ko radius ra-e arc.ge sako 
+salbo. 
+1. Y ko centre ra e aro XYkon radius rakue gegipin 
+arcthi P pointo saltongbo. Dao P aro O pointrang- 
+ko nangrimatbo. 
+Da o PO LM stlinena perpendicular ongaha. 
+ZPOX=iPOY=9<r 
+Gnigipa Method. „ 
+O 
+RIKAN1 N1AM : 
+1. O ko centre ra e aro radiusko skatang ra-e arc 
+ge sako MN stlineko X pointo saltongbo. 
+2. X ko centre ra-e aro radiusko skang gitan apsan 
+ra kue salchenggtpa arcko ge gipin arc chi P pointo 
+saltongbo. 
+3. P ko centre ra e aro radiusko skanggitan apsan 
+ra taie salgipiin arcko ge gipin arcchi Q pointo 
+saltongbo. 
+4. P aro O ko centre ra e aro PQ ko radius ra e arc 
+ge-gniko R pointo saltonggrikbo. 
+5. Oaro R ko nangrimatbo. 
+12 
+Da*o RO MN stlinena perpendicular ong aha. 
+ZXOR=ZRON=90° 
+PROBLEM— 4. 
+Ongimin st lineona uni apalo ongimin pointoni 
+perpendicular lineko salani.
+
+XY on gimin st line ge sa.aro P point uni a palo 
+on gimin point ong a.Da o O pointoni XY st’Iineona 
+perpendicular lineko sale mesokani. 
+P 
+RIKANI NIAM : 
+1. P ko centre rae aro radiusko adita ro e ra e XY 
+stlineko M aro N pointrango arc gesachi saltongbo. 
+2. M aro N ko centre ra e aro MN ko radius ra-e P ni 
+ka machipak arc ge gniko O pointo saltonggrikbo. 
+3. Oaro P ko nangrimatbo. 
+Da o PO,SY st‘linena perpendicular ong*aha. 
+... /PRM=/PRN=90 o 
+13 
+EXERCISE — 2. 
+1 . Angle 45° ko noksa sale, uko apsangrik bakgni dake 
+sualbo. (bisect), aro sualgimin bakprakni degreeko 
+hisab kae mesokbo. 
+2. Angle 120° ko Protractorchi sale uko apsangrik 
+bakgni dakbo. Sualgimin bakprakni angle badita 
+degree ong-a hisab ka e mesokbo. 
+3. 5cm. ro gipa st line gesako sale uko apsangrik 
+bakgni dakbo. Sualgimin bakprakni roaniko hisab 
+kabo. 
+4. 6.2cm. ro gipa st line ge sako sale uko apsangrik 
+bakgni dakbo. Sualgimin bakprakni roa badita 
+hisab ka bo. 
+5. XY st.line ge sao O point gesako rabo.Dao O 
+pointoni XY st iinena perpendicular line gesako 
+salbo. 
+6. LM st lineni a palo Q point ge sako on-soaha.Da-o 
+on gimin Q pointoni ‘LMst-linena perpendicular 
+line ge sako sale mesokbo. 
+7. 9cm. ro'gipa st line ge sako sale unoni a*paloni 
+e'5cm.chel'e on gimin st linena perpendicular 
+ge*sako salbo.
+
+8. 8cm. ro*gipa st line AB ko salbo.A aro B oni 
+2.5.cm. chelgrike AB- stlineo P aro Q pointrangko 
+donbo.Da-o. P aro Q pointrang gita AB st- Iinena 
+perpendicular line ge -gniko salbo. Salgimin perpen- 
+dicular linerang ge sa ge gipinna parallel ong ama 
+ong ja aganbo. 
+14 
+PROBLEM— 5. 
+Orrgimin st line gesani ning o ongimin point 
+ge-saoni janapgimin angle* gesako salani. 
+ZPQR onsogimin angle ge-sa onga, aro AB 
+on gimin st line ge-sa ong a. Dao AB stlineo O point 
+ge sako rae angle ge sako on gimin ZPOQ baksa 
+apsan ong e salna nanga. 
+O/ R ~ 
+a m 
+Q / P 
+RIKANI NIAM : 
+1. O ko centre ra e aro radiusko skatang ra e, OR aro 
+PQ siderangko arc ge sachi L aro M pointrango 
+saltongbo. 
+2. O ko centre ra e aro apsan radiuskon ra kue 
+AB sflineko arc ge sachi X pointo saltongbo. 
+3. X ko centre ra e aro LM ko radius ra e skang 
+salchenggipa arcko ge gipin arcchi Y pointo sal- 
+tongbo. 
+4. OY ko nangrimatbo. 
+Da o ZXOY rikgimin angle ge-sa ong- aha. 
+ZXOY=ZPQR. 
+PROBLEM— 6 
+On sogimin st line ge-sana on sogimin point ge sa 
+gita parallel lineko salani. 
+15 
+AB onsogimin line gesa onga aro O onsogimin 
+point ge sa onga.Dao O point gita stiine gesako AB
+
+na parallel ong-e salna nanga. 
+RIKAN1 NIAM : 
+1. AB st lineo P pointko rae OP ko nangrimatbo. 
+2. P ko centre ra-e aro radiusko skatang ra-e OP aro 
+AB ko M aro L pointrango arc gesachi saltongbo. 
+3. O ko centre ra e aro radiusko apsan ra*kue OP ko R 
+pointo arc ge sachi saltongbo. 
+4. R ko centre ra e aro ML ko radius ra e skang 
+salchenggipa arcko ge gipin arcchi Q pointo sal- 
+tongbo. 
+5. OQ ko nangrimatbo. 
+Da - o OQ.AB na parallel ong'aha. 
+.*. OO AB; ZPOQ=OQB. 
+On sogimin st-line ge sako apsangrik adita bakrang 
+dake sualani. 
+P,Q, on sogimin st line ge sa ong a aro uko 
+16 
+apsangrik bak 5 dake sualna nanga. 
+R1KANI NIAM : 
+1. P point gita PR lineko sale PQ baksa angle ge'sako 
+salbo. 
+2. 0 pointo QS ko PR na parallel ong-e salbo. Parallel 
+lineko salna problem 5 ni niamko jakkalbo. 
+3. PR lineko apsangrik a,b,c,d, aro e pomtrango bak 5 
+dake sualbo. 
+4. QS lineko apsangrik f,g,h,i aro j pointrango apsan- 
+grik bak 5 dake sualbo. 
+5. Qe,fd,cg,bh,ai aro Pj ia pointrangko nangrimatbo. 
+6. PO ko L,M,N,0 pointrango apsangrik bak 5 dake 
+sualaha. 
+PL=LM=MN=NO=OQ. 
+Gnigipa Method. 
+RIKANI NIAM : 
+1. A point gita AC lineko adita ro e sale BAC angle ko 
+ong-atbo.
+
+2. AC lineko apsangrik bak 5 dake P,Q,R,S, aro T 
+pointrango arcranngko sale bak dakbo. 
+3. TB ko nangnmatbo. 
+4. TB na parallel ong-e p,h,Qq,Rr,Ss linerangko 
+salbo. 
+17 
+Da;o AB lineko p,q,r,s pointrango apsangrik bak 
+5 dake sualaha. 
+Ap=pq=qr=rs=sB. 
+EXERCISE — 3. 
+1. 45° angleko onsoaha.Uko on-gimin line ge*sani 
+ongimin point gita angleko onsogimin angle baksa 
+apsan ong-e salbo. 
+2. 60° angleko protractorchi salbo. Uko oirgimin AB 
+line on sogimin point P-0 angle gesako on gimin 
+angle baksa apsan ong-e salbo. 
+3. PQ line gcsa onga aro O pointko PQ lineni a-palo 
+onsoaha.Dao 0 point gita PQ linena AB lineko 
+parallel ong e salbo. 
+4. AB lineni roa 8cm. ong a Uko apsangrik bak 4 
+dake sualbo. Bakprakni ro a badita ong a hisab ka e 
+nangni salgimin noksa baksa tosusae nibo. 
+BAK— 3 
+SIDE GEBRICHI ONGATGIPA BJMANGRANG. 
+( Quadrilaterals'! 
+Side gebrichi dulgipa je bimangba quadrilateral ong*na* 
+man'a- jekai, 
+18 
+Kosako mesokgipa noksao ABC, quadrilateral 
+bimang gesa onga AC aro BD linerango jerangan 
+quadrilateral ni mikkanggrikgipa angle ge gniko nang- 
+rimata, ua linerangko diagonal ine minga jekai kosako 
+mesokgipa noksao AC aro BD linerang diagonalrang 
+onga. 
+2. PARALLELOGRAM :
+
+Quadrilater bimangni mikkanggrikgipa siderang para- 
+llel ong-ode ua bimangkon Parallelogram ine minga. 
+Kosako mesokgipa noksao PQRS parallelogram 
+ge*sa ong a. Iano PQ aro OR ia linerang parallel ong'a. 
+Una agreba SR aro PQ linerang ge’sa ge gipinna 
+parallel ong a. la parallel ong'gipa siderang ge sa 
+gegipinna apsanba onga. jekai, RS=PQ aro 
+RS=QR. Mikkanggrikgipa anglerangba ge*sa gegipin 
+baksa aspan ong a* jekai, ZPQR=ZPSR aro ZSPQ=Z 
+SRQ. 
+3. RECTANGLE; 
+Rectangleba Parallelograman ong a indiba uni pilak 
+anglerang right angle ba 90° onga.Unigimin je parallel- 
+F 
+Rectangle 
+G 
+ogramni angle ge prak right angle ong a ba 90° ong a, 
+indakgipa parallelogramko Rectangle ine minga. 
+E 
+" / 90° 
+90^ 
+H 
+\90° 
+90^ 
+19 
+Kosako rectangleni noksako mesoka. lano EFGH 
+rectangle gesa ong'a EF=GH; EH=FG. /E= ZF= 
+ZG= ZH=90°. Rectangleni deagonalrang gesa gegipin 
+baksa apsan ong'a. 
+4. SQUARE : 
+Ian apsan ong'gipa side ge- brichi dulgipa bimang ge sa 
+onga. Una agreba uni angle ge prakan right angle 
+onga. 
+p 
+s
+
+Jvf 90 °^ 
+[^90° 90 y- 
+Square 
+O 
+K 
+Kosako squareni bimangko mesoka. PQRS 
+square ge sa ong a PQ=QR=RS=SP. ZpP= LG- ZR= 
+ZS.=90°. Squareni diagonalrang ge sa ge gipin baksa 
+apsan ong a. 
+5. RHOMBUS : 
+Rhombus apsan ong- gipa side ge' brichi dulgipa 
+bimang ge sa ong a-, indiba uni anglerang ge* prakan 
+right angle ong-ja.Unigimin Rhombusko siderang 
+20 
+apsan onggipa parallelogram ine mingna man* a. 
+Rhombusni mikkanggrikgipa anglerang apsan onga. 
+Kosako Rhombus ni noksako mesoka. 
+AB=BC=CD=DA. 
+/A=ZC; ZD=ZB. 
+6. TRAPEZIUM : 
+Ian quadrilateral bimang gesa ong a, indiba uni 
+mikkanggrikgipa side jorasasan parallel ongaia.Uni 
+pilak side aro anglerang ge sa gegipin baksa apsan 
+ongja. 
+Trapezium 
+QUADRILATERAL BIMANGRANGKO NOKSA 
+SALANI. 
+SQUARE. 
+Squareni side ge*sa 4cm ko rae Squareni bimang- 
+ko sale mesokani. 
+RIKANI NIAM. 
+1. AB stlineko 4cm.ro e 
+salbo. 
+2. A pointo AB sidena prob- 
+lem 3 ni gnigipa methodko
+
+jakkale AE ko perpendi- 
+c 
+21 
+cular onge salbo. 
+3. AE ni roako 4cm. ro c D 
+pointo densotbo. 
+4. D ko centre rae aro 
+radiusko 4cm ra'e arc 
+ge sako salbo. 
+5. B ko centre ra - e aro radisuko 4cm. ra'kue skang 
+salchenggipa arc-ko c pointo saltongbo. 
+6. BC aro CD ko nangrimatbo. 
+ABCE square ge sa ong aha 
+.*.AB=BC=CD=DA=4cm. 
+LA= /B= ZC= £>=90° 
+RECTANGLE. 
+Rectanglcm side ge gniko on*soaha. Jekai, 5.2cm 
+aro 3.5cm., Ia on gimin siderangko ra e rectangleni 
+bimangko sale mesokani. 
+c 
+RIKANI NIAM; 
+1. AB st lineko 5.2cm. ong e salchengbo. 
+2. A pointo problem 3 ni gnigipa methodko jakkale 
+AB na AE ko perpendicular ong e salbo. 
+22 
+3. AE ko AD-o 3.5cm. ong-e den-sotbo. 
+4. O ko centre aro radiusko 5.2cm. ra'e’arc gesako 
+salbo. 
+5. B ko centre rae aro radiusko 3.2cm. rae skang 
+saichenggipa arcko c pointo saltongbo. 
+6. DC aro BC ko nangrimatbo. Da-o ABCE rectangle 
+gesa ong-aha. CE=AB=5.2cm; AD=BC=3.5cm. 
+ZA= ZB= Z.C= ID =90° 
+PARALLELOGRAM. 
+On’sogimin adjacent side ge gni aro angle ge sako
+
+ra e parallelogramko noksa salani. 
+5cm. 
+3cm. 
+E 
+RIKANI NIAM : 
+1. AB. st lineko 5cm. ro e salbo. 
+2. A pointo prpblem 4 ni niamko jakkale ZBAE ko 
+on gimin angle baksa apsan ong e salbo. 
+3. AE ko AD-o 3cm. ro e den sotbo. 
+4. D ko centre ra e aro radiusko 5cm. ra e are ge sako 
+-salbo. 
+23 
+5. B ko centre rae aro radiusko 3cm. rae skang 
+salchenggipa arc-ko gegipin arcchi C pointo sal- 
+tongbo. 
+6. BC aro CD ko nangrimatbo. 
+ABCD parallelogram gesa ongaha. 
+CH=AB=5cm.; AD=BC=3cm.; ZA= ZC=40° 
+RHOMBUS. 
+On’sogimin side ge sa aro angle ge sako ra e 
+rhombus ko noksa salani. 
+4cm E 
+RIKANI NIAM : 
+1. AB stlineko 4cm. ro e salbo. 
+2. A pointo IBAE ko on sogimin angle baksa apsan 
+ong e salbo. AD ko 4cm. ro e salbo. 
+3. D ko centre ra e aro radiusko 4cm. ra e arc ge sako 
+salbo. 
+4. B ko centre ra e aro apsan radiuskon ra kue skang 
+salchenggipa arc-ko C pointo saltongbo. 
+5. CD aro BC ko nangrimatbo. 
+24 
+Da o ABCE Rhombus ge - sa ongaha. 
+AB=BC=CE=DA=4cm; /BAD =60° 
+EXERCISE-4.
+
+1. Parallelogram mai dakgipa bimang ong a talatbo. 
+2. Rectangle maidakgipa bimang ong a talatbo. 
+Rectangle aro parallelogram maio dingtanggrika 
+talatbo. 
+3. Rhombus aro square maio dingtanggrika talatbo. 
+4. Rectangleko noksa salbo: — 
+(i) 5cm, 4.5cm, (li) 6cm, 5.5cm. 
+Salgimin rectanglerangni diagonalrangko toe uarang 
+apsan ong-ama ongja aganbo. 
+5. Parallelogramko noksa salbo: — 
+(i) 6.5cm, 5cm. Z45" 
+(ii) 7.5cm, 6.5cm. Z60° 
+6. Squareko noksa salbo: — 
+(i) 4.5cm. (ii) 3cm. (lii) 5cm. 
+Salgimin squarerangni diagonalrang apsan onga- 
+ma ong ja toe nie aganbo. 
+7. Rhombusko • noksa salbo: — 
+(i) 4.5cm. Z.70 0 . (iij 5.4cm. Z65° 
+Rhombusni diagonalrangni batsotgrikgipa angleko 
+toe badita ong a aganbo. 
+bar— 4. 
+CIRCLE. 
+An* chingni poraibagimin gita circleni bimangai 
+garichaka ba jaksan m bimang gita dakanga. Jekai, 
+25 
+Kosako Circleni bimangko mesoka. O pointko 
+circleni centre (ba bijatchigipa point) aro OX lineko 
+radius ine minga. Saldulgipa lineko circumference ine 
+minga. jekai, XYZ. 
+Diameter: 
+Circumferenceni point gc gniko circleni centre gita 
+batsote nangrimatgipa linekon Diameter minga. Jekai, 
+B 
+Chord: 
+Circleni circumference ni je point ge gniko
+
+nangrimatgipa linekon Chord 
+ine minga. Jekai, Jakrachi 
+mesokgipa noksao CD circle- 
+ni chord ge a sa ong a- 
+.Diameteran circleni dal bat- 
+gipa chord onga ine nikna 
+man* a. 
+D 
+26 
+Semi-Circle: 
+Circleko diameterkosale bakgni dake sualna man a. 
+Sualgimin circleni bakprakkon semi-circle ine minga. 
+Semi-ni orto adha, unigimin semi-circieni orto circleni 
+adha onga. Jekai, 
+Semi-Circle 
+EXERCISE-S. 
+1. Kamao janapgipa radiusrangko rae circleko salbo. 
+(a) 3cm. (b) 4.5cm. (c) 2.5cm. 
+2. Ka- mao janapgipa diamcterni ro aniko ra e circleko 
+salbo. 
+(a) 5cm. (b) 6cm. (c) 8.4cm. 
+(Hints. Circleko salna skang radiusni roako hisab 
+ka-chengbo). 
+3. Ka mao sing anirangna aganchakbo: — 
+(a) Circle ge sani pilak radiusrangan apsan 
+ongama? 
+(b) Circleni chord radius ong na man ama? 
+(c) Circleni diameter radiusna badita chang ro b 
+ata? 
+(d) Circle ge-sao centre ge gni dongna man* ama? 
+4. Ka mao janapgipa radiusrangko ra e circleni di- 
+ameterko noksa salbo. 
+(a) 2.5cm. (b) 3cm. (c) 3.5cm. 
+27 
+5. Ka mao sing anirangna aganchakbo: —
+
+(a) Circle gesani diameter 8cm. ong-ode radiusni 
+ro a badita? 
+(b) Circle ge sani radius 2.5cm. ong ode apsan 
+circleni radiusni roa badita? 
+(c) Circleni ro batgipa chordko mai ming*a? 
+BAK— 5. 
+POLYGON. 
+Banga st lincrangchi duulgipa bimang ba plane figure- 
+kon Polygon inc minga. 
+Side gegitamchi duulgipa polygonko Triangle ine 
+minga. 
+Side ge brichi dulgipa polygonko Quadrilater ine 
+minga. 
+Polygonko uarangni siderangni kri bimangrangko 
+dona. Jekai, 
+1. PENTAGON: Side ge bongachi duulgipa bimang. 
+2. HEXAGON: Side gc dokchi duulgipa bimang 
+3. HEPTAGON: Side ge snichi duulgipa bimang 
+4. OCTAGON: Side ge chetchi duulgipa bimang 
+5. DECAGON: Side ge chikingchi duulgipa bimang 
+POLYGONRANGKO NOKSA SALE MESOKANI. 
+REGULAR PENTAGON. 
+PENTAGON 
+RIKANI NIAM: 
+1. Radiusko skatang ra e circle ge sako salchengbo. 
+2. OA radius ge sako salbo. 
+3. Jatchini anglcko bakbonga dake sualbo. 
+(360°+5=72°) 
+4. OA radiusna 72° chel grike OB. Oc. OD aro OE 
+radiusrangko salbo. 
+5. AB, BC. CD, DE ko nangrimatbo, 
+6. Circleni circumferenceko kimite galbo. 
+29 
+ABCDE pentagon gesa ongaha. 
+AB±BC = CE-DE = EA.; ZA=ZB = ZC=ZD =
+
+L E=72°. 
+REGULAR HEXAGON. 
+HEXAGON 
+R1KANI NIAM. 
+1 . Radiusko skatang ra e circle ge sako salchengbo. 
+2. AB diameterko salbo. 
+3. Jatchini angleko bak 6 dake sualbo. 
+(360°-6=60°). 
+4. Diameter ge prakko 60° chelgrike CD aro EF 
+diameterrangko salbo. 
+5. BC, CE, EA, AD aro DF ko nangrimatbo. 
+6. Circumferenceko kimite galbo. 
+7. BCEADF, Hexagon ge sa ong aha. 
+BC=EC=EA=AD=DF; 
+LA= ID= ZF= /B= LC= ZE= ZA.=60° 
+30 
+1. Radiusko skatang ra e circle ge sako salchengbo. 
+2. AOB diameterko salbo. 
+3. Jatchini angleko bak 8 dake sualbo. (360^-8=45°) 
+4. AB diameterna 45° chel'grike CD, EF, GH, di- 
+ametcrrangko salbo. 
+5. BC, CE, EG, AG, AD, DF aro FG ko nangrim- 
+atbo. 
+6. Circleko kimite galbo. 
+Da*o BCEGADFH octagon gesa ong aha. 
+BC=CE=EG =GA=AD=DF=GH.; 
+ZA= ZD= ZF= ZH= IB= ZC= ZE= £G=45°. 
+EXERCISE— 6 
+1. Kamao janapgipa polygonrangko noksa sale 
+mesokbo. 
+(a) pentagon, (b) Hexagon, (c) Octagon. 
+2. Ka mao janapgipa polygonrangni central angle (bi- 
+jatchigipa angle) badita, ^>ng^|r>n^nga hisab kae 
+mesokbc*. 
+(a) Pentagon. /( b/ Hexaeon/ *(c) Octagon,
+
+(d) .Decagon. 
+\ An* r I tk 
+DISTRICT LIBRARY 
+EAST GARO HILLS DISTRICT 
+WILLIAM N AG AR 
+H* 
+DATE LABEL 
+This book must bo returned within 15 days 
+from the date of issue. 
+Date of Issue 
+Due Date 
+Date of Issue 
+Due Date 
+TIJRA BOOK ROOM 
+TURA WEST GARO HILLS 
+MEGHALAYA.

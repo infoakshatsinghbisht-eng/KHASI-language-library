@@ -8,13 +8,11 @@ long_description = open(readme_path, encoding="utf-8").read() if os.path.exists(
 
 setup(
     name="khasi",
-    version="1.11.0",
+    version="1.16.0",
     author="Akshat Singh Bisht",
     author_email="infoakshatsinghbisht@gmail.com",
     maintainer="Akshat Singh Bisht",
-    maintainer_email="infoakshatsinghbisht@gmail.com",
-    description="Khasi (Ka Ktien Khasi) Language Library: 415,000+ Headwords, 421 Digitized Books, 26 Historical Book PDFs, 300 Traditional Songs & Phawar, 39 Deities, 112 Flora, 89 Fauna, 66 Riddles, and Universal Lexicon",
-    long_description=long_description,
+    description="Khasi (Ka Ktien Khasi) Language Library: 608,086+ Headwords, 100 Classical Grammar Rules Engine across 9 Categories, 2,598 Digitized Books (384,803 Pages, 87.56M+ Words), 1,939 Preserved PDF Editions, 300 Traditional Songs & Phawar, 39 Deities, 112 Flora, 89 Fauna, 66 Riddles, and Universal Lexicon",
     long_description_content_type="text/markdown",
     url="https://github.com/infoakshatsinghbisht-eng/KHASI-language-library",
     project_urls={
@@ -31,7 +29,6 @@ setup(
         "khasi.lexicon": ["data/*.json", "data/dialects/*.json"],
         "khasi.culture": ["data/*.json", "data/books/*.json", "data/folklore/*.json", "data/songs/*.json"],
         "khasi.voice": ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"],
-        "khasi.corpus": ["data/*.json", "data/*.jsonl", "data/bitext/*"],
     },
     classifiers=[
         "Programming Language :: Python :: 3",

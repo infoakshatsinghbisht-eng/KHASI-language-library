@@ -1,0 +1,1433 @@
+
+--- Page 1 ---
+MAJOR ARTICLE 
+ 
+63  
+TAPROBANICA VOL. 15: NO. 01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+urn:lsid:zoobank.org:pub:001E8A7A-6BC8-49DA-855F-6269E18AAD44 
+ 
+A NEW TOAD SPECIES (AMPHIBIA: BUFONIDAE: Duttaphrynus) 
+FROM THE KHASI HILLS, MEGHALAYA, NORTHEASTERN INDIA 
+ 
+Submitted: 16 November 2025, Accepted: 9 April 2026, Published: 27 May 2026 
+Subject Editor: Enrique La Marca 
+ 
+Holiness Warjri1, Madhurima Das1,2*, A.A. Thasun Amarasinghe3 & Jayaditya Purkayastha2* 
+ 
+1 Department of Zoology, Assam Don Bosco University, Sonapur, India 
+2 Help Earth, 16, Raghunath Choudhury Path, Lachitnagar, Guwahati, Assam, India 
+3 Research Center for Biosystematics & Evolution, National Research & Innovation Agency (BRIN; 
+Government of Indonesia), Cibinong 16911, Indonesia 
+*Corresponding author. E-mail: mail.jayaditya@gmail.com; madhurima.das@dbuniversity.ac.in 
+ 
+Abstract 
+We describe a new bufonid toad from Mawphlang in the Khasi Hills, Meghalaya, northeastern India, 
+based on an integrative taxonomic assessment combining external morphology and mitochondrial 16S 
+rRNA sequence data. Phylogenetic analyses recover the Khasi Hills specimens as a distinct and well-
+supported monophyletic lineage within Duttaphrynus, forming a clade sister to an undescribed lineage 
+from Chin State, Myanmar, and clearly separated from the most closely related congeners, D. stuarti 
+and D. chandai. Uncorrected mitochondrial 16S sequence divergence between the new species and 
+these taxa ranges from 4.4–6.7%, consistent with interspecific differentiation in Asian bufonids. 
+Morphometric analyses based on allometrically size-corrected measurements further support its 
+distinctiveness. The new species is characterized by a small adult body size (male SVL 40.0–41.8 
+mm), absence of cranial ridges, a distinct but small tympanum, moderate toe webbing, specific digital 
+length proportions, and a dorsum bearing numerous pointed keratinized warts. The concordant 
+molecular, multivariate morphometric, and qualitative morphological evidence demonstrates that the 
+Khasi Hills population represents a previously unrecognized evolutionary lineage. The species is 
+currently known only from its type locality in montane habitats of the East Khasi Hills, highlighting 
+the continued importance of the Meghalaya Plateau as a center of amphibian diversity and endemism 
+within the Indo-Burma biodiversity hotspot.                                                                                                          
+ 
+Keywords: 16S rRNA, India, integrative taxonomy, Meghalaya, PCA, systematics, taxonomy 
+ 
+Introduction 
+The Old-World toad family Bufonidae Gray, 
+1825 constitutes one of the most species-rich and 
+geographically widespread radiations of anurans, 
+currently comprising more than 650 recognized 
+species distributed across all continents except 
+Antarctica (Frost 2024). Bufonids occupy a 
+remarkable breadth of ecological niches, ranging 
+from tropical rainforests and montane systems to 
+arid 
+environments 
+and 
+heavily 
+modified 
+TAPROBANICA, ISSN 1800–427X. Vol. 15, No. 01 (2026): pp. 63–73, pls. 16–17. 
+Published by Research Center for Climate Change & Faculty of Mathematics & Natural 
+Sciences, Universitas Indonesia, Depok 16424, INDONESIA. 
+© distributed under Creative Commons CC-BY 4.0 
+http://www.taprobanica.org 
+https://doi.org/10.47605/tapro.v15i1.402 
+OPEN ACCESS 
+
+--- Page 2 ---
+A NEW Duttaphrynus SPECIES FROM NORTHEASTERN INDIA 
+ 
+64  
+TAPROBANICA VOL. 15: NO. 01 
+anthropogenic 
+landscapes. 
+This 
+ecological 
+versatility, together with a long evolutionary 
+history and repeated continental dispersal events, 
+has resulted in extensive diversification within 
+the family (Bossuyt & Milinkovitch 2001, Van 
+Bocxlaer et al. 2009, Pyron & Wiens 2011). 
+Recent 
+phylogenetic 
+studies 
+integrating 
+multilocus and genomic datasets have further 
+revealed that Asian bufonids represent several 
+independent evolutionary radiations shaped by 
+complex geological and climatic processes across 
+the Indo-Malayan region (Van Bocxlaer et al. 
+2009, Portik & Papenfuss 2015). 
+Within Bufonidae, the genus Duttaphrynus 
+Frost et al., 2006 represents a major lineage of 
+Asian toads distributed across the Indian 
+subcontinent, mainland Southeast Asia, southern 
+China, and parts of the Sundaic region (Van 
+Bocxlaer et al. 2009). Species of Duttaphrynus 
+are typically characterized by a moderately 
+robust body, well-developed parotoid glands, 
+variable cranial ridges, and differences in the 
+degree of digital webbing (Dubois & Ohler 1999, 
+Frost et al. 2006). Although the genus contains 
+several widely distributed species, particularly 
+the 
+Asian 
+common 
+toad 
+Duttaphrynus 
+melanostictus 
+(Schneider, 
+1799), 
+recent 
+molecular investigations have demonstrated that 
+several nominal taxa encompass deeply divergent 
+evolutionary lineages, suggesting that species 
+diversity 
+within 
+the 
+genus 
+remains 
+underestimated (Van Bocxlaer et al. 2009, Pyron 
+& Wiens 2011, Portik & Papenfuss 2015). 
+Northeastern India represents one of the most 
+biogeographically complex regions of South Asia 
+and forms part of the Indo-Burma biodiversity 
+hotspot, one of the most species-rich yet 
+threatened regions on Earth (Myers et al. 2000). 
+The region lies at the intersection of the Indian, 
+Indo-Chinese, and Himalayan biogeographic 
+realms and is characterized by a heterogeneous 
+landscape of plateau systems, deeply dissected 
+river valleys, and montane evergreen forests 
+(Mani 1974, Pawar et al. 2007). These 
+landscapes have promoted high levels of 
+endemism 
+and 
+phylogenetic 
+diversification 
+among amphibians and reptiles (Pawar et al. 
+2007, Biju et al. 2014). During the past two 
+decades, 
+integrative 
+taxonomic 
+research 
+combining molecular phylogenetics with detailed 
+morphological 
+analyses 
+has 
+revealed 
+a 
+considerable number of previously unrecognized 
+amphibian lineages from northeastern India, 
+indicating that the region harbours substantial 
+undocumented biodiversity (Kamei et al. 2012, 
+Biju et al. 2014, Garg & Biju 2019, Mahony et 
+al. 2018). 
+Despite 
+this 
+increasing 
+recognition 
+of 
+amphibian diversity in the region, the taxonomy 
+of Duttaphrynus in northeastern India remains 
+comparatively understudied. Only a few species 
+have been documented from the region, 
+including the widespread D. melanostictus, the 
+montane species D. stuarti (Smith, 1929), and 
+the more recently described D. chandai Das, 
+Dutta, Sengupta & Gayen, 2013 (Das et al. 
+2013). 
+However, 
+morphological 
+similarity 
+among species, coupled with limited comparative 
+material, has historically complicated species 
+delimitation within the genus. Phylogenetic 
+studies have demonstrated that morphological 
+conservatism can obscure substantial genetic 
+divergence in bufonids, emphasizing the need for 
+integrative approaches that combine molecular 
+and morphological data when assessing species 
+boundaries (Van Bocxlaer et al. 2009, Pyron & 
+Wiens 2011, Portik & Papenfuss 2015). 
+During recent field surveys conducted in the 
+Khasi Hills of Meghalaya, northeastern India, we 
+collected specimens of a small forest-associated 
+Duttaphrynus that differed from other regional 
+congeners 
+in 
+several aspects 
+of 
+external 
+morphology 
+and 
+colouration. 
+Preliminary 
+molecular analysis of mitochondrial 16S rRNA 
+sequences 
+indicated 
+that 
+these 
+specimens 
+represent a distinct evolutionary lineage within 
+the genus. Phylogenetic comparisons including 
+closely related taxa revealed clear genetic 
+divergence from both D. stuarti and D. chandai, 
+the most morphologically similar congeners 
+known 
+from 
+the 
+region. 
+The 
+combined 
+molecular, 
+morphometric, 
+and 
+qualitative 
+morphological evidence supports the recognition 
+of the Khasi Hills population as a previously 
+undescribed species, which we formally describe 
+herein as a new species. 
+ 
+Materials and methods 
+ 
+Field sampling and specimen preservation. 
+Field surveys were conducted in montane forest 
+habitats of the Khasi Hills in Mawphlang 
+(25.45329°N, 91.75443°E; 1854 m a.s.l.; Fig. 1), 
+Meghalaya, northeastern India. Specimens were 
+encountered during nocturnal visual encounter 
+surveys along forest trails and within leaf-litter 
+microhabitats. Individuals were photographed in 
+life to document colouration and pattern prior to 
+preservation. 
+Voucher 
+specimens 
+(ADBU-
+HW0180 and ADBU-HW0182; ADBU = Assam 
+Don Bosco University, India) were euthanized 
+
+--- Page 3 ---
+WARJRI ET AL. 2026 
+ 
+65  
+TAPROBANICA VOL. 15: NO. 01 
+using a tricaine methanesulfonate (MS-222) 
+solution following accepted ethical standards for 
+amphibian research (Simmons 2015). Tissue 
+samples (liver or thigh muscle) were removed 
+immediately after euthanasia and preserved in 
+95–100% 
+ethanol 
+for 
+molecular 
+analysis. 
+Specimens were subsequently fixed in 10% 
+buffered formalin and later transferred to 70% 
+ethanol 
+for 
+long-term 
+storage. 
+Voucher 
+specimens were deposited in the institutional 
+herpetological collection of Assam Don Bosco 
+University (see Systematics section). Sex was 
+determined by examination of secondary sexual 
+characters and, when necessary, by dissection of 
+gonads. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Map showing the type locality of the new 
+species in Mawphlang, East Khasi Hills District, 
+Meghalaya, northeastern India. 
+ 
+Comparative material and taxon sampling. 
+Comparative morphological data were obtained 
+from examined museum specimens and from 
+published descriptions of congeners occurring in 
+South and Southeast Asia. Particular attention 
+was given to species that are morphologically or 
+geographically close to the newly collected 
+population, including Duttaphrynus stuarti and 
+D. chandai. Additional comparative information 
+was compiled from the taxonomic literature and 
+from 
+original 
+species 
+descriptions 
+where 
+necessary. Comparative specimens examined are 
+listed in the Appendix. Taxonomic nomenclature 
+and species assignments follow the amphibian 
+taxonomy of Frost (2024). 
+Morphological measurements. Morphological 
+measurements were taken with digital callipers to 
+the nearest 0.01 mm under a stereomicroscope 
+when necessary. Terminology and measurement 
+definitions largely follow previous studies on 
+Asian bufonids and anuran morphometrics 
+(Duellman & Trueb 1994, Das et al. 2013). The 
+mensural characters were recorded following 
+Watters et al. (2016): snout−vent length (SVL); 
+head length (HL); head width (HW); snout length 
+(SL); interorbital distance (IOD); internarial 
+space 
+(INS); 
+eye−nostril 
+distance 
+(EN); 
+snout−nostril length (NS); eye diameter (ED); 
+upper eyelid width (UEW); mandible to eye 
+distance 
+(MBE); 
+mandible−nostril 
+distance 
+(MN); tympanum diameter (TD); parotid gland 
+width (PGW); parotid gland length (PGL); upper 
+arm length (UAL); forearm length (FLL); lower 
+arm length (LAL); hand length (HAL); finger I 
+length (Fin1L); finger II length (Fin2L); finger 
+III length (Fin3L); finger IV length (Fin4L); 
+snout−urostyle length (SUL); body width (BW); 
+hindlimb−length (HLL); thigh length (THL); 
+tibia length (TL); tarsus length (TSL);  foot 
+length (FL); toe I length (Toe1L); toe II length 
+(Toe2L); toe III length (Toe3L); toe IV length 
+(Toe4L); toe V length (Toe5L). Additional 
+qualitative morphological characters, including 
+cranial ridges, webbing formulae, relative finger 
+and toe lengths, skin texture, and colouration, 
+were recorded following standard bufonid 
+descriptive terminology (Duellman & Trueb 
+1994, Frost et al. 2006). 
+Sexual dimorphism analysis. To assess 
+whether morphometric data from males and 
+females could be combined in multivariate 
+analyses, sexual dimorphism was tested in the 
+comparative species Duttaphrynus chandai using 
+Welch two-sample t-tests for each morphometric 
+variable. Statistical analyses were conducted in R 
+version 4.x (R Core Team 2024). Because no 
+variables 
+showed 
+statistically 
+significant 
+differences between sexes (p > 0.05 for all 
+characters), male and female measurements were 
+pooled for subsequent analyses. 
+Allometric size correction and principal 
+component 
+analysis. 
+Morphometric 
+traits 
+typically scale allometrically with body size; 
+therefore, raw measurements were adjusted to 
+remove the effects of overall body size prior to 
+multivariate analyses. Size correction was 
+performed 
+using 
+the 
+allometric 
+equation 
+originally proposed by Thorpe (1975) and 
+implemented following the framework of Chan 
+& Grismer (2022). The size-adjusted variable 
+was calculated as: Xadj = log(X) − b[log(SVL) − 
+log(SVLmean)], where Xadj is the size-corrected 
+value, X is the original measurement, b is the 
+regression slope of log-transformed trait values 
+against log-transformed SVL, and SVL mean 
+represents the mean snout–vent length for each 
+species. For interspecific datasets such as the 
+present study, SVL mean was calculated 
+
+--- Page 4 ---
+A NEW Duttaphrynus SPECIES FROM NORTHEASTERN INDIA 
+ 
+64  
+TAPROBANICA VOL. 15: NO. 01 
+separately for each species in order to avoid 
+conflating among-species size variation with 
+within-species growth patterns (Chan & Grismer 
+2022). 
+Principal component analysis (PCA) was used 
+to explore patterns of morphometric variation 
+among species and to assess whether the newly 
+sampled population forms a morphologically 
+distinct cluster. PCA was performed using the 
+correlation matrix of size-corrected variables to 
+account for differences in measurement scale. 
+Snout–vent length was excluded from the 
+analysis after size correction because it served as 
+the reference variable for allometric adjustment. 
+Eigenvalues and factor loadings were examined 
+to determine which characters contributed most 
+strongly to the major axes of variation. 
+Molecular data and phylogenetic analysis. 
+Genomic DNA was extracted from two ethanol-
+preserved tissue samples (ADBU-HW0180 and 
+ADBU-HW0182) 
+using 
+standard 
+phenol–
+chloroform extraction or commercial DNA 
+extraction kits. A fragment of the mitochondrial 
+16S rRNA gene was amplified using the primer 
+pair AH-16S_S (5’-CGC CTG TTT ACC AAA 
+AAC ATC GCC T-3’) and AH-16S_R (5’-TGC 
+GCT GTT ATC CCY RGG GTA ACT-3’) 
+following Grosjean et al. (2015). The 16S marker 
+is widely used in amphibian systematics and 
+provides reliable phylogenetic resolution at the 
+species level (Vences et al. 2005). PCR products 
+were purified and sequenced in both directions 
+using automated sequencing platforms. 
+Sequences were edited and assembled in 
+sequence-editing software and aligned using the 
+MUSCLE algorithm (Edgar 2004) implemented 
+in MEGA 7 (Tamura & Nei 1993, Kumar et al. 
+2016). Phylogenetic relationships were inferred 
+using maximum likelihood (ML) methods. A 
+maximum 
+likelihood 
+phylogeny 
+was 
+reconstructed in IQ-TREE (Nguyen et al. 2015) 
+using an unpartitioned dataset. The best-fitting 
+nucleotide substitution model (TIM2+F+R2) was 
+selected using ModelFinder based on Bayesian 
+Information 
+Criterion 
+(BIC) 
+scores 
+(Kalyaanamoorthy et al. 2017). Node support 
+was 
+evaluated 
+using 
+ultrafast 
+bootstrap 
+approximation with 1,000 replicates (Minh et al. 
+2013). Uncorrected pairwise genetic distances 
+(p-distances) 
+were 
+calculated 
+to 
+quantify 
+sequence 
+divergence 
+among 
+species 
+of 
+Duttaphrynus. 
+Comparative 
+sequences 
+representing 
+additional species of Duttaphrynus were obtained 
+from GenBank. Outgroup taxa representing 
+related bufonid genera were included to root the 
+phylogeny. Sequence accession numbers and 
+voucher information for all taxa included in the 
+analysis are provided in the Sup. Table 1. 
+ 
+Results 
+Molecular 
+phylogenetic 
+relationships. 
+The 
+aligned 
+mitochondrial 
+16S 
+rRNA 
+dataset 
+comprised sequences of Duttaphrynus and 
+related bufonid taxa retrieved from GenBank 
+together with two newly generated sequences 
+from the Khasi Hills specimens (ADBU-
+HW0180 and ADBU-HW0182).  
+Maximum likelihood analysis recovered the 
+Khasi Hills samples as a well-supported 
+monophyletic 
+lineage 
+within 
+the 
+genus 
+Duttaphrynus (Fig. 2). The two newly sequenced 
+specimens formed a distinct clade with strong 
+bootstrap support, indicating that they represent a 
+genetically cohesive population. This lineage 
+was recovered as sister to an undescribed 
+Duttaphrynus lineage represented by sequence 
+KF665335 from Chin State, Myanmar. Together, 
+these taxa formed a clade that was clearly 
+separated from other congeners included in the 
+analysis. 
+Among the named species sampled in the 
+phylogeny, the Khasi Hills lineage was most 
+closely related to D. stuarti and D. chandai. 
+However, the new lineage was clearly distinct 
+from both species and formed an independent 
+evolutionary branch within the genus. 
+Genetic divergence. Uncorrected pairwise 
+genetic distances (p-distances) based on the 16S 
+rRNA fragment revealed substantial sequence 
+divergence between the Khasi Hills lineage and 
+its closest relatives. The genetic divergence 
+between the new lineage and Duttaphrynus 
+stuarti 
+ranged 
+from 
+4.4–5.5%, 
+whereas 
+divergence from D. chandai ranged from 4.4–
+6.7%. These levels of mitochondrial sequence 
+divergence are comparable to, or greater than, 
+those typically observed among recognized 
+species of Asian bufonids, further supporting the 
+distinctiveness of the Khasi Hills population. 
+Sexual 
+dimorphism. 
+Statistical 
+tests 
+conducted on the comparative dataset of 
+Duttaphrynus chandai revealed no significant 
+sexual 
+dimorphism 
+in 
+the 
+measured 
+morphometric variables (Welch two-sample t-
+tests; p > 0.05 for all characters). Because no 
+statistically significant differences were detected 
+between males and females, measurements from 
+both 
+sexes 
+were 
+pooled 
+for 
+subsequent 
+multivariate analyses. 
+66 
+
+--- Page 5 ---
+WARJRI ET AL. 2026 
+ 
+65  
+TAPROBANICA VOL. 15: NO. 01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Maximum likelihood phylogeny inferred using IQ-TREE under the TIM2+F+R2 model from 
+mitochondrial 16S rRNA sequences showing the placement of the new species within the genus Duttaphrynus. 
+Node support values represent ultrafast bootstrap percentages based on 1,000 replicates. Branches with support 
+values <70% are not shown. 
+67 
+
+--- Page 6 ---
+A NEW Duttaphrynus SPECIES FROM NORTHEASTERN INDIA 
+ 
+64  
+TAPROBANICA VOL. 15: NO. 01 
+Multivariate 
+morphometric 
+analyses. 
+Principal component analysis of size-corrected 
+morphometric variables revealed that the first 
+two principal components accounted for the 
+majority of variation in the dataset. PC1 
+explained 85.6% of the total variance, and PC2 
+explained 9.8%, together accounting for 95.4% 
+of the total morphological variation. The first 
+principal component was strongly influenced by 
+overall body proportions, with high positive 
+loadings for head length (HL), mandible–nostril 
+distance (MN), snout length (SL), and tibia 
+length (TL). The second principal component 
+was primarily associated with variation in snout–
+eye proportions, with strong positive loading for 
+eye–nostril distance (EN) and negative loading 
+for internarial spacing (INS). In morphospace 
+defined by the first two axes, specimens of the 
+new species form a distinct cluster separated 
+from both D. chandai and D. stuarti, indicating 
+consistent morphological differentiation after 
+accounting for body-size effects (Fig. 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3. Principal component analysis (PCA) of 
+size-corrected morphometric variables comparing the 
+new species, D. chandai, and D. stuarti. 
+ 
+Taxonomy 
+Duttaphrynus dhara sp. nov. 
+[urn:lsid:zoobank.org:act:174AA912-9BCF-4E4E-
+9FBA-5E2DE7094C49] 
+(Figs. 4, 5; Sup. Tables 4, 5) 
+ 
+Holotype. ADBU-HW0180, adult male, collected 
+from Mawphlang (25.45329°N, 91.75443°E; alt. 
+1854 m asl.), East Khasi Hills District, 
+Meghalaya, India, on 25 July 2024 at ~17:50 hr 
+by H. Warjri, W. Wahlang & R. Warjri. 
+Paratype (n=1). ADBU-HW0182, adult male, 
+collection data similar to the holotype. 
+Diagnosis. Duttaphrynus dhara sp. nov. is 
+assigned to the genus Duttaphrynus by the 
+presence of well-developed parotoid glands, a 
+tuberculate dorsum bearing keratinized warts, 
+distinct canthus rostralis, and the general bufonid 
+body form. The new species is distinguished 
+from congeners by its phylogenetic position and 
+by the following combination of morphological 
+characters: medium body size (male SVL 40.05–
+41.76 mm); head wider than long; tympanum 
+distinct but small; canthus rostralis and canthal 
+ridge 
+present; 
+preorbital, 
+supraorbital, 
+orbitotympanic, parietal, and postorbital ridges 
+absent; fingers free of webbing; toe webbing 
+moderate with formula I 1–2 II 2–2.5 III 2–3.5 
+IV 3.5–1.5 V; relative finger lengths I < II < IV < 
+III; relative toe lengths I < II < III < V < IV; 
+outer palmar tubercle distinct and rounded, inner 
+palmar tubercle present but smaller; inner 
+metatarsal tubercle oval and prominent, outer 
+metatarsal 
+tubercle 
+rounded; 
+subarticular 
+tubercles distinct with supernumerary tubercles 
+of varying sizes present on the digits; tibiotarsal 
+articulation reaching the posterior tip of the 
+parotoid gland when the hindlimb is adpressed 
+along the body; dorsum bearing numerous 
+pointed keratinized warts of varying sizes with 
+irregular black patches; and nuptial pad present 
+on Finger I, whitish in colour. 
+Description of holotype. Medium-sized 
+specimen (SVL 41.76 mm) with a robust body. 
+Head large (HL/SVL 0.27), wider than long 
+(HW/HL 1.21). Cranial ridges indistinct. Canthus 
+rostralis distinct; loreal region slightly concave 
+and nearly vertical. Canthal ridge present; 
+preorbital, supraorbital, orbitotympanic, parietal, 
+and postorbital ridges absent. Interorbital space 
+flat. Nostrils rounded, positioned closer to the 
+snout tip than to the eye. Snout longer than eye 
+diameter (SL/ED 1.34) and approximately half of 
+head length (SL/HL 0.47). Interorbital distance 
+larger than internarial space (IOD/INS 1.74). Eye 
+large (ED/HL 0.35); eye diameter greater than 
+upper eyelid width (ED/UEW 1.09) and greater 
+than eye–nostril distance (ED/EN 1.15). Pupil 
+round. Tympanum round, distinct, and very small 
+relative to eye diameter. Pineal ocellus absent. 
+Tongue 
+elongated 
+and 
+slightly 
+rounded 
+posteriorly. Choanae small, round; vomerine 
+teeth absent. Supratympanic fold absent. Parotoid 
+glands present, elongated (PGL/PGW 1.73), 
+prominent and perforated; almost twice as long 
+(PGL 7.8 mm) as wide (PGW 4.5 mm), and 
+68 
+
+--- Page 7 ---
+WARJRI ET AL. 2026 
+ 
+65  
+TAPROBANICA VOL. 15: NO. 01 
+longer than the distance separating them (PD 
+5.61 mm). 
+Dorsal skin bearing numerous glandular warts 
+of varying sizes. Snout and interorbital region 
+slightly smoother than the remainder of the 
+dorsum. Spinules present on the temporal region 
+and around the tympanum. Lower flank warts 
+capped with keratinized (horny) tips and 
+spinules. Latero-dorsal folds absent. Dorsal 
+surfaces of limbs with numerous pointed spinules 
+rather than granular tubercles. Ventral surfaces of 
+head, body, and limbs granular. Macroglands 
+represented by the parotoid glands. 
+Forelimbs strong; forearm longer than upper 
+arm (FLL/UAL 1.33). Fingers relatively long and 
+slender; relative finger lengths I < II < IV < III. 
+Finger tips rounded, not expanded into discs, 
+lacking grooves; dermal fringes absent. Webbing 
+between fingers absent. Outer palmar tubercle 
+distinct and rounded; inner palmar tubercle 
+present but smaller than outer palmar tubercle. 
+Nuptial pad present on Finger I. Subarticular 
+tubercles distinct; numerous small pointed 
+tubercles present on palm and fingers. Hindlimbs 
+relatively long; tibia length slightly exceeding 
+foot length (TL/FL 1.03). Relative toe lengths I < 
+II < III < V < IV. Toe tips rounded, lacking discs. 
+Toe webbing moderate with formula I 1–2 II 2–
+2.5 III 2–3.5 IV 3.5–1.5 V. Inner metatarsal 
+tubercle oval and prominent (2.15 mm); outer 
+metatarsal 
+tubercle 
+rounded 
+(1.96 
+mm). 
+Subarticular 
+tubercles 
+well 
+developed; 
+supernumerary tubercles present in various sizes. 
+When the hindlimb is adpressed along the body, 
+the tibiotarsal articulation reaches the posterior 
+tip of the parotoid gland. 
+Colouration of holotype. After preservation 
+(Fig. 4), the dorsal colouration fades to pale 
+brown to greyish-brown, while the darker dorsal 
+patches remain visible but less contrasting. The 
+pale mid-dorsal line becomes faint but remains 
+distinguishable. The distal portions of the fingers 
+and toes remain darker than the surrounding 
+surfaces. Ventral surfaces become off-white to 
+pale cream with the dark blotches remaining 
+clearly visible on the throat, chest, abdomen, and 
+ventral surfaces of the limbs. 
+In life (Fig. 5), dorsal surfaces brown with 
+irregular black patches scattered across the head, 
+body, and limbs. A narrow pale mid-dorsal line 
+is present, extending from the snout along the 
+dorsum toward the vent. The distal portions of 
+the fingers and toes are dark brown to black. 
+Ventral surfaces creamy white, with numerous 
+black, rounded-to-elongated blotches distributed 
+across the throat, chest, abdomen, and ventral 
+surfaces of the limbs. 
+Comparison. Herein, Duttaphrynus dhara sp. 
+nov. is compared primarily with its most 
+morphologically and geographically similar 
+congeners, 
+D. 
+chandai 
+and 
+D. 
+stuarti. 
+Comparisons 
+with 
+additional 
+species 
+of 
+Duttaphrynus and related bufonid taxa occurring 
+in the Indo-Burma region are summarized in 
+Table 3. Duttaphrynus dhara sp. nov. differs 
+from D. chandai Das, Chetia, Dutta & Sengupta, 
+2013 by the following combination of characters: 
+(1) smaller body size, SVL 40.05–41.76 mm vs. 
+61.2–88.1 mm in D. chandai; (2) tympanum 
+distinct vs. indistinct or partly visible in D. 
+chandai; (3) supraorbital ridge absent vs. present 
+in D. chandai; (4) relative finger lengths I < II < 
+IV < III vs. II < I < IV < III in D. chandai; (5) 
+relative toe lengths I < II < III < V < IV vs. I < II 
+< V < III < IV in D. chandai; (6) webbing 
+formula I 1–2 II 2–2.5 III 2–3.5 IV 3.5–1.5 V vs. 
+I 1.5–1.5 II 1.5–2.5 III 1.5–3.5 IV 3.5–1.5 V in 
+D. chandai; and (7) tarsometatarsal articulation 
+reaching the posterior end of the parotoid gland 
+vs. reaching the middle of the parotoid gland in 
+D. chandai. 
+Duttaphrynus dhara sp. nov. differs from D. 
+stuarti (Smith, 1929) by the following characters: 
+(1) smaller body size, SVL 40.05–41.76 mm vs. 
+54.06–71.3 mm in D. stuarti; (2) relative finger 
+lengths I < II < IV < III vs. II < I < IV < III in D. 
+stuarti; (3) webbing formula I 1–2 II 2–2.5 III 2–
+3.5 IV 3.5–1.5 V vs. I 1–2.5 II 2–2.5 III 2–3 IV 
+2.5–1.5 V in D. stuarti; and (4) tarsometatarsal 
+articulation reaching the posterior end of the 
+parotoid gland vs. reaching the tip of the snout in 
+D. stuarti. 
+Diagnostic differences between Duttaphrynus 
+dhara sp. nov. and other congeners from the 
+Indo-Burma region, including D. himalayanus, 
+D. crocus, D. scaber, D. melanostictus, D. 
+mamitensis, D. manipurensis, D. nagalandensis, 
+D. 
+wokhaensis, 
+D. 
+kiphirensis, 
+and 
+D. 
+mizoramensis, are summarized in Sup. Table 5. 
+Etymology. The specific epithet dhara is used 
+as a singular noun in apposition and refers to the 
+traditional Khasi female attire known as the 
+“Dhara” (locally corresponding to the Jainsem). 
+This garment, commonly woven from Muga silk, 
+is worn by knotting the fabric over both 
+shoulders and draping it to the ankles, and is 
+typically characterized by horizontal and vertical 
+border patterns with fringes along the lower 
+margin. The name is proposed in recognition of 
+the cultural heritage of the Khasi community of 
+69 
+
+--- Page 10 ---
+A NEW Duttaphrynus SPECIES FROM NORTHEASTERN INDIA 
+ 
+64  
+TAPROBANICA VOL. 15: NO. 01 
+Meghalaya, whose traditions and way of life 
+remain closely connected to the forests and 
+landscapes of the region. By invoking dhara, a 
+symbol of identity and tradition, the epithet 
+honours the cultural legacy, stewardship of 
+nature, and enduring relationship between people 
+and biodiversity in the Khasi Hills, where this 
+species occurs. 
+Natural 
+history. 
+All 
+individuals 
+of 
+Duttaphrynus dhara sp. nov. were encountered 
+in fallow agricultural fields situated adjacent to 
+the montane forest in Mawphlang, East Khasi 
+Hills. These fields are periodically cultivated by 
+local indigenous communities for vegetable 
+farming but were uncultivated at the time of 
+collection. The specimens were observed during 
+the 
+late 
+afternoon 
+to 
+early 
+evening 
+(approximately 17:50 h), indicating crepuscular 
+activity. Individuals were found on the ground 
+among low vegetation and leaf litter, suggesting 
+a primarily terrestrial lifestyle. 
+The surrounding habitat consisted of forest 
+edges interspersed with semi-natural open 
+patches, characterized by relatively low levels of 
+permanent human disturbance. The only other 
+bufonid species observed in the surrounding 
+landscape was D. melanostictus, a widespread 
+species 
+typically 
+associated 
+with 
+human 
+settlements. In contrast to the new species, D. 
+melanostictus was abundant in villages and 
+disturbed habitats but was rarely encountered 
+near the collection site of D. dhara sp. nov. This 
+pattern 
+suggests 
+ecological 
+differentiation 
+between the two species, with D. dhara sp. nov. 
+appearing to prefer forest-adjacent or semi-
+natural habitats, whereas D. melanostictus is 
+strongly synanthropic. The diet of the new 
+species was not directly observed but is 
+presumed to consist primarily of small terrestrial 
+invertebrates, as in other members of the genus. 
+Distribution. Duttaphrynus dhara sp. nov. is 
+currently known only from its type locality in 
+Mawphlang, 
+East 
+Khasi 
+Hills 
+District, 
+Meghalaya, northeastern India, at an elevation of 
+approximately 1854 m a.s.l. The species appears 
+to inhabit montane forest margins and adjacent 
+semi-natural open habitats. Additional surveys in 
+similar habitats across the Khasi Hills and 
+neighbouring plateau systems are required to 
+determine the full extent of its distribution. 
+ 
+Discussion 
+The evidence presented here unequivocally 
+supports the recognition of Duttaphrynus dhara 
+sp. nov. as a distinct species within the genus 
+Duttaphrynus. The Khasi Hills population forms 
+a well-supported monophyletic lineage in the 
+mitochondrial 16S phylogeny and exhibits levels 
+of genetic divergence from its closest congeners 
+(D. stuarti and D. chandai) that fall within the 
+range typically observed among recognized 
+species 
+of 
+Asian 
+bufonids. 
+Morphometric 
+analyses based on allometrically size-corrected 
+characters further demonstrate clear separation of 
+the new species from these taxa in multivariate 
+morphospace, indicating consistent differences in 
+body proportions independent of overall size. 
+These quantitative results are congruent with a 
+suite 
+of 
+diagnostic 
+morphological 
+traits, 
+including small adult body size, absence of 
+cranial ridges, distinctive digital proportions, 
+moderate toe webbing, and a dorsum bearing 
+numerous 
+pointed 
+keratinized 
+warts. 
+The 
+concordance 
+of 
+molecular 
+phylogenetic, 
+multivariate 
+morphometric, 
+and 
+qualitative 
+morphological evidence provides a robust basis 
+for delimiting the Khasi Hills population as a 
+previously unrecognized evolutionary lineage 
+within Duttaphrynus. 
+The genus Duttaphrynus includes several 
+widely distributed species whose conservative 
+external morphology has historically obscured 
+species boundaries across large geographic 
+ranges (Frost et al. 2006, Pyron & Wiens 2011). 
+Increasingly, molecular phylogenetic studies 
+have revealed that multiple nominal species 
+within Asian bufonids represent complexes of 
+deeply divergent lineages (Van Bocxlaer et al. 
+2009, Portik & Papenfuss 2015). Such cryptic 
+diversity is particularly common in tropical 
+regions where historical climatic oscillations, 
+complex topography, and geographic barriers 
+promote lineage diversification. The discovery of 
+D. dhara sp. nov. adds to the growing body of 
+evidence that the diversity of Duttaphrynus in 
+South 
+and 
+Southeast 
+Asia 
+remains 
+underestimated and that additional lineages likely 
+await discovery, especially in poorly surveyed 
+montane areas. 
+Northeastern India occupies a pivotal position 
+in the biogeography of Asian amphibians, 
+forming part of the Indo-Burma biodiversity 
+hotspot, one of the most species-rich yet 
+threatened regions on the planet (Myers et al. 
+2000). The region lies at the confluence of the 
+Indian, 
+Indo-Chinese, 
+and 
+Himalayan 
+biogeographic realms and is characterized by a 
+complex geological history and pronounced 
+environmental heterogeneity (Mani 1974, Pawar 
+et al. 2007). These factors have contributed to 
+70 
+
+--- Page 11 ---
+WARJRI ET AL. 2026 
+ 
+65  
+TAPROBANICA VOL. 15: NO. 01 
+the exceptional amphibian diversity documented 
+in the region, with recent integrative taxonomic 
+studies 
+revealing 
+numerous 
+previously 
+unrecognized lineages (Kamei et al. 2012, Biju et 
+al. 2014, Garg & Biju 2019). The Khasi Hills 
+plateau of Meghalaya, where D. dhara sp. nov. 
+occurs, represents an especially important center 
+of montane biodiversity. Its high-elevation 
+plateaus and dissected valleys create isolated 
+ecological systems that may promote population 
+divergence and local endemism. 
+The discovery of D. dhara sp. nov. further 
+underscores the importance of montane habitats 
+in 
+driving 
+amphibian 
+diversification 
+in 
+northeastern India. Montane environments often 
+function as “sky islands,” where isolated 
+populations may experience reduced gene flow 
+and local adaptation, eventually leading to 
+speciation. 
+Similar 
+patterns 
+have 
+been 
+documented in several amphibian groups across 
+the Indo-Burma region, where montane lineages 
+frequently exhibit restricted distributions and 
+high levels of endemism (Pawar et al. 2007, Biju 
+et al. 2014). However, such elevational restricted 
+systems are also vulnerable to climate change, as 
+rising temperatures may force species to shift to 
+higher elevations where suitable habitat may be 
+limited or absent. The occurrence of D. dhara sp. 
+nov. at elevations around 1850 m suggests that 
+montane forest edges and associated semi-natural 
+habitats in the Khasi Hills may harbour 
+additional undescribed amphibian taxa. 
+Ecological observations from the type locality 
+suggest that D. dhara sp. nov. occupies habitats 
+at the interface between montane forest and 
+semi-natural open areas with relatively low 
+levels of permanent anthropogenic disturbance. 
+This ecological preference contrasts with that of 
+the 
+widespread 
+Asian 
+common 
+toad, 
+D. 
+melanostictus, which is strongly synanthropic 
+and typically abundant in urban and village 
+environments (Van Bocxlaer et al. 2009). The 
+apparent scarcity of D. melanostictus near the 
+type locality of D. dhara sp. nov. suggests 
+ecological segregation between the two species. 
+Such 
+habitat 
+partitioning 
+between 
+forest-
+associated and synanthropic bufonids has been 
+observed in other parts of South and Southeast 
+Asia and may reduce interspecific competition 
+while allowing closely related species to coexist 
+within the same broader landscape. 
+The morphometric analyses further reinforce 
+the distinctiveness of D. dhara sp. nov. Principal 
+component 
+analysis 
+of 
+size-corrected 
+morphological 
+variables 
+revealed 
+clear 
+separation between the new species and its 
+closest congeners. The use of allometric size 
+correction prior to multivariate analysis ensures 
+that the observed differences reflect variation in 
+body shape rather than simple size differences, 
+thereby providing a more robust framework for 
+morphological comparison (Chan & Grismer 
+2022). 
+Integrating 
+such 
+quantitative 
+morphometric 
+approaches 
+with 
+molecular 
+phylogenetic evidence represents an increasingly 
+important methodological framework in modern 
+taxonomy, allowing species boundaries to be 
+evaluated using multiple independent lines of 
+evidence. 
+Despite recent progress in documenting 
+amphibian diversity in northeastern India, large 
+portions of the region remain insufficiently 
+surveyed, particularly in montane and forest-
+edge habitats. Continued integrative surveys 
+combining 
+field 
+exploration, 
+molecular 
+phylogenetics, and quantitative morphological 
+analyses will likely reveal additional undescribed 
+taxa and refine our understanding of amphibian 
+biogeography in the Indo-Burma region. Such 
+work is especially urgent given the rapid 
+environmental changes occurring throughout the 
+region, including land-use transformation and 
+climate-driven habitat shifts. 
+At present, Duttaphrynus dhara sp. nov. is 
+known only from its type locality in Mawphlang, 
+East Khasi Hills District, Meghalaya, at 
+approximately 1854 m a.s.l. Although the species 
+appears to occupy semi-natural habitats adjacent 
+to 
+montane 
+forests, 
+its 
+full 
+geographic 
+distribution, 
+ecological 
+requirements, 
+and 
+population status remain unknown. Additional 
+field surveys across the Khasi Hills and adjacent 
+plateau systems are necessary to determine 
+whether the species is narrowly endemic or more 
+broadly distributed within northeastern India. 
+Given its apparently restricted range and 
+specialized habitat association, further ecological 
+and conservation assessments will be essential to 
+evaluate its chances of long-term persistence. 
+ 
+Acknowledgements 
+We thank the Department of Zoology, Assam 
+Don Bosco University, for logistical and 
+institutional support; R. Warjri for his dedication 
+and assistance throughout the fieldwork; P.I. 
+Gracy and C.M. Umlong for their valuable 
+support and assistance during the study; H.T. 
+Lalremsanga 
+(Mizoram 
+University, 
+India), 
+Christophe Dufresnes (MNHN, France), and 
+Dmitriy 
+Skorinov 
+(Russian 
+Academy 
+of 
+71 
+
+--- Page 12 ---
+A NEW Duttaphrynus SPECIES FROM NORTHEASTERN INDIA 
+ 
+64  
+TAPROBANICA VOL. 15: NO. 01 
+Sciences), and an anonymous reviewer for 
+reviewing the manuscript. 
+ 
+Author contributions  
+All the authors contributed equally.  
+ 
+Research permits 
+Permits for fieldwork and sampling were issued 
+by the Principal Chief Conservator of Forests 
+(Wildlife) 
+and 
+Chief 
+Wildlife 
+Warden, 
+Meghalaya 
+(Nos. 
+FWC/Research/115/2790–
+2796, 1653–1661, 1134–1142, and 2638–2646). 
+ 
+Funding 
+Financial support for this work was provided 
+through the Joint CSIR–UGC Fellowship (CSIR-
+HRDG Ref. No. Nov/06/2020(i)EU-V) awarded 
+to Holiness Warjri. 
+ 
+Supplemental data 
+https://doi.org/10.47605/tapro.v15i1.402 
+ 
+Literature cited 
+Biju, S.D., I. Van Bocxlaer, S. Mahony et al. 
+(2014). DNA barcoding reveals unprecedented 
+diversity 
+in 
+dancing 
+frogs 
+of 
+India 
+(Micrixalidae, Micrixalus). Ceylon Journal of 
+Science 43(1): 1–13. 
+Bossuyt, 
+F. 
+& 
+M.C. 
+Milinkovitch 
+(2001). 
+Amphibians as indicators of early Tertiary 
+“Out-of-India” dispersal of vertebrates. Science 
+292(5514): 93–95. 
+Chan, K.O. & L.L. Grismer (2022). GroupStruct: 
+an R package for allometric size correction. 
+Zootaxa 5124(4): 471–482. 
+Crump, M.L. & N.J. Scott (1994). Visual encounter 
+surveys. Pp. 84–92. In: W.R. Heyer, M.A. 
+Donnelly, R.W. McDiarmid et al. (eds.), 
+Measuring 
+and 
+Monitoring 
+Biological 
+Diversity: Standard Methods for Amphibians. 
+Smithsonian Institution Press, Washington D.C. 
+Dubois, A. & A. Ohler (1999). Asian and Oriental 
+toads of the genus Bufo: taxonomic review and 
+description of new taxa. Journal of South Asian 
+Natural History 4(2): 133–180. 
+Duellman, W.E. & L. Trueb (1994). Biology of 
+Amphibians. Johns Hopkins University Press, 
+Baltimore, 670 pp. 
+Edgar, R.C. (2004). MUSCLE: multiple sequence 
+alignment with high accuracy and high 
+throughput. Nucleic Acids Research 32(5): 
+1792–1797. 
+Frost, D.R. (2024). Amphibian Species of the 
+World: 
+an 
+Online 
+Reference. 
+American 
+Museum of Natural History, New York. 
+Available 
+at 
+<www.amphibiansoftheworld. 
+amnh.org> accessed on 15 Nov 2025. 
+Frost, D.R., T. Grant, J. Faivovich et al. (2006). 
+The amphibian tree of life. Bulletin of the 
+American Museum of Natural History 297: 1–
+370. 
+Garg, S. & S.D. Biju (2019). New microendemic 
+frog genus from the Western Ghats, India. 
+Scientific Reports 9: 1908. 
+Grosjean, S., A. Ohler, J. Chuaynkern et al. (2015). 
+Improving biodiversity assessment of anuran 
+amphibians using DNA barcoding of tadpoles. 
+Molecular Ecology Resources 15(2): 294–304. 
+Kamei, R.G., S. Mahony, K.P. Dinesh et al. (2012). 
+Discovery of a new family of amphibians from 
+Northeast India with ancient links to Africa. 
+Proceedings of the Royal Society B 279: 2396–
+2401. 
+Kalyaanamoorthy, S., B.Q. Minh, T.K.F. Wong et 
+al. (2017). ModelFinder: fast model selection 
+for accurate phylogenetic estimates. Nature 
+Methods 14: 587–589. 
+Kumar, S., G. Stecher & K. Tamura (2016). 
+MEGA7: 
+molecular 
+evolutionary 
+genetics 
+analysis version 7.0. Molecular Biology and 
+Evolution 33(7): 1870–1874. 
+Lambert, F.R. (1984). Methods for measuring bird 
+abundance in a tropical forest. Ibis 126: 521–
+532. 
+Mahony, S., K.P. Dinesh, K.R. Das et al. (2018). A 
+review of amphibian diversity in Northeast 
+India. Zootaxa 4510(1): 1–86. 
+Mani, M.S. (1974). Ecology and Biogeography in 
+India. Springer, The Hague, 773 pp. 
+Minh, B.Q., M.A.T. Nguyen & A. von Haeseler 
+(2013). 
+Ultrafast 
+approximation 
+for 
+phylogenetic bootstrap. Molecular Biology and 
+Evolution 30(5): 1188–1195. 
+Myers, N., R.A. Mittermeier, C.G. Mittermeier et 
+al. 
+(2000). 
+Biodiversity 
+hotspots 
+for 
+conservation priorities. Nature 403: 853–858. 
+Nguyen, L.T., H.A. Schmidt, A. von Haeseler & 
+B.Q. Minh (2015). IQ-TREE: a fast and 
+effective stochastic algorithm for estimating 
+maximum likelihood phylogenies. Molecular 
+Biology and Evolution 32(1): 268–274. 
+Pawar, S.S., S. Birand & K. Ahmed (2007). 
+Conservation biogeography in Northeast India: 
+hierarchical analysis of distribution patterns of 
+reptiles 
+and 
+amphibians. 
+Biological 
+Conservation 136: 404–414. 
+Portik, D.M. & T.J. Papenfuss (2015). Phylogenetic 
+relationships of African toads (Bufonidae). 
+Molecular Phylogenetics and Evolution 91: 76–
+85. 
+Pyron, R.A. & J.J. Wiens (2011). A large-scale 
+phylogeny of Amphibia including over 2800 
+72 
+
+--- Page 13 ---
+WARJRI ET AL. 2026 
+ 
+65  
+TAPROBANICA VOL. 15: NO. 01 
+species. Molecular Phylogenetics and Evolution 
+61(2): 543–583. 
+R Core Team (2024). R: A Language and 
+Environment for Statistical Computing. R 
+Foundation for Statistical Computing, Vienna, 
+Austria. 
+Simmons, J.E. (2015). Herpetological Collecting 
+and Collections Management. Society for the 
+Study of Amphibians and Reptiles, Salt Lake 
+City, 191 pp. 
+Tamura, K. & M. Nei (1993). Estimation of the 
+number of nucleotide substitutions in the control 
+region of mitochondrial DNA. Molecular 
+Biology and Evolution 10(3): 512–526. 
+Vences, M., J. Thomas, A. Bonett & D.R. Vieites 
+(2005). 
+Deciphering 
+amphibian 
+diversity 
+through 
+DNA 
+barcoding. 
+Philosophical 
+Transactions of the Royal Society B 360: 1859–
+1868. 
+Van Bocxlaer, I., S.P. Loader, K.R. Roelants et al. 
+(2009). Gradual adaptation toward a range-
+expansion 
+phenotype 
+initiated 
+the 
+global 
+radiation of toads. Science 327: 679–682. 
+Watters, J.L., K.R. Cummings, R.C. Flanagan & S. 
+Siler 
+(2016). 
+Review 
+of 
+morphometric 
+measurement methods for anuran amphibians. 
+Herpetological Review 47(1): 1–10. 
+ 
+ 
+Appendix. Comparative material examined 
+Duttaphrynus chandai: India – Nagaland: ZSIC A 11453 (Holotype), 11454–6; Mizoram: MZMU 
+884–887. 
+Duttaphrynus stuarti: Myanmar – Kachin State: BMNH 1947.2.1.73 (holotype), CAS 213826–8, 
+221485. 
+73 

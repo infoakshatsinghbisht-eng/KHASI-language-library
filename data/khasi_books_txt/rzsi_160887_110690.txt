@@ -1,0 +1,526 @@
+TITLE: Soil Acarina and Collembola in Forest and Cultivated Land of Khasi Hills, Meghalaya
+AUTHOR: ['S. J. S. Hattar', 'J. R. B. Alfred', 'V. T. Darlon']
+YEAR: 1993
+ID: rzsi_160887_110690
+------------------------------------------------------------
+
+Rec, zool, Surv, India, 92 (1-4) : 89-97, 1992
+
+SOIL ACARINA AND COLLEMBOLA IN FOREST AND CULTIVATED 
+LAND OF KHASI HILLS, MEGHALAYA.
+
+S.J. S. HATTAR, Je R. B. ALFRED AND V. T. DARLONG 
+Zoological Survey of India, Calcutta
+
+INTRODUCTION
+
+During the last decade considerable work has been done on the Indian soil fauna, 
+and quite a number of reports exist on the soil fauna of North-East India with 
+particular reference to Meghalaya (Reddy & Alfred 1977, 1978a, 1978b ; Vatsauliya 
+and Alfred 1980 ; Darlong & Alfred, 1982 ; Hattar & Alfred 1986 ; Paul & Alfred 1986), 
+Most of these studies are confined to jhum cultivation and pine forest soils of 
+Khasi Hills, Meghalaya, and as such there is hardly any work done on cultivated 
+system from this region. The study was undertaken to compare the distribution and 
+diversity of mesofauna with particular reference to Collembola and Acarina of pine 
+forest soil and an adjacent cultivated land, for one annual cycle at four different soil 
+depths.
+
+MATERIALS AND METHODS
+
+The study sites were located in Shillong at an altitude of 1500 m. The sites 
+studied comprised of a pine forest (Pinus kesiya Royle) and an adjacent plot of culti- 
+vated land belonging to vegetable research station, Government of Meghalaya, Shillong. 
+Seasonal vegetables were grown in the vegetable land. The usual type of tillage 
+followed in the hills of North-East India was carried out anda rotational method of 
+agronomic practices were followed. Both the sites have an area of 2.5 ha. of flat and 
+undulating slopes. Although soil samples were taken out fortnightly intervals from 
+September, 1981 to August, 1982, the results are presented as monthly averages. 
+In both the systems soil samples consisted of 5 cm. sq. in surface area to a depth of 
+40 cms. divided into four depths of 10 cm. each. Five random cores of each 
+soil layer from each system were collected by a rectangular iron cover (5X5 xX LO cm.) 
+and extraction of soil fauna was done using modified Tullgren funnels (Macfadyen, 
+1953 ; Southwood, 1966). The period of extraction was 7-10 days at constant 40°C 
+depending on the moisture content of soil samples. Similarly soil samples were also 
+collected for analysing the physico-chemical parameters. The method of Walkey and 
+and Black (1934) was followed for the analysis of the chemical factors of soil. The 
+fauna were statistically analysed for their C, V., species diversity (Shannon Weiner) 
+and species similarity (QS).
+
+12
+
+90 Records of the Zoological Survey of India
+
+RESULTS AND DIsCUSSION 
+Analysis of Edaphic factors ;
+
+The soils of the Ecosystems studied were (a) pine forest—sandy loam in texture 
+and brown in colour (b) cultivated land—sandy loam in texture and light brown 
+in colour. Different factors were analysed by taking samples from four soil depths. 
+The minimum and maximum values of soil factors analysed are given in Table 1. The 
+contents of organic carbon, soil conductivity, phosphate and potassium were found 
+to vary seasonally in both systems. The temperature, pH and moisture content was 
+found to vary significantly. The humidity recorded was quite high.
+
+Vertical Distribution pattern of Collembola ;
+
+The mean seasonal density of Collembola in pine forest and cultivated land as 
+given in Fig. I for one annual cycle from September 1981 to August, 1982 reveals that in 
+the upper 0-10 cm. soil depth in pine forest (Fig. IA) the Collembola were recorded 
+maximum in November and minimum in December, and in the cultivated land 
+maximum in February and minimum in October.
+
+In the 10-20 cm. soil depth in pine forest (Fig. IB) they were maximum in. January 
+and minimum in August, and in cultivated land maximum in April and minimum in 
+December.
+
+In the 20-30 cm. and 30-40 cm. (Figs. IC & ID) soil depths their numbers were 
+significantly low in both the systems but their numbers fluctuated in different months.
+
+Altogether 11 species of Collembola viz. Cryptopygus thermophelus, Isotoma (Desoria) 
+trispinata, Dicranocentrus singularis, D, fraternus, Megalothorax minimus, Sphaeridea 
+cf. cornuta, Entomobrya spp. Meticoelura spp. Siera spp. Sminthurinus bimaculatus and 
+Onychiurus spp. were recorded in pine forest. In the cultivated land 6 species of 
+Collembola viz. Isotoma (Desoria) trispinata, Megalothorax minimus, Xenylla spp. 
+Folsomides spp., Onychiurus spp. and Sphaeridae cf. cornuta were recorded.
+
+In the upper 0-10 cm. and 10-20 cm. soil depths, 4 species of Collembola viz. 
+Isotoma (Desoria) trispinata, Megalothorax minimus, Sphaerdea cf, cornuta and Onychiurus 
+spp. were common to both the systems as against 11 and 6 species in pine forest and 
+cultivated land respectively. The species Zsotoma (Desoria) tripinata was dominant in 
+both the systems and its density being two times higher in the cultivated land in the 
+0-10 cm soil depth and reverse in the case of 10-20 cm soil layer.
+
+In the 20-30 cm soil layer the no. of species sharply reduced to six in pine forest 
+with marked reduction in their density and was found to be constant at six species in 
+cultivated land. Out of the two species viz. Megalothorax minimus and Sphaeridea of
+
+cornuta being common to both the systems the latter species was dominant in both the 
+systems.
+
+MEAN POPL'* DENSITY X 10°/ AX"
+
+HATTAR et al,; Soil Acarina & Collembola of Meghalaya 91
+
+In the 30-40 cm soil layer in pine forest the no. of species further reduced to four 
+as well as in cultivated land. In this layer two species viz. Sphaeridea of, cornuta and 
+Onychiurus spp. were common to both the systems, the former being domiuant in pine 
+forest and Xenylla spp. in cultivated land. As seen in Table 2 for C. V. values (%) 
+cultivation seems to have very little impact on Collembola as compared to the forest.
+
+Vertical Distribution pattern of Acarina :
+
+The mean seasonal density of Acarina in pine forest and cultivated land as given 
+in Fig. I for one annual cycle from September 1981 to August 1982 reveals that in the 
+upper 0-10 cm (Fig. IA) soil depth the Acarina were recorded maximum in July and
+
+minimum in December and in cultivated land maximum in February and minimum in 
+October.
+
+FIG -L 
+SEASQNAL pop DENSITY OF COLLE\;BOLA AND ACARINA AT ec on ere CIA a CM AND aa CM SOIL DEPTHS.
+
+@—O COLLEMBOLA
+
+e-—-e ACARINA
+
+300 
+250 40 
+150 20 | 
+10 @ 
+100 s 
+: 0 Wg & eS 
+i SONDJF MAMJJA SINDI F MAMI A SONQIFMAMI JIA oe MAMIIJA 
+} TIVATED LAND 
+PINE FOREST A CULTIVATED ĻAND PINE FOREST CUL 
+130 
+120 60 
+110. 
+1 50 
+90 
+a &0 
+70 
+60 30 
+20 
+© 
+10 
+0 -rr m 
+SO NDIFMAMJJA "SOND JF MAMITA FON DATAM JA ROND ae NA MJJ 
+1981 1982 1983 1982 D 
+PINE FOREST B CULTIVATED LAND PINE FORE CULTIVATED LAND
+
+In the 10-20 cm soil depth in pine forest (Fig. IB) they were maximum in February 
+and May (two peaks) and minimum in October.
+
+In the 20-30 cm and 30-40 cm soil depth (Fig. IC & D) their numbers were 
+significantly low but their numbers fluctuated in different months.
+
+92 Records of the Zoological Survey of India
+
+Altogether 8 species of Acarina viz. Epilohmannia spp. Galumna spp. Scheloribates 
+albialatus, S. huancayensis, Parasitus divortus, Pseudoparasitus spp. Eremobelba spp. and 
+Dolicheremaeus spp. were recorded in pine forest. In the cultivated land 5 species of 
+Acarina vize Scheloribates albialatus, Oppia spp. Rhysolritia ardua, Gamasodes assamensis 
+and Parasitus divortus were recorded.
+
+In the upper 0-10 cm and 10-20 cm soil depth 2 species of Acarina viz. Schelaribates 
+albialatus and Parasitus divortus were common to both the systems as against 8 and 5 
+species in pine forest and cultivated land respectively. The species Scheloribates albia- 
+laius was found to be dominant in both the systems.
+
+In the 20-30cm and 30-40 cm soil depths only one species namely Parasitus 
+divortus was common to both the systems while Scheloribates huancayensis was dominant 
+in 20-30 cm soil depth and Epilohmannia spp. in 30-40 cm soil depth in pine forest. 
+In cultivated land Parasitus divortus was dominant in both these depths. As seen in 
+Table 3 for C. V. values (%) for Acarina the values were always higher in the cultivated 
+land than in pine forest indicating the disturbed nature of the former system.
+
+Parameters affecting Mesofaunal Distribution and Diversity :
+
+Soil temperature throughout the sampling period varied slightly depending on 
+vegetative cover and soil depth. Generally higher relative humidity and vegetative 
+cover increased the moisture content of the soil especially near the surface exposing 
+the mesofauna to greater temperature and moisture fluctuations. Changes in soil depth 
+coincide with similar changes in moisture, temperature, Organic matter, quality and 
+quantity, pore space and soil temperature (Wallwork, 1970 ; Mitchell, 1979), Fluctua- 
+tion in these factors tended to decrease with depth as the physical environment 
+became more stable. Within the soil environment various layers are produced which 
+provide various micro-habitats able to support different species of Collembola and 
+Acarina. The numbers of Collembola and Acarina greatly decreased with depth due 
+to similar-drops in organic matter and pore space volume in pine forest but in cultivated 
+land the reduction was less as compared to pine forest. It is the combination of many 
+soil factors which might have contributed to the overall mesofaunal composition of 
+both cultivated land and pine forest. In view of the present study it could be 
+inferred that the collective influence of all the factors in controlling the population and
+
+vertical distribution of soil mesofauna especially Collembola and Acarina was more 
+pronounced in both the systems studied.
+
+In general the soil fauna of arable land is less abundant and diversified than the 
+fauna of forested ecosystems (Edwards & Lofty 1969 ; Ghilarov, 1975). This is evident 
+from data of cultivated land as compared with pine forest and the number of 
+species recorded in each system. Similar sampling and extraction techniques were 
+used in both the ecosystems; the difference between them being due to litter
+
+HATTAR et al.: Soil Acarina & Collembola of Meghalaya 93
+
+accumulation in pine forest which have a great impact on the abundance of many 
+species of Acarina. An experiment performed by Karg (1967) showed the importance 
+of litter layer that when it is removed from the forest site, the abundance and species 
+number were reduced by more than 50% and the species composition became similar 
+to that in the cultivated land, as is evident in our present study. The abundances 
+reported in this paper are high for Acarina in pine forest as compared to cultivated 
+land. The Collembola being in the reverse (cf. Hale, 1967). The Collembola seem to 
+be less affected by cultivation than Acarina (Christiansen, 1964).
+
+In the present investigation it was seen that interestingly enough the pine 
+forest possessing higher number of species reveal their possible occupation of most 
+ecological niches in a rather stabilised ecosystem where fluctuations of abiotic factors 
+are most extreme. The reverse is in cultivated land where number of species decreased 
+because of the catastrophes imposed on the system by ploughing, harrowing, manure, 
+insecticides, application of fertilizers, cultivation and harvesting etc. Ploughing and 
+harrowing generally decrease the abundance of soil animals (Tischler 1955 ; Sheals 
+1956 ; Ghilarov 1975 ; Edwards 1977). The direct negative effects of ploughing are 
+partly due to abrasive damage to the animals and partly due to trapping of animals in 
+the soil when it is inverted and the existing system of cracks and pores is destroyed. 
+Since the cultivated land studied was subject to intensive ploughing and harrowing 
+it could have possibly affected the mesofaunal composition as compared to pine forest. 
+Secondary affects, e.g., drying of the uppermost part of the soil and removal of litter 
+from the surface probably could affect the mesofaunal composition in cultivated land as 
+compared to pine forest. Thus cultivated land harboured a depleted soil fauna 
+because of frequency and type of cultivation and degree of plant cover and intensity of 
+soil cultivation and the species diversity of Collembola and Acarina reduced as
+
+TABLE 1. Minimum and Maximum Values of Soil Factors in Four Different Soil Depths in 
+Pine Forest & Cultivated Land.
+
+Ecosystem Depths Temp. °C Moisture pH T.S.S. Org. Carbon P. K. 
+% units % Kg/ha Kg/ha Keg/ha
+
+0-10 cm 8.5-21.0 17.95-57.07 4.83-6.16 5.00-26.66 1.95-4.31  1.34-30.64 42.93-214.66
+
+Pine Forest 10-°0 cm  §8.0-21.0 12.03-73.89 5.00-6.36 5.33-81.33 1.50-4.29 0.74-23.91 29.86-158.66 
+20-30 cm =—*‘7.5-20.8 15.88-69.90 4.73-6.10 5.66-62,00 1.56-3.97  0.74-34.23 33.60-166,13
+
+80-40 cm 7.2-19.1 10.32-66.94 4.83-6.16 4.66-34.33 0.78-3.74 3.46-35.12 18.06-322.93
+
+0-10cm 9.0-22.0 12.86-71.23 5.75-6.67 10.53-48.26 1.37-2.41 1.95-32.25 45.19-258.23
+
+Cultivated 10-20 cm 8.8-19.9 16.92-80.26 5.81-6.54 12.45-53.56 1.15-2.15 1.76-28.39 50.53- 26.87 
+Land 20-30 cm 8.1-19.3 19.28-78.71 5.61-6.19 9.36-38.73 1.03-1.87 1.25-19.78 87.83-215,26 
+80-40 cm 7,8-18.7 20.54-78.35 5.35-5.87 7.85-31.92 0.68-1.07 104-15.53 23.29-161.35
+
+94
+
+TABLE 2. Mean population densities of Collembola species and their co-efficient of Variance
+
+in pine forest & cultivated land.
+
+a 
+pE 
+30-40 cm
+
+Cultivated Land
+
+0-10 cm
+
+Mean +8.E. C.V.
+
+Records of the Zoological Survey of India
+
+10-20 cm
+
+Mean +S.E. O.V.
+
+90-50 cm
+
+Mean +8.H. C.V. Mean +8.E. O.V.
+
+(%) (%) (%) (%)
+
+1. Isotoma (Desoria)
+
+trispinata 83.75 11.01 44.55 33.50 5.52 57.07 0.83 0.27 113.02 — — — 
+2. Megalothorax
+
+minimus 9.83 1.80 63.45 6.00 0.80 46.06 1.15 0.59 178.00 — — p 
+3. Onychiurus spp. 16.75 2.27 47.01 6.67 1.35 70.37 1.83 0.43 81.97 2.08 0.96 159.45 
+4. Sphaeridea cf
+
+cornuta 3.08 0.50 56.23 1.92 0.40 71.60 3.33 0.99 103.64 1.00 0.46 156.52 
+5. Xenylla spp. 8.83 0.84 33.09 10.50 1.94 64.01 1.25 0.44 123.67 200 0.92 159.53 
+6. Folsomides spp. 6.75 0.66 34.07 3.33 0.43 65.04 1.58 0.58 128.00 092 0.31 117.57
+
+—_-;,vxveeeo $$$ o
+
+Pine Forest
+
+1, Isotoma (Desoria) 
+trispinata 39.66
+
+2. Megalothoraz 
+minimus 5.83
+
+3. Onychiurus spp. 10.08
+
+4. Sphaeridea cf 
+cornuta 5.52
+
+5. Dicranocentrus 
+singularis 11.08
+
+6. Dicranocentrus 
+fraternus 6.91
+
+T. Cryptopygus 
+thermophelus 20.00
+
+8. Entomobrya spp. 5.33 
+9. Siera spp. 5.65 
+10. Metacoelura spp. 6.25
+
+11. Sminthurinus 
+bimaculatus 6.91
+
+6.18 54.00
+
+0.87 52.19 
+1.49 51.22
+
+1.05 69.43
+
+1.93 60.44
+
+1.09 54.74
+
+3.46 70.48 
+0.98 63.70 
+0.92 56.65 
+1.31 72.88
+
+1.41 70.82
+
+2.08 0.40
+
+1.25 0.39
+
+4.08 0.51 
+0.50 0.19 
+0.58 0.26 
+0.33 0.19
+
+1.17 0.36
+
+52.60
+
+105.85 
+120.46
+
+57.06
+
+66.44
+
+108.51
+
+43.77 
+134.16 
+155.17 
+196.38
+
+108.11
+
+0.17 0.11
+
+227.82
+
+148,45 
+157.93 
+353,55
+
+227.82
+
+115.61
+
+HATTAR et al,: Soil Acarina & Collembola of Meghalaya
+
+95
+
+TABLE 3. Mean population densities of Acarina species and their co-efficient of Variance in 
+pine forest & cultivated land.
+
+Á ae
+
+0-10 cm 10-20 cm 20-30 cm 30-40 cm 
+Cultivated Land 
+Mean +S.E. C.V. Mean +S.E. C.V. Mean +S.E. C.V. Mean S.E. O.V. 
+(%) (%) (%) (%)
+
+1. Scheloribates
+
+albialatus 36.41 8.70 82.85 11.25 2.75 84.84 — — — = — — 
+2. Parasitus divortus 13.67 2.51 63.70 4.25 0.91 74.48 5.58 1.67 103.81 4.33 1.94 154.89 
+8. Rhysotritia ardua 4.50 0.86 66.00 3.91 0.84 7448 250 0.51 71.83 3.00 0.76 87.62 
+4. Gamasodes
+
+assamensis 3.67 1.16 109.16 0.58 0.19 115.65 217 0.64 101.69 0.33 0.19 196.38 
+5. Oppia spp. 6.58 145 76.29 233 059 88.47 1.25 0.41 113.70 0.83 0.384 144.07 
+Pine Forest 
+1. Scheloribates
+
+albialatus 101.41 13.75 46.98 20.33 247 42.14 — — — — — — 
+2. Parasitus divortus 86.91 3.59 33.40 9.00 1.08 41.57 3.75 0.65 60.28 1.50 0.43 100.44 
+3, Epilohmannia spp. 28.75 2.95 85.57 2.00 0.87 64.03 1.08 0.29 92.12 0.83 0.34 144.07 
+4. Galumna spp. 46.33 6.00 44.86 3.00 0.52 60.27 0.92 0.29 108.15 1.83 0.30 56.52 
+5. Scheloribates
+
+hyancayensis 25.91 3.96 52.95 38.83 0.58 60.58 3.17 069 7584 — — — 
+6. Psudoparasitus spp. 16.25 1.89 4040 3.00 0.90 104.45 — — — 1.58 0,29 63.29 
+7. Eremobelba spp. 25.00 2.91 40.39 1.58 0.64 141.52 1.00 0.25 84.85 — = — 
+8. Dolicheremaeus ssp. 24.50 2.90 39.56 2.17 0.61 97.86 — — SS S BIE =
+
+TABLE 4. Q.S. Values of Collembola & Acarina between pine forest and adjacent cultivated land. 
+Mesofauna 0-10 10-20 20-30 30-40 
+Collembola 54.44 54.44 33.33 50.00 
+Acarina 30.77 30.77 11.11 12.5
+
+ee eee eee eer 
+compared to the forest system. The investigation also revealed that the abundance 
+of soil mesofauna in cultivated land was higher in comparision to number of species 
+as compared to pine forest.
+
+However, eveness is indicative of phenomena in the reverse in that cultivated 
+land reversal means more eveness than in the pine forest which could be attributed 
+to cumulative influence of minor fluctuations in various abiotic factors which probably 
+contribute a factorial complex thereby nullifying the effect of individual components.
+
+96 Records of the Zoological Survey of India
+
+The Q.S. value of Collembola between the two systems were much higher than 
+that of Acarina (Table 4). Both the groups showed respective similarities atleast upto 
+20 cm depth, beyond which the values were much lower. However, at the extreme 
+depth of 30-40 cm the Collembola tended to show a higher value of Q.S.
+
+SUMMARY
+
+The present study deals with particular reference to Acarina (Mites) and Collem- 
+bola (Springtails) and to their vertical distribution and diversity in Forest soil and an 
+adjacent cultivated land.
+
+The forest comprised of a sub-tropical pine and the cultivated land belonged to 
+the local vegetable research station where seasonal vegetables were grown on a 
+rotation basis.
+
+Soil fauna was analysed from soils taken. upto a depth of 40 cm. at intervals of 
+10 cm. each.
+
+Results indicate higher density of Acarina and Collembola in forest and 
+comparatively less in the case of cultivated land. Species richness is less in the arable 
+system as compared to the forest soils.
+
+The results are discussed in relation to certain physicochemical parameters and 
+influence of agricultural practices on soil fauna.
+
+ACKNOWLEDGEMENTS
+
+The authors are thankful to the Director, Zoological Survey of India, Calcutta for 
+providing research facilities during the course of study.
+
+REFERENCES
+
+Christiansen, K. 1964. Bionomics of Collembola. Ann. Rev, Ent. 9 : 147-148.
+
+Darlong, V.T. & J. R. B. Alfred, 1982. Differences in arthropod population structure 
+in soil of forest and jhum sites of North-East India. Pedobiologia. 23 : 112-119.
+
+Darlong, V. T. & J. R. B. Alfred, 1986. Population dynamics of [sofoma (Desoria) tris- 
+pinata, a collembolan species dominant in pine forest and jhum soil of Meghalaya. 
+In proceedings of the IlIrd Oriental Entomology Symposium. Vol. 1. pp. 211-219.
+
+Edwards, C. A. & Lofty, J.R. 1969. The influence of agricultural practice on soil 
+micto-arthropod population. In: The soil ecosystem. Publs Syst. Ass 8 (ed, J. G. 
+Sheals) 237-247,
+
+Edwards, C. A. 1977. Investigation into the influence of agricultural practice on soil 
+invertebrates, — inn, appl, Biol, 87 ; 515-520.
+
+HATTAR et al,: Soil Acarina & Collembola of Meghalaya 97
+
+Gill, R. W. 1969. Soil micro-arthropod abundances following old field manipulation. 
+Ecology. 50 : 805-816.
+
+Ghiatov, M. S. 1975. General trends of changes in soil animal population of arable 
+land. In: Progress in soil zoology (ed. J. Vanek). Proceedings of the 5th Inter- 
+national colloquim on soil zoology. Academia. Prague pp. 31-39.
+
+Hale, W. G. 1967. Collembola. In : Soil biology (ed. 4. Burges & F. Raw) pp. 397-411, 
+Academic press. London.
+
+Hattar, S. J. S. & Alfred, J. R. B. 1986. A population study and community analysis 
+of Collembola in pine forest soil of Meghalaya, North-East India. In procedings 
+of the IIIrd Oriental Entomology Symposium Trivandrum. Vol. 1. pp. 203-209.
+
+Karg, W. 1967. Ecological investigation of soil mites from forest and agricultural 
+sites. Pedobiologia. 7 : 198-214.
+
+Paul, D. & Alfred, J. R. B. 1986. A comparative study of soil micro-arthropods in three 
+disturbed habitats of Meghalaya, North-East India. In proceedings of the IIIrd 
+Oriental Entomology Symposium Trivandrum. Vol. I. pp. 221-227.
+
+Reddy, M. V. & Alfred, J. R. B. (1978a). Micro-arthropod associated in the decom- 
+position process of pine litter of Meghalaya pine (Pinus kesiya Royle) forests. A 
+preliminary report. In proceeding Ist All India Sym. Soil. Biol. (Eds, C. A, Edwards 
+& Q, K. Veresh), U, A. S. Bangalore 22 ; 31-35.
+
+Reddy, M. V. & Alfred, J. R. B. (1978b). Decomposition of pine (P. kesiya Royle) 
+in a tropical pine forest ecosystem North-East India. Int. Cong. Ecol. Jerusalem, 
+Israel.
+
+Sheals, J. G. 1956. Soil population studies I. The effects of cultivation and treatment 
+with insecticides, Bull, Ent, Res, 47 : 803-822.
+
+Tischler, W. 1955. Effect of agriculture practice on the soil fauna. In: Soil zoology 
+Vol. 1, pp. 215-230.
+
+Vatsauliya, P. K. & Alfred, J. R. B. 1980. Quantitative study of soil arthropods in 
+jhum ecosystem of North-East India. Indian Zoologist 4 : 153-160.
+
+13

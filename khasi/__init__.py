@@ -18,10 +18,10 @@ Quick Start:
 >>> khasi.num_to_words(42)
 'sawphew ar'
 >>> khasi.lookup("khublei")
-{'khasi': 'khublei', 'hindi': 'नमस्ते / धन्यवाद / प्रणाम', 'english': 'hello / thank you / greetings', 'pos': 'interjection'}
+{'khasi': 'khublei', 'english': 'hello / thank you / greetings', 'pos': 'interjection'}
 """
 
-__version__ = "1.11.0"
+__version__ = "1.16.0"
 __author__ = "Akshat Singh Bisht"
 __email__ = "infoakshatsinghbisht@gmail.com"
 __maintainer__ = "Akshat Singh Bisht"
@@ -101,6 +101,11 @@ from .grammar import (
     SyntaxEngine,
     build_sentence,
     interrogative_sentence,
+    build_complex_sentence,
+    build_conditional_sentence,
+    build_relative_clause,
+    build_comparative_sentence,
+    build_passive_sentence,
     make_attributive,
     make_comparative,
     make_superlative,
@@ -109,6 +114,10 @@ from .grammar import (
     classify_adverb,
     list_echo_words,
     find_echo_word,
+    GrammarRule,
+    CLASSICAL_GRAMMAR_RULES,
+    GrammarRulesEngine,
+    grammar_rules,
 )
 
 # Lexicon, Dictionary & 300,000+ Morphological Universe
@@ -220,7 +229,13 @@ from .culture import (
     BookPage,
     list_books,
     get_book,
+    get_book_full_text,
+    get_master_compendium_path,
+    get_master_jsonl_path,
+    get_pure_khasi_master_text_path,
+    get_pure_khasi_master_jsonl_path,
     search_books,
+
     total_books,
     total_pages,
     total_words,
@@ -284,6 +299,7 @@ from .lexicon.tynrai import (
 
 # Aligned Parallel Corpora & MT Benchmarks
 from .corpus import ParallelCorpus
+
 
 # Digital Preservation & Archival
 from .preservation import PreservationRecord, CorpusManager
@@ -356,6 +372,9 @@ __all__ = [
     "num_to_words", "words_to_num", "ordinal", "fraction",
     "conjugate", "causative", "nominalize", "agent_noun", "experiential",
     "pluralize", "decline_noun", "build_sentence", "interrogative_sentence",
+    "build_complex_sentence", "build_conditional_sentence", "build_relative_clause",
+    "build_comparative_sentence", "build_passive_sentence",
+    "grammar_rules", "GrammarRule", "CLASSICAL_GRAMMAR_RULES", "GrammarRulesEngine",
     "make_attributive", "make_comparative", "make_superlative", "qualify_noun",
     "reduplicate_adverb", "classify_adverb", "list_echo_words", "find_echo_word",
     "get_months", "get_seasons", "get_current_season", "get_current_khasi_month", "get_market_day",
@@ -384,12 +403,14 @@ __all__ = [
     "list_kinship_terms", "get_kinship_info", "search_kinship", "describe_matrilineal_system",
     "catalogue", "BibliographyCatalogue", "all_works", "by_genre", "by_author", "by_type",
     "search_works", "get_digitized_works", "catalogue_summary",
-    "books", "KhasiBook", "BookPage", "list_books", "get_book", "search_books", "total_books", "total_pages", "total_words",
+    "books", "KhasiBook", "BookPage", "list_books", "get_book", "get_book_full_text", "get_master_compendium_path", "get_master_jsonl_path", "get_pure_khasi_master_text_path", "get_pure_khasi_master_jsonl_path", "search_books", "total_books", "total_pages", "total_words",
+
     "folklore", "FolkloreStory", "list_stories", "get_story", "search_folklore", "stories_by_category", "total_stories", "FolkloreManager",
     "songs", "Song", "search_songs", "songs_by_category", "total_songs", "SongManager",
     "dialects", "list_dialects", "get_dialect_info", "load_dialect_lexicon", "lookup_dialect", "translate_dialect", "find_cognates", "get_dialect_statistics",
     "audio_dataset", "KhasiAudioDataset", "KhasiVoiceSynthesizer",
     "parallel_corpus", "ParallelCorpus",
+
     "PreservationRecord", "CorpusManager",
     # Constants
     "ISO_639_3", "ISO_639_NAME", "NATIVE_NAME", "LANGUAGE_FAMILY", "SCRIPT",

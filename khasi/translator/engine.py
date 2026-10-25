@@ -31,21 +31,43 @@ def _get_dict() -> KhasiDictionary:
         _DICT = KhasiDictionary()
     return _DICT
 
+KHASI_GRAMMAR_EN: Dict[str, str] = {
+    "u": "the", "ka": "the", "i": "the", "ki": "the",
+    "bad": "and", "hynrei": "but", "la": "", "yn": "will",
+    "da": "by", "ha": "in", "sha": "to", "na": "from",
+    "jong": "of", "ïa": "", "ia": "", "ba": "that",
+    "kaba": "which", "uba": "who", "kiba": "who", "kiba": "which",
+    "dei": "must", "ban": "to", "nga": "I", "ngi": "we",
+    "phi": "you", "me": "you", "pha": "you", "shisha": "truly",
+    "shibun": "very", "ym": "not", "don": "has", "em": "no", "hooid": "yes",
+    "mynta": "now", "lashai": "tomorrow", "mynnor": "yesterday", "shnong": "village"
+}
+
+KHASI_GRAMMAR_HI: Dict[str, str] = {
+    "u": "वह", "ka": "वह", "i": "छोटा", "ki": "वे",
+    "bad": "और", "hynrei": "किंतु", "la": "", "yn": "गा",
+    "da": "से", "ha": "में", "sha": "की ओर", "na": "से",
+    "jong": "का", "ïa": "को", "ia": "को", "ba": "कि",
+    "kaba": "जो", "uba": "जो", "kiba": "जो",
+    "dei": "चाहिए", "ban": "के लिए", "nga": "मैं", "ngi": "हम",
+    "phi": "आप", "me": "तू", "pha": "तू", "shisha": "सचमुच",
+    "shibun": "बहुत", "ym": "नहीं", "don": "है", "em": "नहीं", "hooid": "हाँ",
+    "mynta": "अब", "lashai": "कल", "shnong": "गाँव"
+}
+
 def _clean_gloss(text: str, is_hindi: bool = False) -> str:
     if not text:
         return ""
-    # Strip editorial notes like [Imit ...], [Jmi. ...]
     clean = re.sub(r"\[.*?\]", "", text)
-    # Split by primary separator
-    parts = re.split(r"[/;]", clean)
+    clean = re.sub(r"\(.*?\)", "", clean)
+    clean = re.sub(r"\b(v\.t\.|v\.i\.|v\.|n\.|adj\.|adv\.|prep\.|conj\.|interj\.|pron\.)\b", "", clean, flags=re.I)
+    clean = re.sub(r"\b(v\.|to)\s+", "", clean, flags=re.I)
+    parts = re.split(r"[/;,]", clean)
     chosen = parts[0].strip()
-    # Remove numbering like 1., 2.
     chosen = re.sub(r"^\d+\.\s*", "", chosen)
-    # Remove parentheses notes if they just describe POS or grammar
-    chosen = re.sub(r"\((masculine|feminine|plural|diminutive|direct|proper|noun|verb|adverb|adjective|particle|conjunction|preposition)[^\)]*\)", "", chosen, flags=re.I)
-    # Remove marker like (खासी शब्द)
-    chosen = chosen.replace("(खासी शब्द)", "").replace("(खासी साहित्यिक शब्द)", "")
-    chosen = chosen.strip(".,!?:\"' —-")
+    for noise in ["(खासी शब्द)", "(खासी साहित्यिक शब्द)", "का खासी अनुवाद", "का अनुवाद"]:
+        chosen = chosen.replace(noise, "")
+    chosen = chosen.strip(".,!?:\"' —-_\\")
     return chosen
 
 def translate(
@@ -84,6 +106,13 @@ def translate(
         found_count = 0
         for tok in tokens:
             clean_tok = tok.strip(".,!?;:\"'()[]{}«»")
+            low_tok = clean_tok.lower()
+            if low_tok in KHASI_GRAMMAR_EN:
+                gram = KHASI_GRAMMAR_EN[low_tok]
+                if gram:
+                    translated_tokens.append(gram)
+                found_count += 1
+                continue
             entry = d.lookup(clean_tok)
             if entry and entry.get("english"):
                 gloss = _clean_gloss(entry["english"])
@@ -95,7 +124,9 @@ def translate(
             else:
                 translated_tokens.append(tok)
         if found_count > 0:
-            return TranslationResult(" ".join(translated_tokens), "khasi", "en", max(round(found_count / len(tokens), 2), 0.60), dialect)
+            res_str = " ".join(translated_tokens)
+            res_str = re.sub(r"\s+", " ", res_str).strip()
+            return TranslationResult(res_str, "khasi", "en", max(round(found_count / len(tokens), 2), 0.60), dialect)
         return TranslationResult(clean, "khasi", "en", 0.40, dialect)
 
     # B. Target is Hindi (Khasi -> Hindi)
@@ -112,6 +143,13 @@ def translate(
         found_count = 0
         for tok in tokens:
             clean_tok = tok.strip(".,!?;:\"'()[]{}«»")
+            low_tok = clean_tok.lower()
+            if low_tok in KHASI_GRAMMAR_HI:
+                gram = KHASI_GRAMMAR_HI[low_tok]
+                if gram:
+                    translated_tokens.append(gram)
+                found_count += 1
+                continue
             entry = d.lookup(clean_tok)
             if entry and entry.get("hindi"):
                 gloss = _clean_gloss(entry["hindi"], is_hindi=True)
@@ -123,7 +161,9 @@ def translate(
             else:
                 translated_tokens.append(tok)
         if found_count > 0:
-            return TranslationResult(" ".join(translated_tokens), "khasi", "hi", max(round(found_count / len(tokens), 2), 0.60), dialect)
+            res_str = " ".join(translated_tokens)
+            res_str = re.sub(r"\s+", " ", res_str).strip()
+            return TranslationResult(res_str, "khasi", "hi", max(round(found_count / len(tokens), 2), 0.60), dialect)
         return TranslationResult(clean, "khasi", "hi", 0.40, dialect)
 
     # 1. Match Hinglish expressions

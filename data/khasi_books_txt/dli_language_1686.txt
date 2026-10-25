@@ -1,0 +1,11179 @@
+TITLE: Khasi Phonetic Reader
+AUTHOR: K S Nagaraja
+YEAR: 1990
+ID: dli_language_1686
+------------------------------------------------------------
+
+KHASI PHONETIC READER
+
+CENTRAL INSTITUTE OF INDIAN LANGUAGES
+
+PHONETIC READER SERIES—29
+
+Editor
+
+E.ANNAMALAI
+
+Production
+
+H. L. N. BHARATI
+
+CIIL Phonetic Reader Series-29
+
+KHASI PHONETIC READER
+
+K. S. NAGARAJA
+
+H.qtW MS
+
+CENTRAL iNSTITUTE OF INDIAN LANGUAGES 
+MANASAGANGOTRI, MYSORE-570 006
+
+First Published : January 1990 
+Pushya 1911
+
+© Central Institute of Indian Languages, 1989
+
+Price : Rs. 19-00
+
+Published at the Central Institute of Indian Languages, 
+Manasagangotri, Mysore-570 006, by Dr. A. K. Srivastava, 
+Director i/c. and Printed at the CIIL Press, Mysore-570 006, 
+by S. B. Biswas, Manager.
+
+PREFACE
+
+About six per cent of the population of India is tribal. 
+There have been three views about how best they can be drawn 
+into the main stream of our national life. One obvious way is 
+not to draw them at all and leave them alone and preserve their 
+culture and traditions intact as museum pieces. The other 
+extreme view has been to sort of drown them in the mainstream 
+and completely assimilate them. The third view is to see that 
+the best in their traditions and cultures that is consistent with 
+modern life is preserved and they are integrated so that they 
+maintain their individuality and at the same time participate 
+in and benefit by the modern developments.
+
+It is also the considered view of all the people that matter 
+that these tribals should be integrated with the regional popula¬ 
+tion amidst whom they liv e. This can be done only when they 
+are approached through their own tnother tongues. It is also 
+obvious Jhat it is impracticable to use their mother tongues 
+throughout their education. Their mother tongues are to be 
+used so that they can effectively be'integrated into the regional 
+population. This does not mean that they should forsake their 
+mother tongues, but only means that they should gain native¬ 
+like fluency in their respective regional languages as early as 
+possible. It is for this purpose that their languages have to be 
+scientifically studied and grammatical sketches and vocabularies 
+have to be prepared. The scripts of the regional languages 
+have to be adopted for writing their languages. Primers and 
+textbooks have to be prepared.
+
+To do all this the expertise of the linguists of the country 
+should be placed at the disposal of persons interested in the 
+education of tribals. Administrators who come in frequent 
+contact with the tribals have to learn to speak fluently the 
+tribal language in question. Learning a language implies an 
+acquisition of a good pronunciation. Firstly, the learner must 
+acquire the capacity to recognise readily without any error the
+
+various speech sounds occurring in the language he is learning. 
+Secondly, he must acquire the capacity to produce them with 
+the help of his own vocal organs. Thirdly, he must acquire the 
+capacity to produce the individual speech sounds he has learnt 
+in sequences. In addition to these three skills, which may be 
+sufficient to gain a reasonable pronunciation, the learner, 
+depending on his needs, has to get a mastery over the ortho¬ 
+graphy of the language he is learning. This involves develop¬ 
+ing automatic associations between written forms and speech 
+sounds.
+
+The Phonetic Readers in this series have been designed 
+with the above points in view. They are mainly intended to 
+meet the needs of administrators who have to learn the language 
+in question.
+
+Each Reader consists of a brief exposition about the organs 
+of speech and their functions. It also introduces some technical 
+terms. Then each speech sound is described in detail giving 
+the movements of the vocal organs. Each description is 
+rounded off by the technical term for that sound.. A brief 
+phonetic statement which meaningfully groups the sounds 
+described in the preceding sections is also appended. A state¬ 
+ment about the correspondences between the phonemes of the 
+language and the letters used to write them comes at the end. 
+In this section suggestions for improvements in the existing 
+orthography are made. In the case of languages which have 
+not yet been written, suggestions for adopting the script of the 
+regional language are made.
+
+It may be too much to claim that these Readers are perfect. 
+There are lacunae still to be filled up. The most conspicuous 
+of these is the lack of information on intonation.
+
+Though it is true that certain features of pronunciation can 
+only be learnt with the aid of a teacher, the utility of such 
+Readers cannot be underestimated. It is hoped that these 
+Readers will be useful to even persons other than those for 
+whom they are intended.
+
+E. Annamalai
+
+FOREWORD
+
+The Central Institute of Indian Languages was set up on 
+the 17th July 1969 with a view to assisting and coordinating the 
+development of Indian languages. The Institute is charged 
+with the responsibility of serving as a nucleus to bring together 
+all the research and literary out-put from the various linguistic 
+streams to a common head and narrowing the gap between 
+basic research and development research in the fields of 
+languages and linguistics in India.
+
+The Institute and its seven regional centres are thus 
+engaged in research and teaching which lead to the publication 
+of a wide-ranging variety of materials. Preparation of 
+materials designed for teaching/learning at different levels and 
+suited to specific needs is one of the major areas of interest of 
+the Institute. Basic research relating to the acquisition of 
+language and study of language in its manifold psycho-social 
+relations constitute another broad range of its interest. The 
+publications will include materials produced by the members 
+of the staff of the Central Institute of Indian Languages and its 
+Regional Language Centres and associated scholars from 
+universities and institutions, both Indian and foreign.
+
+The Institute prepares the Phonetic Readers in Indian 
+Languages, particularly for the development of tribal and other 
+minor languages, with an aim to form the basis for grammatical 
+description, to provide material for teaching pronunciation of 
+these languages and to give a base for the development of 
+script.
+
+The present “Khasi Phonetic Reader’’ by Dr. K.S. Nagaraja 
+will reflect all these interests. It is hoped that this book will 
+be useful to both scholars who are interested in phonetic 
+studies and practical learners of languages who wish to make a 
+beginning in their study of the language concerned.
+
+A. K. SRIVASTAVA 
+Director
+
+ACKNOWLEDGEMENT
+
+The data for the present Reader was extracted from my 
+thesis for which the data was collected during my field trips to 
+Meghalaya in 1973 and 74. I am thankful to the Deccan 
+College Post-Graduate Research Institute, Poona, for providing 
+funds and facilities in carrying out the field work and in 
+further study.
+
+My hearty thanks are due to my Khasi friends who 
+provided me the necessary data on which this Reader is based. 
+Among them these persons stand out—Shri Domnic Jala, 
+Shri Lionel Lingdoh (my prime informants), Shri Tibor Singh 
+Raji and Shri. Bhungstor Roy. I am grateful for these persons’ 
+full cooperation and help.
+
+I am thankful to Dr. D. P. Pattanayak, former Director, 
+Central Institute of Indian Languages for providing me this 
+opportunity to write this Reader.
+
+I am very grateful to Dr. E. Annamalai, Deputy Director, 
+Central Institute of Indian Languages, who supervised this 
+work and also gave constant guidance and encouragement 
+throughout.
+
+Dr. M. R. Ranganatha, Research Officer, Central Institute 
+of Indian Languages went through the first draft of the manu¬ 
+script thoroughly and gave valuable suggestions. I am grateful 
+to him.
+
+My thanks are due to Shri H.L.N. Bharati for seeing the 
+book through the Press.
+
+CONTENTS
+
+Foreword
+
+Preface
+
+Acknowledgement
+
+Introduction
+
+1. Organs of Speech
+
+2. Phonemic Inventory
+
+3. Description of Khasi Speech Sounds
+
+4. Phonetic Drills
+
+5. Khasi Orthography 
+Bibliography
+
+INTRODUCTION
+
+Family of Languages
+
+Among the four major language families which are spoken 
+in India, the Austroasiatic language family takes the third 
+position from the point of view' of the number of speakers.
+
+1. Austroasiatic language family
+
+The languages of Austroasiatic family are spoken in India 
+and in South Asian Countries. Austroasiatic language family 
+consists of four main branches 1 — 1. Munda, 2. Mon-Khmer, 
+3. Malacca and 4. Nicobarese. Among these four branches 
+languages of first and the fourth branches are spoken in India. 
+Also, Khasi, which is a member of Mon-Khmer branch, is 
+spoken in India. It is worth noting that all the languages 
+belonging to the Austroasiatic family which are spoken in India, 
+are spoken by the people who live in the' hilly tracks and 
+mountainous regions.
+
+Khasi is spoken in the State of Meghalaya (along with Garo, 
+a Tibeto-Burman Language); Munda languages are spoken in 
+the hilly regions of Central and North India ; and Nicobarese is 
+spoken in the Nicobarese Islands of India.
+
+The term ‘ Khasi ’ stands for both the tribe and the language.
+
+1. Thomas David and Headley Robert, Jr., 1970.
+
+2
+
+Khasi Phonetic Reader
+
+2. Geographical distribution
+
+Khasis inhabit in the United Khasi and Jaintia Hills district 
+of Meghalaya. Geographically it is an island of Austric language 
+amidst of the languages of other families. It is surrounded in 
+the north and south by Assamese, and Bengali. It is surrounded 
+by Tibeto-Burman languages such as Garo, Bodo, Kuchari, 
+Mikir etc. in the West, North and East.
+
+The area covers about 6157 Sq. miles with a population of 
+3,84,606 speakers ^including various Khasi dialects -1971 - 
+provisional figures).
+
+3. Dialects
+
+Khasi has four dialects 1 — 1. Khasi proper, which is 
+considered as the standard, and used for all literary purposes, is 
+spoken around Cherrapunjii by 2,89,650 speakers; 2. Synteng 
+(or Pnar or Jaintia) spoken in the Central Plateau ot the Jaintia 
+Hills (i.e. Jowai subdivision) by 55,113 speakers ; 3. Lynngams,
+
+spoken in the south-west by about 14,673 speakers, and 4. War, 
+spoken in the low southern valleys bordering on the Sylhet plains 
+by 3,854 speakers. There is one more (minor) dialect called 
+Bhoi-Khasi 2 spoken in the northern lowlands of the district
+
+4. Special features of Austroasiatic family
+
+1. The languages of this family differ from other families 
+like Indo-Aryan, Dravidian and Tibeto-Burman in having the 
+word order SVO. 2. Their morphology is predominently 
+agglutinative, though elements of inflection can be found. 
+3. These languages are rich in initial consonant clusters. 4. 
+They, particularly Khasi, have a process known as contraction 
+(i.e. simplification of initial consonant clusters of initial syllables).
+
+5. Ethnologically Khasis are different from other hill tribes 
+of eastern India. The Khasis are believed to have come from
+
+1. Grierson, Sir George.
+
+2. S. K. Acharya.
+
+Introduction
+
+3
+
+south-east Asia. Anthropologically, Khasis belong to a modified 
+dolicho-cephalic palace Mongoloid racial stock 3 . The term 
+‘Khasi’ 4 has a particular significance. Kha means ‘born of’ 
+and si refers to an ancient mother - i.e. Khasi means ‘born of 
+the mother’. Descent is claimed from u common ancestress and 
+it goes down through the females. It is the husband who, after 
+marriage, has to go and live in his wife’s house and not vice 
+versa. Property is inherited by the youngest daughter.
+
+6. Till the latter part of the 18th century, Khasis had their 
+own religion. Since the latter part of 18th century, when the 
+missionaries entered this region, there has been a large scale 
+conversion. Through the efforts of the Welsh methodist missio¬ 
+naries, backed by the British government, a very large percentage 
+of Khasis have now became Christians 5 . Since that time people 
+have progressed a lot. Now there are more schools per capita 
+than in any where in India. The progress can be noticed not 
+only in the sphere of education ; but also in the fields of social 
+and political.
+
+7. As Khasi language had no indigenous script (ch. 5), 
+Roman script was adopted during the latter part of 18th century. 
+Bengali was used briefly before that. Since independence the 
+spheres of using Khasi language has extended and widened from 
+mere translation of a few books (religious) to writing books on 
+all subjects and is used for other creative activities. Khasi 
+language is recognised as the medium of instruction in the 
+primary schools. It is also used as a medium of expression in 
+legislative assembly of Meghalaya. According to 1971 census it 
+has a literacy rate of 29.49% as compared to the national average 
+of 29.4%.
+
+Since 1841 Roman script is used for writing Khasi. The 
+first book in Khasi to be printed was in 1842, was ka hot pule ba
+
+3. Gaha, B. S-
+
+4. Hamlet Bareh, ibid.
+
+5. S. K. Chatterji, 1974.
+
+4
+
+Khasi Phonetic Reader
+
+nyngkong (the First Khasi Reader), at the Calcutta Press, 
+followed by a booklet by Welsh missionary, entitled Rhoddmon 
+(My mother’s gift), and a booklet on Christian catechism ka kot 
+layphew and the translation of si. Mathew, all the above works 
+by Thomas Jones. All these were written in the Cherrapunjii 
+dialect of Khasi. The complete edition of the Bible came in 
+1899. Khasi literature in the last century was mostly Christian. 
+Later on books on different subjects began to come 6 — e.g.
+
+1. Pryse, W., An Introduction to Khasi Language (1855),
+
+2. Roberts, Hugh Dictionary (Anglo Khasi) (1878); 3-
+
+Roberts, H. A Grammar of Khasi (1891) ; 4. Roberts, John. 
+Khasi Readers 1 to 4 - last number came in 1895-6. In 1895 
+U. Jeb Solomon, a Khasi himself, wrote A Guide to write the 
+Khasi language, under 3 sections - grammar, phrases and dictio¬ 
+nary (English-Khasi). For details on History of Khasi literature 
+read Hamlet Bareh’s Book (1969).
+
+For all the literary and other purposes of writing the dialect 
+spoken around Chirrapunjii, which is considered as the standard, 
+is used.
+
+This Khasi phonetic reader, is based on the phonology of 
+my thesis ‘A Descriptive analysis of Khasi’, 1978 This phonetic 
+reader is based on the standard dialect of Khasi, spoken around 
+Cherrapunjii.
+
+This phonetic reader consists of five chapters. The first 
+chapter describes the speech organs and their functions; the 
+second chapter give-* a brief outline of Khasi phonology ; the 3id 
+chapter decribes the speech sounds of Khasi; the 4th chapter 
+gives drills for practice ; and the fifth chapter deals with the 
+Orthography of Khasi. It is followed by a selected Bibliography.
+
+6. Here books pertaining to language only are mentioned.
+
+1. Otl VJCCHSC.
+
+2. S. K. Acharya..
+
+1. ORGANS OF SPEECH
+
+The parts of the human body which are directly involved 
+in the production of speech are usually termed as the organs of 
+speech. The main organs of speech are the month (oral cavity),. 
+the nose (nasal cavity), the throat (pharynx) and the lungs. 
+These organs have other primary biological functions like eating, 
+smelling, breathing etc. Speech is only a secondary or an over¬ 
+laid function. A diagram showing the organs of speech is given 
+below and the following description could be understood better 
+by referring to the organs named in the diagram.
+
+The most important function of the lungs which is relevant 
+to speech production is respiration and it is responsible for the 
+movement of air. Lungs are controlled by a set of muscles 
+which make them expand and contract alternately so that the 
+air from outside is drawn in and pushed out alternately. When 
+the air is pushed out of the lungs it passes through the windpipe 
+or trachea which has at its top the larynx. Larynx is a 
+cartilagious structure which makes the glottis. Glottis is the 
+passage between the two horizontal folds of elastic muscular 
+tissues called the vocal cords, which, like a pair of lips, can 
+close .or open the giottis (i.e., the passage to the lungs through 
+the windpipe). The main physiological function of the vocal
+
+6
+
+Khasi Phonetic Reader
+
+cords is to close the lungs for its own protection at the time of 
+eating or drinking so that no solid particle of food or liquid enters 
+the lungs through the windpipe. By virtue of their tissue structure,
+
+la Upper lip 
+lb Lower lip 
+2a Upper teeth 
+2b Lower teeth
+
+3 Tip of the tongue
+
+4 Blade of the tongue
+
+5 Front of the tongue
+
+6 Back of the tongue
+
+7 Root of the tongue
+
+8 Alveolar ridge 
+(also called teeth
+
+ridge)
+
+9 Hard palate
+
+10 Soft palate
+
+(also called velum)
+
+11 Uvula
+
+12 Velic
+
+13 Epiglottis
+
+14 Glottis
+
+15 Vocal cords
+
+Sagittal Section of Speech Tract
+
+hoWeVer, the vocal cords are capable of vibrating with different 
+frequencies when the air passes through and this vibration is
+
+Organs of Speech
+
+7
+
+called voice. After passing through the glottis and reaching 
+the pharynx the outgoing airstream can escape either through 
+the nasal cavity having its exit at the nostrils or through the 
+oral cavity having its exit at the month. When the air escapes 
+through the mouth, the nasal cavity can be closed by bringing 
+the back part of the soft-palate of the velic into close contact 
+with the pharyngeal wall. Such a type of closure of the nasal 
+passage is called the velic closure. When there is velic closure 
+the air can escape only through the mouth. The nasal cavity 
+can also be kept open when the air passes through the month 
+allowing part of the air to pass through the nose also. The 
+oral passage can be closed at some point so that the outgoing 
+air is temporarily shut up in the pharyngeal cavity if the velic is 
+also closed or if the velic is open, the air escapes through the 
+nostrils. Normal breathing occurs with the air generally passing 
+through the nasal cavity. This is a brief account of how some 
+of the organs of speech take part in respiration.
+
+It may now be seen how speech sounds are generally 
+produced, using respiration as the source.
+
+MECHANISM OF SPEECH PRODUCTION
+
+Speech may be said to consist of sounds produced by the 
+movements of the various organs of speech disturbing the 
+current of air moving from and into the lungs. Production of 
+speech sounds, therefore, is based on the airstream and the 
+movement of the speech organs, wnich is called the process of 
+articulation.
+
+The airstream mechanism
+
+The airstream which acts as the source of speech sounds
+
+Khasi Phonetic Reader
+
+may be said to be a column of air which has the lungs at one 
+end the lips and the nostrils on the other. This column consists 
+of four cavities, namely, the oral cavity, the nasal cavity, 
+the pharyngeal cavity and the lung cavity with interconnected 
+passages at the back of the mouth, and at the glottis. These 
+cavities are endowed with such muscular devices as would enable 
+them to expand or contract so that the air is drawn into them 
+or pushed out of them. When the air is pushed out of a cavity 
+it is called an egressive airstream and when it is drawn into a 
+cavity it is called an digressive airstrern. The lungs arethe major 
+initiators of the airstream, An airstream initiated by the lungs 
+is callsd the pulmonic airstream. Most ot the human speech 
+sounds have the pulmonic egressive airstream as their source.
+
+The Process of Articulation
+
+Articulation is a process resulting in the production of 
+speech sounds. It consists of a series of movements by a set 
+of active organs of speech called the articulators moving 
+towards or coming into contact with certain other organs of 
+speech which remain relatively motionless. The organs which 
+remain motionless are called the points of articulation. The 
+type or the nature of movement made by the articulator js 
+called the manner of articulation.
+
+Most of the articulators are attached to the movable lower 
+jaw and as such lie on the lower side or the floor of the month. 
+The points of articulation or most of them are attached to the 
+immovable upper jaw and so lie on the roof of the month. 
+Therefore, nearly all the articulatory movements are upward 
+movements. The articulatary description of a speech sound, 
+therefore, has to take into consideration the articulator, the 
+point of articulation and the manner of articulation.
+
+Organs of Speech
+
+9
+
+Articulators and points of Articulation
+
+While describing the articulators and the points of arti¬ 
+culation it would b; convenient to take the points of articu- 
+tion first. The main points of articulation are the upper lip, 
+the upper teeth, the alveolar ridge, the hard palate and the soft 
+palate which is also called the ve'um. The upper lip and the 
+upper teeth are easily identifiable parts in the mouth. The 
+alveolar ridge is the rugged, uneven and elevated part just 
+behind the upper teeth. The hard palate is the hard bony 
+structure with a membranous covering which immediately follows 
+the alveolar ridge. The hard palate is immediately followed 
+by the soft palate or the velum. It is like a soft muscular sheet 
+attached to the hard palate at one end, and ending in a pendulum 
+like soft muscular projection at the other which is called the 
+Uvu'a. Besides the above points of articulation the pharyngeal 
+wall also may be considered as a point of articulation.
+
+The two most important articulators are the lower lip and 
+the tongue. The tongue owing to its mobility is the most versa¬ 
+tile of articulators. As the surface ^of the tongue is relatively 
+large and the different points of tongue are capable of moving 
+towards different places or points of articulation. It may be 
+conveniently divided into different parts, viz , the front, the 
+centre, the back and the root of the tongue. When the tongue 
+is at rest behind the lower teeth then the front part of the 
+tongue which lies opposite to the hard palate is called front 
+of the tongue. The part which faces the soft palate is called 
+the back and the region where the front and the back meet is 
+known as the centre. The whole upper surface of the tongue 
+i.e. the part lying below the hard and soft palates is called by 
+some scholars as the dorsum. The part of the tongue at the 
+extreme end facing of the tongue can be further divided into 
+three parts as follows : The tapering s ection of the front facing 
+the teeth ridge is called the blade, its extremity is called the 
+tip. The tip and the blade of the tongue are together called, 
+sometimes, the apex. The remaining part of the front of the 
+tongue is referred to as front only.
+
+10
+
+Khasi Phonetic Reader
+
+The articulator and the point of articulation together 
+identify the source of the sound as for instance the lower lip as 
+the articulator and the upper teeth as the point of articulation 
+produce a sound which can be identified as a labio-dental. 
+Similarly sounds can be identified as bilabial when the lower lip 
+as the articulator comes to contact with the upper lip as the 
+point of articulation.
+
+Manner of articulation
+
+During the process of articulation an articulator moves 
+towards or comes into contact with a point of articulation in 
+such a way that the passing air-stream is obstructed or modi¬ 
+fied so as to produce some type of audible noise. The type of 
+obstruction or modification of the air-stream is usually called 
+the manner of articulation. Different manners of articulation 
+produce different types of sounds.
+
+The first distinction of speech sounds that can be made on 
+the basis of the manner of articulation is the distinction between 
+the vowels and consonants. In the production of vowels the 
+out-going air-stream passes freely through the oral cavity which 
+acts only as a resonator while in the production of consonants 
+the air-stream meets with some types of obstruction before it 
+finally passes out of the vocal tract. While describing the 
+articulation of speech sounds some scholars prefer to use the 
+term vocoid for a vowel and ccntoid for a consonant. The 
+terms vowels and consonants are restricted for use in describing 
+their function with in a language.
+
+The state of the glottis
+
+Besides the articulator and the point of articulation which 
+together take part in the production of speech sounds another 
+important factor which determines the audible nature of the 
+sounds produced is the state of the glottis.
+
+Organs of Speech
+
+11
+
+The state of glottis is usually described in terms of the 
+vocal cords. If the glottis is completely closed by bringing the 
+vocal cords firmly into contact with each other so that no air 
+passes through them, then, the glottal stop (sometimes called 
+the ‘glottal catch’) is produced. If the vocal cords are brought 
+Close to each other so that they almost touch each other but 
+still have some space for the air stream to pass through, they 
+vibrate producing voice. If the vocal cords are kept apart then 
+the air passes through the glottis without any obstruction pro¬ 
+ducing voicelessness. Slight increase or decrease in the width of 
+the passage and the tension of the vocal cords may produce 
+different varieties of sounds like whisper, creaky voice or breath¬ 
+ing voice and so on.
+
+This gives us a brief sketch of the mechanism of speech 
+production. We may now consider the types of consonant and 
+vowel sounds generally found in language.
+
+Articulation of consonants— Manners of articulation
+
+Consonants can be classified on the basis of the manner of 
+articulation as stops, nasals, fricatives, trills, flaps, laterals, 
+affricates, continuants, etc., and each class may be described as 
+follows.
+
+Stops: Stops are produced by complete closure of stop¬ 
+page of the air stream at some point above the glottis accom¬ 
+panied simultaneously by a velic closure. Because of these two 
+closures the air stream, if egressive, is temporarily obstructed 
+and the air is compressed behind the point of articulation where 
+J t is obstructed. When the closure is released by removing the 
+articulator from its contact the compressed air escapes out with 
+a small explosion or popping noise. Such sounds are called 
+stops or plosives. When the contact is not released suddenly 
+then there will not be any popping noises heard and the stops 
+thus produced are called unreleased stops.
+
+12
+
+Khasi Phonetic Reader
+
+If the air stream is ingressive then the air behind the point 
+of articulation is rarefied creating a low pressure area. When 
+the contact between the articulation and the point of articulation 
+is removed there will be a sudden rush of air inwards instead of 
+outwards producing a similar popping noise. Such sounds are 
+called implosives, or injective stops or suction stops.
+
+Aspiration of stops : Aspiration as a feature of the stops 
+is observed in many languages. Aspiration in the case of 
+stops refers to the type of release of the stopped of air in the 
+region above the glottis. When the release is accompanied 
+by an ‘extra puff of air’ then the stop is said to be aspirated. 
+The difference in the articulations of aspirated and unaspirated 
+stops is explained as follows. While producing a stop if the 
+pressure of the air behind the stoppage is not so high and the 
+release is immediately followed by another closure elsewhere then 
+the resultant sound is an unaspirated stop. If on the other hand 
+the pressure of air behind the closure is high and the next closure 
+is delayed then the release results in a clearly audible popping 
+noise, simultaneously accompanied by a hissing noise which is 
+called aspiration. It may be pointed out, however, that des¬ 
+criptions of aspiration given by different scholars appear to be 
+different probably because different languages are found to have 
+different degrees of aspiration. To have a clear understanding 
+of this we may have to know the different articulatory stages 
+involved in the production of a stop. The production of a stop 
+may be said to have three stages, viz.,
+
+1. Commencement of the closure
+
+2. the period of closure and
+
+3. the release.
+
+Besides the stoppage and release of the air column the 
+state of the glottis also is significant for the nature of the stop 
+produced. During the period of closure if the vocal cords 
+vibrate then the stop produced is called a voiced slop. If they 
+do not vibrate then the stop is called voiceless. A voiceless
+
+Organs of Speech
+
+13
+
+stop for which the vocal cords do not vibrate during the period 
+of closure wiii have an unaspirated release if simultaneously 
+vibrating If ori the other hand the vocal cords do not start 
+vibrating but continue to be in the state of voicelessness during 
+the release and a little while even afterwards then the brief period 
+of voicelessness following the release is called aspiration and 
+the stop so produced is called an aspirated stop. Such stops 
+are, however, mildly spiraled stops as in the case of English 
+stop sounds. It is also possible to produce highly aspirated 
+stops which are usually described as being released with an extra 
+puff of air. In the same manner as it is in the case of mildly 
+aspirated stops the glottis remains open during the period of 
+closure and release so that between the release and next closure 
+a brief period of voicelessness follows. Besides simultaneously 
+with the release of the blocked air in the region above the 
+glottis an additional quantity of air is pushed out of the lungs 
+by the action of the respiratory .muscles. This produces the 
+extra puff of air that immediately follows the release. The 
+quantity of air thus pushed out will be more than the quantity 
+of air that normally gots out during the state of voicelessness, 
+ihe resultant stops are highly aspirated stops as they are in the 
+case of many Indian languages. It may be worth noting in this 
+connection that the mildly aspirated English stops are perceived 
+as unaspirated stops by the speaker of Indian languages where 
+the stops are highly aspirated. Similarly voiced stops may also 
+have an aspirated release. In the production of a voiced stop 
+the vocal cords are vibrating during the period of closure. If 
+the vocal cords continue to vibrate even 3t the time of release 
+of the stop and the next articulation follows then the resultant 
+stop is called an unaspirated voiced stop. If on the other hand 
+the vocal cords which were vibrating during the period of closure 
+suddenly stop vibrating at the time of release and allow an extra 
+puff of air to be pushed out of the lungs by the action of' the 
+respiratory muscles then the stop will have an aspirated release- 
+The vocal cords may immediately resume the state of vibration 
+to produce either a breathy or murmered type of voice. Such 
+stops are called as aspirated voiced stops.
+
+14
+
+Khasi Phonetic Reader
+
+Affricates : Affricates are produced when the air stream is 
+completely stoped by an articulator as for a stop but at the time 
+of release the articulator leaves the contact with the point of 
+articulation slowly, momentarily creating q narrow passage so 
+that the air passes through with friction. The iesultant sound 
+is heard like a stop followed by its homorganic fricative.
+
+Nasals : Nasals are produced by a complete closure of oral 
+passage and allowing the air to pass through the nostrils. This 
+is done by stopping the airstream at some point in the mouth, 
+but without the velic closure. The air stream which is prevented 
+from passing through the mouth, therefore, escapes through the 
+nose.
+
+Fricatives : Fricatives are produced when an articulator 
+comes into near close contact with a point of articulation so 
+that a narrow passage is available for thfc air stream to pass 
+through. The air escapes with an audible friction.
+
+Trill : Trills are produced when the contact between the 
+articulator and the point of articulation is of intermittent closure, 
+i.e., the contact and release occurs several times in quick succes- 
+ion. These sounds are also called by some scholars as ‘rolled 
+sounds’. When there is a single momentary contact consisting of 
+a simple tap by the articulator on the point of articulation 
+then the sound produced is called a 'tap 1 .
+
+Flap : Flaps are produced when an articulator in a ballistic 
+or sweeping moment makes a passing contact' once with a 
+point of articulation. For example, if the tip of the tongue is 
+curled upwards and then falls forwards on to the floor of the 
+mouth making a passing contact with the teeth ridge on its way 
+then a flap is produced. The sound represented by 'd' in the 
+words ‘radio’ as it is pronounded by some of the Hindi speakers 
+may be cited as an example for this type of flap.
+
+Organs of Speech
+
+15
+
+Lateral,' A lateral is produced when the air stream is 
+stopped at some point along the centre of the vocal tract by the 
+front of the tongue in such a way as to allow a passage on one 
+or both sides of the tongue for the airstream to pass through.
+
+Sethi Vowels: Semi vowels are produced When an arti¬ 
+culator comes towards a point of articulation in the same way 
+as for a fricative but the passage left for the air is so wide as 
+to allow the air to pass through without any friction. They 
+are also called frictionless continuants or approximants.
+
+Points of articulations of consonants
+
+On the basis of the points of articulation consonants cau 
+be classified as labials, dentals, alveolars, palatals and velars.
+
+Labials'. Labials are produced when an articulator comes 
+into contact with the upper lip as the point of articulation. 
+Usually the lower lip acts the articulator and the resultan 4 
+sound is called a bilabial sound.
+
+Dentals; Dentals are produced when an articulator comes 
+into contact with the upper teeth as the point of articulation. 
+The tongue acts as the articulator coming into contact with the 
+upper teeth. The resultant sounds is called a dental sound. 
+Instead of touching the upper teeth alone the tongue may come 
+between the uppt r and lower teeth. Then the sound produced 
+is called an interdental sound. Sometimes the lower lip may 
+act as the articulator coming into contact with the upper teeth 
+then the sound produced is called a labio-dental sound.
+
+Alveolars : An alveolar sound is produced when an arti¬ 
+culator, either tip or the blade of the tongue, comes into contact 
+with the alveolar ridge. The sound thus produced is called an 
+alveolar sound.
+
+Palatals: A palatal sound is produced when an articulator, 
+usually the front of the tongue, comes into contact with the 
+hard palate as the point of articulation.
+
+16
+
+Khasi Phonetic Reader
+
+Velars: A velar sound is produced when an articulator, 
+usually the back of the tongue, comes into contact with the soft 
+palate or velum as the point of articulation.
+
+Regarding the alveolar, palatal and velar sounds, it may be 
+noted that these three regions cover the entire area of the roof of 
+the mouth between the upper teeth and the uvula. As each of the 
+regions is sufficiently wide to allow an articulator to touch 
+different points within the region the alveolar, the palatal, and 
+the velar sounds can be further distinguished as follows :
+
+1. Alveolars may be distinguished as alveolar and post 
+alveolar,
+
+2 Palatals may be distinguished as prepalatal, palatal 
+and post-palatal;
+
+3. Velars may be distinguished as pre-velar, velar and 
+post-velar sounds. Besides the above the uvula, the 
+pharynx and the glottis may also be considered as the 
+points of articulation. The uvula has no power of 
+independent muscular movement but can be lowered 
+into a groove formed by the back of the tongue and 
+be made to vibrate in a passing air-stream. A sound 
+thus produced is called uvular trill.
+
+In the pharynx with the pharyngeal wall as the point of 
+articulation and the root of the tongue as the articulator 
+pharyngeal sounds can be produced. With the glottis as the 
+point of articulation and the vocal cords as the articulators 
+glottal sounds such as the glottal stop (glottal catch) or glottal 
+fricatives can be produced.
+
+Aspiration of other Consonants
+
+Aspiration of consonants such as fricatives, nasals, affri¬ 
+cates laterals are also observed in some of the Indian languages 
+particularly those belonging to Tibeto-Chinese family of langua¬ 
+ges. Aspiration in these cases refers to a brief period of voice-
+
+Organs of Speech
+
+17
+
+lessness immediately following the articulation of the consonant. 
+In the case of most of the Indian languages voicelessness is 
+accompanied by an extra puff of air pushed out of the lungs by 
+the action of the respiratory muscles. In some cases, instead of 
+following, aspiration may precede the articulation of some 
+consonants such as nasals and laterals. Such consonants are 
+called pre-aspirated consonants.
+
+This gives us a general idea about the points of articulation 
+of speech sounds.
+
+It may be noted that the manners of articulation and 
+points of articulation mentioned indicate the general types of 
+articulation of consonants. Actual sounds found in any parti¬ 
+cular language will have to be described specifically with refer¬ 
+ence to the manners and points of articulation actually involved 
+in their production. It may also be noted that in describing 
+and classifying consonant sounds mainly the manners of arti¬ 
+culation and the points of articulation are considered. The 
+articulators are not necessarily mentioned.
+
+Articulation of Vowels
+
+It has been stated earlier that while producing a vowel the 
+out-going air-stream passes through the oral cavity without any 
+obstruction. The mouth and the throat together form a tube¬ 
+shaped air cavity which starts at the larynx and ends at the 
+lips. This tube as a whole is generally called the oral tract. 
+A vowel sound is essentially a sound produced by resonance of 
+the air-column in the oral tract which vibrates in consonance 
+with the vocal cords. Vowels are, therefore, usually voiced 
+sounds. The actual shape of the oral tract and thus the shape 
+of the air column in it, may be moulded to assume different 
+forms by the actions of the articulators which are mainly the 
+tongue and the lips. The difference in the shape of the vibrating 
+air column in the oral tract is responsible for the different vowel 
+sounds that can be produced in the vocal tract.
+
+18
+
+Khasi Phonetic Reader
+
+A description of the vowel sounds must, therefore take into 
+consideration all the factors that are involved in the formation 
+of the resonating column of air within the oral tract, viz., 
+the tongue and the lips. The tongue, we know, can make a 
+variety of movement and by taking different positions in the 
+mouth can alter the shape of the air column, thus changing the 
+nature of the sound produced. The position or the posture of 
+the lips also is capable of altering the shape of the air column 
+independent of the tongue position. Therefore, vowel sounds 
+must be described with reference to the posture of the lips and 
+the position of the tongue in the mouth.
+
+The position of the tongue in the mouth has mainly two 
+characteristic positions that can easily be observed. By observa¬ 
+tion we know that while making a sound like 4 aaa.’ we
+
+can keep the mouth wide open with the upper and lower jaws
+
+kept quite apart. But while making a sound like 4 iii.’ the
+
+mouth is almost closed with the upper and lower jaws being 
+brought very close to each other. The position of the tongue in 
+both the cases can be described in terms of the distance 
+between the roof of the mouth in the upper jaw which is 
+relatively immovable and the upper surface of the tongue 
+attached to the lower jaw which is movable. In case of ‘ iii— 
+the position is 'high' as the surface of the tongue is very near
+
+the roof while in case of 4 aaa.' it is low as it is down
+
+below, far away from the roof. Regarding the position of the 
+tongue in the month it can also be observed further by looking 
+into a mirror or by putting one’s own finger into the mouth that 
+while producing a vowel sound the tongue docs not lie flat with 
+its upper surface having a horizontal level but it assumes a 
+characteristically ‘convex* shape with some part of the tongue 
+being raised or making a ‘hump*. Usually it is the highest 
+point on this ‘hump’ or raised part of the tongue that is consi¬ 
+dered for the ‘height ’ of the tongue. This is one dimension 
+which is on the vertical level. There is another dimension on 
+the horizontal level. The tongue, owing to its flexibility can 
+have any of its parts raised up so as to make the hump, either
+
+Organs of Speech
+
+19
+
+at the front, at the centre or at the back of the tongue. Thus a 
+vowel sound can be described with reference to two dimensions 
+based on the position of the tongue in the mouth as follows :
+
+1. the height of the tongue with reference to the roof of 
+the mouth and the highest point on the hump on the vertical 
+level. This is usually referred to as ‘tongue height’ and
+
+2. the position of the tongue with reference to the posi¬ 
+tion of the ‘hump’ on the surface of the tongue as to whether 
+it is in the front, the centre, or the back of the tongue. This is 
+referred to usually as ‘tongue position’.
+
+With reference to tongue height though it is possible to 
+differentiate many levels, generally four vertical levels arc 
+recognised as reference points. They are ’high’ and ‘low’ form¬ 
+ing the two extremes as the highest and the lowest possible 
+levels and intervening middle level being distinguished as ‘higher 
+mid’ and 'lower mid’. Alternative terms used for these are 
+(1) close (2) half-close (3) half-open and (4) open. The vowels 
+thus produced are being called (1) high or close vowels (2) higher- 
+mid or half-close vowels (3) lower-mid or half open vowels and 
+(3) low or open vowels.
+
+With reference to tongue position the distinction made is 
+of (1) front (2) central and (3) back. The vowels thus produ¬ 
+ced are being called front, central or back vpwels.
+
+Lip posture : The third dimension with reference to 
+.which vowels are described is the posture of the lips. Usually 
+two clearly visible lip postures are recognised, viz., rounded 
+when the corners are brought forward and b nil the lips 
+together make a circular shape and unrounded or spread when the 
+corners are pulled back. In general it is observed that when 
+front vowels are produced the lips are rounded. In the case 
+of central vowels the lips usually assume a posture -which can 
+neither be stated rounded or unrounded. Such a posture is 
+called the neutral posture. But there arc languages in which
+
+20
+
+Khasi Phonetic Reader
+
+the front vowels have rounded lip postures and back vowels 
+have unrounded postures. The central vowels also may have 
+either rounded or unrounded lip postures.
+
+It may be pointed out, however, that the distinctions made 
+above regarding the height and positions of the tongue as well 
+as the postures of the lips provide only some convenient points 
+-of reference. But in actual languages the positions and postures 
+vary and they have to be described accordingly. It may be 
+useful, at this stage to refer to the cardinal vowels, usually 
+referred to by linguists.
+
+Cardinal vowels : The Cardinal vowel system is a system 
+of vowels proposed by Daniel Jones as convenient reference 
+points for the description of vowels. The cardinal vowels 
+represent a set of eight vowels symbolised as
+
+[ i ], [e], [el 6 , fa], [a], [ o ], [ o ], [u]
+
+These vowels are distinguished on the basis of tongue position 
+and tongue height. The cardinal vowel [ i ] represents the front 
+of the tongue raised as close as possible to the palate without 
+friction being produced when the air passes through. The vowel 
+[ a ] represents the front of the tongue being in its lowest pos¬ 
+sible level in the mouth with the lips remaining spread of 
+neutrally open ani the soft palate is raised [ e ] and [ £ ] 
+represent the front of the tongue at equidistant points from [ i ] 
+and [ a ] so that the distance between [ i 1 and [ e ] is equal to 
+the distance beiween [ e ] and [ £ ] as well as between [ £ ] and 
+[ a ]. To the ear also the qualities of the vowels [ i ], [ e ], [ £ t 
+and [ a ] are heard as equidistant. Similarly the vowels [ a ] 
+[ o ], [ o ] and [ u ] represent the back of the tongue as four 
+different points from each other [ a ] representing the lowest 
+point while [ u ] represents the highest point. [ o ] and [ o ] 
+represent two points between [ a ] and [ u ] so that the distances 
+between [ a ] and [ o ], [ o J and [ o ] and [ u ] are equal. The 
+lips indicate a progressive change from a wide open shape for 
+[ a ] to a closely rounded shape for [ u ] and the soft palate
+
+21
+
+Organs of Speech
+
+remains raised. These cardinal vowels are usually called as 
+primary vowels and are represented in a scale denoted by the 
+following numbers and symbols
+
+1. [ i] ; 2. [ « ] ; 3. f £ ] ; 4 . [ a ]
+
+5. [a]; 6. [o]; 7. [ o ] ; 8. [ u ]
+
+The Cardinal vowels can be arranged in- a chart as follows : 
+Tongue height Tongue position
+
+Front Back
+
+High (or close) [ i ] (1) [ u ] (8)
+
+Higher-Mid
+
+(or half-close) t e ] (2) [ ° ] (7)
+
+Lower-Mid
+
+(or half-open) [ £ ] (3) [ o j (6)
+
+Low (open) [ a ] (4) [ a ] (5)
+
+It may be seen Trom the chart that the cardinal vowels 
+represent only the front and back vowels i.e., vowels articulated 
+by the front and the back of the tongue The central vowels 
+i.e., the vowels that are articulated by the centre of the tongue 
+are not brought out in the above system. Many Indian 
+languages have central vowels Which may be distinguished in the 
+same way as the front and back vowels on the basis of the 
+height of the tongue.
+
+i
+
+22
+
+Khasi Phonetic Reader
+
+Voiceless Vowels
+
+It has been stated earlier that vowels are generally voiced. 
+It is because the vowel sounds are produced with the vocal cords 
+vibrating. However, it is also possible to produce voiceless 
+vowels. Voiceless vowels are produced when the air from the 
+lungs is allowed to pass through the glottis with the vocal cords 
+kept apart. The vocal cords do not vibrate and the air passing 
+through the glottis enters the oral cavity where the position of 
+the tongue and the posture of the lips are so formed as to 
+produce a particular vowel sound. The air passing through the 
+oral cavity escapes out between the lips. The noise of turbulance 
+of the escaping air is called a voiceless vowel.
+
+Stress : The intensity or loudness with which a speech 
+sound is produced is usually called stress. Stress depends upon 
+the intensity or degree of muscular effort exerted in the produc¬ 
+tion of a sound The effort determines the amplitude of 
+vibration of the vocal cords. That is, the amount of the puff 
+of air which passes through at each opening of the vocal cords 
+determines the stress. The larger the puff of air the greater 
+the stress. Languages using stress in their phonemic system are 
+said to have a stress-accent system.
+
+Pitch: We have already noted that the vocal cords are 
+endowed with the capacity to vibrate at different frequencies 
+when air passes through them. This frequency of vibration of 
+the vocal cords is called pitch. When the frequency is high the 
+Vocal cords are said to be vibrating in a high pitch and when 
+the frequency is low they are said to be vibrating in a low 
+pitch. Though the vocal cords are capable of vibrating in 
+different pitches not more than four or five relatively distinct 
+pitch* levels can be found in any language. When the vocal 
+cords vibrate it is not necessary that they vibrate at the same 
+frequency all through in a single stretch. Instead a sound may 
+start at a high frequency, i.e., high pitch and at a low frequency
+
+Organs of Speech
+
+23
+
+i.e., low pitch. As a result the vowel sound produced will have 
+a pitch which falls from a high to low level. Similarly it is 
+possible to raise the pitch from a low to high level.
+
+If pitch is significant in a language so that difference in 
+piteh also makes a difference in the meanings of words then the 
+pitch is called tone. If the system of tone in a language is 
+based on the levels of tones then it is called a register system. 
+If it is based on changing levels then it is called a contour system. 
+A language may have cither a register system, or a contour 
+system or a combination of both.
+
+Secondary Articulations
+
+In the preceding paragraphs, we have discussed the arti¬ 
+culation of consonants and vowels mainly with reference to one 
+major process of articulation where only one single articulator, 
+a point of articulation and the movement made by the articulator 
+are involved. Such articulations are called primary articula¬ 
+tions. It is also possible to modify a speech sound by a 
+secondary articulation. Secondary articulations are articulations 
+made at the same time as the primary articulations by articulators 
+which are left free by the primary articulation. Some scholars 
+make a further distinction in Secondary articulations as 
+co-articulation (or double articulation) and secondary articula¬ 
+tion the difference between the two being that in co-articulation 
+the obstruction to tlu air-stream or the modification of the 
+air cavity it as intense as it is in primary articulation. While in 
+the case of secondary articulation it is of lesser intensity. How¬ 
+ever both are considered as secondary articulations here. For 
+instance while producing a lateral sound by stopping the air- 
+stream in the centre of the vocal tract and leaving the air-stream 
+to pass through one or both sides of the tongue. The front 
+of the tongue may be raised towards the hard palate with the 
+tip turned towards. Then the air passes not only through the 
+sides but also partly above the tongue. The sound thus
+
+24
+
+Khasi Phonetic Reader
+
+produced would be beard as a combination of lateral and palatal 
+atriculations. Such a process of articulation is called palatisation. 
+Similarly secondary articulation like labialisation where the 
+addition of lip-protrusion and rounding to the articulation of a 
+sound or velarisation in which the back of the tongue is elevated 
+towards the soft palate, or pharyngealisation in which the back 
+of the tongue is moved towards the pharyngeal walls are 
+observed in many languages.
+
+Nasalisation: Nasalisation as an additional feature of 
+articulation of mainly vowels is done by allowing the outgoing 
+air-stream to pass through the nasal cavity also by keeping the 
+velic open.
+
+2. PHONEMIC INVENTORY
+
+2.0 Distribution :
+
+The phonemes in Kfaasi are the following
+
+A. Vowels
+
+Front
+
+Central
+
+Back
+
+High
+
+i i:
+
+i
+
+u u:
+
+mid
+
+e e:
+
+o o:
+
+low
+
+a a:
+
+B Consonants
+
+•
+
+•
+
+Bilabial
+
+Alveolar
+
+Palatal
+
+Velar Glottal
+
+Stops-Vl. unasp.
+
+P
+
+t
+
+k
+
+9
+
+VI.asp.
+
+ph
+
+th
+
+kh
+
+Vd.unasp.
+
+b
+
+d
+
+j
+
+Vd.asp.
+
+bh
+
+dh
+
+jb
+
+Nasals :
+
+m
+
+n
+
+ft
+
+■»)
+
+Fricatives :
+
+s
+
+s
+
+h
+
+Trill :
+
+r
+
+Laterals :
+
+1
+
+Frictionless
+
+Continuant ;
+
+W
+
+y
+
+26
+
+Khasi Phonetic Reader
+
+2.1 There are eleven vowels and twentyfour consonants
+
+altogether thirtyfive phonemes. These sounds are distinctive and 
+are required for unambiguous representation of Khasi sounds.
+
+Duration is phonemic for vowels. Also stress and pitch are 
+distinctive contextually—stress is for emphasis and pitch for 
+intonation.
+
+Here contrastive pairs are given to illustrate the phonemes 
+listed above :
+
+2.2.1 Vowels—2.2.1.1. Contrast of Length : The vowels of Khasi 
+except /+/ show a contrast between short and long varieties. 
+Some pairs of words are given below to illustrate this :
+
+j\j — /i:/ sim ‘bird’
+
+si:ma:d ‘bed bug’
+
+/e/—/e:/ i. em ‘well-to-do’ 
+e;m ‘no’
+
+ii. her ‘like-flash’ 
+be:r ‘sprinkle’
+
+/a/—/a:/ i. bray ‘asunder’ 
+bra:y ‘like’ 
+ii. tarn ‘exceed’
+
+ta:m ‘pickup; father’
+
+/o/—/o:/ kop ‘ear of corn’
+
+ko:p 'deserve’
+
+/ u /—/u:/
+
+i lun ‘tadpole’ 
+lu:n ‘throw’
+
+ii: khlur ‘come off ’ (as hair) 
+khlu:r ‘a star’
+
+2.2.1.2. The vowels show a three way contrast regarding the 
+part of the tongue that is used as an articulator : Front, Central 
+and Back, The front and back vowels (both short & long) show 
+a two-way contrast in height between high and low. The short
+
+Phonetic Inventory
+
+27
+
+central vowels also show a similar two way contrast; whereas 
+the long central vowels do not show such a contrast. The back 
+vowels are rounded and the front and central vowels are unroun¬ 
+ded. The following words illustrate the contrasts .
+
+A. Contrasts between short vowels:
+
+1. im
+
+‘live’
+
+2, tip
+
+‘know*
+
+3. ti 7
+
+‘dig’
+
+em
+
+‘well-to-do’
+
+tep
+
+‘buy’
+
+te 7
+
+‘bind’
+
++ m
+
+‘not’
+
+tap
+
+‘cover’
+
+la 7
+
+‘rub’
+
+am
+
+‘bite’
+
+top
+
+‘drum
+
+to 7
+
+‘peck’
+
+um
+
+‘water
+
+tup
+
+‘cannon’
+
+tu 7
+
+‘steal’
+
+4. + msim ‘past neg. marker* 
+sim ‘take*
+
+B. contrasts between long vowels- here, not many contrasts are 
+available-
+
+/e:/ -
+
+jo:
+
+/a:/ -
+
+/e:/
+
+be:r
+
+‘sprinkle’
+
+a:r
+
+‘two’
+
+bo:r
+
+‘strength’
+
+be;r
+
+‘sprinkle’
+
+2.2.2. Consonants :
+
+2.2.2.1. Stops : Stops have five points of articulation which 
+are distinctive. Though thay do not have a symmetrical system 
+of contrast, they have contrast between
+
+1. Voiceless Vs. Voiced; and
+
+2. Unaspirated Vs. aspirated.
+
+Illustrations :
+
+1. Voiceless stops Vs. Voiced stops :
+
+/P/ ~ /b/ i.pa 7 ‘answer’
+
+ba 7 ‘carry’ (on one’s back)
+
+28
+
+Khasi Phonetic Reader
+
+ii. po:r ‘time’ 
+bo:r ‘strength’
+
+iii. Yjap ‘honey’
+
+K)a:b ‘cheek’
+
+/t/ - /d/ i. tap ‘cover’ ii. khuyt ‘naked’ 
+dap ‘full’ khuyd ‘clean’
+
+2. Onaspirated stops Vs, aspirated stops:
+
+Ip/ - /ph/ pu 7 ‘bite’ (make etc.) put ‘blow’
+
+phu 7 ‘blossom’ phut ‘pull out’
+
+(a tooth)
+
+/b/ -
+
+/bh/ ba
+
+‘relative pronoun’
+
+bha
+
+‘good’
+
+N -
+
+Ah/
+
+tep
+
+‘bury’
+
+ta 7
+
+‘rub’
+
+thep
+
+•load’
+
+tha 7
+
+‘ioe’
+
+/d / -
+
+/dh/
+
+dan da
+
+‘fun’
+
+lada
+
+‘if’
+
+dhara
+
+‘a kind of
+
+radha
+
+‘swan
+
+cloth’
+
+(an outer garment
+
+of khasi women)
+
+/k/- /kh/ ka ‘she’ kwa:y ‘beta! leaf’ ki ‘they’
+
+kha ‘give birth’ khwa:y ‘finishing’ khi ‘ghee’
+
+1)1 - /jh/ jew ‘sour’ 
+jhie 7 ‘wet’
+
+2.2.2.2. Contrast between glottal stop and glottal fricative:
+
+/?/ - / h[ su 7 ot ‘dysentry’ 
+muhor ‘seal’
+
+Contrast between presence and absence of glottal stop :
+
+la ‘past tense marker' sdie ‘axe’
+
+la 7 ‘able/can’ (auxiliary rub) sdi* 7 ‘fry’
+
+Phonetic Inventory
+
+29
+
+2.2.2.3. Nasals: Show contrast in four positions corresponding 
+to first four positions of stops. The following contrasts 
+illustrate this—
+
+/m/ - In] me? ‘glow’
+
+ne? ‘stick’
+
+]ml - Iftl my aw ‘cat’
+
+nyaw ‘count’
+
+/m/ -/■»)/ nam ‘bad newes’
+
+v)am ‘sink’
+
+,/m/ - JnJ - /5/ - 11)]
+
+rent ‘dear’ tham 'crab’
+
+ren ‘a sea- monster’ than ‘too; exessively’
+
+ren ‘louse ’ than ‘weave*
+
+ret) ‘horn’ that} ‘burn’
+
+2.2.2 4 Fricatives: We have already illustrated the contrasts 
+between glottal fricative and glottal stop. Here we illustrate the 
+contrast between alveolar and palatal fricatives.
+
+■N - M
+
+said
+
+‘camb’ sorj
+
+‘fold’
+
+sa:d
+
+‘dance’ sotQ
+
+‘ride’
+
+2.2 2,5. Contrasts between trill and lateral ;
+
+./r/ - ./I/
+
+rat]
+
+‘cease to rain’
+
+]a*Q
+
+‘together’
+
+ra?
+
+‘carry ; lift’
+
+la?
+
+‘able/can’
+
+2.2 2.6. Contrasts between frictionleSs continuants t
+
+,/w/ - ,/y/ khaway ‘festival’
+
+khayi ‘trade’
+
+wa:d
+
+ya;r
+
+find’
+
+‘breadth’
+
+I
+
+30
+
+Khasi Phonetic Reader
+
+2 3 Distribution of phonemes r The following table gives the 
+distribution of the phonemes in terms of their occurrence in 
+initial, medial and final positions.
+
+Phonemes
+
+Initially
+
+Medially
+
+Finally
+
+Vowels :
+
+N
+
++
+
++
+
++
+
+/i-7
+
++
+
++
+
+—
+
+/«/
+
++
+
++
+
++
+
+/c:/
+
++
+
++
+
+/+/
+
++
+
++
+
+—
+
+N
+
++
+
++
+
++
+
+l &: f
+
++
+
++
+
+“
+
+i°l
+
++
+
++
+
++
+
+l*f
+
+—
+
++
+
+—
+
+M
+
++
+
++
+
++
+
+/u:/
+
+—
+
++
+
+—
+
+Consonants :
+
+/P/
+
++
+
++
+
++
+
+/ph/
+
++
+
+*+*
+
+—
+
+/'b/
+
++
+
++
+
++
+
+/bh/
+
++
+
+—
+
+—
+
+N
+
++
+
++
+
++
+
+/th/
+
++
+
++
+
+—•
+
+/d/
+
++
+
++
+
++
+
+/dh /
+
++
+
++
+
+—
+
+/j/
+
++
+
++
+
++
+
+/jh /
+
++
+
+—
+
+/!</
+
++
+
++
+
++
+
+/kh/
+
+4-
+
++
+
+—
+
+n
+
+—
+
++
+
++
+
+/m/
+
++
+
++
+
++
+
+/n/
+
++
+
++
+
++
+
+Phonetic Inventory
+
+31
+
+/ fi /
+
++
+
++
+
+4-
+
+hi
+
++
+
++
+
+4-
+
+hi
+
++
+
++
+
+( + )
+
+hi
+
++
+
++
+
+—
+
+/h/
+
++
+
++
+
+—
+
+hi
+
++
+
++
+
++
+
+hi
+
++
+
+4-
+
+( + )
+
+/w /
+
++
+
++
+
++
+
+/y/
+
++
+
+4-
+
++
+
+Note : (s) and (1) occur in final position only in borrowed words. 
+That too in only two items. So they arc put in the 
+brackets.
+
+2-4 Consonant Clusters '■
+
+In Khasi consonant clusters occur in the initial as well as in 
+the medial positions. Two member clusters are more frequent 
+than three member clusters. In the final position no clusters 
+occur except for—yt and—yd. First, clusters in initial position 
+are dealt with followed with clusters in the medial position.
+
+2.4 1. Initial clusters:
+
+‘ Release ’ : In the initial position all consonants, except 
+nasals and frictioaless continuants, have a vocalic release when 
+they occur with consonants other than trills, laterals and friction¬ 
+less continuants. As this vocalic release is very short and 
+predictable, it is not considered separately) and the consonants 
+involved in this, are treated as consonant clusters, as others. 
+(Sec. 3.2.2).
+
+In this position two consonant clusters are very frequent 
+as compared to 3-member clusters. These are the possible 
+combinations.
+
+32
+
+Khasi Phonetic Reader
+
+, first
+
+» member succeeding members-*-
+
+a
+
+P
+
+b
+
+t
+
+th
+
+d
+
+j
+
+k
+
+kh
+
+?
+
+m
+
+n
+
+a 1)
+
+s s
+
+r
+
+1
+
+w y
+
+P
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+ph
+
+X
+
+X
+
+b
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+t
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+th
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+d
+
+X
+
+X
+
+X
+
+X
+
+j
+
+X
+
+X
+
+X
+
+X
+
+k
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X X
+
+X
+
+X
+
+X X
+
+kh
+
+X.
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+m
+
+X
+
+X
+
+X
+
+n
+
+X
+
+S
+
+X
+
+s
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+l
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+h
+
+X
+
+X
+
+r
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+1
+
+X
+
+X
+
+X
+
+X
+
+X
+
+w
+
+X
+
+Generalizations: From the above chart; it wil? be clear that 
+Khasi is enormously rich in initial consonant clusters. It might 
+appear at first sight that just about any combination is permitted. 
+On closer observation, it will be seen that sequences of consonants 
+■with the same place of articulation are not permitted. Exceptions 
+to this above rule are tn~, tr~ and tl- clusters; while clusters 
+thn-, thr~, thl-, clusters have dental as the first member and 
+alveolar as the second member.
+
+Phonetic Inventory 33
+
+2. 4. I. 1. Examples
+
+pd-
+
+pdem
+
+‘to dip’ (in water)
+
+Pj-
+
+Pja?
+
+‘cold’
+
+p?-
+
+p?aij
+
+*to straddle’
+
+pn-
+
+pnat
+
+‘tributary’
+
+pr-
+
+prek
+
+‘iron nail’
+
+pl-
+
+pia
+
+‘pocket’
+
+py-
+
+pyat
+
+‘onion’
+
+phr-
+
+phra
+
+‘eight’
+
+phl-
+
+phlaij
+
+‘grass’
+
+bt-
+
+bteij
+
+‘continue’
+
+bth-
+
+bthi-jj
+
+‘light’
+
+bd-
+
+bdi
+
+‘(one) twenty’ (20)
+
+bn-
+
+bncij
+
+‘heaven’
+
+bs-
+
+bsa
+
+‘to feed’
+
+br-
+
+bret
+
+‘to throw’
+
+bl-
+
+blaTj
+
+‘goat’
+
+by-
+
+bya?
+
+‘to change’ (money)
+
+tb-
+
+tba
+
+‘to touch, feel’
+
+td-
+
+tdem
+
+‘smoke’
+
+tm-
+
+tmo?
+
+‘chin’
+
+tn-
+
+tnat
+
+‘branch’
+
+tr-
+
+trey
+
+‘work’
+
+tl-
+
+tlai7
+
+‘winter’
+
+ty-
+
+tyar
+
+‘tool’
+
+thm-
+
+thma
+
+‘war’
+
+thn-
+
+thnum
+
+‘mermer’
+
+thTj-
+
+thijan
+
+‘hunger’
+
+thr-
+
+thriij
+
+‘crape’
+
+thl-
+
+thliew
+
+‘hole’
+
+thy-
+
+thya?
+
+‘to sleep’
+
+dp-
+
+dpey
+
+‘ash’
+
+dk-
+
+dka:r
+
+‘turtle’
+
+dkh-
+
+dkhev
+
+‘wasp’
+
+dy-
+
+dyatj
+
+‘left’ (hand)
+
+34
+
+Khasi Phonetic Reader
+
+iv
+
+iv a: y
+
+‘far’
+
+jr-
+
+jri
+
+‘rubber’
+
+jl-
+
+jH?
+
+‘smooth’
+
+jy-
+
+jya
+
+‘to happen’
+
+kp-
+
+kpa
+
+‘father’
+
+kb-
+
+kba?
+
+‘paddy’
+
+kt-
+
+kti
+
+‘hand’
+
+kth-
+
+ktha
+
+‘chew’ (food)
+
+kd-
+
+kdew
+
+‘hint
+
+kj-
+
+kjat
+
+‘foot’
+
+k?-
+
+k?e?7
+
+‘a wasp’
+
+km-
+
+kmie
+
+‘mother’
+
+kn-
+
+knup
+
+‘khasi leaf umbrella (like a shell)
+
+ks-
+
+ksi
+
+‘louse’
+
+kS-
+
+kSayd
+
+‘waterfall’
+
+kr-
+
+krem
+
+‘cave’
+
+kl-
+
+klo:y
+
+‘quickly’
+
+kw-
+
+kwa?
+
+‘want’
+
+ky-
+
+kyaT
+
+‘avoid’
+
+khp-
+
+khpu?
+
+‘loaf (of bread)
+
+kht-
+
+khta:w
+
+‘father-in-law’
+
+khm-
+
+khmat
+
+‘eye’
+
+khn-
+
+khna-.y
+
+‘rat’
+
+khr-
+
+khrum
+
+‘basement’
+
+khl-
+
+khlie?
+
+‘head’
+
+khy-
+
+khya
+
+‘heavy’
+
+mr-
+
+mra:d
+
+‘animal’
+
+ml-
+
+mlu?
+
+‘salt’
+
+my-
+
+myanmyan
+
+‘softly’
+
+ny-
+
+nyam
+
+‘religion’
+
+Phonetic Inventory
+
+sp-
+
+spe?
+
+sb-
+
+sbo?
+
+st-
+
+stet
+
+sd-
+
+sde
+
+sk-
+
+ska:h
+
+skh-
+
+skhem
+
+s?-
+
+s?ep
+
+sm-
+
+sma?
+
+sn-
+
+snar
+
+s V-
+
+siji
+
+sl-
+
+slap
+
+Sk-
+
+3ko:r
+
+§?-
+
+3?a?
+
+Sn-
+
+Snat
+
+Sfi-
+
+Snuo?
+
+Sr-
+
+Srie?
+
+31-
+
+Slur
+
+3y-
+
+gya?
+
+h?-
+
+h?o:yd
+
+hy-
+
+hyar
+
+rb-
+
+rben
+
+rkh-
+
+rkhie
+
+r?-
+
+r?ei/
+
+rn-
+
+rno-ty
+
+r V
+
+T1JZL
+
+ry-
+
+ryam
+
+Ip-
+
+Ipa
+
+3 b-
+
+lbOTJi
+
+Id-
+
+Idoy
+
+lkh-
+
+Ikhoyt
+
+1?-
+
+l?o?
+
+wy~
+
+wyar
+
+sprout
+
+‘fertile
+
+‘fast’
+
+‘axe’
+
+‘fly’
+
+‘firm’
+
+'sweat’
+
+‘smell’
+
+‘Peg’
+
+‘day’
+
+‘rain’
+
+‘ear’
+
+‘thorn’
+
+‘tributary’
+
+‘hair’
+
+‘monkey’
+
+‘brave’
+
+‘allow’
+
+‘yes’
+
+‘descend’
+
+‘thick’
+
+‘laugh’
+
+‘swollen’
+
+‘brass’
+
+‘charcoal’
+
+‘catch’ (animals)
+
+‘already’
+
+‘thigh’
+
+‘hanging’Ysamething) 
+‘like a small lump’ 
+‘cloud’
+
+‘bark’
+
+36
+
+Khasi Phonetic Reader
+
+The following 3 member clusters are Jound-
+
+pdy-
+
+pdya -?7
+
+‘receive’
+
+phry-
+
+phrya
+
+‘hailstone’
+
+phly-
+
+phlya?
+
+‘flicker’
+
+bny-
+
+bnyat
+
+‘tooth’
+
+tby-
+
+tbyan
+
+‘bottom’
+
+thry-
+
+thryai/
+
+‘firmly’
+
+jiy-
+
+jlya?
+
+‘lick’
+
+khfiy-
+
+khnyai;
+
+‘insert’
+
+khry-
+
+khryat
+
+‘cold’
+
+s?y-
+
+s?yar
+
+‘hen’
+
+iny-
+
+Snya?
+
+‘chisel’
+
+38
+
+Khasi Phonetic Reader
+
+Medial Consonant Clusters :
+
+2.4.2.1. Two Consonant Clusters
+
+The consonant clusters are very frequent in this position. 
+Here listed only the possible combinations with illustrations.
+
+-pp-
+
+khappo:d
+
+‘near the hill’
+
+-pph-
+
+stepphirijap
+
+‘dawn’
+
+-pb-
+
+slapba?
+
+‘heavy rain’
+
+-pd-
+
+sapdok
+
+‘a man who is short and stout'
+
+-Pj-
+
+yapjillop
+
+‘to drown’
+
+-pk-
+
+snepko:r
+
+‘coconut’
+
+-pkh-
+
+pfnhapkhurn
+
+‘to abort’
+
+-pm-
+
+tapmo?khlie?
+
+‘a big garment’ (to cover the 
+head)
+
+-py~
+
+sepiji
+
+‘West’
+
+-ps-
+
+snepso?
+
+‘to peel’
+
+-p5-
+
+yapSi:lya7/
+
+‘paralysis’
+
+-Pl-
+
+aploi;brot
+
+‘watch sheep'
+
+-py-
+
+khapya?
+
+‘sliced fish’
+
+-bd-
+
+do:bdo:b
+
+‘slowly and steadily’
+
+-bj-
+
+kobja
+
+‘hinge’
+
+-br-
+
+khabrip
+
+‘to blink’
+
+-bl-
+
+khubley
+
+‘to bless’
+
+-tp-
+
+baritpa:yd
+
+‘minority’
+
+-tb-
+
+metba?
+
+‘trunk’ (of a tree)
+
+-tt-
+
+sotti
+
+‘pure’
+
+-tj-
+
+iyeijgatja
+
+‘kitchen’
+
+-tkh-
+
+kotkhubo:r
+
+‘newspaper’
+
+-ts-
+
+otSe:r
+
+‘to circumcise’
+
+-tr-
+
+otraSi
+
+‘saw’ (n)
+
+-tl-
+
+patlun
+
+‘trouser’
+
+-th-
+
+banyathatti
+
+‘ivory’
+
+-ty-
+
+khapu:tya
+
+‘a variety of fish’
+
+Phonetic Inventory
+
+39
+
+-dd-
+
+ro:ddu:riyaw
+
+-dkh-
+
+khadkhinday
+
+-ds-
+
+khadsan
+
+-dh-
+
+khadhinniew
+
+-dl-
+
+bo:dlu:m
+
+-dw-
+
+khadwey
+
+-jn-
+
+khaijna
+
+-jv-
+
+Sajijary
+
+-jr-
+
+Sajroi?
+
+-kb-
+
+surokba?
+
+-km-
+
+ya:ydsakma
+
+-kn-
+
+pu:kni
+
+-ks-
+
+nuksa
+
+-kr-
+
+Sakri
+
+-kl-
+
+bakla
+
+-ky-
+
+sakya?
+
+-khl-
+
+purkhlefi
+
+-V
+
+so?pet
+
+-?ph-
+
+so?phan
+
+-?b-
+
+le?bo:r
+
+-?bh-
+
+le?bha
+
+-?th-
+
+thya?tha:y
+
+-?d-
+
+bu?dak
+
+po?jat
+
+-?k-
+
+sa?kiit
+
+-?kh-
+
+do?kha
+
+so?roinken
+
+-?n-
+
+do?nu:d
+
+.? v .
+
+mi?iji
+
+-?s-
+
+nu?sip
+
+-?h-
+
+sa?haju
+
+-?y-
+
+le?yabe?
+
+‘shore’
+
+‘nineteen’
+
+‘fifteen’
+
+‘seventeen’
+
+‘backbone’
+
+‘eleven’
+
+‘tax’
+
+‘aloof’
+
+‘up’
+
+‘street’
+
+‘to move’
+
+‘eagle’
+
+‘sample’
+
+‘servant’
+
+‘to make mistake’
+
+‘to hiccup’
+
+‘a kind of eatable’
+
+‘navel’
+
+‘jackfruit’
+
+‘violence, force’
+
+‘to treat well'
+
+‘to liedown’
+
+‘to engrave’
+
+‘sole of a foot’
+
+‘to get stuck’
+
+‘fish’
+
+‘chilly’
+
+‘heart’
+
+‘east’
+
+‘omen’
+
+‘to remain in one place’ 
+‘a native game’
+
+40
+
+Khasi Phonetic Reader
+
+-mp-
+
+timpew
+
+‘betal leaf’
+
+-mb-
+
+timbuyt
+
+‘elbow’
+
+-mbh-
+
+khambha
+
+‘to excel’
+
+-mt-
+
+khlemte?
+
+‘to untie (a knot)’
+
+-mth-
+
+ba:mthan
+
+‘glutton’
+
+-md-
+
+lo:mdi?/
+
+‘volcano 5
+
+-mj-
+
+imju
+
+‘never’
+
+-mkh-
+
+ba:mthana
+
+‘picnic’
+
+-mm-
+
+ummat
+
+‘tear’
+
+-mn-
+
+kunano
+
+‘who’
+
+-mij-
+
+uratjap
+
+‘honey’
+
+-ms-
+
+ba:msap
+
+‘bribary’
+
+-mg-
+
+bimSa:d
+
+‘unroll’
+
+-mh~
+
+ba:mbinro?
+
+‘eclipse’
+
+-mr-
+
+lo:mrit
+
+‘hillock’
+
+-ml-
+
+samla
+
+‘young human being’
+
+-mw-
+
+lamwir
+
+‘mad’
+
+-np-
+
+wanpat
+
+‘to rebound’
+
+-nph-
+
+sanphew
+
+‘fifty’
+
+-nb-
+
+pinbieyd
+
+‘allusement’
+
+-nt-
+
+banta ?
+
+‘to chisel’
+
+-nth-
+
+minthi
+
+‘stubbornness’
+
+-nd-
+
+rind a
+
+‘carpenter’s plane’
+
+-nj-
+
+kinja
+
+‘ganja’, (pinkhi? ‘agitation’)
+
+-nm-
+
+kinma'w
+
+‘to remember’
+
+-nn-
+
+i:tinnad
+
+‘beautiful’
+
+-nn-
+
+hinhiew
+
+‘seven’
+
+-ns-
+
+minsiem
+
+‘spirit’
+
+-ng-
+
+khanSi
+
+‘scissor’
+
+-nh-
+
+kinhu:n
+
+‘batch’
+
+-nr-
+
+pinsem
+
+‘to condemn’
+
+-nl-
+
+sinlen
+
+‘bald’
+
+-nw-
+
+pinvvit
+
+‘to trust’
+
+-ny-
+
+ganya
+
+‘to trust’
+
+-np-
+
+ska:5pkjon
+
+‘mosquito’
+
+-nph-
+
+jatfiphoij
+
+‘clothings’
+
+41
+
+Phonetic Inventory
+
+-nb-
+
+ja-hbo
+
+-nt-
+
+pahtali
+
+-nj-
+
+senjir^am
+
+-hk-
+
+ja:nkupa
+
+-Jm-
+
+jiijbunmasi
+
+-hn-
+
+kehno
+
+-hs-
+
+jainsem
+
+-fir-
+
+sahroiji
+
+-ny-
+
+jaifiya
+
+-7JP-
+
+jiijpini
+
+-Tjph-
+
+joTjphi
+
+-7)b-
+
+liijba
+
+-v t-
+
+tei/te-ij
+
+-ijth-
+
+eirlaijthari
+
+-7) d-
+
+liijdo?
+
+-vi-
+
+yeijjoyt
+
+-ijk-
+
+yaritjko
+
+-7jkh-
+
+ti7/<hu?
+
+-Tjm-
+
+iyeijmane
+
+-Tjn-
+
+paijnu:d
+
+-W-
+
+pinseij-tje
+
+-7)5-
+
+diet/so?piei 7
+
+-1j5-
+
+ti^Satn
+
+-ijh-
+
+Ti7)he7)
+
+-7)7-
+
+jii?ri?
+
+-7)\-
+
+khaijlad
+
+-7)y-
+
+tuijyoi;
+
+-sp-
+
+Sispa?
+
+-sb-
+
+esbad
+
+-sd-
+
+jasdie
+
+-sk-
+
+puriskatm
+
+-skh-
+
+atoskhana
+
+-sl-
+
+khuslay
+
+‘dhoti’
+
+‘chisel’
+
+‘green snake’
+
+‘a kind of garment used by 
+khasi women’
+
+‘udder’
+
+‘to resign’
+
+‘a garment used as outer 
+covering by khasi ladies’
+
+‘to dye’
+
+‘towel’
+
+‘indication’
+
+‘your’
+
+‘through’
+
+‘seldom’
+
+‘whirl-wind’
+
+‘priest’
+
+‘to stand up’
+
+‘rooster’
+
+‘to collide’
+
+‘to worship’
+
+‘anguish’
+
+‘to check’
+
+‘mango tree’
+
+‘dazzling’
+
+‘to keep completely open 
+(door out)’
+
+‘to belch’
+
+‘to obstruct’
+
+‘dried small fish’
+
+'one hundred’
+
+‘steel’
+
+‘fried rice’
+
+‘fiction, myth’
+
+‘chimney’
+
+‘to mourn’
+
+42
+
+-Sn-
+
+bi :Sni
+
+-Sr-
+
+yaSriem
+
+■
+
+W.
+
+i
+
+SiSya
+
+-rp-.
+
+tirpeij
+
+-rph-
+
+atrphew
+
+-rb-
+
+kirbeyt
+
+-rt-
+
+sfrti
+
+-rth-
+
+pfrthat
+
+-rd-
+
+kirdem
+
+-rj-
+
+jarjar
+
+-rk-
+
+ke.'rkut
+
+-rkh-
+
+pirkhi -17
+
+-rm-
+
+thurmer
+
+-rn-
+
+tirnem
+
+-T1J-
+
+jtrijam
+
+-rs-
+
+tirsimp
+
+-rS-
+
+pir§a77
+
+-rh-
+
+jfrho?
+
+-rw-
+
+ttrwa
+
+-ry-
+
+bi:rya
+
+-lm-
+
+kulmatr
+
+-In-
+
+Salni
+
+- 11 -
+
+pi -1 lei;
+
+-ly-
+
+salya
+
+-wph-
+
+sa:wphew
+
+-wb-
+
+niewbeh
+
+-wbh-
+
+sijewbha
+
+-wth-
+
+matwtho?
+
+-wd-
+
+satwdoij
+
+-wj-
+
+ma:wjii}kiei}
+
+-wk-
+
+matwkirdon
+
+-wkh-
+
+matwkhar
+
+Khasi Phonetic Reader
+
+‘to hate’
+
+‘similar’
+
+‘to deny’
+
+‘shoulder’
+
+‘twenty’
+
+‘to stretch’
+
+‘file’
+
+‘thunder’
+
+'to stamp’
+
+‘secret’
+
+‘to surround’
+
+‘strict’
+
+‘recklessly’
+
+‘hammer’
+
+‘green’
+
+‘claw’
+
+‘to examine’
+
+‘to cough’
+
+‘to.offer’
+
+‘amuse’
+
+‘cou.fuse’
+
+‘sieve’
+
+‘egg’
+
+‘to bother’
+
+‘forty’
+
+‘to despise’- 
+‘to feel good’
+
+‘slate-pencil’
+
+‘square’
+
+‘staircase’
+
+‘step’
+
+‘village name’
+
+Phonetic Inventory
+
+43
+
+-win-
+
+tiewnui7;o:r
+
+‘mary gold flower’
+
+-wn-
+
+khiewnar
+
+‘metalpot’
+
+-W1J-
+
+rew-jjap
+
+‘bee-hive’
+
+-ws-
+
+sijewsi?
+
+‘to annoy’
+
+-Wg-
+
+ma:wginrot
+
+‘touch-stone’
+
+-wr-
+
+riewra^ba
+
+‘headman’
+
+-wl-
+
+dewlrnnOT7
+
+‘island’
+
+-wy-
+
+dewyoij
+
+‘coal’
+
+-yp-
+
+natypila-j;
+
+'rat (found in the field)’
+
+-yph-
+
+- la:yphew
+
+‘thirty’
+
+-yb-
+
+a:ybi?
+
+‘to prison’
+
+-yt-
+
+ja:ytu?
+
+‘lazy’
+
+1
+
+v-
+
+Er
+
+i
+
+bleytha:w
+
+‘image’
+
+-yd-
+
+malaydud
+
+‘cream of milk’
+
+-yj.
+
+ja:yja:y
+
+‘innocent’
+
+-ykh-
+
+ratykho?
+
+‘thin’
+
+-yn-
+
+baynoTji
+
+‘reward’
+
+-yv-
+
+bay?/onsa:w
+
+‘tomato’
+
+-ys-
+
+bayse^
+
+‘capital’
+
+-y§-
+
+sarygarak
+
+‘wick’
+
+-yh-
+
+meyhep
+
+‘maternal grand mother’
+
+-yr-
+
+meyrit
+
+‘mother’s younger sister’
+
+-yi-
+
+khayla
+
+‘ear ornament’
+
+-yw-
+
+kulaywa?
+
+‘hippopotamous’
+
+!. Three consonant clusters :
+
+-pkhm-
+
+khabripkhmat
+
+‘wink ’
+
+-Pny-
+
+thaphyar;
+
+‘wing’
+
+-psb-
+
+hapsbak
+
+‘fall’
+
+-psi;-
+
+sepsrji
+
+‘sunset’
+
+-tbn-
+
+metbnei;
+
+‘planet’
+
+-tkp-
+
+setkpo?
+
+‘constipation’
+
+-tkhra-
+
+yitkhmat
+
+‘spectacles’
+
+-tkhn-
+
+ma:wsya-
+
+tkhnam
+
+‘a village name’
+
+44
+
+Khasi Phonetic Reader
+
+-tmy-
+
+atmyai/
+
+‘to have mumps’
+
+-tny-
+
+phutftyut
+
+‘weed, (remove weed)
+
+-tsij-
+
+khotsr/ewbha
+
+‘welcome’ (kjats-^i ‘ray’)
+
+-dphr-
+
+khadphra
+
+‘eighteen’
+
+-dkm-
+
+Sa:dkmen
+
+‘rejoice’
+
+-dst-
+
+tiedstiij
+
+‘tap’ (knock lightly)
+
+-khly-
+
+jakhlya
+
+‘dirty’
+
+-?br-
+
+so?brab
+
+'a variety of fruit’
+
+-?by-
+
+bu?byaij
+
+‘putback’
+
+-?tr-
+
+so?trun
+
+‘pineapple’
+
+-?ks-
+
+bsu?ksa:y
+
+‘thread’ (a needle)
+
+-?kl-
+
+le?klep
+
+‘ambush’
+
+-?ky-
+
+so?khya
+
+‘cucumbir’
+
+-?kht-
+
+s?jewsi?khta7;
+
+‘resent’
+
+-?mr-
+
+so? mrit
+
+‘pepper’
+
+.?ny.
+
+so?nyamtra
+
+‘orange’
+
+-?sn-
+
+mi?sna:m
+
+‘bleed’
+
+-?si7-
+
+mi?si/i
+
+‘sunrise’
+
+-?sl-
+
+sa?slem
+
+‘last’ (stay in condition)
+
+-?sk-
+
+sa?sko:r
+
+‘listen’
+
+-?8n-
+
+ra?;ba •’Sno?)
+
+‘headman’ (of the village)
+
+-?5y-
+
+so?Syap
+
+‘berry’
+
+-mbn-
+
+ba:mbna:y
+
+‘board’(v)
+
+-mbr-
+
+labatmbriew
+
+‘man eater’ (tiger)
+
+-rakt-
+
+tfrsimkti
+
+‘finger nail’
+
+-mkl-
+
+kemklo:y
+
+‘grasp’
+
+-rakhr-
+
+demkhrup
+
+‘kneel down’
+
+-ms7/-
+
+bttns-gewttnnad ‘dislike’
+
+-mrkh-
+
+phu?samrkhie
+
+‘smile’ (v)
+
+-npj-
+
+ptnpja?
+
+•cool’ (v)
+
+-npr-
+
+banpru:d
+
+‘scratch’
+
+-npl-
+
+banplied
+
+‘to open’
+
+Phonetic Inventory
+
+-nbt-
+
+banbtuyt
+
+-nbn-
+
+pin bn a
+
+-nbs-
+
+banbsa
+
+-nbr-
+
+banbret
+
+-ntr-
+
+bantrey
+
+-ntl-
+
+bantlar
+
+-nthn-
+
+pinthnam
+
+-nthl-
+
+banthli?
+
+-ndk-
+
+bandkut
+
+-ndy-
+
+khindyat
+
+-njr?-
+
+banj7ji
+
+-njr-
+
+kinjri
+
+-njl-
+
+pinjli?
+
+-nkb-
+
+bankbo?
+
+-nkt-
+
+bankta?
+
+-nkth-
+
+banktha
+
+-nkd-
+
+pinkdotr
+
+-nkj-
+
+menkjat
+
+-nkm-
+
+bankmen
+
+-nks-
+
+banksam
+
+-nkr-
+
+bankren
+
+-nkl-
+
+bankli?
+
+-nkhm-
+
+bankhmat
+
+-nkhn-
+
+bankhrtium
+
+-nkhr-
+
+pinkhre?
+
+-nkhl-
+
+pinkhlasd
+
+-nml-
+
+pin m lien
+
+-nfiy-
+
+kh+nnyo?
+
+-nst-
+
+minstep
+
+-nsd-
+
+bansdai;
+
+-nskh-
+
+pinskhem
+
+-nsm-
+
+bansma?
+
+-nsn-
+
+bansnie?
+
+-nsi;-
+
+bans^ew
+
+-nsl-
+
+banslem
+
+-nSn-
+
+banSna
+
+-nSSr-
+
+ban§roii
+
+45
+
+‘to slip’
+
+‘fire notice’
+
+‘to feed’
+
+‘to throw sway’
+
+‘to work’
+
+‘to fade’
+
+‘to boil’
+
+‘to chop’
+
+‘to break’
+
+‘some’
+
+‘to swim’
+
+‘chain’
+
+‘to scrape’
+
+‘to scratch’
+
+‘to finger’ (an instrument)
+
+‘to chew’
+
+‘to plait’
+
+‘front of the side’
+
+‘to enjoy’
+
+‘tease ; prick’
+
+‘to speak’
+
+‘to fold’
+
+‘to look at’
+
+‘to frowl’
+
+‘prepare’
+
+‘to separate’
+
+‘to practice’
+
+‘shake’
+
+‘morning’
+
+‘begin’
+
+‘tighten’
+
+‘to smell’
+
+‘to skin’
+
+‘to feel’ ; mkts-jji ‘day time’
+
+‘to long for’
+
+‘to bore’ (a hole)
+
+‘to rattle’
+
+46
+
+Khasi Phonetic Reader
+
+nsl-
+
+bansley
+
+nhy-
+
+pinhyarji^kit
+
+nrb-
+
+pinrben
+
+nry-
+
+sinrya?
+
+hbn-
+
+suabnei;
+
+nthl-
+
+sehthli
+
+nny-
+
+ja:hnya:d
+
+risp-
+
+jaihspor;
+
+?;br-
+
+laijbrot
+
+7/tr-
+
+iyei/trep
+
+■ijll-
+
+die-J 7 tIa:y
+
+i/thm-
+
+jir/thmu
+
+ijthy-
+
+ji7/th?7an
+
+•^dkh-
+
+liT/dkhur
+
+^jr-
+
+jirjjrOTj
+
+r]kp-
+
+pai/kpo?
+
+ijkt-
+
+rinda7/kti
+
+7?kd-
+
+li^kdop
+
+7/kj-
+
+puijkja't
+
+7/km-
+
+jiijkmen
+
+Tjks-
+
+dieijksef'
+
+7 /kr-
+
+waytiii/kroT/
+
+7/khr-
+
+n07/khro7/
+
+77 k h 1 -
+
+tUT/khlefi
+
+ijsb-
+
+jirjsbun
+
+^skh-
+
+ji7/skhem
+
+7 ?sn-
+
+die 7 /snepko:r
+
+7jSl-
+
+jii/Slor
+
+7/ry-
+
+so?na77iya7ji
+
+77 !?-
+
+ro);l?o?
+
+str-
+
+estri
+
+‘to overflow’
+
+‘unload’
+
+‘to thicken’
+
+‘sneeze’
+
+‘sky’
+
+‘a kind of poisonous snake’ 
+‘towel’
+
+‘turban’
+
+‘sheep’
+
+‘hut’
+
+‘palmtree’
+
+‘aim’
+
+‘hunger’
+
+‘pigeon’
+
+‘height’
+
+‘have stomach ache’
+
+‘wrist’
+
+‘small’
+
+‘leg’
+
+‘happiness’
+
+‘pine tree’
+
+‘knife used to cut meat’ 
+‘begger’
+
+‘dried small fish’ 
+‘generosity’
+
+‘firmness’
+
+‘coconut tree’
+
+‘courage’
+
+‘a kind of fruit’
+
+‘very light blue’
+
+‘iron-box’
+
+■rthm- hyarthma ‘invade’
+
+rkp- pinyarkput ‘average’
+
+Phonetic Inventory
+
+-rkm- paraatrkmie
+
+‘cousin’ (motherside)
+
+-rkhm-
+
+durkhmat
+
+‘entire face’
+
+-rkhw-
+
+narkhwaty
+
+‘fishing hook’
+
+-rny-
+
+thi-rnya
+
+‘needle’
+
+-rsl-
+
+po:rslap
+
+‘rainy season’
+
+-rsy-
+
+mirsyar;
+
+'fox’
+
+-rSy-
+
+pirSya?
+
+‘opposite ; against’
+
+-lby-
+
+spelbyai/
+
+‘repeat’
+
+-lhy-
+
+alhya
+
+‘lazy ; idle’
+
+-Hy-
+
+tillyat
+
+‘grind’
+
+-wphy-
+
+kiewphyaij
+
+‘brass vessel or jar’
+
+-wbth-
+
+satwbthou?
+
+‘brown’
+
+-wby-
+
+siewbyai;
+
+‘repay’
+
+-wkm-
+
+srjewkmen
+
+‘excitement’
+
+-wkhm-
+
+thliewkhmut
+
+‘nostril’
+
+-wkhr-
+
+riewkhra:w
+
+‘greatman’
+
+-wkhl-
+
+miewkhla:w
+
+‘wild cat’
+
+-wsp-
+
+riewspa?
+
+‘richman’
+
+-ws?-
+
+ja:ws?ep
+
+‘perspire’
+
+-wsy-
+
+stntiewsiji
+
+‘sunflower’
+
+-wly-
+
+tawlya
+
+‘towel’
+
+-ypd-
+
+jaypde
+
+‘lazy'
+
+-yby-
+
+a:ybyan
+
+‘return'
+
+-ytp-
+
+leytpeyt
+
+‘visit’
+
+-ytph-
+
+leytpha:y
+
+‘return’ (go back)
+
+-ytt-
+
+wayttiijkroi;
+
+‘knife used to cut meat’
+
+-ytth-
+
+peytthu?
+
+‘reorganize’
+
+-ytk-
+
+peytka:y
+
+‘see for pleasure’
+
+-ytd-
+
+laytdo?
+
+‘sprain’
+
+-ytj-
+
+leytjiijleyt
+
+‘travel’
+
+-ytm-
+
+eytmut
+
+‘mucus’
+
+-ytn-
+
+leytno?
+
+‘go away’
+
+-ytTj-
+
+peytjjo:r
+
+‘to keep watch’
+
+-yts-
+
+buytsins5a:r
+
+‘policy’
+
+-ytS-
+
+leytSatw
+
+‘fetch’
+
+48
+
+Khasi Phonetic Reader
+
+-ytr-
+
+ptnsuytroij
+
+‘bleach’
+
+-yti-
+
+waytlam
+
+‘sword’
+
+-ydp-
+
+ya:ydpkthey
+
+‘go around’ (the world)
+
+-ydk-
+
+yarydkumkhan ‘paddle’ (v)
+
+-ydsr
+
+yatydsakma
+
+‘strangle’
+
+-ydr-
+
+ieydri
+
+‘patriot’
+
+-ydl-
+
+ya:ydlinti
+
+‘travel’
+
+-yny-
+
+yataynya
+
+‘discuss’
+
+-ysn-
+
+poysnam
+
+‘bleed’
+
+-ysij-
+
+arysijewbha
+
+‘chant’
+
+-ySy-
+
+ya:ySya
+
+‘tolerance’
+
+i. Four consonant clusters :
+
+-mpry-
+
+simprya?kti
+
+‘finger’
+
+-mphny-
+
+umphnyaij
+
+‘oil’
+
+-npdy-
+
+banpdya^
+
+‘to admit’
+
+-nphry-
+
+pinphrya-j;
+
+‘scatter’
+
+-nphly-
+
+pknphlya?
+
+‘flicker’
+
+-nkhny-
+
+bankhhyot
+
+‘to squeeze’
+
+-nkhry-
+
+bankhryat
+
+‘shiver’
+
+-ns?y-
+
+khu:ns?yar
+
+‘chicken’
+
+-7jbsy-
+
+nya^bsya?
+
+‘lizard’
+
+-ytbn-
+
+waytbno?
+
+‘knife with a hook at the end’
+
+-ytsy-
+
+peytsyar
+
+‘to peep’
+
+-yddk-
+
+ya:yddko?
+
+‘to limp’
+
+2.4.3. In final position only two consonant clusters occur. 
+They are -yt and -yd.
+
+-yt
+
+payt
+
+"to break’
+
+dayt
+
+‘to bite’
+
+-yd
+
+ieyd
+
+'to love’
+
+pa:yd
+
+‘crowd’
+
+3. DESCRIPTION OF KHASI 
+SPEECH SOUNDS
+
+3.1. Vowels :
+
+3.1.1. The vowel sounds of Khasi at the
+
+phonetic level are
+
+tabulated below :
+
+Front Central Back
+
+high
+
+i i: i-
+
+u u:
+
+highermid
+
+e e
+
+o o
+
+mid
+
+e:
+
+o:
+
+lowermid
+
+E
+
+O
+
+low
+
+a a
+
+a - .
+
+Diphthongs:
+
+ie
+
+uo
+
+iu
+
+oa
+
+3.1.2. These vowel sounds are classified into 11 groups depend¬ 
+ing upon their phonemic status.
+
+1. [i] ;
+
+2. [i:] ;
+
+3. [e] includes [ej [e] and [E] ;
+
+4. [e:];
+
+50
+
+Khasi Phonetic Reader
+
+5. [i] ;
+
+6. [a]: include [a], and [a] ;
+
+7. [a:] ;
+
+8. [o] includes [o], [q] and [o];
+
+9. [o:];
+
+10. [u], and
+
+11. [u:].
+
+The diphthongs are described in the respective sections 
+under vowels.
+
+3.1.3. Before going into the details, it is necessary to note a 
+few features of vowels which are common to all or most of the 
+vowels ; and their mention is not made in their individual 
+description.
+
+1. All vowels are oraliy 'produced. That is, in the 
+production of vowels the velic passage is closed and 
+the oral passage is open.
+
+2. All vewels are voiced. That is, in the production of 
+vowels the vocal cords vibrate.
+
+3. All front vowels are spread or unrounded (lip position); 
+and all back vowels are rounded.
+
+4. All long vowels have restricted occurence and only a 
+limited number of words with the long vowels are 
+found in the data.
+
+3.1.4. /i/ is realized as |i] everywhere.
+
+It is produced by raising the front part of the tongue 
+towards the hard palate as high as possible ; but not so much 
+as to touch the hardpalate or create any friction therein. 
+During the production of this sound the lips are spread. This 
+vowel is called the high front short vowel.
+
+It occurs in the following environments-
+
+Initially before a consonant.
+
+itn ‘live’ (v)
+
+if? ‘burn’ (v)
+
+iyei/ ‘house’
+
+isbad ‘steel’
+
+Description of Khasi Speech Sounds
+
+51
+
+Medially
+
+between consonants
+
+Finally after a consonant
+
+tip
+
+‘know’
+
+phi
+
+‘you’
+
+tim
+
+‘curse’ (v)
+
+ki
+
+‘they’
+
+sim
+
+‘bird’
+
+yi
+
+‘we’
+
+Sim
+
+‘take’
+
+ri
+
+‘country’
+
+siij
+
+‘lion’
+
+sati
+
+‘ring’
+
+Sida
+
+‘simple’.
+
+‘innocent’
+
+3.1.5. /i:/ is realized as [i:] every where
+
+In the production of this vowel
+
+the
+
+tongue height is the
+
+same as that
+
+for (i); the duration
+
+is longer, than for the
+
+shorter variety.
+
+It is called the high, front, long vowel.
+
+It occurs in the following environments-
+
+Initially before consonants Medially-before a consonant
+
+itsi? ‘dislike’ si:ma:d ‘bedbug’
+
+i:strkhey ‘terrific’
+
+kstnney ‘pity’
+
+3.1.6. /e/ has three variants viz (i) [e], (ii) [g], and (iii) [E]. 
+(i) [e] is produced by raising the front part of the tongue 
+towards the hard palate to a level slightly higher than half the 
+height of the oral cavity, and the lips are spread. This vowel 
+is slightly higher than the cardinal vowel [e].' It is called the 
+higher-mid, front, short vowel.
+
+It occurs in the following environments-
+
+Initially before consonant 
+em ‘well-to-do’
+
+Medially between comonants 
+nep ‘sharp’
+
+ber ‘like-flash’
+
+jem ‘soft’
+
+rem ‘dear’ (costly) 
+re-ij ‘horn’
+
+met ‘body’
+
+52
+
+Khasi Phonetic Reader
+
+Finally after consonants
+
+kane ‘this’
+
+me ‘thou’
+
+ti:kme ‘thumb’
+
+It occurs in all the above environments except before a glottal 
+stop.
+
+ii) [ 5 ] is shorter variety of [e]. It occurs after [i] only, 
+to form a progressive diphthong. It occurs in medial and final 
+positions, only with [i].
+
+‘ladder’
+
+/kiei;/
+
+[die]
+
+‘sell’
+
+/die/
+
+[sdign]
+
+‘hang’
+
+/sdten/
+
+[prig]
+
+‘vomit’
+
+/prie/
+
+[dign]
+
+‘back’
+
+/ dien /
+
+[khig]
+
+‘ra ise'
+
+/ k h ie/
+
+iii) [E]
+
+is produced by
+
+raising the
+
+front part
+
+of the
+
+tongue
+
+towards the hard palate to a level slightly lower than half the 
+height of the oral cavity and the lips are spread. This vowel is 
+slightly lov/er then the cardinal vowel [e]. it is called the 
+lower mid, front, short vowel.
+
+It occurs initially, medially before [?J only.
+
+[E?J
+
+‘hard’
+
+/--?/
+
+[PE?]
+
+‘sieve’
+
+/pc?/
+
+[1E?J
+
+‘do’
+
+/Ie?/
+
+[hE?j
+
+‘b.g’
+
+/he?/
+
+3.1.7. /e:/ is realized as re - j everywhere.
+
+It is produced by raising the front part of the tongue 
+towards the hard palate exactly half the height of the oral 
+cavity and the duration is long. This vowel is similar to the 
+cardinal vovval [e] in height and lip positon.
+
+It is called the mid, front, long vowel.
+
+It occurs initially and medially in few forms only.
+
+e:m ‘not’
+
+be:r ‘well-to-do’
+
+Description of Khasi Speech Sounds 53
+
+3. 1. 8. /i/ is realized as [i] every where.
+
+It is produced by 'raising the centre of the tongue towards 
+the roof ol the mouth where the hard and the soft palates meet. 
+The lips are in neutral position. It is called the high, central, 
+short vowel.
+
+It occurs in the following environments-
+
+1. Initially before consonants—
+
+im ‘not’
+
+in ‘future tense marker’
+
+2. Medially in Cj— c 2 [c 3 ] environment; where c 1 —c 2 tt
+
+U—vl
+
+Cj stands for any consonant ; and 
+Co stand for a nasal, r or 1.
+
+Examples:
+
+min
+
+‘ago’
+
+binta
+
+‘part’
+
+jirtjam
+
+‘green’
+
+killa
+
+‘charge’
+
+lirsim
+
+‘claw’
+
+sintiew
+
+‘flower’
+
+simba:y
+
+‘seed’
+
+li-7/ka
+
+‘crow-bar’
+
+sirti
+
+‘file’
+
+3.1.9. /a/ has two variants, viz. [a] and [&].
+
+(i) [a] is produced when the centre of the tongue is low ; and
+
+the lips remain in the neutral position. It is called the low, 
+central short vowel.
+
+It occurs in the following environments-
+
+Initially before consonants Medially between consonants
+
+ale
+
+‘come’
+
+tap
+
+‘cover’
+
+a 7)
+
+‘open’
+
+dap
+
+‘be full’ (v)
+
+ap
+
+‘wait, watch’
+
+yap
+
+‘die’
+
+tad
+
+‘cheap’
+
+jam
+
+‘make noise
+
+nan
+
+‘pool’
+
+saij
+
+‘basket’
+
+54
+
+Khasi Phonetic Reader
+
+Finally after consonants
+
+ka •
+
+‘she’
+
+na
+
+‘from’
+
+ha
+
+‘to’
+
+sla
+
+‘leaf’
+
+ija
+
+T
+
+2. [a] is shorter variety of [a]. It occurs after [o] only 
+to form a progressive diphthong. It occurs only in final, 
+position in one item only. eg. [khaboa] ‘a variety of fish' 
+/khaboa/.
+
+3.1.10. /a:/ is realized as [a:] every where.
+
+In the production of this vowel the tongue height is lower 
+than for the short [aj but the duration is longer than for the 
+short variety, while other conditions remain same. It is called 
+the low, central, long vowel.
+
+It occurs in the following environments—
+
+Initially before consonants Medially between consonants
+
+a:r
+
+‘two’
+
+pa:n
+
+‘ask’
+
+atrtatien
+
+‘doubt’
+
+ma:d
+
+‘taste’ (v)
+
+a:y
+
+‘give’
+
+sa:d
+
+‘dance’
+
+ija:b
+
+‘check’
+
+ja:m
+
+‘step’ (v)
+
+3.1.11. /o/has three variants viz.(i).[o], (ii). [o] and (iii). [O].
+
+(i) [o] is produced by raising the back part of the tongue 
+towards the soft palate to a level slightly higher than half the 
+height of the oral cavity and the lips are rounded. This vowe* 
+is slightly higher than the cardinal vowel [o], it is called the 
+higher-mid back, short vowel.
+
+It occurs in the following environments—
+
+Initially before consonants 
+07? ‘say’
+
+ot ‘cut’
+
+55
+
+Description of Khasi Sounds Speech
+
+Medially between consonants 
+sop ‘cover’
+
+thok ‘lie’(utter false hoodj
+
+mon ‘prefer'
+
+dom ‘anger’
+
+jop ‘succeed'
+
+kot ‘reach'
+
+tor ‘lung’
+
+Finally after consonants 
+uno ‘who’
+
+tirso ‘mustard’
+
+[o] occurs in all the above environments except before a glottal 
+stop. (ii). [q] is shorter variety of [o]. It occurs only after [u] 
+or [u:] to form a progressive diphthong. It occurs only in 
+medial position.
+
+[fShUQ?]
+
+‘hair’
+
+/snuo/
+
+[pu:gr]
+
+‘string’
+
+/pu:or/
+
+[trurpd]
+
+‘scratch’
+
+/tru:od/
+
+[nupd]
+
+‘kernaF
+
+/nuod/
+
+(iii). [0] is produced by raising the back part of the tongue
+
+towards the soft
+
+palate to a
+
+level slightly lower than half the
+
+height of the oral
+
+cavity and the lips are rounded. This vowel
+
+is slightly lower than the cardinal vowel [o]. It is called the
+
+lower-mid, back, short vowel.
+
+It occurs medially before [?] only.
+
+[dO?]
+
+‘kiss’
+
+/dO?/
+
+[SO?]
+
+‘strike’
+
+/So?/
+
+[sO?]
+
+‘fruit’
+
+/so?/
+
+[yO?]
+
+‘get’
+
+/yo?/
+
+3.1.12. /o:/ is realized as [o:] every where.
+
+[o:] is produced by raising the back part of the tongue 
+towards the soft palate exactly half the height of the oral 
+cavity and the duration is long. This vowel is similar to the 
+cardinal vowel [o] in height and lip position.
+
+It is called the mid, back, long vowel.
+
+56
+
+Khasi Phonetic Reader
+
+It occurs medially only —
+
+bo:r
+
+‘power’
+
+po:r
+
+‘time’
+
+klo:y
+
+‘quickly’
+
+3.1.13. /u/ is realized as [u] every where.
+
+1 . [u] is produced by raising the back of the tongue a*
+
+high as possible towards the soft palate but not so as to create 
+any contact or friction with the soft palate. During the 
+production of this sound the lips are rounded.
+
+This is called the high, back, short vowel.
+
+It occurs in the following environments—
+
+Initially before consonants Medially between consonants
+
+u
+
+‘he’
+
+put
+
+‘blow’
+
+um
+
+‘water’
+
+PUT]
+
+‘lake’
+
+ur
+
+‘fall’ (down)
+
+suki
+
+‘slow’
+
+sum
+
+‘bathe’ (v)
+
+ju?
+
+‘same’
+
+ru?
+
+‘also’
+
+Finally after consonants 
+ju ‘ever’
+
+thmu ‘aim’
+
+3.1.14. /u:/ is realized as [u:] every where.
+
+In production of this vowel the tongue height is as that for 
+[u]; but the duration is longer than for the shorter variety 
+It is called the high, back, long vowel.
+
+It occurs medially only—
+
+pu : d ‘bridge’
+
+bu:d ‘copy’, ‘follow’
+
+pu^kni ‘eagle’
+
+bum ‘many’
+
+3.1.15. Vowel Diphthongs.
+
+Diphthongs are those in which there is glide from one 
+vowel to another. In the process one vowel will be the nuclear
+
+Description of Khasi Speech Sounds
+
+57
+
+and the other non-nuclear or pheripheral. The first vowel, 
+gives the starting point for the glide and the second the 
+direction of the movement of the glide. In Khasi only progres¬ 
+sive diphthongs are noted.
+
+In Khasi diphthongs with only two vowels are found. They 
+are found in the medial and final positions. These are the 
+diphthongs—
+
+Medially
+
+Finally
+
+ie
+
+ie
+
+iu
+
+iu
+
+uo
+
+oa
+
+As can be noted from above, the central high vowel (/i/) 
+does not take part in the formation of diphthongs. Among 
+these the 3rd does not occur in final position and oa does not 
+occur in the medial position.
+
+These diphthongs are already described in the sections on 
+/e/; /u/, /of and /a/.
+
+3. 1. 16. A Note On Vowel Clusters—
+
+Vowel sequences when they occur across morphene boun¬ 
+daries, constitute vowel clusters. Here, both the vowels are 
+syllabic and constitute nuclei of different syllables; unlike in 
+vowel diphthongs where one vowel is syllabic and another 
+nonsyllabic and constitute one syllable.
+
+These are not many. In the data these vowel clusters are 
+noted.
+
+ue-
+
+uey
+
+"what’
+
+-ie-
+
+kiey
+
+‘what’ (pi)
+
+-ae-
+
+kaey
+
+‘what’
+
+The vowel clusters are found in initial and medial positions 
+only as above.
+
+58
+
+Khasi Phonetic Reader
+
+Though the vowel clusters of the above type is found 
+mainly across morpheme boundaries ; there are a few 
+morphemes where this situation exists though it does not fulfil
+
+the above conditions. eg.
+
+kaut
+
+‘to whip’
+
+also- briew ‘human being’
+
+bieyd
+
+‘foolish’
+
+jilliew
+
+‘depoth’
+
+liur
+
+‘summer’
+
+3.2. Consonants
+
+3.2.1. The consonant sounds of Khasi at the phonetic level 
+are tabulated below—
+
+Bila¬
+
+Alveo¬
+
+Pala¬
+
+Velaur
+
+Glo¬
+
+bial
+
+lar
+
+tal
+
+ttal
+
+Stops-voiceless un-aspi.
+
+P
+
+t
+
+k
+
+?
+
+voiceless aspi.
+
+ph
+
+th
+
+kh
+
+voiced un-aspi.
+
+b
+
+d
+
+j
+
+voiced aspi.
+
+bh
+
+dh
+
+jh
+
+Nasals
+
+m
+
+n
+
+h
+
+V
+
+Fricatives
+
+s
+
+$
+
+h
+
+Trills
+
+r r
+
+Lateral 1
+
+Fricgtionless Continuants w W y Y
+
+3.2.2. Before starting description of Consonants two points 
+should be noted—
+
+1. In the initial position all consonants except nasals and 
+frictionless continuants have a vocalic release when they occur 
+with consonants other than trills, laterals and frictionless 
+continuants. As this vocalic release is a general characteristics 
+it is not transcribed separately, elsewhere. This may be marked 
+by using below the consonant clusters.
+
+kba?
+
+\j
+
+‘paddy’
+
+U>o?/
+
+‘brass’
+
+kjat
+
+‘foot’
+
+(j? 07 ?
+
+‘high’
+
+bja
+
+‘feed’
+
+tjlem
+
+‘smoke’
+
+yiie
+
+‘fry’
+
+r J?en
+
+‘thick’
+
+Description of Khasi Saund Speech
+
+59
+
+2. When the stops occur in the final 1 position, the release 
+is only slightly heard. If they occur after a sequence of two 
+vowels or after a diphthong, the release is not heard at all and
+
+therefore different stops 
+easily distinguished.
+
+occuring in that
+
+position cannot be
+
+ap
+
+‘wait'
+
+btuyt
+
+‘slip’
+
+kjat
+
+‘leg’
+
+kaut
+
+‘to whip’
+
+mra:d
+
+‘animal’
+
+kharyd
+
+‘eczema’
+
+payt
+
+‘to break’
+
+pa:yd
+
+‘crowd’
+
+kha:yt
+
+‘ring worm’
+
+Description of stops :
+
+3.2.3. Ip/ is realised as [p] every where.
+
+It is produced by stopping the air column by bringing the 
+lowerlip into firm contact with the upper lip. During the 
+closure the vocal cords do not vibrate. However before the 
+release the vocal cords come together and start vibrating so 
+that when the stop is actually released the vocal cords are in 
+the state of vibration.
+
+This is called the voiceless unaspirated bilabial, stop.
+
+This occurs in the following environments
+
+Initially
+
+before vowels
+
+Initially in clusters
+
+pom
+
+‘cut’
+
+Pja?
+
+‘cold’
+
+pe?
+
+‘siene’
+
+pla
+
+‘pocket’
+
+po?
+
+‘make oneself low’
+
+pdya77
+
+‘accept’
+
+PU 17
+
+‘lake’
+
+p?yan
+
+‘firmly’
+
+pay
+
+‘a number (8000)
+
+put
+
+‘blow’
+
+Medially between vowels- Medially after homorganic nasal- 
+rupa ‘silver’ timpew ‘betal leaf 5
+
+__ pumpum ‘dust’
+
+1 According to prof. E.Henderson, all final stops are voiceless.
+
+60
+
+Khasi Phonetic Reader
+
+Medially in
+
+clusters-
+
+Finally after rowels-
+
+Saptier;
+
+‘fearsome’
+
+ap
+
+‘wait’
+
+apjar
+
+‘net’ (v)
+
+tip
+
+‘know’
+
+sapdok
+
+(a man who is)
+
+tep
+
+‘bury’
+
+'short & stout’
+
+hep
+
+‘younger sister’
+
+snepko:r
+
+‘coconut’
+
+tup
+
+‘cannon’
+
+thaphyaij
+
+‘wing’
+
+top
+
+‘definitely’
+
+sepiji
+
+‘west’
+
+khaplo:m
+
+‘near the hill’
+
+thapbale?
+
+‘butterfly’
+
+snepso?
+
+‘peel’
+
+3.2.4. /ph/is realized as [ph] every where.
+
+It is produced by closing the air column at the lips in the 
+same way as for the unaspirated [p] ; except for the fact that 
+during the release the state of the glottis continues to be in the 
+state of voicelessness, so that between the release of the stop 
+and the following successive sound, a brief period of voiceless¬ 
+ness is heard. This is called aspiration. This is called the 
+voiceless, aspirated bilabial stop.
+
+This occurs in the following environments—
+
+Initially in clusters-
+
+phrya ‘hailstock’
+
+phlaij ‘grass’
+
+Medially in clusters- 
+u so?pho ‘pear fruit’
+
+atphillu-^ ‘wave’ (v)
+
+uso?kinpho:r ‘papaya’
+
+It does not occur in final position.
+
+3.2.5. /b/ is realized as [b] every where.
+
+It is produced in the same position as for [p]: i.e. by 
+bringing the lower lip into firm contact with the upper lip
+
+Initially before vowels-
+
+phut ‘pullout’ (tooth)
+
+phu? ‘blosson’
+
+(uso?)pha:n‘jackfruit’
+
+Medially between vowels- 
+Siphew ‘ten’
+
+Description of Khasi Sounds Speech
+
+61
+
+effecting a labial closure, except for the fact that during the 
+closure there is vibration of the vocal cords. This is called 
+voiced, unaspirated bilabial stop.
+
+It occurs in the following environments—
+
+Initially before vowels- 
+ba 'relative pronoun’
+
+be? ‘hunt’
+
+bir ‘swamp’
+
+bok ‘luck’
+
+bo:r ‘power’
+
+bu:d ‘follow’
+
+bu-'n ‘many’
+
+Initially in clusters-
+
+btuyt ‘slip’
+
+bthi-?; ‘light’ (weight)
+
+bnyat ‘tooth’
+
+bsa ‘feed’
+
+briew ‘human being’
+
+bla7? ‘goat’
+
+Medially between vowels Medially in clusters 
+Subit ‘average’ khubley ‘greetings’
+
+khabrip ‘wink’
+
+kobja ‘hinge’
+
+do^bdo.b ‘slowly & steadily
+
+Medially after homorganic nasal Finally after vowels-
+
+-mb- ‘not available’ i;a:b ‘cheek’
+
+so?brab ‘a kind of fruit’ 
+tiewkulatb ‘rose’ (flower)
+
+3.2.6. /bh/ is realised as [bh] every where.
+
+It is produced by closing the air column at the lips in the 
+same way as for the unaspirated [b]. The closure is accompa¬ 
+nied with the vibration of the vocal cords. But the release is 
+simultaneous with the opening of the glottis so that an extra 
+puff of air comes out through the glottis.
+
+This sound is called the voiced, aspirated bilabial stop.
+
+It occurs initially only- 
+bha ‘good/very’
+
+bho? ‘desire’ (impudently)
+
+62
+
+Kbasi Phonetic Reader
+
+2.3.7. /t/* is realized is [t] every where.
+
+It is produced by stopping the air column by bringing the 
+tip of the tongue in contact with the alveolar ridge. During 
+the closure the vocal cords do not vibrate.
+
+It is called voiceless, unaspirated alveolar stop. It occurs 
+in the following environments.
+
+Medially before vowels * Initially in clusters-
+
+tip
+
+‘know’
+
+tdem
+
+‘smoke’
+
+tap
+
+‘cover’
+
+tmo?
+
+‘chin’
+
+tep
+
+‘bury’
+
+tnom
+
+‘roof ’
+
+tey
+
+‘build’
+
+trey
+
+‘work’
+
+tifjka
+
+‘money’
+
+tlat;
+
+‘winter’
+
+tbyan
+
+‘bottom’
+
+Medially between vowels-
+
+Medially in clusters -
+
+lute
+
+‘plunder’
+
+iyei/Satja
+
+‘kitchen’
+
+tuta
+
+‘parrot’
+
+eytmut
+
+‘mucus’
+
+Satey
+
+‘north’
+
+leytno?
+
+‘go away’
+
+Sata
+
+‘there’
+
+pcytrjo.r
+
+‘be vigilant’
+
+peytsyar
+
+‘peep’
+
+otSe:r
+
+‘circumcise’
+
+#-
+
+peytkaty
+
+‘observe’
+
+patron
+
+‘pull by the hair’
+
+matla?
+
+‘blind’
+
+otrasi
+
+‘saw’
+
+bnyathaUi
+
+‘ivory’
+
+Medially after homorganic consonant Finally after vowels
+
+sotti ‘pure’
+
+put
+
+‘blow’ (trumphet)
+
+peytdom ‘look scornfully’
+
+sut
+
+‘interest’
+
+phet
+
+‘free’
+
+sit
+
+‘fever’
+
+kot
+
+‘reach’
+
+"'According to Prof. E. Henderson, initial t and th are dental, while 
+d and n are alveolar. But according to the present author t, d and n are 
+alveolar, and th and dh are dental.
+
+Description of Khasi Sounds Speech
+
+63
+
+3.2.8. /th/ is realized as [th] every where.
+
+It is produced by closing the air column by raising the tip 
+of the tongue and making the contact on the inner surface of 
+the upper incisors. During the release the state of the glottis 
+continues to be in a state of voicelessness. So that between 
+the release of the stop and following successive sound a brief 
+period of voicelessness is heard. This is called aspiration.
+
+It is called the voiceless, aspirated dental stop.
+
+It occurs in the following environments—
+
+Initially before vowels- Initially in clusters-
+
+tha? ‘rice’ thma ‘war’
+
+thep ‘vote’ th?/an ‘hunger
+
+thliew ‘hole’
+
+thrya-ij ‘crane’
+
+Medially between vowels-
+
+Sathie ‘south’
+
+patharw ‘a kind of pumpkin’
+
+Medially in clusters-
+
+kintho?
+
+minthi
+
+batmthan
+
+prrthat
+
+‘comment’
+
+‘stubborn’
+
+'glutton'
+
+‘thunder’
+
+It does not occur in final position.
+
+3.2.9. /d/ is realised as [d] every where.
+
+It is produced in the same position as for [t], except for the 
+fact that during the production of this sound, there is vibration 
+of vocal cords.
+
+This is called the voiced, unaspirated, alveolar step.
+
+This occurs in the following environments—
+
+Initially before vowels-
+
+Initially in clusters-
+
+diij ‘fire’
+
+dpey
+
+‘ash’
+
+do? ‘flesh’
+
+dka:r
+
+‘turtle’
+
+dom ‘danger’
+
+dkhew
+
+‘wasp’
+
+du? ‘lose’
+
+dum ‘dark’
+
+64
+
+Khasi Phonetic Reader
+
+Initillay between vewels 
+tirdu? ‘little finger* 
+muduy ‘accuse*
+
+sida ‘pure’
+
+lada ‘if’
+
+yada ‘defend’
+
+Medially in clusters
+
+ro:ddu:riyaw
+
+‘shore’
+
+ya:ydkumkahan
+
+‘paddle’
+
+(a canoe)
+
+khadsan
+
+‘fifteen’
+
+suydroij
+
+‘fade’
+
+(colour)
+
+khadhinfiiew
+
+‘seventeen’
+
+bu:dlo:m
+
+‘back bone’
+
+Finally
+
+after vowels
+
+Sard
+
+‘dance'
+
+sard
+
+‘comb’
+
+thied
+
+‘purchase
+
+tad
+
+‘cheap’
+
+burd
+
+‘follow’
+
+tied
+
+‘beat’
+
+3.2.10. /dh/ is produced by closing the air column by raising 
+the tip of the tongue and making the contact on the inner 
+surface of the upper incisors. The closure is accompanied with 
+the vibration of the vocal cords. But the release is simultaneous 
+with the opening of the glottis so that an extra puff of air 
+comes out through the glottis. This is called aspiration.
+
+This is called the voiced, aspirated, dental stop.
+
+This occurs in the following environments —
+
+Initially before vowels Medially between vowels
+
+dhara ‘a kind of cloth’ radha swan’
+
+It does not occur in final position.
+
+3.2.11. /j/ is realized as [j] every where.
+
+It is produced by making a contact of the blade of the 
+tongue against the hard palate. The vocal cords vibrate and 
+the soft palate is raised. When the contact is released the 
+tongue is moved down slowly so that a narrow passage is
+
+Description of Khasi Speech Sounds
+
+65
+
+created and the air-current escapes with friction. This sound 
+is ealied the voiced unaspirated palatal affricate.
+
+This occurs in the following environments.
+
+As it and (jh) disiributionally corresponds to the stops 
+they are included under stops.
+
+Initially before vowels- 
+ja:rn ‘step’ 
+ja 5 rice J 
+jop ‘succeed’ 
+ju? ‘same’ 
+ju ‘usually’
+
+Medially between vowels- 
+dujok ‘hell’
+
+niaji ‘sailor'
+
+ne?haju ‘keep in’ 
+hajan ‘near’
+
+Medially in clusters- 
+Saj-Fjaty ‘aloof’
+
+kha:jna ‘tax'
+
+Sajro?j ‘up’
+
+3.2.12. /jh/ is realized as [jh] every where,
+
+ft is produced by making the contact of the biade of the 
+tongue against the hard palate. The vocal cords vibrate and 
+the soft palate is raised. In this case the closure is accompanied 
+with the vibration of the vocal cords. But the release is 
+simultaneous with, the opening of the glottis so that an extra 
+puff of air comes out through the glottis. When the contact is 
+released, the tongue is moved down slowly so that a narrow 
+passage is created and the air-current escapes with friction. This 
+sound is called voiced, aspirated palatal affricate.
+
+It occurs initially only—
+
+jhur ‘vegetable’
+
+jhie? ‘wet’
+
+Initially in clusters- 
+jri ‘rubber’
+
+jya ‘happen’
+
+jlya? ‘like’
+
+jli? ‘smooth’
+
+Finally after vowels- 
+siej ‘bamboo’ 
+biej ‘silly, foolish’ 
+miej ‘table’
+
+66
+
+Khasi Phonetic Reader
+
+3.2.13. /k/ is realized as [k] every where.
+
+It is produced, by stopping the air column by raising the 
+back of the tongue to touch the soft palate. During the 
+closure the vocal cords do not vibrate.
+
+It is called the voiceless unaspirated velar stop.
+
+It occurs in the following environments.
+
+Initially before vowels Initially in clusters
+
+ki
+
+‘they’
+
+kpieij
+
+‘neck ornament’
+
+ka
+
+‘she’
+
+kba?
+
+‘paddy’
+
+ki?7
+
+‘stir’
+
+kti
+
+‘hand’
+
+kot
+
+‘reach’
+
+kjat
+
+‘foot’
+
+kut
+
+‘fort’
+
+kmie
+
+‘mother’
+
+ksi
+
+‘louse’,
+
+krem
+
+‘cave’
+
+klo:y
+
+‘quckly’
+
+Medially between vowels-
+
+Medially in clusfers-
+
+suki
+
+‘slowly’
+
+pu:kri
+
+‘eagle’
+
+suko:r
+
+‘fraud’
+
+bakla
+
+‘make (a)
+
+mistake
+
+rukom
+
+‘custom’
+
+sakya?
+
+‘hiccoup’
+
+(manner)
+
+(ya:yd)
+
+‘(walk) slowly’
+
+sakma
+
+surokba?
+
+‘street’
+
+Finally after vowels-
+
+suk
+
+‘peace’
+
+hok
+
+‘true’
+
+bok
+
+‘luck’
+
+prek
+
+‘ironnail’
+
+dak
+
+‘alphabet’
+
+3.2.14. /kh/ is realised as [kh] every where.
+
+It is produced by stopping the air column by raising the 
+back of the tongue to touch the soft palate. During the
+
+Description of Khasi Speech Sounds
+
+67
+
+release the state of the glottis continues to be in the state of 
+voicelessness; so that between the release of the stop and 
+the following successive sound, a brief period of voicelessess 
+is heard. This is called aspiration. This sound is called the 
+voiceless, aspirated velar siop.
+
+This occurs in the following environments.
+
+Initially before vowels- Initially in clusters-
+
+kha
+
+‘give birth’
+
+khya
+
+‘heavy’
+
+khie
+
+‘rise’
+
+khnaiy
+
+‘ret’
+
+kha:yd
+
+‘eczeme’
+
+khmat
+
+‘eye’
+
+khmut
+
+‘nose’
+
+khtaiw
+
+‘father-in-law(’s)
+
+khlie?
+
+‘head’
+
+khryat
+
+‘cold’ (weather)
+
+Medially between vowels- Medially in clusters- 
+yakhalasy ‘gambling’ pu:khle=h ‘a kind of
+
+dish’
+
+jiifloijbakhratw ‘greatness’ 
+kirkhu ‘bless’
+
+tiijkhu? ‘collide’
+
+It does not occur in final position.
+
+3.2.15. /?/* is realized as (?) every where.
+
+It is produced by the closure and sudden release of the 
+vocal cords. This is always voiceless and unaspirated.
+
+It is called the glottal stop. This occurs in the following 
+environments.
+
+Medially between vowels
+
+lo?o? ‘cloud’
+
+yo?i *su'
+
+Medially in clusters
+
+mi?iji ‘east’
+
+i?rot ‘scorch’
+
+"‘According to Prof. E. Henderson, [.?] occurs initially also, 
+before a vowel.
+
+68
+
+Khasi Phonetic Reader
+
+Finally after vowels- 
+di? ‘smoke’
+
+le? ‘do’
+
+ru? ‘also’ 
+la? ‘able/can’ 
+kpo? ‘belly’
+
+It does not occur in initial position.
+
+3.2.16. Nasals : /m/ is realized as [m] every where.
+
+It is produced by stopping the air column by bringing the 
+lower lip in contact with the upper lip. During the closure the 
+velum is lowered to allow the air column to pass through the 
+nasal passage and the vocal cords vibrate.
+
+This is called the voiced bilabial nasal.
+
+This occurs in following environments.
+
+Initially before vowels
+
+Initially in clusters-
+
+me?
+
+‘glow'
+
+mra:d ‘animal’
+
+mo 7j
+
+‘wound’ (v)
+
+miu?
+
+‘salt’
+
+mano
+
+‘who’
+
+masi
+
+‘cow’
+
+Medially between vowels
+
+Medially in clusters-
+
+hima
+
+‘kingdam’
+
+samla
+
+‘young human being
+
+duma
+
+‘tobacco’
+
+kumno
+
+‘low’
+
+ruma
+
+‘speak in
+
+timpew
+
+‘betel leaf’
+
+coherently’
+
+tknbuyt
+
+‘elbow’
+
+khambha
+
+‘excell’
+
+ba:mthan
+
+‘glutton’
+
+lo:mdi'/7
+
+‘volcano’
+
+lotmjiijtap
+
+‘burial ground’
+
+ummat
+
+‘tear’
+
+Finally after vowels 
+‘live’
+
+‘dear’ (adj) 
+‘dark’
+
+lm
+
+rem
+
+dum
+
+Description of Khasi Speech Sound;
+
+69
+
+3,2.17. /n/ is realized as [n].every where.
+
+It is produced fay stopping the air column by bringing the 
+tip of the tongue in contact with the alveolar ridge. During 
+the closure (contact) the velum is lowered to allow the air 
+column to pass through the nasal passage. The vocal cords 
+vibrate.
+
+This is called the voiced, alveolar nasal. This occurs in 
+the following environments-
+
+Initially before vowels
+
+Medially between vowels
+
+nar
+
+‘iron’
+
+duna
+
+‘backward, less’
+
+nan
+
+‘pool’
+
+kani
+
+‘opiun’
+
+nep
+
+J sharp’
+
+Si:ni
+
+‘sugar’
+
+ne?
+
+‘stick to’
+
+ne
+
+‘from’
+
+Finally
+
+after vowels-
+
+Medially m clusters-
+
+phan
+
+‘potato’
+
+khanS
+
+‘scissor’
+
+shun
+
+‘jenerosity’
+
+rlnsum
+
+‘garlic’
+
+jan
+
+‘near’
+
+pin lip
+
+‘extinguish’
+
+ta:n
+
+“puli’
+
+sinraty
+
+‘autumn’
+
+sanphew
+
+‘fifty’
+
+wanpat
+
+‘rebound’
+
+pinbieyd
+
+•allurement’
+
+anta:d
+
+‘guess’
+
+minthi
+
+‘stubborness’
+
+rinda
+
+‘carpentar’s plane
+
+kinja
+
+‘a kind of drug’
+
+pin j hie?
+
+‘urinate’
+
+iuinnad
+
+‘beautiful’
+
+u hinmen
+
+‘brother’
+
+hkiniew
+
+‘seven’
+
+banr/eyt
+
+‘obey’
+
+:.18. In
+
+/ is realized as [h
+
+] everywhere.
+
+[n] is produced by stopping the air column by raising the 
+centre of the tongue to touch the hard palate. And the soft
+
+70
+
+Khasi Phonetic Reader
+
+palate is lowered to allow the air column to pass through the 
+nasal passage. The vocal cards vibrate.
+
+This is called the voiced, palatal nasal.
+
+This occurs in the following environments"
+
+Initially before vowels Medially between vowels
+
+nyad
+
+‘wipe’ kina ‘sacrifice’
+
+hyo?
+
+‘get’
+
+nyaw
+
+‘count’
+
+Medially in clusters-
+
+ja:hpho7?
+
+‘clothing’
+
+jatnbo
+
+‘dhoti’
+
+pahtali
+
+‘chisel’
+
+sefijiri/am
+
+‘green snake'
+
+jainkup
+
+‘a kind of garment of khasi women’
+
+ji'tjbunmasi
+
+kefino
+
+‘resign’
+
+ja:hnya:d
+
+‘towel’
+
+jathsem
+
+‘a garment used as outer covering
+
+khasis’
+
+Finally after vowels-
+
+ja:fi ‘cloth’
+
+reh ‘louse’
+
+bsen ‘snake’
+
+krun ‘white ant’
+
+3.2.19. / if I is realised as [7j] every where.
+
+It is produced by the closure of the air stream by raising 
+the back of the tongue to touch the soft palate to make a 
+complete oral closure. The velum is lowered, so the air passes 
+through the nasal cavity with force to produce this sound. 
+The vocal cords vibrate.
+
+It is called voiced velar nasal.
+
+This occurs in the following environments.
+
+Description of Khasi Sounds Speech
+
+71
+
+Initially before vowels- Medially between vowels-
+
+77 a
+
+T
+
+sa 7 j 7 je ‘check’ (v)
+
+Tji
+
+‘we’
+
+7/ap
+
+‘honey’
+
+77 am
+
+‘sink’
+
+Medially in clusters-
+
+Finally after vowels
+
+lii/ba
+
+‘through’
+
+i-t] ‘bum’
+
+jo-jjphi
+
+‘yours’
+
+reij ‘horn’
+
+teTjteTj
+
+‘seldom’
+
+di 7] ‘five’
+
+naijta
+
+‘thin’
+
+Iaij ‘together’
+
+Soijdor
+
+‘value’
+
+ji^thew
+
+‘measurement’
+
+yeijjoyt
+
+'stand up’
+
+yariijko
+
+‘rooster’
+
+tii/khu?
+
+‘collide’
+
+otliijkhat
+
+‘clip’ (v)
+
+haijne
+
+‘here’
+
+ji'J/ri?
+
+‘beltch’
+
+khaijlad
+
+‘obstruct’
+
+jiijha:w
+
+‘steam, vapour’
+
+Fricatives :
+
+3.2.20. /s/ is realized as [s] every where.
+
+It is produced by raising the blade of the tongue towards 
+the alveolar ridge, leaving a small narrow opening for the air 
+current to squeeze through to produce friction. The vocal 
+cords do not vibrate.
+
+This is called the voiceless alveolar fricative.
+
+This occurs in the following environments.
+
+72
+
+Khasi Phonetic Reader
+
+Initially in clusters-
+
+spe? ‘sprout’
+
+sbun ‘jenerosity’
+
+stet ‘fast’
+
+sdie ‘fry’
+
+ska:fi ‘fly 5 (n)
+
+sma:y ‘oath 5
+
+s?yar ‘hen’
+
+siji ‘day
+
+slap ‘rain’
+
+Medially in clusters-
+
+gispa? ‘hundred’
+
+isbad ‘steel’
+
+jasdie ‘fried rice’
+
+khaski ‘a variety of fish’
+
+atoskhana- ‘chimney’ 
+khuslay ‘mourn’
+
+3.2.21. /g/ is realized as [S] everywhere.
+
+It is produced by raising the front of the tongue against 
+the hard palate so as to leave a narrow passage for the air 
+current to squeeze through to produce friction. The vocal 
+cords do not vibrate.
+
+This is called the voiceless, palatal fricative.
+
+This occurs in the following environments-
+
+Initially before vowels- Initially in clusters-
+
+Sim
+
+‘take’
+
+Sko;r
+
+‘ear’
+
+git
+
+‘heat’
+
+gnat
+
+‘tributary’
+
+£oij
+
+‘ride’
+
+gfiya?
+
+‘chisel’
+
+5a:d
+
+‘dance’
+
+grie?
+
+‘monkey’
+
+sayt
+
+‘be well’
+
+giur
+
+‘brave’
+
+im gins
+
+‘neg. past, marker’
+
+ghuo?
+
+‘hair’
+
+g?yap
+
+‘sand’
+
+gya?
+
+‘allow’ (permit)
+
+Medial ly between vowels- 
+i:si ‘dislike’
+
+tusok ‘mattress’ 
+masi ‘cow’
+
+Initially before vowels- 
+sim ‘bird’
+
+sah ‘melt’
+
+so? ‘fruit’
+
+sey ‘pullout’
+
+siew ‘repay’
+
+Description of Khasi Sounds Speech
+
+73
+
+Medially between vovjels- Medially in clusters-
+
+gisa ‘true’ bi:5ni ‘envy’ (v)
+
+rai>i ‘sickle'
+
+musi ‘cobbler’
+
+3.2.22. /hi is realised as [h] everywhere.
+
+It is produced by bringing the vocal cards together to the 
+extent of leaving a narrow opening for the 2 ir current to 
+squeeze through producing friction. The vocal cords do not 
+vibrate.
+
+This sound is called voiceless glottal fricative,
+
+This occurs in the following environments.
+
+Initially before vowels- 
+ha ‘at’
+
+heir ‘fly’ 
+hala ‘shout’ 
+hika y ‘teach’ 
+falnrey ‘but’ 
+harp ‘fall.’
+
+Initially in clusters- 
+h?o:yd ‘yes’
+
+Medially between vowels- 
+pahe? ‘father’s elder brothers son’
+
+maharm ‘warn’
+
+saharm ‘yawn’
+
+mahut ‘elephant driver’
+
+muhor ‘seal’
+
+It does not occur in final position.
+
+Trills t
+
+3.2.23. Jr/ has two variants viz (i) [r] and (ii) [rj.
+
+(i) [r] is produced by bringing the tip of the tongue nearer 
+the alveolar ridge an$ allowing the air stream to pass through 
+the narrow passage to produce vibrations at the tip of the 
+tongue.
+
+The vocal cords vibrate and the soft palate is raised.
+
+This is called the voiced alveolar trill.
+
+This occurs in the following environraents.
+
+74
+
+Khasi Phonetic Reader
+
+Initially before vowels- Initially in clusters'
+
+ri
+
+‘country’
+
+rben
+
+‘thick’
+
+ran
+
+‘shrink’
+
+rkhyar;
+
+‘dry’ .
+
+TOT)
+
+fcolour’
+
+rnoi?
+
+‘brass’
+
+ru?
+
+‘also’
+
+TT)U
+
+‘charcoal’
+
+TUT)
+
+‘enter’
+
+r'lti)
+
+‘swollen’
+
+Medially between vowels-
+
+Medially
+
+in clusters-
+
+suri
+
+‘wolf’
+
+ki-rpa 77
+
+‘peculiar’
+
+kurat
+
+‘saw’ (n)
+
+a:rphew
+
+‘twenty’
+
+sira
+
+‘flatrice’
+
+si-rti
+
+‘file’
+
+sara
+
+‘nurse’
+
+pirthat
+
+‘thunder’
+
+ki-rdem
+
+‘stamp’
+
+jarjar
+
+‘secret’
+
+ke:rkut
+
+‘surround’
+
+sirkhey
+
+‘terrific’
+
+mermer
+
+‘sprout’
+
+birni
+
+‘sack’
+
+ji-rijam
+
+‘green’
+
+tirsimp
+
+‘claw’
+
+pk-Saij
+
+‘examine’
+
+lurhap
+
+‘meteor’
+
+bbrya
+
+‘amuse’
+
+(ii) [r]
+
+is produced by
+
+bringing the
+
+tip of the tongue
+
+nearer the alveolar ridge in the same way as for the trill [r] ; 
+but for the difference that in this case the vibration is for very 
+short time ; while for the trill the vibration is prolonged. If 
+the vibration can be counted then in the case of Tap it is once 
+or twice and in trill many times.
+
+It is called the voiced alveolar tap.
+
+This occurs only in the morpheme final position before 
+pause.
+
+[ur]
+
+‘fall down’
+
+/ur/
+
+[jhu£]
+
+‘vegetable’
+
+/jhur/
+
+[sor]
+
+‘city’
+
+/sor/
+
+[a ; r]
+
+‘two’
+
+/ a:r/
+
+75
+
+Description of Khasi Speech Sounds 
+Lateral :
+
+3.2.24. /]/ is realized as [1] everywhere.
+
+It is produced by stopping the air column at the median 
+line by raising the tip of the tongue against the alveolar ridge 
+so as to allow the air to escape through either of the sides of 
+the tongue. The vocal cords vibrate and the soft palate is 
+raised.
+
+This is called the voiced alveolar lateral.
+
+This occurs in the following environments-
+
+lnitially before vowels- Initially in clusters-
+
+lip
+
+‘off’
+
+lpa
+
+‘already’
+
+lai;
+
+‘together’
+
+ldoy
+
+‘hanging’ (a small
+
+la:d
+
+‘opportunity’
+
+thing)
+
+lum
+
+‘collect’
+
+lboij
+
+‘thigh’
+
+luom
+
+‘mountain’
+
+Ikhoyt
+
+‘like a small lump’
+
+l?o?
+
+‘cloud’
+
+Medially between vowels-
+
+Medially in clusters-
+
+hala ‘stout’
+
+kulma ; r
+
+‘confuse’
+
+sala ‘squint’
+
+Salni
+
+‘sieve’
+
+mala ‘stay’
+
+yapjillop
+
+‘drown’
+
+pule ‘read’
+
+alhya
+
+‘lazy ; idle’
+
+Finally after vowels-
+
+sa:yul
+
+‘wool’
+
+Frictionless continuants :
+
+3.2.25. /w/ has two allophones-
+
+•!. [w], and 2.
+
+[W].
+
+1 . [w] is produced in the same position as for [u] ; i.e. by 
+raising the back of the tongue towards the velum. The 
+difference between [u] and [w] is that while in the case of [u] 
+the tongue assumes a definite position with reference to the 
+palate and remains in that position for some time ; in the case 
+of [w] the tongue moves towards the direction of the velum ;
+
+76
+
+Khasi Phonetic Reader
+
+but does not assume any definite position so that the sound is 
+heard only as a glide. This sound is called the bilabial 
+frictionless continuant or semivowel. It occurs after a vowel 
+in morpheme medial or final position only, e.g.-
+
+fkiw?] ‘shiver’ /kiw?/ [jew] ‘sour’ /jew/
+
+[briew] ‘human being’ /briow/ [khiw] ‘jar’ /khiw/ 
+[khinniw] ‘to stagger’ /khfnfiiw/
+
+When [W] occurs before a vowel it tends to be shorter, e.g.- 
+[kwa?] ‘like’ /kwa?/ [rwa=y] ‘sing’ ,'rwa:y/
+
+[tirwa?] ‘offer’ /tkwa?/
+
+2. [W] is produced in the initial position of a word when
+
+the tougue raises to a slightly higher position than for [u] and 
+the air passes out with some audible friction. The vocal cords 
+vibrate. This sound is tense. This sound is also produced 
+when it occurs in intervocalic positions.
+
+e.g.- [wa:d] ‘search’ /wa:d/ [WEy] ‘one’ / wey/
+
+[WiE?] ‘worm’ /vvie?/ [SuWaj ‘before’ /Suwa/
+
+[duWaty] ‘medicine’ /duwaiy/
+
+3.2.26. /y/ has two allophones- viz. 1, [y] and 2. [Y].
+
+1 . [y] is produced in the same position as for (i) ; i.e. by-
+
+raising the front of the tongue towards the palate. The 
+difference between (i) and [y] is that in the case of (i) the 
+tongue assumes a definite position with reference to the palate 
+and remains in that position for some time, but in the case of 
+[y] the tongue moves towards the direction of the palate but 
+does not assume any definite position; so that the sound is 
+heard only as a glide. This sound is called the palatal friction¬ 
+less continuant or semi vowel.
+
+It occurs in medial and final positions only, e.g.-
+
+thya?
+
+‘sleep’
+
+baynoij
+
+‘reward’
+
+nyat
+
+‘push’
+
+meyrit
+
+‘mother’s younger
+
+peyt
+
+‘see’
+
+sister
+
+leyt
+
+‘go’
+
+bleytharw
+
+‘image’
+
+Description of Khasi Sounds Speech
+
+77
+
+ya:yd ‘walk’ latyphew ‘thirty’
+
+kayt ‘banana’ batay ‘explain’
+
+a:y ‘give’
+
+Iduy ‘hanging 5 (big thing)
+
+2. [Y] : when [y] is produced in the initial position of a
+
+word the tongue raises to a slightly higher position than foi [i] 
+and the air passes out with some audibie friction. The vocal 
+cords vibrate. It occurs only in initial position and inter- 
+vocaiically in medial position.
+
+e.g. [Yoij] ‘black’ lyo-ql [khaYi] ‘festival* /khayi /
+
+[Yap] ‘die’ /yap / [iYEij] ‘house’ / iyeV
+
+[Ya] ‘night’ / ya/
+
+3.2.27. The following table gives in detail the ailopbonic 
+distribution of the phonemes—
+
+Phoneme
+
+Allophonie dis
+
+tribution
+
+Allophones
+
+Initial
+
+Media i
+
+Final
+
+Vowels l'ii
+
+[i]
+
++
+
++
+
++
+
+hi
+
+[iO
+
++
+
++
+
+—
+
+hi
+
+[e]
+
++
+
++
+
++
+
+[E]
+
++ (-?) + (C-5
+
+! ) -
+
+/e:/
+
+[e:]
+
++
+
++
+
+—
+
+HI
+
+Li]
+
++
+
++
+
+—
+
+/a/
+
+[a]
+
++
+
++
+
+[a]
+
+—
+
+—
+
++ (Co-)
+
+/a:/
+
+[a:]
+
++
+
++
+
+—
+
+hi
+
+[o]
+
++
+
++
+
+[o]
+
+—
+
++(Cu
+
+(:)-C)—
+
+[O]
+
+—
+
++(C-?
+
+') -
+
+lo:l
+
+[o:]
+
+—
+
++
+
+—
+
+hi
+
+[u]
+
++
+
++
+
++
+
+h‘i
+
+[Ul]
+
+—
+
++
+
+—
+
+78
+
+Khasi Phonetic Reader
+
+Phoneme Allophones
+
+Allophonic distribution 
+Initial Medial Final
+
+Consonants: /p/
+
+[p]
+
++
+
++
+
++
+
+/ Ph/
+
+Cph]
+
++
+
++
+
+—
+
+/b/
+
+[b]
+
++
+
++
+
+/bh/
+
+[bh]
+
++
+
+—
+
+—
+
+/t/
+
+[t]
+
++
+
++
+
++
+
+/th/
+
+[th]
+
++
+
++
+
+•—
+
+/d /
+
+[d]
+
++
+
++
+
++
+
+/dh/
+
+[dh]
+
++
+
++
+
+—
+
+/j7
+
+[jJ
+
++
+
++
+
++
+
+/jb/
+
+[jh]
+
++
+
+—
+
+—
+
+/k/
+
+[k]
+
++
+
+“f~
+
++
+
+/ kh/
+
+[kh]
+
++
+
++
+
+—
+
+m
+
+[?]
+
+—
+
++
+
++
+
+/m/
+
+[m]
+
++
+
++
+
++
+
+/n/
+
+[n]
+
++
+
++
+
++
+
+In/
+
+[n]
+
++
+
++
+
++
+
+hi
+
+[ 17 ]
+
++
+
++
+
++
+
+Is/
+
+[s]
+
++
+
++
+
+—
+
+1*1
+
+[tf
+
++
+
+-—
+
+hi
+
+[b]
+
++
+
++
+
+—
+
+hi
+
+[r]
+
+-h
+
+—
+
+[r]
+
+—
+
+—
+
++
+
+n/
+
+[1]
+
++
+
++
+
++
+
+/W /
+
+[W]
+
++
+
++
+
+—
+
+[w]
+
+—
+
++
+
++
+
+/y/
+
+[Y]
+
++
+
++
+
+—
+
+[y]
+
+—
+
++
+
+4. PHONETIC DRILLS
+
+4.0. Phonetic Drills
+
+The phonetic drills are given to help the learner practice 
+the pronunciation of the differem sounds described in the 
+previous chapter. All sounds irrespective of their phonemic 
+status have been enlisted and been included in words which 
+need not form minimal pairs. Minimal pairs are given where 
+the drill is aimed at phonemic distinction.
+
+Though the drills are for pronunciation of phones, the 
+transcription used here is phonemic. But whenever there are 
+allophones for phonemes, then the transcription is both in 
+phonemic and in phonetic transcription. The phonetic trans¬ 
+cription is given in parenthesis.
+
+The examples given under the description of each sounds in 
+the previous chapter can also be used for drilling the individual 
+sounds and also for clusters. Khasi is very rich in initial 
+consonant clusters. In the second chapter, all the possible 
+combinations have been listed. They can be utilized for the 
+purpose of drilling, as these are riot given separately in this 
+chapter.
+
+80
+
+Khasi Phonetic Reader
+
+4.1. Vowels
+
+4.1,1. a) Difference in duration :
+
+4.1.1.1. /i/ -/:
+
+i: /
+
+ipa
+
+‘father’
+
+i:beia
+
+‘regard inferior’
+
+im
+
+‘live’
+
+i:si?
+
+‘dislike’
+
+tip
+
+‘know’
+
+i:siney
+
+‘pity’
+
+ti?
+
+‘dig’
+
+ti:du?
+
+‘little finger’
+
+si m
+
+‘bird’
+
+ti:kme
+
+‘thumb’
+
+Sida
+
+‘simple ;
+
+si:ma:d
+
+‘bed hug’
+
+innocent.
+
+Si:spa?
+
+‘hundred’
+
+4.1.1.2. /e/ -
+
+/e=/
+
+em
+
+‘well-to-do’
+
+e;m ‘no 5
+
+ber
+
+‘likeftash’ [r]
+
+be:r ‘sprinkle’ [r]
+
+4-1.1.3. /&/-
+
+■ /a = /
+
+phan
+
+‘potato’
+
+pham
+
+‘jackfruit’
+
+ban
+
+‘press’ (v)
+
+bahi
+
+‘dam’
+
+tad
+
+‘be cneap’
+
+anta:d
+
+‘guess’
+
+jan
+
+‘near’
+
+ja:n
+
+‘cloth’
+
+rjap
+
+‘honey’
+
+a:p
+
+‘cheek’
+
+sam
+
+‘bore’ (a hole)
+
+sa.rn
+
+‘distribute’
+
+san
+
+‘melt’
+
+sa:h
+
+‘cut into pieces’
+
+4.1.1.4. joj ■
+
+-/o ■■!
+
+kop
+
+‘ear of corn’
+
+ko:p
+
+‘deserve’
+
+ur
+
+‘fair [r]
+
+yo:r
+
+‘snow’ [r]
+
+dor
+
+‘price’ [r]
+
+S K 0.1
+
+‘ear’ [r]
+
+bok
+
+‘back’
+
+bo:r
+
+‘power’ [j]
+
+tor
+
+‘lung’ [r]
+
+po:r
+
+‘time’ [r]
+
+man
+
+‘prefer’
+
+nakkr
+
+‘over’ ‘above’ [r]
+
+jro tj
+
+‘tali’
+
+ino'-rn
+
+‘roof’
+
+4.1.1.5. In/
+
+- /u:/
+
+khlur
+
+‘come off’ (hair)[r]khlu.;
+
+r ‘star’ [r]
+
+dur
+
+‘picture’ [r]
+
+lusr
+
+‘plough’ [rj
+
+lun
+
+‘tadpole 5
+
+iu:n
+
+‘throw’
+
+sum
+
+‘bathe’
+
+su:m
+
+‘throw’ (cast a spe;
+
+dum
+
+‘dark 5
+
+pu:n
+
+‘throw’ (stone)
+
+Phonetic Drills
+
+81
+
+4,1,2. Difference in tongue height and position :
+
+4.1.2.1. HI -
+
+N
+
+im
+
+‘live’
+
+im
+
+‘not’
+
+sim
+
+‘take’
+
+im siro
+
+‘past T. neg. marker’
+
+jinren
+
+‘louse’
+
+in
+
+‘future T. marker’
+
+Utet]
+
+‘half’
+
+Sintur
+
+‘mouth’
+
+4.1.2.2. HI -
+
+Ini
+
+im
+
+‘not’
+
+um ‘water’
+
+im Sim
+
+‘past T. neg.
+
+marker’
+
+sum ‘bathe’
+
+in
+
+‘future T. marker’
+
+Sun ‘lime’
+
+min
+
+‘temporal past marker’
+
+mut ‘aim’
+
+4.1.2.3. /i/-
+
+/e /
+
+i?
+
+‘ripe’
+
+e?
+
+‘hard’[E]
+
+im
+
+‘live’
+
+em
+
+‘well-to-do’
+
+tip
+
+‘know’
+
+tep
+
+‘bury’
+
+ti?
+
+‘dig’
+
+te?
+
+‘bind’ [E]
+
+tim
+
+‘curse’ (v)
+
+tem
+
+‘beat’ (a drum)
+
+sim
+
+‘take’
+
+sem
+
+‘find’
+
+sit
+
+‘hot’
+
+Set
+
+‘cook’
+
+rim
+
+‘old’
+
+rem
+
+‘dear ; costly’
+
+ri7j
+
+‘pull’
+
+ret?
+
+‘horn’
+
+4.I.2.4. /e/ -
+
+/o/
+
+pe?
+
+‘sieve’ [E]
+
+po?
+
+‘make oneself low [Q]
+
+tep
+
+‘burj'’
+
+top
+
+‘drum’
+
+te?
+
+‘bind’ [E]
+
+to?
+
+‘bite ; peck’ [O]
+
+the?
+
+‘pour’ [E]
+
+phot;
+
+‘put on’ (clothes)
+
+dem
+
+‘bend’
+
+dom
+
+‘scold’
+
+se rj
+
+‘fund’
+
+SQt|
+
+‘fold’
+
+rep
+
+‘cultivate’
+
+sop
+
+‘cover’
+
+r et;
+
+‘horn’
+
+rot]
+
+‘colour’
+
+len
+
+‘deny’
+
+lOT]
+
+‘fox-glove’
+
+82
+
+Khasi Phonetic Reader
+
+4.I.2.5. /*/ - In/
+
+im ‘not’ am ‘bite’
+
+min ‘temporal past marker’ nan ‘pool’
+
+4.I.2.6. /u/ ■
+
+- lol
+
+pu
+
+‘bite’ (snake
+
+po?
+
+‘make oneself low’ [O]
+
+& etc.)
+
+tup
+
+‘cannon’
+
+top
+
+‘drum’
+
+dum
+
+‘dark’
+
+dom
+
+‘scold’
+
+kut
+
+‘fort’
+
+kot
+
+‘reach’
+
+mlun
+
+‘round’ (a big
+
+mlon
+
+‘round’ (a small thing)
+
+thing)
+
+du?
+
+‘lose’
+
+do?
+
+‘kiss’ [O]
+
+tu?
+
+‘steal’
+
+to?
+
+‘bite, peek’ [O]
+
+ru t]
+
+‘enter’
+
+TOT]
+
+‘colour’
+
+4.I.2.7. /el
+
+-/a/
+
+em
+
+‘well-to-do’
+
+am
+
+‘plant, bite’
+
+tep
+
+‘bury’
+
+tap
+
+‘cover’ (v)
+
+te?
+
+‘bind’ [E]
+
+ta?
+
+‘ruh’
+
+jem
+
+'soft'
+
+jam
+
+‘make noise’
+
+kem
+
+‘catch’
+
+kam
+
+‘aquire, work’
+
+met
+
+‘body’
+
+mat
+
+‘joint’
+
+nep
+
+‘shrewd’
+
+nap
+
+‘tongs’
+
+Ter]
+
+‘horn’
+
+ran
+
+‘shrink’
+
+le?
+
+‘do’ [E]
+
+la?
+
+‘be able’
+
+4.1.2. 8 . /a/
+
+- lol
+
+tap
+
+‘cover’
+
+top
+
+‘drum’
+
+bat
+
+‘catch’
+
+bok
+
+‘luck’
+
+jam
+
+‘make noise’
+
+jot
+
+‘demolish’
+
+kam
+
+‘acquire’
+
+kot
+
+‘reach’
+
+\'dT]
+
+‘together’
+
+I 017
+
+‘fox-glove’
+
+S&T]
+
+‘basket’
+
+SOT]
+
+‘ride’
+
+nan
+
+‘pool’
+
+mon
+
+‘prefer’
+
+pa?
+
+‘cry;answer’
+
+po?
+
+‘make oneself low’ [ 0 ]
+
+ta?
+
+‘rub’
+
+to?
+
+‘peek ; bite’ [ 0 ]
+
+Phonetic Drills
+
+83
+
+4.1.2.9. /e/ : [e] - [E] - [$]
+
+era
+
+‘well-to-do’ e? ‘hard’ [E]
+
+dien
+
+‘back’ [e]
+
+len
+
+‘deny'
+
+le? ‘do’ [E]
+
+kie
+
+‘ladder’ [el
+
+them
+
+‘valley’
+
+the? ‘pour’ [E]
+
+sdien
+
+‘bang’ [e]
+
+tep
+
+‘bury’
+
+te? ‘bind' [E]
+
+die
+
+‘sell’ [e]
+
+nep
+
+‘sharp’
+
+ne? ‘to stick’ [E]
+
+prie
+
+‘vomit’ [e]
+
+met
+
+‘body’
+
+me? ‘glow’ [E]
+
+khie
+
+‘raise’ [e]
+
+4.1.2.10. /o/ :
+
+to] - [O] - [ 0 ]
+
+S0 1}
+
+‘fold’
+
+so? ‘fruit’ [O]
+
+Snuo?
+
+‘hair’ [ 9 ]
+
+top
+
+‘drum’
+
+to? ‘bite’ [O]
+
+nuod
+
+‘kernal’to]
+
+So 77
+
+‘ride’
+
+So? ‘strike’ [0]
+
+pu=or
+
+‘string’ [ 0 ]
+
+ot
+
+‘cut’
+
+yo? ‘get’ [O]
+
+tru:od
+
+‘scratch’ [q]
+
+4.1.3. Khasi is rich in diphthongs. In learning Khasi it is 
+necessary to learn diphthongs also. Here, the drill is aimed at 
+illustrating the various diphthongs of khasi-
+
+1 . [ie] :
+
+sdie?
+
+‘fry’
+
+prie
+
+‘vomit’
+
+jhie?
+
+‘wet’
+
+sdie
+
+‘axe’
+
+dien
+
+‘back’
+
+thrie
+
+‘cane’
+
+2 .
+
+[iu]:
+
+kiu?
+
+‘shiver’
+
+khiu
+
+‘jar’
+
+liur
+
+‘summer’
+
+khinniu
+
+‘to stagger’
+
+3.
+
+[uo] :
+
+Snuo?
+
+‘hair’
+
+4. [oe] :
+
+khaboa ‘a variety of fish’
+
+84
+
+Khasi Phonetic Reader
+
+4.2. Single Consonants :
+
+4.2.1. Stops
+
+: A. position of vocal cords
+
+:
+
+4.2.1.1. Ip/
+
+-/b /
+
+Pa V
+
+‘be sick’
+
+ba
+
+‘taste’
+
+pey
+
+‘penetrate’
+
+bey
+
+‘help’ (with
+
+‘bite’ (snake &e
+
+money)
+
+pu?
+
+tc) bu?
+
+‘put’
+
+pain
+
+‘ask’
+
+baim
+
+‘eat’
+
+po:r
+
+‘season’ [r]
+
+boir
+
+‘power’ [r]
+
+■?jap
+
+‘honey’
+
+ijaib
+
+‘cheek’
+
+sap
+
+‘talent’
+
+so?brab ‘a kind of fruit’(O)
+
+4.2.1.2. It/
+
+-/d /
+
+tap
+
+‘cover’
+
+dap
+
+‘be full’
+
+ti?
+
+‘dig’
+
+di?
+
+‘smoke’
+
+tu?
+
+‘steal’
+
+du?
+
+‘lose’
+
+tey
+
+‘tie’
+
+dey
+
+‘right’
+
+tem
+
+‘beat’
+
+dem
+
+‘lean'
+
+batay
+
+‘explain’
+
+muduy
+
+‘accuse’
+
+khuyt
+
+‘be naked’
+
+khuyd
+
+‘clean’
+
+payt
+
+‘crack’
+
+payd
+
+‘crowd’
+
+nyat
+
+‘push’
+
+nya:d
+
+‘wipe’
+
+B. Aspiration :
+
+4.2.1.3. Ip/
+
+- /Phi
+
+pa -77
+
+‘be ill’
+
+phan
+
+‘potato’
+
+pa:n
+
+‘ask’
+
+phain
+
+‘jackfruit’
+
+pa:y
+
+‘a unit of 8000’
+
+phaiy
+
+‘turn’
+
+put
+
+‘drag’ (foot)
+
+phut
+
+‘pull out’ (tooth)
+
+pu?
+
+‘bite’
+
+phu?
+
+‘blosson’
+
+pe?
+
+‘sieve’ [E]
+
+phet
+
+‘flee’
+
+pom
+
+‘cut’
+
+pho-i;
+
+‘puton’ (clothes)
+
+4.2.1.4. /b/
+
+-/bh /
+
+ba
+
+‘relative pronoun’
+
+bha
+
+‘good’
+
+ba?
+
+‘carry’ (on the back) bho?
+
+‘desire impudently'
+
+[O]
+
+Phonetic Drills
+
+85
+
+4.2.1.5. /t /-
+
+/th/
+
+tep
+
+‘bury’
+
+thep
+
+‘load’
+
+tem
+
+‘beat’ (a drum)
+
+them
+
+‘valley
+
+ta?
+
+‘rub’
+
+tha
+
+‘ice’
+
+ta;w
+
+‘put food into the
+
+tha ; w
+
+‘make’
+
+mouth’
+
+tOI]
+
+‘draw’ (water)
+
+thOT/
+
+‘bet’
+
+tlar
+
+‘avoid’ [tlar]
+
+thya?
+
+‘sleep’
+
+tied
+
+‘strike’
+
+thied
+
+‘buy’
+
+4.2.1.6. /d/ - /dh/
+
+lada ‘if ’
+
+ra:dha
+
+‘swan*
+
+danda ‘fun’
+
+dhara
+
+‘an outer garment 
+worn by khasi women
+
+4.2.1.7. /k/ - /kh/
+
+ki ‘they’
+
+khi
+
+‘shave’
+
+kem ‘catch’
+
+khem-
+
+‘press’
+
+ka ‘she’
+
+kha
+
+‘give birth to’
+
+kot ‘reach’
+
+khot
+
+‘call’
+
+kwa:y ‘betalnut’
+
+khwa:y
+
+‘to fish’
+
+klet ‘forget’
+
+khlem
+
+‘without’
+
+suk ‘slowly’
+
+sakhi
+
+‘witness’
+
+4-2.1.8. /j7-/jh /
+
+jew ‘sour’
+
+jhie?
+
+‘wet’ [jhie?]
+
+ja ‘cooked rice’
+
+jhur
+
+‘vegetable’
+
+4.2.1.9. /?/-/o/
+
+khi? ‘revolt’
+
+khi
+
+‘ghee’
+
+sdie? ‘fry’ [sdie?]
+
+sdie
+
+‘are’ (sdie)
+
+ri? ‘hide’
+
+ri
+
+‘country’
+
+jya? ‘disappear’
+
+jya
+
+‘happen’
+
+me? ‘glow’ (fire) (mE?) me
+
+‘thou’
+
+la? ‘be able’
+
+la
+
+‘past tense marker’
+
+86
+
+Khasi Phonetic Reader
+
+4.2.2. Nasals
+
+: /m/ - Ini - /fi/ -
+
+hi
+
+rem
+
+‘dear’
+
+ren
+
+‘sea monster’
+
+tham
+
+‘crab’
+
+than
+
+‘excess’
+
+sa:m
+
+‘serve’
+
+san
+
+‘five’
+
+im
+
+‘not’
+
+in
+
+‘future tense marker
+
+duraa
+
+‘tobacco’
+
+duna
+
+‘less’
+
+me?
+
+‘glow’ [mE?]
+
+nem
+
+‘age’
+
+masi
+
+‘cow’
+
+mano
+
+‘who’
+
+4.2.2a. In 1 -
+
+hi
+
+Ttn
+
+‘louse’
+
+TC7]
+
+‘horn’
+
+thai 7
+
+‘weave’
+
+than
+
+‘burn’
+
+sah
+
+‘dye’
+
+sat]
+
+‘forbidden’
+
+hyaw
+
+‘count’
+
+h
+
+‘burn’
+
+nyat
+
+‘push’
+
+yap
+
+‘honey’
+
+nyo?
+
+‘get’ [o]
+
+17 am
+
+‘sink’
+
+iiya:d
+
+‘wipe’
+
+y' 1
+
+‘we’
+
+4.2.3. Fricatives
+
+4.2.3.1. /s/ -
+
+Is/
+
+sa
+
+sa
+
+‘at
+
+SOT]
+
+‘fold’
+
+So
+
+‘ride’
+
+ta'-d
+
+‘comb’
+
+sa:d
+
+‘dance’
+
+sim
+
+‘bird’
+
+Sim
+
+‘take’
+
+sara
+
+‘to nurse’
+
+Sida
+
+‘innocent’
+
+saha:m
+
+‘yawn’
+
+iadem
+
+‘breast’
+
+masi
+
+‘cow’
+
+raSi
+
+‘sockle’
+
+tusok
+
+‘mattress’
+
+SiSa
+
+‘true’
+
+4.2.4, Frictionless continuants
+
+4.2.4.1. /w/ ■
+
+■hi
+
+khaway 'festival’
+
+khayi
+
+‘trade’ [Y]
+
+rwa:y
+
+‘sing’
+
+ryat
+
+'precipice [Y]
+
+wie?
+
+‘worm’
+
+yoy
+
+‘black’ [Y]
+
+wey
+
+‘one’
+
+yap
+
+‘die’ [Y]
+
+Suwa
+
+‘before’
+
+iy crj
+
+‘house’ [Y]
+
+sa:w
+
+‘red’
+
+ksary
+
+‘thread’
+
+thew
+
+‘measure’
+
+tey
+
+‘build’
+
+Phonetic Drills
+
+87
+
+4.2.4.2. /w/ -
+
+/w/
+
+jew
+
+‘sour’
+
+Wan
+
+‘come’
+
+[W]
+
+ksew
+
+‘dog’
+
+Wa?
+
+‘hang’
+
+[W]
+
+si;ew
+
+‘feel’
+
+Wa:d
+
+‘search’
+
+[W]
+
+khkidew
+
+‘soil’
+
+Wey
+
+‘one’
+
+[W]
+
+kew
+
+‘wheat’
+
+Wie?
+
+‘warm’
+
+[W]
+
+ma:w
+
+‘stone’
+
+su Wa
+
+‘before’
+
+[W]
+
+sa:w
+
+‘red four’
+
+duWa^y
+
+‘medicine’
+
+[W]
+
+kwa?
+
+‘like’
+
+Walam
+
+‘bring’
+
+[W]
+
+tirwa?
+
+‘offer’
+
+4.2.4.3. /y/ -
+
+/Y/
+
+a:y
+
+‘give’
+
+yo V
+
+‘black’
+
+[Y]
+
+roy
+
+‘progress’
+
+yap
+
+‘die’
+
+[Y]
+
+sey
+
+‘pullout’
+
+ya
+
+‘night’
+
+[Y]
+
+pey
+
+‘leak’
+
+khayi
+
+‘festival’
+
+[Y]
+
+tharay
+
+‘guess’
+
+iye-h
+
+‘house’
+
+[Y]
+
+peyt
+
+‘see’
+
+yer/
+
+‘stand’
+
+[Y]
+
+leyt
+
+‘go’
+
+kayt
+
+‘banana’
+
+pa:yd
+
+‘crowd’
+
+4.2.5. Manner of articulation :
+
+4.2.5.1. /h/ -
+
+■IV
+
+muhor
+
+‘seal’
+
+i :si?
+
+‘dislike’
+
+ha
+
+‘at’
+
+e?
+
+‘hard’
+
+[E]
+
+hima
+
+‘kingdom’
+
+s?iem
+
+‘king’
+
+he:r
+
+‘fly’
+
+s?ot
+
+‘dysentry’
+
+maha:m ‘warn’
+
+mi?
+
+‘rise
+
+saha:m ‘yawn’
+
+ta?
+
+‘rub’
+
+4.2.5.2. /r/ -
+
+■ [r] - [r]
+
+ran
+
+‘shrink’
+
+a^r
+
+‘two’
+
+sara
+
+‘to nurse’
+
+sor
+
+‘city’
+
+[I]
+
+ru?
+
+‘also’
+
+jhur
+
+‘vegetable’
+
+[r]
+
+sira
+
+‘flat rice’
+
+ur
+
+‘fall down’
+
+[r]
+
+88
+
+Khasi Phonetic Reader
+
+4-2.5.3. It/-jll
+
+rarj
+
+‘cease’ (to rain)
+
+larj
+
+‘together’
+
+ra?
+
+‘carry, lift'
+
+la?
+
+‘be able’
+
+rem
+
+‘dear’
+
+len
+
+‘deny’
+
+sara
+
+‘to nurse’
+
+sala
+
+‘squint’
+
+suri
+
+‘wolf’
+
+pule
+
+‘read’
+
+tare
+
+‘feel 5 (in the dark)
+
+paley
+
+‘simple’
+
+4,2.6. Drills for final stops-
+
+At the beginning of the chapter 3.2. it was stated that 
+stops when they occur in morpheme final position are unrelea¬ 
+sed ; and it is difficult to identify the stops particularly when 
+they occur after a sequence of two vowels or after a semi-vowel. 
+So here, a few words with stops in final position are stated 
+which will help in identifying and practicing the different stops 
+ip this position.
+
+1. /p/
+
+i, after a single vowel ii, after a sequence of vowel or
+
+a vowel and a semivowel
+
+ap
+
+‘wait’
+
+tip
+
+‘know’
+
+nep
+
+‘sharp’
+
+top
+
+‘drum’
+
+tup
+
+‘cannon’
+
+s?ep
+
+‘sweat’
+
+kdup
+
+‘embrace’
+
+/b/
+
+i? a=b
+
+‘cheek’
+
+so?orab
+
+‘a kind of
+
+juba:b
+
+fruit’ [O] 
+‘answer’
+
+yakob
+
+‘complete’
+
+Phonetic Driils
+
+3. /t /
+
+at
+
+ot
+
+sit
+
+met
+
+put
+
+thet
+
+nyat
+
+syat
+
+4 . Idj
+
+ta:d
+
+u:d
+
+kyad
+
+trord
+
+5 - /)/
+
+siej
+
+biej
+
+6. /k/
+
+dak
+
+hok
+
+prek
+
+suk
+
+Sarak
+
+‘swell’
+
+‘cut’
+
+‘heat 5
+
+‘body’
+
+‘blow’ (flute) 
+‘wash’
+
+‘push’
+
+‘shoot’
+
+‘cheap’
+
+‘moan’
+
+‘toddy’
+
+‘scratch’
+
+‘bamboo’
+
+‘silly’
+
+‘alphabet’ 
+‘confirm’ 
+‘iron nail’ 
+‘peace’ 
+‘lamp’ (oil)
+
+89
+
+payt ‘crack’
+
+miet ‘night’
+
+-r/eyt ‘believe’
+
+koyt ‘get well’
+
+buyt ‘tactics’
+
+siet ‘cook’
+
+leyt ‘go’
+
+ya;yd ‘walk’
+
+dayd ‘itch’
+
+tied ‘strike’
+
+toyd ‘flow’
+
+jied ‘vote’
+
+pru:yd ‘strike’ (a match)
+
+5. KHASI ORTHOGRAPHY :
+
+5.0. Introduction
+
+Khasi has no script of its own. According to folk belief, 
+there was an indigenous script which was lost during an incen¬ 
+diary. The story runs like this 1 “two survivers during an 
+incendiary managed to escape the flood by swimming across’ 
+One swimmer was a Khasi and another a Hindu man known as 
+U Dkhar. Both carried with them only the bundles of their 
+respective scripts. U Dkhar managed to retain his script, 
+while the Khasi swimmer swallowed his”.
+
+Till the later part of 18th Century Khasi was not put to 
+writing. The credit of writing Khasi first goes to the Khasi 
+speakers of Sylhet region. They knew the Bengali language 
+as they were in contact with Bengalis of that region. The first 
+converts to Christianity by the Serampore Baptist Mission in 
+1813, were in the Sylhet region. They were encouraged to 
+translate the Bible, into Khasi in Bengali script. Due to their 
+efforts, in 1817 St. Matthew was translated into Khasi in
+
+1. Hamlet Bareh, A short history of Khasi literature, 1962, p. 21.
+
+Khasi Orthography
+
+91
+
+Bengali scipt and was printed ; and in 027 Khashee New 
+Testament was also printed.
+
+But in 1844, when the Welsh missionaries entered this 
+region, they preferred to write the Khasi language in Roman 
+script instead of the Bengali script. The reason given was 
+that 2 —“due to its (Bengali script’s) most complex phonetic 
+form which was hardly suitable for Khasi language. Moreover 
+that time, it was antiquated and unmodified to fitin with its 
+yet present form ; whilst the use of the Roman script was 
+found to be more suitable”.
+
+Since 1841 all the writings in Khasi is in the Roman 
+script.
+
+5.1. Khasi writing system has 23 letters. Among them 20 are 
+from the English alphabet (c, f, a, v, x and z are not used) and 
+the remaining three letters (viz. 'i, h and ng) are modifications 
+to represent the unique sounds of Khasi. Of the three, ng 
+which symbolizes the velar nasal, is a combination of two 
+existing symbols in the English alphabet.
+
+The Khasi alphabet system is as follows-
+
+Vowels : i, i, e, a, o and u.
+
+Consonants : p, b, t, d, j, k, g, h, m, n, n, ng, s, r, 1, w 
+and y.
+
+The following table gives the phonemes with their allo- 
+phones of the Khasi language and their corresponding graphic 
+representations in the current writing system of Khasi.
+
+Present
+
+Suggested
+
+Phonemes
+
+Allophones
+
+Graphemes
+
+Graphemes
+
+i
+
+i
+
+i
+
+i
+
+i:
+
+i:
+
+i
+
+ii
+
+e
+
+e, E, e
+
+e
+
+e
+
+e:
+
+e:
+
+e
+
+ee
+
+i
+
+i
+
+y, i
+
+'i
+
+a
+
+a, a
+
+a
+
+a
+
+2. Ibid. p. 27.
+
+Khasi Phonetic Reader
+
+92
+
+Present
+
+Suggested
+
+Phonemes
+
+Allophones
+
+Graphemes
+
+Grapheme,
+
+a:
+
+a:
+
+a
+
+aa
+
+u
+
+u
+
+u
+
+u
+
+u:
+
+u:
+
+u
+
+uu
+
+o
+
+o, O, o
+
+0
+
+o
+
+o:
+
+o:
+
+o
+
+oo
+
+P
+
+P
+
+P
+
+P
+
+ph
+
+ph
+
+ph
+
+Ph
+
+b
+
+b
+
+b
+
+b
+
+bh
+
+bh
+
+bh
+
+bh
+
+t
+
+t
+
+t
+
+t
+
+th
+
+th
+
+th
+
+th
+
+d
+
+d
+
+d
+
+d
+
+dh
+
+dh
+
+dh
+
+dh
+
+j
+
+j
+
+j
+
+j
+
+jh
+
+jh
+
+jh
+
+jh
+
+k
+
+k
+
+k
+
+k
+
+kh
+
+kh
+
+kh
+
+kh
+
+?
+
+?
+
+h
+
+’; h
+
+m
+
+m
+
+m
+
+m
+
+n
+
+n
+
+n
+
+n
+
+ft
+
+ii
+
+n
+
+n
+
+V
+
+V
+
+ng
+
+ng
+
+s
+
+s
+
+s
+
+s
+
+s
+
+i
+
+sh
+
+sh
+
+r
+
+r, r
+
+r
+
+r
+
+1
+
+1
+
+1
+
+1
+
+w
+
+W
+
+w
+
+w
+
+w
+
+y
+
+Y
+
+y.»
+
+y
+
+y
+
+g
+
+Khasi Orthography
+
+93
+
+~’“ L - (1) It can be noted from above, the distinction of vowel 
+length (short vs. long) which is distinctive in this language is 
+not indicated. This can be overcome by using double vowels 
+like ii, ee, aa and etc., to indicate the long vowels.
+
+(2) . The barred i, i.e., jij is represented inconsistently 
+either by I or y. For instance, /rinda/ or rynda or r'inda 
+‘carpenter’s plane’ etc. So it is better to use I for /*/ regularly, 
+on the principle of ‘one letter one symbol’, as y is used for 
+palatal frictionless continuant sound.
+
+(3) There are many words with Cwa(:)C structure, like 
+kwa? ‘like , rwa:y ‘aing’, etc. Here instead of w, u is also used 
+but not regularly. It is better to stick to w only.
+
+(4) Glottal stop is represented variously as Y or h. ’ is 
+piefered when glottal stop occurs as second member of initial 
+consonant clusters, over y. E. g. S’a? / Sya? ‘cactus’ S’iap/Syiap 
+Sand , s ierj/Syeii; "bone , etc. But elsewhere h may be used for 
+glottal stop as in such positions it does not contrast with h.
+
+(5) In the present writing system the initial clusters 
+with r as first member are either maintained as clusters or 
+declusterized by inserting the letter y between the consonants.
+
+I his also is not consistently followed. As this is unwarrented 
+the clusters may be maintained, which reflect their phonetic 
+feature, e.g,-
+
+rno 7] ‘brass’, instead of ryno tj
+
+rben ‘thick instead of ryben
+
+rkhie ‘laugh’, instead of rykhie
+
+r7 ? a charcoal , instead of ryrja., and etc.
+
+Though it may be due to the speakers feeling of some 
+release between the consonants of above structure ; still the 
+amount of release is not enough to use a letter to indicate it. 
+As it is purely phonetic and predictable there is no need to 
+use a letter to represent it. Here it is not only unnecessary, 
+also it is not used consistently. Also, though there is similar
+
+94
+
+Khasi Phonetic Reader
+
+release for other clusters also (3.2.2), there y is not used to 
+indicate it. Therefore y may be dropped.
+
+(6) There are many words where there is no standard 
+spelling. Various letters are used for the single letter. For 
+example—
+
+(a) ioij/'ion/’ yorj ‘black’
+
+io?/io?/ yo? ‘get’
+
+it/iit/ yit ‘glass’
+
+(b) rknpey / rumpei/ ‘hearth’ /rimpey /
+
+rinda/randa/ ‘carpenter's plane’ /rinda/
+
+si-lya?/sillia? / ‘mat’ /S'ilya/
+
+Suwa/swa/ ‘before’ / suwa/
+
+suki/sukhi/ ‘slowly’ /suki/
+
+siijkaai/synkai/ ‘lip’ /siijkaay/
+
+siep/sieb/ ‘engross’ /siep /
+
+In (a) the third column is phonetically correct. It may be 
+used regularly. In (b) the suggested transcription is given 
+after the English gloss. From the above it will become clear 
+that there is a lot of variation in spelling, and standardization 
+of spelling system is urgently required.
+
+(7) In morpheme final position after a frictionless 
+continuant there is vacillation between using t and d, p and b. 
+As it is difficult to depend upon the phonetic nature of these 
+sounds, morphophonemic criterion may be used to identify 
+these sounds.
+
+(8) There is no /g/ phoneme in this language ; but it is 
+needed in the orthography to represent the velar nasal /?// 
+as ng.
+
+(9) The palatal fricative i! is graphimically represented 
+as sh. This may be continued.
+
+Khasi also uses the similar conventions adopted in writing 
+English, such as starting a sentence always with a capital 
+letter and starting the proper names with capital letters.
+
+Khasi Orthography
+
+95
+
+Dcvanagari equivalents are given below for the benefit of 
+those interested to write this language in Devanagari script.
+
+Phoneme
+
+Roman script
+
+Devanagari script
+
+a
+
+a
+
+31
+
+a:
+
+aa
+
+3tT
+
+i
+
+i
+
+5
+
+i:
+
+ii
+
+t
+
+i
+
+i
+
+0
+
+o
+
+sft
+
+o:
+
+00
+
+Sift
+
+u
+
+u
+
+u:
+
+uu
+
+e
+
+e
+
+e:
+
+ee
+
+P
+
+P
+
+ph
+
+ph
+
+tf
+
+b
+
+b
+
+?
+
+bh
+
+bh
+
+V
+
+t
+
+t
+
+U
+
+th
+
+th
+
+d
+
+d "
+
+dh
+
+dh
+
+j
+
+j
+
+jh
+
+jh
+
+IT
+
+k
+
+k
+
+kh
+
+kh
+
+ts
+
+-
+
+g
+
+tr
+
+?
+
+’; h
+
+m
+
+m
+
+n
+
+n
+
+ii
+
+n
+
+V
+
+ng
+
+8
+
+s
+
+'8
+
+sh
+
+31
+
+r
+
+r
+
+l
+
+1
+
+?T
+
+w
+
+w
+
+«r
+
+y
+
+y
+
+5T
+
+96
+
+Khasi Phonetic Reader
+
+In writing Khasi consonant clusters in Devanagari script 
+here also the available Devanagari consonant clusters may be 
+used to represent them. The other clusters which have no 
+Devanagari clusters (signs) may use (adopt) ‘halanth’ to 
+represent the clusters.
+
+Select Bibliography
+
+Acharya, S. K. 1971. “Language of the Khasis”. Mainstream. 
+(May), Pp. 19-26.
+
+Bareh, Hamlet. 1969, A short history of Khasi literature. 
+Shillong : Don Bosco Press.
+
+Chatterji, S. K. 1974. Kirata-Jana-krti. Calcutta : Asiatic 
+Society.
+
+Grierson, G. A. (Comp, and Ed.) 1966. Linguistic Survey of 
+India. Vol. II. (2nd Edn.). Mon-khmer and Siamese- 
+Chinese families (including Khasi and Tai). Delhi : 
+Motilal Banarasidass. Pp. 1-57.
+
+Guha, B. S. 1944, Racial elements in the population.
+
+Gurdon, P. R. T. 1975. The Khasis. Delhi : Cosmo Publica¬ 
+tions.
+
+Nagaraja, K. S. 1978. A descriptive analysis of Khasi. Poona : 
+University of Poona. (Ph.D. dissertation).
+
+Pattanayak, D. P. (Ed.) 1973. Distribution of languages in 
+India, in States and Union Territories. (Revised Edn.) 
+Mysore : Central Institute of Indian Languages.
+
+Thomas, David and Headley, Robert Jr. 1970. “More on 
+Mon-Khmer sub-grouping”. Lingua. Vol. 25. Pp. 308-418.

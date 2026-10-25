@@ -1,0 +1,1541 @@
+TITLE: Studies on Aquatic and Semi-Aquatic Hemiptera (Insecta) of Jaiñtia Hills and East Khasi Hills Districts of Meghalya, North Eastern India
+AUTHOR: Lyngdoh, Jennifer
+YEAR: 2011
+ID: dli_zoological_occpapers_332
+------------------------------------------------------------
+
+OCCASIONAL PAPER NO. 332
+
+Records of the 
+Zoological Survey of India
+
+Studies on Aquatic and Semi-aquatic 
+Hemiptera (Insecta) of Jaintia Hills and 
+East Khasi Hills Districts of Meghalya,
+
+North Eastern India
+
+JENNIFER LYNGDOH
+
+Zoological Survey
+
+OCCASIONAL PAPER NO. 332
+
+Studies on Aquatic and Semi-aquatic Hemiptera 
+(Insecta) of Jaintia Hills and East Khasi Hills 
+Districts of Meghalya, North Eastern India
+
+JENNIFER LYNGDOH
+
+North Eastern Reagional Centre 
+Zoological Survey of India 
+Risa Colony, Shillong
+
+Edited by the Director, Zoological Survey of India, Kolkata
+
+Zoological Survey of India 
+Kolkata
+
+CITATION
+
+Jennifer Lyngdoh 2010. Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaifttia Hills and 
+East Khasi Hills Districts of Meghalaya, North Eastern India. Rec. zool. Surv. India, Occ. Paper 
+No., 332 : 1-34 (Published by the Director, Zool. Surv. India, Kolkata)
+
+Published: November, 2011 
+ISBN 978-81-8171-296-7
+
+© Government of India, 2011
+
+ALL RIGHTS RESERVED
+
+■ No part of this publication may be reproduced, stored in a retrieval system or 
+transmitted, in any form or by any means, electronic, mechanical, photocopying, 
+recording or otherwise without the prior permission of the publisher.
+
+■ This book is sold subject to the condition that it shall not, by way of trade, be 
+lent, re-sold hired out or otherwise disposed of without the publisher's consent, 
+in any form of binding or cover other than that in which it is published.
+
+■ The correct price of this publication is the price , printed on this page. Any 
+revised price indicated by a rubber stamp or by a sticker or by any other means 
+is incorrect and shoud be unacceptable.
+
+PRICE
+
+India: ? 250.00 
+Foreign : $ (U.S.) 15 £ 10
+
+Published at the Publication Division by the Director, Zoological Survey of India, M-Block, New 
+Alipore, Kolkata-700 053 and printed at East India Photo Composing Centre, 69 Sisir Bhaduri Sarani, 
+Kolkata-700 006.
+
+RECORDS
+
+OF THE
+
+ZOOLOGICAL SURVEY OF INDIA 
+OCCASIONAL PAPER
+
+No. 332 _2011_ Pages 1-34
+
+CONTENTS
+
+Page
+
+INTRODUCTION.1
+
+ABBREVIATIONS.1
+
+SYSTEMETIC ACCOUNT. 3
+
+IDENTIFICATION KEYS TO THE INFRAORDER AND FAMILIES. 4
+
+Family 1 CORIXIDAE
+
+1. Cymatia apparens (Distant).5
+
+Family IINEPIDAE
+
+2. Laccotrephes ruber (Linneaus).6
+
+3. Ranatra varipes varipes St&l.7
+
+4. Cercotmetus pilipes (Dallas).8
+
+Family 111 NOTONECTIDAE
+
+5. Anisops sardea Herrich-Shaffer.9
+
+Family IV BELOSTOMATIDAE
+
+6. Lethocerus indicus (Lapeletier & Serville).9
+
+7. Diplonychus rusticus (Fabricius).10
+
+Family V NAUCORIDAE
+
+8. Gestroiella insignis Distant.11
+
+9. Heleocoris breviceps Montandon
+
+11
+
+11
+
+10. Heleocoris obliquatus (Spinola)
+
+Family VIIHYDROMETRIDAE
+
+11. Hydrometra greeni Kirkaldy.12
+
+Subfamily PTILOMERINAE
+
+12. Pitilomera (Ptilomera) laticaudata (Hardwicke).13
+
+13. Metrocoris nigrofasciatus Distant.14
+
+14. Neogerris parvula (St&l).16
+
+15. Limnogonus (Limnogorms) nitidus (Mayr).16
+
+16. Aquarius paludum (Fabricius).17
+
+DISCUSSION.21
+
+SUMMARY.22
+
+ACKNOWLEDGEMENTS.22
+
+REFERENCES.23
+
+PLATES
+
+27
+
+INTRODUCTION
+
+Meghalaya is a picturesque landscape of plateaus, ravines, brooks, rivulets, lakes and 
+waterfalls. The rivers originating from Meghalaya plateau are all rain-fed and most of the 
+rivers either flow towards the North or South of the State. Rivers that flow towards the 
+South drain into Surma valley in Bangladesh and those that flow towards the North ultimately 
+join the Brahmaputra in Assam.
+
+Aquatic Hemiptera or Water bugs play an important role in the fresh water ecosystems 
+and because of their predatory nature, certain families of bugs may be utilised in the 
+biological control of mosquitoes. Jansson (1977) demonstrated that members of the family 
+corixidae are used as indicators of water quality. Because of their diverse habitats and poor 
+dispersal capabilities, these water bugs serve as zoogeographical indicators (Jordon, 1951).
+
+The water-bugs from the State of Meghalaya (the then Assam) was first studied by 
+Distant (1902, 1906, 1910) who reported only three species. Then, Paiva (1919b) recorded 
+11 species belonging to two families from Garo Hills. In 194.0, Hutchinson recorded two new 
+species of Corixids from Khasi Hills and after a span of five decades; a comprehensive 
+systematic work was done by Bal & Basu (1998) who reported 35 species under 25 genera 
+and 9 families. However, the work of Bal & Basu (loc. cit.), though comprehensive included 
+only the species mostly from Khasi Hills and Garo Hills. Therefore, this study is an attempt 
+to consolidate the information on the group by throwing more light on the present taxonomic 
+status of the species occurring in this part of the country especially those of Jaifltia Hills 
+districts where information on the group is limited to only one species i.e., Laccotrephes 
+robustus Stal (Bal & Basu loc.cit).
+
+The present study, herein, provides informations on the water bugs of East Khasi Hills 
+and Jaifltia hills districts of Meghalaya. The materials under study contained 16 species, 
+belonging to 16 genera under 7 families and were collected from diverse habitats such as 
+slow and fast flowing streams, rivers, ponds, lakes and paddy fields.
+
+The taxonomic account of all the species studied, descriptive account of each species 
+including synonyms, diagnostic characters and distribution is dealt with in this report. The 
+entire material under report is deposited in North Eastern Regional Centre.
+
+ABBREVIATIONS
+
+JHD - Jaifltia Hills District.
+
+EKH - East Khasi Hills District.
+
+Map of Jantia and East Khasi Hills Districts of Meghalaya
+
+K>
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaifitia Hills
+
+3
+
+SYSTEMATIC ACCOUNT
+
+Following is the systematic list of all the species dealt with :
+
+Infraorder NEPOMORPHA 
+Family I CORIXIDAE 
+Subfamily CYMATINAE 
+Genus 1. Corixa Geoffroy 1762
+
+1. Cymatia apparens (Distant)
+
+Family II NEPIDAE 
+Subfamily NEPINAE 
+Genus 2. Laccotrephes Still 1865
+
+2. Laccotrephes ruber (Linnaeus)
+
+Subfamily RANATRINAE 
+Genus 3. Ranatra Fabricius 1790
+
+3. Ranatra varipes varipes Still
+
+Genus 4. Cercotmetus Amyot & Serville 1843
+
+4. Cercotmetus pilipes (Dallas)
+
+Family III NOTONECTIDAE 
+Genus 5. Anisops Spinola 1837
+
+5. Anisops sardeus sardeus Herrich-Shaffer
+
+Family IV BELOSTOMATIDAE 
+Genus 6. Lethocerus Mayr 1853
+
+6. Lethocerus indicus (Lapeletier & Serville)
+
+Genus 7. Diplonichus Laporte, 1833
+
+7. Diplonychus rusticus (Fabricius)
+
+Family V NAUCORIDAE 
+Subfamily CHEIROCHELINAE 
+Genus 8. Gestroiella Montandon 1897a
+
+8. Gestroiella insignis Distant
+
+Subfamily LACCOCORINAE 
+Genus 9. Heleocoris Stal 1876
+
+9. Heleocoris breviceps Montandon
+
+10. Heleocoris obliquatus (Spinola)
+
+4
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Infraorder GERROMORPHA 
+Family VI HYDROMERIDAE 
+Subfamily HYDROMETRINAE 
+Genus 10. Hydrometra Latreille 1796
+
+11 . Hydrometra greeni Kirkaldy
+
+Family VII GERR1DAE 
+Subfamily PTILOMERINAE 
+Genus 11. Ptilomera Amyot & Serville 1843
+
+12. Ptilomera (Ptilomera) laticaudata (Hardwicke)
+
+Subfamily HALOBATINAE 
+Genus 12. Metrocoris Mayr 1865
+
+13. Metrocoris nigrofasciatus Distant
+
+Subfamily GERRINAE 
+Genus 13. Neogerris Matsumura
+
+14. Neogerris parvula (St&l)
+
+Genus 14. Limnogonus Stal 1868
+
+15. Limnogonus (Limnogonus) nitidus (Mayr)
+
+Genus 15. Aquarius Schellenberg 1800
+
+16. Aquarius paludum Fabricius
+
+Genus 16. Rhycobates Esaki 1923**
+
+Identification Key to the Infraorder and Families 
+(Adopted from Pareira D.L.V et al , 2007)
+
+1. Short antennae smaller than head, usually hidden beneath the compound eyes (except
+
+Ochteridae & Saldidae.Infraorder-Nepomorpha.2
+
+— Long antennae larger than the head, usually free.Infraorder-Gerromorpha.9
+
+2. Ocelli present; species semi-aquatic, living near the water’s edge.3
+
+— Ocelli absent; aquatic species,. 4
+
+3. Antennae hidden, visible ventrally near the eyes; raptorials forelegs.
+
+.GELASTOCORIDAE
+
+— Antennae exposed, visible dorsally; unmodified forelegs.OCHTERIDAE
+
+4. Front tarsi clamshell and unisegment; head wider than pronotum, rostrum short, not
+
+segmented.CORIXEDAE
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of JaiUtia Hills
+
+5
+
+— Front tarsi differently; head less wide than pronotum, rostrum with three or more
+
+segment.5
+
+5. Raptorials front legs with femora robust or not, flattened body.6
+
+— Front legs differently, with femora not robust, dorsally convex.8
+
+6. Membrane hemelytra ribbed; species can reach 20 mm or more in length.7
+
+— Hemelytra membrane devoid of ribs, length always less than 20 mm.
+
+.NAUCORIDAE
+
+7. Narrow body; appendages at the apex of the abdomen forming a long breathing tube, 
+not retractile, cylindrical hind legs with tibia without fringe of setae or with few setae 
+.NEPIDAE
+
+— Body broad, the apex of abdominal appendages short, flat and retractable; flattened hind
+
+legs, tobia with fringe of setae well developed.BELOSTOMATIDAE
+
+8. Posterior tibia and tarsus with distinct fringe of setae, claws of hind tarsus apparently
+
+absent; head detached from the pronotum; species ususlly over 5 mm long, wing 
+membrane present.NOTONECTIDAE
+
+— Posterior tibia and tarsus with a little fringe of setae, normal claws of hind tarsus; head
+
+fused to the pronotum; species small, smaller than 5 mm long, wing membrane absent 
+...PLEIDAE
+
+9. Long and slender body, head wider than 1/4 of the total body length, legs markedly
+
+thinner.HYDROMETRIDAE
+
+— Body in various ways, but not long and slender, head less than Vi of the total body
+
+length, different legs.10
+
+10. Claws inserted before the apex of tarsus (Claws pre-apical); distance between the
+
+anterior and middle legs distinctly longer thn the distance between the median and 
+posterior thigh.GERRIDAE
+
+— Claws inserted at the apex of tarsus (Claws apical) legs inserted ventrally near the
+
+midline.MESOVELIIDAE
+
+Infraorder NEPOMORPHA 
+Family I CORIXIDAE 
+Subfamily CYMATINAE 
+Genus 1. Cymatia Flor 1860
+
+1. Cymatia apparens (Distant) 
+(Plate V-A)
+
+1902. Corixa hieroglyphica : Distant, Fauna Brit. India, Rhynchota, 2:13.
+
+6
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+1910. Corixa apparens Distant, Fauna Brit. India, Rhynchota, 5 : 343.
+
+1919a. Corixa hieroglyphica : Paiva, Rec. Indian Mus., 16 : 156.
+
+1928. Cymatia apparens : Jaczewsky, Ann. Mus. Zool. polon., 7 : 107.
+
+1940. Cymatia apparens : Hutchinson, Trans. Connnecticut Acad. Arts Sci., 33 : 405.
+
+2000. Corixa hieroglyphica : Ramakrishna, Rec. zool. Surv India , 98 : 183.
+
+2004. Corixa apparens : Thirumalai, Rec. zool. Surv India, 102(1*2) : 68.
+
+2004. Corixa apparens : Bal & Basu, State fauna Series : 10 : Fauna of Manipur (2), : 297.
+
+Materials examined : 1 ex., Waikhyrwi, Sutnga vill., JHD, 21.vi.06, coll : J. Lyngdoh & 
+Party.
+
+Diagnosis : Adult insects with body length from 4.7-5.8 mm; pronotum with seven to 
+eight transverse black lines, which are finely rastrate; clavus rastrate, thickly mottled with 
+short irregular black lines, the base pale; corium not rastrate, punctured, with short transverse 
+fragmentary dark markings arranged in three or four series; a well defined longitudinal carina 
+on the pronotum.
+
+Distribution : India: Meghalaya (Districts-Khasi hills, Jaifitia Hills); Jammu and Kashmir; 
+Maharashtra; Manipur; Tamil Nadu; West Bengal.
+
+Elsewhere : China.
+
+Remarks : First record from Jaifitia Hills district, Meghalaya.
+
+Family II NEPIDAE 
+Subfamily NEPINAE 
+Genus 2. Laccotrephes St&l 1865
+
+2. Laccotrephes ruber (Linnaeus)
+
+(Plate V-B)
+
+1764. Nepa ruber Linnaeus, Mus. Lud. Ulr„ : 165.
+
+1868. Laccotrephes ruber : StAl, Hem. Fabr., 7 : 135,
+
+1906. Laccotrephes ruber : Distant, Fauna Brit. India, Rhynchota, 3 : 18.
+
+1947. Laccotrephes ruber : Hafiz & Pradhan, Rec. Indian Mus., 45(4) : 347-376.
+
+1988. Laccotrephes ruber : Ravishanker & Venkatesan, Entomon., 13 : 231.
+
+1989. Laccotrephes ruber : Thirumalai, Rec. zool. Surv. India. Occ. Pap., 118 : 30.
+
+Materials examined : 1 ex., Umkaikada I, Mupliang vill., JHD, 15.X.06, Coll: J. Lyngdoh 
+& Party & Party; 4 exs., Wah Borsara, Borsara vill., JHD, 5.ii.07, Coll : J. Lyngdoh & Party; 
+4 exs., Lamsaki vill., (Stream-I ), JHD, 4.ii.07, Coll: J. Lyngdoh & Party; 1 ex., Umsngurkur, 
+Sung vill., JHD, 14.X.06; 1 ex., Wah Leteifi, Sutnga vill., JHD, 14.X.06, Coll : D. Khynriam; 
+3 exs., Wah Dona, Dona vill., JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 1 ex., Lamsaki vill., 
+(Stream-II ), JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 4 exs., Lamsaki vill., (Stream-Ill), 
+JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 2 exs., Wah Tishang, Nongjri vill., EKH Dist., 
+19.i.06, Coll ; J. Lyngdoh & Party; 6 exs., Mupyut (Paddy fields), Pdengshakap vill; JHD,
+
+LYNGDQH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of JaiUtia Hills
+
+7
+
+I8.vi.05, Coll : J. Lyngdoh & Party; 1 ex., Amjalong, Umjalong-Kyrwen vill., JHD, 18.X.06, 
+Coll : J. Lyngdoh & Party; 1 ex., Myntdu (Paddy fields), Jowai, JHD, 14.vi.05, Coll : J. 
+Lyngdoh & Party.
+
+Diagnosis : Adults attain a length of about 30-35 mm excluding abdominal appendages; 
+breadth between pronotal angles 7-9 mm; abdomen reddish brown above; prostemum convex 
+in the middle provided with a small indistinct tubercle; abdominal appendages a little longer 
+than the body.
+
+Distribution : India : Meghalaya (Districts-East Khasi Hills, West Khasi Hills, East Garo 
+Hills, West Garo Hills); Bihar; Delhi; Gujarat; Jammu & Kashmir; Kerala; Manipur; Maharashtra; 
+Mizoram; Nagaland; Orissa; Sikkim; Tamil Nadu; Tripura; Uttar Pradesh; West Bengal.
+
+Elsewhere : China, Japan, Nepal, Pakistan, Sri Lanka.
+
+Remarks : New record from Jaifitia Hills district.
+
+3. Ranatra varipes varipes St&l 
+(Plate V-C)
+
+1861. Ranatra varipes Stil, Ofvers. K. Vet.-Akad. Forh., 18 : 203.
+
+1910. Ranatra varipes : Distant, Fauna of Brit. India, Rhynchota, 5 : 316.
+
+1947. Ranatra varipes : Hafiz and Pradhan, Rec. Indian Mus., 45 : 366.
+
+1974. Ranatra varipes : Fernando & cheng, Fdn. Mus. J., 19 : 32.
+
+Matrial examined : 3 exs., Wailangwiang, Muthlong vill., JHD, 15.X.06, Coll: J. Lyngdoh 
+& Party; 1 ex., Umbluh, Muthlong vill., JHD, 15.X.06, Coll : J. Lyngdoh & Party; 5 exs., 
+Wah Borsara, Borsara vill., JHD, 5.ii.07, Coll: J. Lyngdoh & Party; 2 exs., Umpung, Lyniong 
+vill., EKH Dist., 5.ii.07, Coll : J. Lyngdoh & Party; 1 ex., Ambuka, Umjalong-Kyrwen vill., 
+JHD, 18.X.06, Coll : J. Lyngdoh & Party; 4 exs., Lamsaki vill., (Stream-I), JHD, 4.ii.07, 
+Coll : J. Lyngdoh & Party; 8 exs., Umpaji, Sahsniang vill., JHD, 24.vi.06, Coll : J. Lyngdoh 
+& Party; 1 ex., Wah Umkiang (Downstream), Umkiang vill., JHD, 4.ii.07, Coll : J. Lyngdoh 
+& Party; 2 exs., Thlu-Ummulong, Ummulong vill., JHD, 4.X.06, Coll : J. Lyngdoh & Party; 
+2 exs., Umtyngar, Mylliem Block, EKH Dist., 18.i.06, Coll: J. Lyngdoh & Party; 6 exs., Wah 
+Dona, Dona vill., JHD, 4.ii.07, J Coll : J. Lyngdoh & Party; 1 ex., Lamsaki vill., (Stream- 
+Ill ), JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 5 exs., Iongnoh, Kyrwen vill., JHD, 24.vi.06, 
+Coll : J. Lyngdoh & Party; 5exs., Wah Mynktah, Rwan vill., JHD, 24.vi.06, Coll: J. Lyngdoh 
+& Party; 1 ex., Wah Kongong, Kongong vill; JHD, 24. i.06. Coll : J. Lyngdoh & Party; 15 
+exs., Umkaikada-I, Mupliang vill., JHD, 15.X.06, Coll: J. Lyngdoh & Party; 11 exs., Lamsaki 
+vill., (Stream-II), JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 1 ex., Umtyngar, Mylliem Block, 
+EKH Dist, 18.i.06, Coll : J. Lyngdoh & Party; 3 exs., Wah Khasaw, Sohra sub-div., EKH 
+Dist., 23.vi.06, Coll : J. Lyngdoh & Party; 1 ex., Umblock-I, B.D.O. campus, Mawsynram 
+div., EKH Dist., 21.vi.05, Coll : J. Lyngdoh & Party.
+
+8
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Diagnosis : Adult insects may attain a length of about 19-20 mm; abdominal appendages 
+reach upto 12 mm in length i.e., 7-8 mm shorter than the body; pronotum provided with 
+a distinct ridge at the posterior angle on each side ; metastemal process posteriorly blunt and 
+slightly rounded with no lateral concavity, mid-longitudinal carination less distinct; fore 
+femora broad with irregular markings and anterior tibia longer and clearly touching the inner 
+tooth on the anterior femur.
+
+Distribution : India : Meghalaya (Districts-East Khasi Hills); Manipur; Orissa; Tamil Nadu; 
+Tripura; Uttar Pradesh; West Bengal.
+
+Elsewhere : Australia, Indonesia, Malaysia, Myanmar, Taiwan, Sri lanka.
+
+Remarks : New record from Jaifitia Hills district.
+
+Genus 4. Cercotmetus Amyot & Serville 1843
+
+2. Cercotmetus pilipes (Dallas)
+
+(Plate V-D)
+
+1850. Ranatra (Cercotmetus) pilipes Dallas, Trans. R. ent. Soc. London : 1 : 9.
+
+1906. Cercotmetus pilipes : Distant, Fauna Brit. India, Rhynehota, 3 : 23.
+
+1918. Cercotmetus pilipes : Paiva, Rec. Indian Mus., 14 : 26.
+
+1997. Cercotmetus pilipes : Bal and Basu, Fauna of Delhi, State Fauna Series, 6 : 267.
+
+Material examined : 1 ex., Wah Kwai, Moomalaing vill., JHD, 22.i.06, Coll : J. Lyngdoh 
+& Party; 1 ex., Wah Umkiang (upstream), Umkiang vill., JHD, 4.ii.07, Coll : J. Lyngdoh & 
+Party; 2 exs., Umsngurkur, Sung vill., JHD, 14.X.06, Coll : J. Lyngdoh & Party; 1 ex., 
+Umtyrchi, Khliehtyrchi vill., JHD, 25.vi.06, Coll : J. Lyngdoh & Party; 2 exs., Iongnoh, 
+Kyrwen vill., JHD, 24.vi.06, Coll : J. Lyngdoh & Party; 2 exs.,Wah Thaleift, Mawmluh, 
+Sohra, EKH Dist., 19.vi.05, Coll : J. Lyngdoh & Party; 5 exs., Wah Myrkeifi, Myrkeifl vill., 
+JHD, 16.X.06, Coll : J. Lyngdoh & Party; 1 ex., Salaroh, Jowai, JHD, 26.vi.06, Coll : J. 
+Lyngdoh & Party; 30 exs (immature), Wah Sahpsein, Nongbah vill., JHD, 25.vi.06, Coll : 
+J. Lyngdoh & Party; 1 ex., Umpung, Lyniong vill., EKH Dist., 20.vi.05, Coll : J. Lyngdoh 
+& Party; 2 exs (immature), Wah Saitsaphlang, Khliehtyrchi vill., JHD, 25.vi.06, Coll : J. 
+Lyngdoh & Party; 4 exs (immature), Wah Khasaw, Sohra sub-div., EKH Dist., 23.vi.06 , 
+Coll: J. Lyngdoh & Party; 7 exs, Wah Mynktah, Rwan vill., JHD, 24.vi.06 , Coll : J. 
+Lyngdoh & Party 8; 1 ex., Umtyngkrong, Eco-Park, Sohra sub-div., EKH Dist., 23.vi.06, 
+Coll : J. Lyngdoh & Party; 1 ex., Wah Diefithlen, Sohra sub-div., EKH Dist., 20.vi.06 , J 
+Coll: J. Lyngdoh & Party; 9 exs., Moosyat, Jowai, JHD, 24.vi.06, Coll: J. Lyngdoh & Party; 
+1 ex., Wah Mynkre, Mynkre vill., JHD, 23.i.06, Coll: J. Lyngdoh & Party; 4 exs., Umtyngar, 
+Mylliem Block, EKH Dist., 18.i.06, Coll : J. Lyngdoh & Party; 14 exs., Wah Langstieh, 
+Laittyra vill., EKH Dist., 22.vi.06, Coll : J. Lyngdoh & Party; 1 ex., Umlidoh, Mihmyntdu 
+vill., JHD, 26.vi.06, Coll : J. Lyngdoh & Party.
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaifitia Hills
+
+9
+
+Diagnosis : Body elongate, cylindrical about 44 mm in length; abdominal appendages of 
+only 9 mm in length; vertex with indistinct tubercle; prostemum with two deep long longitudinal 
+furrows extending Its whole length; front coxae inserted at the front margin of the prostrenum; 
+legs banded with pale brown markings; forelegs strongly prehensile, without claws; femur 
+of fore leg considerable shorter than pronotum; middle and hind tibia besets with a double 
+row of spines laterally and fringed with long yellow hairs on the inner sides; posterior end 
+of abdomen bears a pair of short, broad, compressed and strongly pilose caudal filaments.
+
+Distribution : India : Mizoram; Delhi.
+
+Elsewhere : Bhutan.
+
+Remarks : New record from Meghalaya.
+
+Family III NOTONECTIDAE 
+Genus 5. Anlsops Spinola 1837
+
+5. Anlsops sardeus sardeus Herrich-Shaffer 
+(Plate VI-A, VI-B)
+
+1150. Anlsops sardeus Herrich-Shaffer, Die Wans. Ins., 9:41.
+
+1904. Anlsops sardea : Kirkaldy, Wien ent. Ztg., 23 : 114.
+
+1951. Anisops sardeus sardeus Herrich-Shaffer : Polhemus, Cat. Het. Palaerctic region., 1 : 66.
+
+1989. Anisops sardea : Thirumalai, Rec. zool. Surv. India. Occ. Pap., 118 : 26.
+
+Materials examined : 12 exs., Umbluh, Muthlong vill., JHD, 15.X.06, Coll : J. Lyngdoh 
+& Party; 1 ex., Waikhyrwi, Sutnga vill., JHD, 21.i.06, Coll : J. Lyngdoh & Party.
+
+Diagnosis : Adult males 7.5-8.4 mm and female 12-1.5 mm in length; greatest body 
+width about mid way the length of the body; general body colour pale yellow or brownish 
+yellow; synthlipes narrow, less than one-third the anterior width of vertex; male provided 
+with much prominent cephalic horn with frons excavate its entire length and bordered 
+laterally by two carinae; anterior tibia of male provided with stridulatory comb which gradually 
+narrow towards the apex , composed of about 18 teeth.
+
+Distribution : India: Meghalaya : India: Meghalaya (Districts-East Khasi Hills); Manipur; 
+West Bengal; Orissa; Punjab; U.P.; South India.
+
+Elsewhere : Africa, Albania, Canary Islands, Corfu, Myanmar, Pakistan, Syria, Turkey. 
+Remarks : New records from Jaifitia Hills district.
+
+Family IV BELOSTOMATIDAE 
+Genus 6. Lethocerus Mayr 1853 
+6. Lethocerus indicus (Lapeletier & Serville)
+
+(Plate Vl-C)
+
+1825. Belostoma indica Lapeletier & Serville, Encycl. Meth., : 272.
+
+10
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+1909. Lethocerus indicus : Montandon, Bull. Soc. Sci. Buc., 17 : 138.
+
+1956. Lethocerus indicus : Usinger, Aquatic Insects of California, 204.
+
+1969. Belostoma indicum Varshney & Biswas, J. Bombay nat. hist. Soc., 66(2) : 272.
+
+1974. Lethocerus indicus : Fernando & Cheng Fdn. Mus. J., 19 : 41.
+
+1997. Lethocerus indicus : Bal and Basu, State fauna Series : 6 : Fauna of Delhi, : 269.
+
+Materials examined : 1 ex., Wah Dona (upstream), Marbaksa vill., JHD, 3.ii.07, Coll : J. 
+Lyngdoh & Party; 1 ex., Waikhyrwi, Sutnga vill., JHD, 21.i.06, Coll : J. Lyngdoh & Party.
+
+Diagnosis : Body large in size and the length may vary between 62-85 mm; head between 
+eyes with parallel sides; pronotum with a transverse fasciae at the basal end and a fine mid¬ 
+longitudinal carination; hemelytra with distinct membrane provided with longitudinal veins; 
+posterior tibiae and tarsi ampliately compressed; intermediate and posterior legs provided with 
+thick sets of swimming hairs on the ventral side.
+
+Distribution : India : Meghalaya (Districts-West Garo Hills); Assam; Bihar; Kerala; 
+Maharashtra; Mizoram; Manipur; Orissa; Tripura; Uttar Pradesh; West Bengal.
+
+Elsewhere : China, Java, Malay Peninsula, Myanmar, Pakistan, Philippines, Sri Lanka, 
+Sumatra.
+
+Remarks : New records from Jaintia Hills district.
+
+Genus 7. Diplonychus Laporte, 1833
+
+7. Diplonychus rusticus (Fabricius)
+
+(Plate VI-D)
+
+1794. Nepa rustica Fabricius Ent. Syst., 4 : 62.
+
+1906. Sphaerodema rusticum : Distant, Fauna Brit., India, Rhynchota, 3 : 36.
+
+1934. Sphaerodema rusticum : Lundblad, Arch. Hydrobiol. Suppl, 12 : 55.
+
+1961. Diplonychus rusticus : Lauck & Menke, Ann. Entomol. Soc. Amer., 54 : 649.
+
+1980. Diplonychus rusticus : Venkatesan & Rao, J. Bombay nat. Hist. Soc., 77 : 299.
+
+1989. Diplonychus rusticus : Thirumalai, Rec. zool. Surv. India, Occ. Pap., 118 : 32.
+
+Material examined : 16 exs., Ambuka, Umjalong-Kyrweng vill., JHD, 18.X.06, Coll : J. 
+Lyngdoh & Party; 1 ex., Umpaji, Sahsniang vill., JHD, 24.vi.06, Coll : J. Lyngdoh & Party; 
+1 ex., Wah Mynktah, Rwan vill., JHD, 24.vi.06, Coll : J. Lyngdoh & Party.
+
+Disgnosis : Body length of a adult varies from 15-17 mm; head shorter than breadth 
+between eyes, which are obliquely converging; pronotum, scutellum and corium very thickly 
+and finely punctuate; anterior tarsal claws very small; ventro-lateral stripe of fine hairs on 
+the abdomen narrow.
+
+Distribution : India : Delhi; Jammu and Kashmir; Kerala, Manipur; Maharashtra, Tripura; 
+West Bengal. Elsewhere : Austria, China, Japan, Java, Malay Peninsula, Myanmar, Philippines, 
+Sri Lanka, Sumatra, Thailand, New Guinea.
+
+Remarks : New record from Meghalaya.
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaintia Hills 1 1
+
+Family V NAUCORIDAE 
+Genus 8. Gestroiella Montandon, 1897 
+8. Gestroiella insignis Distant
+
+1910. Gestroiella insignis Distant, Fauna Brit. India. Rhynchota, 5 : 318.
+
+2004. Gestroiella insignis : Bal & Basu, State fauna Series : 10 : Fauna of Manipur (2), : 303.
+
+Material examined : 2 exs., Wah Apha, Pyrtakuna vill., JHD, 5.H.07, Coll : J. Lyngdoh
+
+& Party.
+
+Diagnosis : Body length may be 17.5 mm; head slightly longer than breadth between eyes; 
+pronotum centrally depressed at the anterior margin; lateral margins of pronotum oblique 
+slightly rounded and posterior angles broadly acute and directed backward over the base of 
+the hemelytra; male anterior femur strongly dialated with a concavity at the distal end.
+
+Distribution : India : Assam; Manipur.
+
+Remarks : New record from Meghalaya.
+
+Genus 9. Heliocoris Stal 1876
+
+9. Heleocoris breviceps Montandon
+
+1897c. Heleocoris breviceps Montandon, Ann. Soc. Belgique, 41 : 55.
+
+1906. Heleocoris breviceps : Distant, Fauna Brit. India, Rhynchota, 3 : 29.
+
+1989. Heleocoris breviceps : Thirumalai, Rec. zool. Surv. India. O.cc. Pap., 118 : 33.
+
+2007. Heleocoris breviceps : Bal and Basu, State fauna Series : 14 : Fauna of Mizoram, : 254.
+
+Material examined : 1 ex., Um-Mungriah, Umwai vill., EKH Dist., 22.vi.06, Coll : J. 
+Lyngdoh & Party.
+
+Diagnosis : Adult insects may reach upto 9.5 mm in length. Body oval in shape with 
+yellow impression of spots on the head and pronotum; abdomen dark brown or brownish 
+black, with its apex lighter in colour on the ventral side.
+
+Distribution : India : Mizoram; Maharashtra; Tamil Nadu, Uttar Pradesh; West Bengal. 
+Elsewhere : Japan, Malaya, Myanmar, Philippines, Sri Lanka.
+
+Remarks : Record for the first time from Meghalaya.
+
+10. Heleocoris obliquatus (Spinola)
+
+1837. Heleocoris obliquatus Spinola, Ess. Ins. Hemipt., : 55.
+
+1906. Heleocoris obliquatus : Distant, Fauna Brit. India, Rhynchota, 3:31.
+
+1919b. Heleocoris obliquatus : Paiva, Rec. Indian Mus., 16 : 155.
+
+1998. Heleocoris obliquatus : Bal & Basu, Fauna of Meghalaya, State Fauna Series, 4(Part-4) : 446. 
+Material examined : 1 ex., Wah Mynsar, Umsalait vill., JHD, 24.vi.06, J. Lyngdoh & Party.
+
+Diagnosis : Adult insects attain a length of about 10.5 mm; head and pronotum spotted 
+with grey and black markings ; scutellum black, apex pale; pronotum not distinctly bordered 
+with marginal furrow; posterior angles of pronotum terminating obliquely.
+
+12
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Distribution : India : Meghalaya (Districts-South Garo Hills Dist.); Bihar; Mizoram; 
+Maharashtra.
+
+Remarks : New record from Jaifttia Hills district.
+
+Infraorder GERROMORPHA 
+Family VII HYDROMETRIDAE 
+Subfamily HYDROMETRINAE 
+Genus 10. Hydrometra Latreille 1796
+
+11. Hydrometra greeni Kirkaldy 
+(Plate VII-A)
+
+1898. Hydrometra greeni Kirkaldy, Entomologist, 31 : 2.
+
+1902. Hydrometra vittata : Distant, Fauna Brit. India. Rhynchota, 2 : 170.
+
+1919a .Hydrometra vittata : Paiva, Rec. Indian Mus., 16 : 153.
+
+1928. Hydrometra greeni : Dover, J. Bombay nat. Hist. Soc., 32 : 614.
+
+1934. Hydrometra greeni : Hungerford and Evans, Ann. Mus. Nat. Hung., 38 : 79.
+
+1994. Hydrometra greeni : Thirumalai, Rec. zool. Surv. India. Occ. Paper, 165 : 29.
+
+Material examined : 13 exs., Umsngurkur, Sung vill., JHD, 14.X.06, Coll : J. Lyngdoh 
+& Party; 6 exs., Wah Kuliang, Kuliang vill., JHD, 5.ii.07, Coll : J. Lyngdoh & Party; 4 exs., 
+Wah Dona, Dona vill., JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 3 exs., Wah Umkiang 
+(upstream), Umkiang vill., JHD, 4.ii.07, Coll : J. Lyngdoh & Party; lex., Soil Conservation 
+Compd., (Pond), Lumshnong vill., JHD, 2.ii.07, Coll : J. Lyngdoh & Party; 1 ex., Wah 
+Tishang, Nongjri vill., EKH Dist., 19.i.06, Coll: J. Lyngdoh & Party; 1 ex., Thlu Ummulong, 
+Ummulong vill., JHD,14.x.06, Coll: J. Lyngdoh & Party; 1 ex., Wah Umkiang (downstream), 
+Umkiang vill., JHD, 4.ii.07, Coll: J. Lyngdoh & Party; 1 ex., Wah Sohpai, Nongjri vill., EKH 
+Dist., 19.i.06, Coll : J. Lyngdoh & Party.
+
+Diagnosis : Adult insects may attain upto 11.0-12.0 mm in length; head very long, much 
+longer than pronotum and dilated distally; eyes placed considerably far from both the ends 
+on the much elongated head; l sl antennal segment shortest, 2 nd and 4 th subequal, 3 rd segment 
+longest; hemelytra extends upto 5 th abdominal segments in both the sexes; in males a 
+transverse depression on the 6 th ventral abdominal segment which is also fringed with short 
+erect hairs on the dorsal margin.
+
+Distribution : India: Meghalaya (Districts-East Khasi Hills, Jaintia Hills); Manipur; Mizoram; 
+Orissa; Maharashtra; Tamil Nadu; U.P.; West Bengal.
+
+Elsewhere : Japan, Malasia, Myanmar, Philippines, Sri Lanka.
+
+Remarks : New record from Meghalaya.
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaintia Hills
+
+13
+
+Subfamily PTILOMERINAE 
+Genus 11. Ptilomera Amyot & Serville 1843 
+12. Ptilomera (Ptilomera) laticaudata (Hardwicke)
+
+182$. Gerris laticaudata Hardwicke, Trans. Linn. Soc., 14 : 134.
+
+1902. Ptilomera laticaudata : Distant, Fauna of Brit. India, Rhynchota, 2 : 414.
+
+1926. Ptilomera agroides : Schmidt, Ent. Mitt., 15 : 63.
+
+1960. Ptilomera lachne : Matsuda, Kans. Univ. Sci. Bull., 41(2) : 267.
+
+1965. Ptilomera laticaudata : Hungerford and Matsuda, Kans. Univ Sci. Bull., 45(5) : 416.
+
+Materials examined : 23 exs., Wah Apha. Pyrtakuna vill., JHD, 5.ii.07, Coll : J. Lyngdoh 
+it Party & Party; 1 ex., Umthneng, Umwai vill., Sohra sub-div., EKH Dist., 22.vi.06, Coll: 
+J. Lyngdoh & Party & Party; 8 exs., Umdap, Amlampiang vill., JHD, 17.X.06, : Coll : J. 
+Lyngdoh & Party & Party; 3 exs., Phudum-langmar, Shillong-Mawsynram Road, EKH Dist., 
+20.vi.05, Coll: J. Lyngdoh & Party & Party; 1 ex., Wah Kuliang, Kuliang vill., JHD, 5.ii.07, 
+J Coll: J. Lyngdoh & Party & Party; 18 exs., Umsohlun, Tamabil vill., JHD, 19.X.06, Coll : 
+J. Lyngdoh & Party & Party; 10 exs., Umlarung, Lumshnong vill., JHD, 16.vi.05, Coll : J. 
+Lyngdoh & Party & Party; 17 exs., Umsku, Rhongkum vill., JHD, 18.X.06, Coll: J. Lyngdoh 
+it Party & Party; 4 exs., Umsahi, Lumshnong vill., JHD, 16.vi.05, J Coll : J. Lyngdoh & 
+Party & Party; 1 ex., CMCL Stream, Lumshnong vill., JHD, 16.vi.05, Coll : J. Lyngdoh & 
+Party & Party; 4 exs., Wah Lynkeifi, Lynkeift vill., EKH Dist., 20.vi.05, Coll : J. Lyngdoh 
+it Party & Party; 10 exs., Wah Saitbot, Umwai vill., EKH Dist., 22.vi.06, Coll : J. Lyngdoh 
+it Party & Party; 4 exs., Um-Mungriah, Umwai vill., EKH Dist., 22.vi.06, Coll : J. Lyngdoh 
+& Party & Party; 30 exs., Umladoh, Lumshnong vill., JHD, 16.vi.05, Coll : J. Lyngdoh & 
+Party & Party; 13 exs., Wah Myntang, JHD, 16..vi.05, Coll : J. Lyngdoh & Party & Party; 
+3 exs., Umpung, Lyniong vill., EKH Dist., 20.vi.05, Coll : J. Lyngdoh & Party & Party; 18 
+exs., Stream : Riajalong basti, JHD, 19.X.06, Coll : J. Lyngdoh & Party & Party; 1 ex., 
+Nonglwai vill., (Paddy field), EKH Dist., 20.vi.05, Coll: J. Lyngdoh & Party & Party; 2 exs., 
+Wah Dienglieng, Wahlong vill., EKH Dist., 22.vi.06, Coll : J. Lyngdoh & Party & Party; 3 
+exs., Wah Sheila, Sheila, EKH Dist., 20.vi.06, Coll : J. Lyngdoh & Party & Party; 4 exs., 
+Wah Makjai, Jowai-Amlarem road, JHD, 17.vi.05, Coll: J. Lyngdoh & Party & Party; 2 exs., 
+Umblai, Pyrsadwar vill., JHD, 17.X.06, Coll : J. Lyngdoh & Party & Party; 7 exs., Wah 
+Malidar, Malidar vill., JHD, 3.ii.07, Coll : J. Lyngdoh & Party & Party; 5 exs., Wah Sohmad, 
+Tyma vill., EKH Dist., 21.vi.06, Coll : J. Lyngdoh & Party & Party; 1 ex., Umthangskai, 
+Thangskai vill., JHD, l.ii.07. Coll : J. Lyngdoh & Party & Party; 1 ex., Umheifi, Lait-tyra 
+vill., EKH Dist., 23.vi.06, Coll : J. Lyngdoh & Party & Party; 6 exs., Wah-Jaklong, Nongjrong 
+vill., EKH Dist., 13.X.06, Coll : J. Lyngdoh & Party & Party 0; 15 exs., Umbah, Nartiang 
+vill., JHD, 15.X.06, Coll : J. Lyngdoh & Party & Party; 1 ex., Wah Mawpunkrem, Mawsmai 
+vill., EKH Dist., 22.vi.06, Coll : J. Lyngdoh & Party & Party; 7 exs., Wah saitsaphlang.
+
+14
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Khliehtyrchi vill., JHD, 25.vi.06, Coll : J. Lyngdoh & Party & Party; 8 exs., Wah Dona 
+(upstream), Marbaksa vill., JHD, 9.ii.07, Coll : J. Lyngdoh & Party & Party; 1 ex., Tre- 
+rangriang, Jowai, JHD, 17.vi.05, Coll : J. Lyngdoh & Party & Party; 6 exs., Wah Synleng, 
+Nongjri vill., EKH Dist., 19.i.06, Coll : J. Lyngdoh & Party & Party; 1 ex., Amlampiang, 
+JHD, 17.X.06, Coll : J. Lyngdoh & Party & Party; 8 exs., Umtyngar, Mylliem Block, EKH
+
+Dist., 18.i.06, Coll : J. Lyngdoh & Party & Party; 1 ex., Wah Sohpai, Nongjri vill., EKH
+
+Dist., 19.i.06, Coll : J. Lyngdoh & Party & Party.
+
+Diagnosis : Both apterous and macropterous adults may attain a length between 13.0-15.0
+
+mm; antennae as long as the body, first antennal segment almost as long as the other three 
+segments together; rear margin of metacoxa provided with thorn like projection in both the 
+sexes; almost all over the middle femur with fringed like dark hairs in male, parameres very 
+prominent, direct and laterally directed; female with 7 th abdominal segment modified and 
+provided with long prominent connexival spines.
+
+Distribution : India : Meghalaya (Districts-West Garo Hills, South Garo Hills, East Khasi 
+Hills); West Bengal; Sikkim.
+
+Elsewhere : Myanmar, Malay Peninsula, Sri Lanka, Thailand.
+
+Remarks : Recorded for the first time from Jaintia Hills district.
+
+Subfamily HALOBATINAE 
+Genus 12. Metrocoris Mayr 1865
+
+13. Metrocoris nigrofasciatus Distant 
+(Plate VII-B, VII-C)
+
+1910. Metrocoris nigrofasciatus : Distant, Fauna of Brit. India, Rhynchota, 5 : 159.
+
+1918. Metrocoris nigrofasciatus : Paiva, Rec. Indian Mus.,\A : 25.
+
+1934. Metrocoris nigrofasciatus : Lundblad, Arch. Hydrobiol., Supple., 12 : 371.
+
+1969. Metrocoris nigrofasciatus : Cheng and Fernando, Oriental Ins., 3 : 125.
+
+1998. Metrocoris nigrofasciatus : Bal & Basu, Fauna of Meghalaya, State Fauna Series, 4(Part-4) : 449.
+
+Materials examined : 11 exs., Laitsaum, Mawsynram sub-div., EKH Dist., 22.vi.05, Coll: 
+J. Lyngdoh & Party & Party; 2 exs., Wah Myntang, JHD, 13.vi.05, Coll : J. Lyngdoh & 
+Party & Party; 5 exs., Nonglwai vill.,(Paddy field), EKH Dist., 20.vi.05, Coll : J. Lyngdoh 
+& Party & Party; 1 ex., Umpung, Lyniong vill, EKH Dist., 20.vi.05, Coll : J. Lyngdoh & 
+Party & Party; 3 exs., Wah Saitsaphlang, Khliehtyrchi vill., JHD, 25.vi.06, Coll : J. Lyngdoh 
+& Party & Party; 5 exs., Um-Mungriah, Umwai vill., EKH Dist., 22.vi.06, Coll: J. Lyngdoh 
+& Party & Party; 1 ex., Umsohlun, Tamabil vill., JHD, 19.X.06, Coll : J. Lyngdoh & Party 
+& Party; 10 exs., Umnailang, Mawsynram div., EKH Dist., 22.vi.05, Coll : J. Lyngdoh & 
+Party & Party; 8 exs., Wah Synleng, Nongjri vill., EKH Dist., 18.i.06, Coll : J. Lyngdoh & 
+Party & Party; 1 ex., Umdap, Amlampiang vill., JHD, 17.X.06, Coll : J. Lyngdoh & Party
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaintia Hills
+
+15
+
+A Party; 4 exs., Phudumlangmar, Shillong-Mawsynram Road, EKH Dist., 20.vi.05, Coll : J. 
+Lyngdoh & Party & Party; 13 exs., Umphodbah, Mawsynram, EKH Dist., 21.vi.05, Coll : 
+J. Lyngdoh & Party & Party; 2 exs., Wah Umkiang, Umkiang vill., JHD, 4.ii.07, Coll : J. 
+Lyngdoh & Party & Party; 8 exs., Umblai, Pyrsadwar vill., JHD, 17.X.06, Coll : J. Lyngdoh 
+A Party & Party; 2 exs., Syntuksiar, Jowai, JHD, 14.vi.05, Coll : J. Lyngdoh & Party & 
+Party; 5 exs., Pyrtakuna vill., JHD, 14.vi.05, Coll: J. Lyngdoh & Party & Party; 3 exs., Tre- 
+tangriang, Jowai, JHD, 17.vi.05, Coll : J. Lyngdoh & Party & Party; 4 exs., Amlampiang 
+vill., JHD, 17.X.06, Coll : J. Lyngdoh & Party & Party; 11 exs., Stream : Riajalong basti, 
+JHD, 19.X.06, Coll : J. Lyngdoh & Party & Party; 2 exs., Ialong vill., (Paddy fields), JHD, 
+16.vi.05, Coll : J. Lyngdoh & Party & Party; 4 exs., Wah Lynkeifi, Lynkeifi vill., EKH Dist., 
+20.vi.O5, Coll : J. Lyngdoh & Party & Party; 16 exs., Wah Mynsar, Umsalait vill., JHD,
+
+24. vi.06, Coll : J. Lyngdoh & Party & Party; 1 ex., Umladoh, Lumshnong vill., JHD,
+
+16.vi.05, Coll : J. Lyngdoh & Party & Party; 2 exs., Wah Myrkeifi, Myrkeifi vill., JHD,
+
+16JC.06, Coll : J. Lyngdoh & Party & Party; 2exs., Umtyrchi, Khliehtyrchi vill., JHD,
+
+23.vi.06, Coll : J. Lyngdoh & Party & Party; 1 ex., Wah Sahpseifi, Nongbah vill., JHD,
+
+25. vi.06, Coll: J. Lyngdoh & Party & Party; 8 exs., Umblock-I, B.D.O. campus, Mawsynram
+
+dlv., EKH Dist., 21.vi.05, Coll : J. Lyngdoh & Party & Party; 2 exs., Umblock-II, B.D.O. 
+campus, Mawsynram div., EKH Dist., 21.vi.05, Coll : J. Lyngdoh & Party & Party; 2 exs., 
+Whh Diefithlen, Sohra sub-div., EKH Dist., 20.vi.06, Coll : J. Lyngdoh & Party & Party; 1 
+ex., Wah Tishang, Nongjri vil., EKH Dist., 20.vi.06, Coll : J. Lyngdoh & Party & Party; 5 
+exs., Wah Umkhat, Pynursla vill., EKH Dist, 20.i.06, Coll : J. Lyngdoh & Party & Party; 3 
+exs., Umlidoh, Mihmyntdu vill., JHD, 26.vi.06, Coll : J. Lyngdoh & Party & Party; 1 ex., 
+Moosyat stream, Jowai, JHD, 26.vi.06, Coll : J. Lyngdoh & Party & Party.
+
+Diagnosis : Apterous and macropterous forms may be 5.5-6.0 mm in length. Yellow in 
+ground colour with brown to black markings. Head protruding well beyond the eyes; pronotum 
+as long as head. Rostrum short, slightly surpassing posterior margin of prostemum. 2 nd and 
+3 rd segments of antennae subequal in length; male front femur much broader than that of 
+female and provided with prominent teeth at the distal end. In winged forms, head with 
+central brown speck as in apterous forms but pronotom with central T-shaped brown 
+markings and 2 brown longitudinal strips ane on each side of the ‘T’ Wings dark brown, 
+extending well beyond the abdomen.
+
+Distribution : India : Meghalaya (Districts-South Garo Hills, East Khasi Hills); Paranas.
+
+Elsewhere : Java, Malaya, Myanmar, Thailand.
+
+Remarks : New record from Jaintia Hills district.
+
+16
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Subfamily GERRINAE 
+Genus 13. Neogerris Matsumara 1913
+
+14. Neogerris parvula (St&l)
+
+(Plate VII-D)
+
+1859. Gerris parvula StAl, K. svenska Eug. zool., 4 : 265.
+
+1868. Limnogonus parvulus : St&l, K. svenska Vet.-Akad. Handl., 7 : 133.
+
+1902. Gerris tristan : Distant, Fauna Brit. India, Rhynchota., 2 : 179.
+
+1934. Limnogonus parvulus : Lundblad, Arch. Hydrobiol. Suppl., 12 : 384.
+
+1969. Limnogonus parvulus : Cheng & Fernando, Oriental Ins., 3(2) : 102.
+
+1989. Neogerris parvula : Thirumalai, Rec. zool. Surv. India, Occ. Pap., 118 : 42.
+
+Material examined : 10 exs., Lamsaki vill., JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 5 
+exs., Wah Kuliang, Kuliang vill., JHD, 5.ii.07, Coll : J. Lyngdoh Sc Party; 6 exs., Wah 
+Umkiang (upstream), Umkiang vill., JHD, 4.ii.07, Coll : J. Lyngdoh & Party; 6 exs., Wah 
+Lukha, Kuliang vill., JHD, 5.ii.07, Coll : J. Lyngdoh & Party; 2 exs., Wah Dona, Dona vill., 
+JHD, 4.ii.07, Coll: J. Lyngdoh & Party; 1 ex., Wah Diengkyrtung, Wahlong vill., EKH Dist., 
+22.vi.06, Coll : J. Lyngdoh & Party; 5 exs., Wah Borsara, Borsara vill., JHD, 5.ii.07, Coll: 
+J. Lyngdoh & Party; 2 exs., Wah Umkiang (downstream), Umkiang vill., JHD, 4.ii.07, Coll: 
+J. Lyngdoh & Party; 9 exs., Umkaikada II, Mupliang vill., JHD, 15.X.06, Coll : J. Lyngdoh 
+& Party; 1 ex., Lamsaki vill., (Stream-II ), JHD, 4.ii.07, Coll : J. Lyngdoh & Party.
+
+Diagnosis : Adults may attain a length of 6.0-6.5 mm in body length; 1 st antennal segment 
+longest and as long as or a little longer than the 2 nd and 3 rd segments together; mid longitudinal 
+carination on pronotum indistinct. A large round or quadrangular yellow spot on the pronotum 
+separates this from all other known species of this genus.
+
+Distribution : India: Meghalaya (East Khasi Hills); Assam; Bihar; Kerala; Manipur; Mizoram; 
+Orrisa; Sikkim; Tripura; Uttar Pradesh; West Bengal.
+
+Elsewhere : Bangladesh, China, Java, Malay Peninsula, Myanmar, Pakistan, Singapore, Sri 
+Lanka.
+
+Remarks : New record from Jaifitia Hills district.
+
+Genus 14. Limnogonus Stal 1868 
+15. Limnogonus {Limnogonus) nitidus (Mayr)
+
+(Plate VIII-A)
+
+1865. Hydrometra nitida Mayr, Verh.zool.-bot. Ges. Wien, 15 : 443.
+
+1910. Gerris nitida : Distant, Fauna of Brit. India, Rhynchota, 5 : 142.
+
+1934. Limnogonus nitidus : Lundblad, Arch. Hydrobiol. Suppl., 12 : 387.
+
+1969. Limnogonus nitidus : Cheng and Fernando, Oriental Ins., 3(2) : 101.
+
+1979. Limnogonus nitidus : Polhemus, Bull. Fish Res. Stn., Sri lanka., 29 : 90.
+
+1989. Limnogonus ( Limnogonus) nitidus : Thirumalai, Rec. zool. Surv. India, Occ. Pap., 118 : 41.
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaifitia Hills
+
+17
+
+Material examined : 3 exs., Umsohlun, Tamabil vill., JHD, 19.X.06, Coll : J. Lyngdoh & 
+Party; 16 exs., Amjalong, Umjalong-Kyrweng vill., JHD,18.x.06, Coll : J. Lyngdoh & Party;
+
+1 ex., Umpung, Lyniong vill, EKH Dist., 20.vi.05, Coll: J. Lyngdoh & Party; 5 exs., Lamsaki 
+vill., JHD, 4.ii .07, Coll : J. Lyngdoh & Party; 2 exs., Amjalong, Umjalong-Kyrweng vill., 
+JHD, 18.X.06, Coll : J. Lyngdoh & Party; 4 exs., Thlumuwi, Jowai-Amlarem Road, JHD, 
+17.vi.05, Coll : J. Lyngdoh & Party; 1 ex., Wah Umkiang (upstream), Umkiang vill., JHD, 
+4.ii.07, Coll : J. Lyngdoh & Party; 3 exs., Umblai, Pyrsadwar vill., JHD,17.x.06, Coll : J. 
+Lyngdoh & Party; 9 exs., Wah Kuliang, Kuliang vill., JHD, 4.ii.07, Coll: J. Lyngdoh & Party;
+
+2 exs., Umblock-I, B.D.O. campus, Mawsynram div., EKH Dist., 21.vi.05, Coll : J. Lyngdoh 
+A Party; 1 ex., Wah Thaleifi, Mawmluh, Sohra, EKH Dist., 19.vi.05, Coll : J. Lyngdoh & 
+Party; 1 ex., Wah Borsara Borsara vill., JHD, 5.ii.07, Coll : J. Lyngdoh & Party; 1 ex., 
+Nonglwai vill., EKH Dist., 20.vi.05, Coll : J. Lyngdoh & Party; 9 exs.. Soil Conservation 
+Compd., (Pond), Lumshnong vill., JHD, 2.ii.07, Coll : J. Lyngdoh & Party; 1 ex., Thlu 
+Ummulong, Ummulong vill, JHD, 14.X.06, Coll: J. Lyngdoh & Party; 1 ex., Umbah, Nartiang 
+vill., JHD, 15.X.06, Coll : J. Lyngdoh & Party; 1 ex., Umkaikada I, Mupliang vill.,. JHD, 
+15.X.06, Coll : J. Lyngdoh & Party; 1 ex., Lamsaki vill., (Stream-II), JHD, 4.ii.07, Coll : J. 
+Lyngdoh & Party.
+
+Diagnosis : Body length may be 6.0-8.0 mm. 1 st antennal segment slightly longer than the 
+4 th segment or they are subequal in length while the 2 nd and 3 rd segments shortest and 
+subequal in length; anterior part of pronotum with a pair of linear, small yellowish patches; 
+posterior margin of dorsal vesicle plate is remarkable angular; 7 th abdominal segment provided 
+with a prominent connexival spines in both the sexes.
+
+Distribution : India : Meghalaya (Districts - East Khasi Hills); Assam; Bihar; Kerala; 
+Manipur; Mizoram; Orrisa; Sikkim; Tripura; Uttar Pradesh; West Bengal.
+
+Elsewhere : Bangladesh, China, Java, Malaya, Myanmar, Sri Lanka, Sumatra.
+
+Remarks : New record from Jaifitia Hills district.
+
+Genus 15. Aquarius Schellenberg, 1800
+
+16. Aquarius paludum (Fabricius)
+
+(Plate VIII-B)
+
+1794. Aquarius paludum Fabricius, Ent. Syst., 4 : 188.
+
+1902. Gerris paludum : Distant, Fauna Brit. India, Rhynchota., 2 : 180.
+
+Material examined : 11 exs., Wah Umiew-Umphrup, Smit, EKH Dist., 26.vi.06, Coll : J. 
+Lyngdoh & Party; 10 exs., Umkaikada I, Mupliang vill, JHD, 15.X.06, Coll : J. Lyngdoh & 
+Party; 1 ex., Wailangwiang, Muthlong vill., JHD, 5.X.06, Coll : J. Lyngdoh & Party; 4 exs., 
+Syntu ksiar, Jowai, JHD, 14.vi.05, Coll : J. Lyngdoh & Party; 23 exs., Umblock-I, B.D.O. 
+campus, Mawsynram, EKH Dist., 21.vi.05, Coll: J. Lyngdoh & Party; 5 exs., Wah Lynkeifi,
+
+18
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Lynkeifi vill., EKH Dist., 20.vi.05, Coll : J. Lyngdoh & Party; 3 exs., Nan Kachari, Jowai, 
+JHD, 14.vi.05, Coll : J. Lyngdoh & Party; 4 exs., Wah Umjlieng, Mylliem block., EKH Dist., 
+18.i.06, Coll : J. Lyngdoh & Party; 2 exs., Thlu Ummulong, Ummulong vill., JHD, M.x.06, 
+Coll : J. Lyngdoh & Party; 2 exs., Umtyrchi, Khliehtyrchi vill., JHD, 25.vi.06, Coll : J. 
+Lyngdoh & Party; 3 exs., Umpung, Lyniong vill., EKH Dist., 20.vi.05, Coll : J. Lyngdoh & 
+Party; 1 ex., Wah Mynsar, Umsalait vill., JHD, 24.vi.06, Coll : J. Lyngdoh & Party.
+
+Diagnosis : Adult male may attain a length between 11-14 mm whereas adult female 
+between 13-16 mm; Black, opaque, body beneath silvery-grey pubescent; base of rostrum, 
+coxae, trochanter and extreme bases of femora very pale; pronotum with a strong central 
+longitudinal carinate line; hemelytra with the veins very strong and prominent; antennae with 
+the basal joint very long, about as long as the other three joints taken together.
+
+Distribution : India : Meghalaya (Districts- East Khasi Hills).
+
+Elsewhere : Myanmar.
+
+Remarks : New records from Jaifitia Hills district.
+
+Genus 16. Rhyacobates Esaki 1923**
+
+(Plate VIII C, D & E)
+
+1923. Rhyacobates Esaki, Phillipine J. Sci., 22, 387.
+
+2006. Rhyacobates Tran A.D. and Yang C.M., Raffles Bull.,Zool., 54(1) : 16.
+
+Materials examined : 1 ex., Wah Lynkeifi, Lynkeifi vill., JHD., 26.vi.05, Coll : J. Lyngdoh 
+& Party, 2 exs., Wah Sheila, Sheila, EKH Dist., 21.vi.06, Coll : J. Lyngdoh & Party.
+
+Diagnosis of Genus : Mesonotum black with pale median stripe; first antennal segment 
+longer than the other three segment together, last segment with whitish area in distal two 
+fifths; middle and hind tarsus without claws; middle femur without distinct row of black 
+spines; eight abdominal segment of male reduced ventrally, shorter than the seventh segment; 
+posterior segments of female abdomen usually curved dorsad (apterous form).
+
+Distribution : China, Vietnam.
+
+Remarks : This Genus is recorded for the first time from India or could turnout new to 
+science. Species is yet to be confirmed by Dr. G Thirumalai.
+
+Besides the above species recorded during the present study, a list of species reported 
+by Bal and Basu, 1998, from the State of Meghalaya (East Khasi Hills, West & South Garo 
+Hills Districts) are given below :
+
+Series NEPOMORPHA 
+Family I OCHTERIDAE 
+Genus 1. Ochterus Latreille 1807
+
+1 . Ochterus marginatus marginatus (Latreille, 1804)
+
+LVNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of JaiUtia Hills
+
+19
+
+Family II GELASTOCORIDAE 
+Genus 2. Nerthra Say 1932
+
+2. Nerthra indica (Atkinson, 1888)
+
+3. Nerthra spissa (Distant, 1910)
+
+Family III CORIXIDAE 
+Subfamily CYMATINAE 
+Genus 3. Micronecta Kirkaldy 1897 
+Subgenus Pardanecta Wroblewski, 1962
+
+4. Micronecta punctata Horvath, 1904
+
+Subgenus Unguinecta, Nieser, Chen, and Yang, 2005
+
+5. Micronecta waltoniana Hutchinson, 1940
+
+6. Micronecta khasiensis Hutchinson, 1940
+
+Subfamily CYMATINAE 
+Genus 4. Cymatia Flor 1860
+
+7. Cymatia apparens (Distant, 1910)
+
+Genus 5. Corixa Geoffroy 1762
+
+8. Corixa (Vermicorixa) kempi Hutchinson
+
+Family IV NEPIDAE
+
+Genus 6. Ranatra Fabricius 1790
+
+9. Ranatra gracilis Dallas, 1850
+
+10. Ranatra filiformis Fabricius, 1790
+
+11. Ranatra varipes varipes St&l, 1861
+
+Genus 7. Laccotrephes Stal
+
+12. Laccotrephes pfeiferiaes (Ferrari, 1888)
+
+13. Laccotrephes ruber (Linnaeus, 1764)
+
+14. Laccotrephes griseus (Guerin-M6neville, 1844)
+
+Genus 8. Montonepa Lansbury 1973
+
+15. Montonepa erutus (Montandon)
+
+Family V NOTONECTIDAE 
+Genus 9. Anisops Spinola 1837
+
+16. Anisops sardeus sardeus Herrich-Shaffer, 1850
+
+20
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Genus 10. Enithares Spinola 1837
+
+17. Enithares fusca Brooks, 1948
+
+Family VI BELOSTOMATIDAE 
+Genus 11. Sphaerodema Laporte 1832
+
+18. Diplonychus annulatus (Fabricius, 1781)
+
+Genus 12. Lethocerus Mayr 1853
+
+19. Lethocerus indicus (Lapeletiler & Serville, 1825)
+
+Family VII NAUCORIDAE 
+Subfamily CHEIROCHELINAE 
+Genus 13. Cheirochela Hope 1840
+
+20. Cheirochela assamensis Hope, 1841
+
+Subfamily LACCOCORINAE 
+Genus 14. Heleocoris StAl 1876
+
+21. Heleocoris obliquatus (Spinola, 1837)
+
+Series GERROMORPHA 
+Family VIII GERRIDAE 
+Subfamily PTILOMERINAE 
+Genus 15. Ptilomera Amyot & Serville 1843
+
+22. Ptilomera (Ptilomera) laticaudata (Hardwicke, 1823)
+
+Subfamily HALOBATINAE 
+Genus 16. Metrocoris Mayr 1865
+
+23. Metrocoris tenuicornis Esaki, 1926
+
+24. Metrocoris femoratus (Paiva, 1919)
+
+25. Metrocoris nigrofasciatus Distant, 1903
+
+Subfamily GERRINAE 
+Genus 17. Eotrechus Kirkaldy 1902
+
+26. Eotrechus kalidasa Kirkaldy, 1902
+
+Genus 18. Onychotrechus Kirkaldy 1903
+
+27. Onychotrechus sp. (Kirkaldy)
+
+Genus 19. Chimarrhometra Bianchi 1869
+
+28. Chimarrhotra orientalis (Distant, 1879)
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaintia Hills 21
+
+Genus 20. Aquarius Schellenberg, 1800
+
+29. Aquarius adelaidis (Dohm,1860)
+
+Genus 21. Limnogonus Stal 1868
+
+30. Limnogonus (Limnogonus) nitidus (Mayr)
+
+Genus 22. Neogerris Matsumura, 1913
+
+31. Neogerris parvula (Stal, 1859)
+
+Family IX VELIIDAE
+
+Genus 23. Rhagovelia Mayr 1865
+
+32. Rhagovelia (Rhagovelia) ceylanica Lundblad, 1936
+
+Genus 24. Microvelia Westwood 1834
+
+33. Microvelia (Microvelia) lineatipes Paiva, 1919
+
+34. Microvelia (Microvelia) atromaculata Paiva, 1919
+
+Genus 25. Perittopus Fieber 1861
+
+35. Perittopus maculatus Paiva, 1919
+
+DISCUSSION
+
+Globally, the infraorder Nepomorpha is represented by 11 families and 2404 species and 
+infraorder Gerromorpha by 7 families and 2021 species (Polhemus A Polhemus, 2008). In 
+the Indian sub-continent, the infraorder Nepomorpha constitute about 7.6% of the global 
+species and is represented by 153 species under 34 genera and 10 families (Thirumalai, 
+2007) whereas under the infraorder Gerromorpha, 131 species, 46 genera and 5 families was 
+documented (Thirumalai, 2002). Out of the 304 species of aquatic and semi-aquatic species 
+known from India, 34 species were reported from Meghalaya in general by Bal and Basu 
+(loc.cit). However, the present study which was localised only in two districts i.e., Jaintia 
+Hills and East Khasi Hills Districts of Meghalaya only 16 species belonging to 16 genera and 
+7 families was recorded out of which including 6 species were recorded for the first time 
+from the State and 1 Genus recorded new from India. The species richness reported herein 
+is less as compared to those recorded by Bal and Basu (loc.cit), who reported 34 species 
+from Meghalaya out of which 26 species are from these two Districts. The decrease in the 
+number of species and the absent of the above mentioned species may probably be attributed 
+to changes in the ecology of the habitats. Dumping of domestic sewage directly into water 
+bodies has deteriorated the water quality of most rivers, streams and rivulet around human 
+habitation areas which in turn may affect the species composition of these biota. Moreover, 
+it was observed that during the recent past the ecology of the state has been seriously 
+threatened by large scale environmental degradation caused by extensive deforestation,
+
+22
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+overexploitation of natural resources and other anthropogenic activities coupled with 
+unprecedented rise in human populations. Moreover, unscientific coal and limestone mining 
+in most part of Jaintia Hills and East Khasi Hills Districts has greatly affected the water 
+quality of those water bodies lying in and around mining areas as most of the mining wastes 
+enters directly into the water bodies thereby to a great extent affecting the aquatic fauna.
+
+During this study it was noted that in one of the river-Waikhyrwi of Sutnga village, 
+located in the midst of coal mining areas of Jaintia Hills District, the biota is almost devoid 
+of life and as reported by Swer and Singh, 2004 only a few tolerant species namely 
+Chironomus larvae, dragonfly larvae, water bugs, worms etc., are present in low abundance. 
+From this particular habitat only 3 species of aquatic forms belonging to 3 families (Corixidae, 
+Notonectidae and Belostomatidae) were recorded, whereas, semi-aquatic species are not 
+encountered in the present study.
+
+However, taking the topographical feature of the state into account, there is a possibility 
+that water bodies located in remote, uninhabited and unexplored areas of the Districts in 
+particular and Meghalaya in general could harbour a rich and diversified aquatic and semi- 
+aquatic insect fauna. In fact, in the present study 1 genus, Rhyacobates Esaki : Gerridae is 
+recorded new from India and 6 species were recorded new from Meghalaya - 4 species viz., 
+Cercotmetus pilipes (Dallas) : Nepidae, Diplonychus rusticus (Fabricius) : Belostomatidae, 
+Hydrometra greeni Kirkaldy : Hydrometridae, Aquarius paludum (Fabricius): Gerridae Jairitia 
+Hills, 1 species viz., Heleocoris breviceps Montandon : Naucoridae from East Khasi Hills and 
+1 species i.e., Gestroiella insignis Distant : Naucoridae from Jaifitia Hills. It is therefore, 
+expected that extensive and intensive study may reveal a greater number of aquatic and semi- 
+aquatic Hemiptera, some of which could be new records to the State or even new species.
+
+SUMMARY
+
+The aquatic and semi-aquatic Hemiptera of Jaintia Hills and East Khasi Hills Districts of 
+Meghalaya collected by the author are reported. The present work incorporates the account 
+of 16 species belonging to 16 genera under 7 families including 6 new records from the state 
+viz., Cercotmetus pilipes Dallas (Family : Nepidae); Diplonychus rusticus (Fabricius) (Family 
+: Belostomatidae); Gestroiella insignis Distant, Heleocoris breviceps Montandon (Family: 
+Naucoridae); Hydrometra greeni Kirkaldy (Family : Hydrometridae); Aquarius paludum Fabricius 
+(Family : Gerridae) and 1 genus - Rhycobates Esaki of the family Gerridae is recorded new 
+from India.
+
+ACKNOWLEDGEMENTS
+
+The author is grateful to the Director, Zoological Survey of India, Kolkata and the 
+Officer-in-Charge, Eastern Regional Station for permission to undertake the work and laboratory 
+facilities. The author is indebted to Dr. G. Thirumalai for his help in identification of most
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of JaiUtia Hills
+
+23
+
+of the species. Last but not the least, the help rendered by our colleagues in assisting during 
+the faunistic surveys is thankfully acknowledged.
+
+REFERENCES
+
+Bal, Animesh and Basu, R.C. 1997. Hemiptera : Water Bugs. State Fauna Series 6 : Fauna 
+of Delhi, 261-276.
+
+Bal, Animesh and Basu, R.C. 1998. Insecta : Hemiptera : Water Bugs. State Fauna Series 4 : 
+Fauna of Meghalaya , Part-4 : 431-461.
+
+Bal, A. and Basu, R.C. 2004. Insecta : Hemiptera : Water Bugs. Zool. Surv. India, State 
+fauna Series , 10 : Fauna of Manipur (2), : 293-310.
+
+Bal, Animesh and Basu, R.C. 2007. Insecta : Hemiptera : Water- Bugs. State Fauna Series 
+14 : Fauna of Mizoram, 249-260.
+
+Brooks, GT. 1951. A revision of the Genus Anisops (Notonectidae, Hemiptera). Kans. Univ. 
+Sci. Bull., 34(8) : 301-519.
+
+Chen, P.P. and Nieser, N. 1993. A Taxonomic revision of the Oriental water strider genus 
+Metrocoris Mayr (Hemiptera, Gerridae), Steenstrupia, 19(1) : 1-43 
+Cheng, L. and Fernando, C.H. 1969. A taxonomic study of the Malayan Gerridae (Hemiptera 
+: Heteroptera) with notes on their biology and distribution. Oriental Ins., 3(2): 97-160. 
+Distant, W.L. 1902. The Fauna of British India including Ceylon and Myanmar. Rhynchota.
+
+2 : 1-503.
+
+Distant, W.L. 1906. The Fauna of British India including Ceylon and Myanmar. Rhynchota.
+
+3 : 1-503.
+
+Distant, W.L. 1910. The Fauna of British India including Ceylon and Myanmar. Rhynchota. 
+5 : 1-362.
+
+Dover, C. 1928. Aquatic Rhynchota in the collection of Agriculture College, Coimbatore, 
+Southern India. J. bombay nat. Hist. Soc., 32 (3) : 614-615.
+
+Fabricius, J.C. 1794. Entomologia Systematica, emendata et acuta, IV. Hafinae , 477 pp 
+Fernando, C. H. And Cheng, L. 1974. A prelimnary study on the fauna and distribution of 
+aquatic hemiptera in Malay and Singapore. Fdn. Mus. J., 19 : 21-46.
+
+Hafiz, H. A. and Pradhan, K.S. 1947. Notes on a collection of aquatic Rhynchota from the 
+Patna State, Orissa, with description of two new species. Rec. Indian Mus., 45(4) : 
+347-376.
+
+Hungerford, H.B. and Evans, N.E. 1934. The Hydrometridae of the Hungerian National 
+Museum and other studies in the family (Hemiptera). Ann. Mag. nat. Hung., 38 : 31- 
+112 .
+
+Hutchinson, GE. 1940. A revision of the Corixidae of India and Adjacent Regions. Connecticut 
+Acad. Arts Sci., 33 : 339-476.
+
+24
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+Jansson, A. (1977). Micronectinae as indicator of water quality in two lakes in Southern 
+Finland. Ann. Zool. Fennici, 14 : 118-124.
+
+Jordon, K.H.C. (1951). Zoogeographisce Betrachtungen uber des ostiliche Sachsen 
+dargestelitandentschen Neuf under von Heteropteren. Zool. Anz., 147 : 79-84.
+
+Kirkaldy, G.W. 1898. Notes on Aquatic Rhynchota 1. Entomologist, 31 : 2-4.
+
+Linnaeus, C. 1764. Systema naturale. Museum S:ae R:ae M:tis Ludovicae ultricae etc. Holmiae, 
+842 pp.
+
+Matsuda, R. 1960. Morphology, evolution and classification of the Gerridae (Hemiptera : 
+Heteroptera). Kans.Univ. Sci. Bull., 41(2) : 25-632.
+
+Nieser, N., Chen, RR and Chang Man Yang. 2005. A new subgenus and six new species of 
+Nepomorpha (Insecta : Heteroptera) From Yunnan, China. Raffles Bull. Zoology, 
+53(2) : 189-209.
+
+Paiva, C. 1918. Aquatic Rhynchota from Southern Shan States. Rec. Indian Mus., 14 : 19- 
+33.
+
+Paiva, C. 1919 a. Aquatic and Semi-aquatic Rhynchota from Satara and Poona Districts. Rec. 
+Indian Mus., 16(1) : 151-156.
+
+Paiva, C. 1919 b. Rhynchota from the Garo Hills, Assam. Rec. Indian Mus., 16(3) : 349- 
+377.
+
+Paiva, C. and Dover, C. 1922. Five new species of the Rhynchota genus Corixa. Rec. Indian 
+Mus., 24 : 331-333.
+
+Pereira, Domingos L.V.; Melo, Alan L. de and Hamada, Neusa. 2007. Chaves de identificaf&o 
+para familias e generos de gerromorpha e nepomorpha (Insecta : Heteroptera) na 
+Amazonia central. Neotrop. Entomol. [online]., 36(2) : 210-228.
+
+Polhemus, J.T. 1979. Aquqtic and Semiaquatic Hemiptera of Sri lanka from the Indo-Pacific 
+Expedition, 1970-71. Bull. Fisf Res. Stn. Sri lanka., 29 : 89-113.
+
+Polhemus, J.T. & D.A. Polhemus. 2008. Global diversity of true bugs (Heteroptera; Insecta) 
+in freshwater. Hydrobiologia, 595 : 379-391.
+
+Ramakrishna. 2000. Limnological investigation and distribution of micro and macro invertebrates 
+and vertebrates of Fox Sagar lake, Hyderabad. Rec. zool Surv. India, 98 (1) : 169- 
+196.
+
+Swer, S and Singh, O.P. 2004. Water quality, availability and aquatic life affected by coal 
+mining in ecologically sensitive areas of Meghalaya. Proceedings of the 3 rd National 
+Seminar on Inland Water Resources and Environment, Dept, of Environmental Science, 
+Univ.Of Kerala and Limnological association of Kerala, Thiruvananthapuram. pp. 102- 
+108.
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaifitia Hills
+
+25
+
+Thirumalai. G 1989. Aquatic and Semi-aquatic Hemiptera (Insecta) of Javadi Hills, Tamil 
+Nadu. Rec. zool. Surv. India. Occ. Paper, 118 : 1-63 
+Thirumalai. G 1994. Aquatic and Semi-aquatic Hemiptera (Insecta) of Tamil Nadu I, Dharmapuri 
+and Padukkotai Districts. Rec. zool. Surv. India. Occ. Paper, 165 : 1-45. 
+Thirumalai, G, 2002. A checklist of Gerromorpha (Hemiptera) from India. Rec. zool. Surv 
+India, 100 (1-2) : 55-97.
+
+Thirumalai, G., 2004. A checklist of aquatic and semi-aquatic Hemiptera (Insecta) of Karnataka. 
+Rec. zool. Surv India, 102 (1-2) : 57-72.
+
+Thirumalai, G, 2007. A Synoptic List of Nepomorpha (Hemiptera : Heteroptera) from India 
+Karnataka. Rec. zool. Surv India. Occ. Paper No. 273 : 1-84.
+
+Tran, A.D. and Yang, C.M. 2006. New species of the water strider Genera Eotrechus 
+Kirkaldy and Rhyacobates Esaki (Heteroptera : Gerridae) from Vietnam. Raffles Bull. 
+Zool., 54(1) : 11-20.
+
+Varshney, R.K. and Biswas, S. 1969. Occurrence of the giant water bug, Belostoma indicum 
+Lep. & Serv. in the Khasi Hills. J. Bombay nat. Hist. Soc., 66(2) : 399. 
+Venkatesan, P. and Ragunatha Rao, T.K. 1980. Description of a new species and a key to 
+Indian species of Belostomatidae. J. Bombay nat. Hist. Soc., 77 : 299-303.
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaiiitia Hills
+
+27
+
+PLATE-I
+
+B. Thlu Muwi
+
+28
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+PLATE-II
+
+A. Wkh Mynsar
+
+B. Wah Arphyllaw
+
+29
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) oj Jaintia Hills
+
+PUKE-m
+
+mtm
+
+B. Wah Langstich
+
+30
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+P1ATE-IV
+
+A. Um lyngkrong
+
+E. Mawsmai Ponds
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaintia Hills
+
+3 1
+
+c Ranatra varipes varipes St&l
+
+D. Cercotmetuspilipes (Dallas)
+
+32
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+PLATE-Vn&vm
+
+A. Anisops sardeus sardeus Herrich-Shaffer (Male) B. Anisops sardeus sardeus Herrich-ShafFer (Female)
+
+C. Lethocerus indicus (Lepeletiler & Serville)
+
+D. Diplonychus rusticus (Fabricius)
+
+LYNGDOH : Studies on aquatic and semi-aquatic Hemiptera (Insecta) of Jaintia Hills
+
+33
+
+PLATE-EX &X
+
+C. Metnoeoris nigrofasciatus Distant (Winged form)
+
+E. Limnogonus (Limnogonus) nitidus (Mayr)
+
+D. Neogerris panada (Stal)
+
+34
+
+Rec. zool. Surv. India, Occ. Paper No. 332
+
+PLATE-Vm
+
+A.. Rhycobatessp. Esaki
+
+B. Rhycobates sp. Esaki (Antennae)
+
+C. Rhycobates sp. Esaki (Part of Mid & Hind leg)

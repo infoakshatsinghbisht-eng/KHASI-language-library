@@ -36,3 +36,16 @@ Thumbs.db
 book_*.txt
 downloaded_raw/
 data/khasi_books/*.pdf
+data/khasi_books/**/*.pdf
+data/english_books/*.pdf
+data/english_books/**/*.pdf
+
+# Private commercial translation & corpus data
+private_translations/
+scratch/
+khasi/corpus/data/
+data/archive_1939_datasets/
+data/*_complete_trilingual.*
+*.xlsx
+*.tsv
+*_pages_dump.txt

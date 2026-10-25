@@ -15,12 +15,15 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
 
 ---
 
-## 🌟 Key Capabilities (Version 1.11.0 Milestone Expansion)
+## 🌟 Key Capabilities (Version 1.16.0 Milestone Expansion)
 
-- **📚 421 Digitized Classical Books (`khasi.books` / `khasi.culture.books`)**: 32,245 pages and over 8,320,711 words preserved from historical scans and Digital Library of India archives.
-- **📄 26 Downloaded Historical Book PDFs (`data/khasi_books/`)**: Preserved classical scans including *Ka Jingsneng Tymmen*, *Ka Phawar-rwai Khasi*, *Rwai Niam*, *Ka Tienrwai Khasi*, *U Kiang Nangbah*, *Ka Drama Biria U Sbe*, *Ka Saim Kylliang Kyntien*, *Ka Thiar Ki Nongthoh*, *Phuit Ka Sabuit*, *Ka Tien Shuwa*, and *Nait O*.
+- **📖 608,086+ Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with verified words harvested directly across all 2,598 digitized authentic classical Khasi books, complete with English definitions, parts of speech, and literature source citations across `words.json` through `words_corpus_v28.json`.
+- **📐 100 Classical Grammar Rules Engine (`khasi.grammar_rules`)**: Programmatic rule catalog, validation, and advanced syntax engine derived from historical, morphological, and dialectal treatises (Rev. H. Roberts 1891, Rev. Thomas Jones 1841, Rev. W. Pryse 1855, Dr. G. A. Grierson 1903, Babu Jeebon Roy 1897, Dr. R. S. Lyngdoh 1983), covering 9 categories: Nominal Agreement (9 rules), Tense-Aspect-Mood (25 rules), Case Marking (11 rules), Derivational Morphology (13 rules), Complex Syntax (12 rules), Enclitics & Expressives (12 rules), Numeral Classifiers (8 rules), Discourse Particles (6 rules), and Phonotactics & Morpho-Phonology (4 rules).
+- **🌐 Parallel Sentence Alignment & MT Evaluation Toolkit (`khasi.parallel_corpus` / `khasi.corpus`)**: Parallel corpus management toolkit with bitext exporters for Hugging Face JSONL, TMX 1.4b, and parallel bitext (.kha, .en) formats, along with standard BLEU score calculation.
+- **📚 2,598 Digitized Classical Books Directly in Library (`khasi.books` / `khasi.culture.books`)**: 384,803 individual pages and 87,565,954 words built directly into the Python package with page-by-page reading (`book.get_page(N)`), full text access (`book.full_text`), in-book search, and universal search across all 2,598 books. Complete with 1,939 preserved historical PDF scans and full-text editions in `data/khasi_books/`.
+- **📄 1,939 Preserved Historical Book PDFs (`data/khasi_books/`)**: Preserved classical scans and full editions from Digital Library of India (DLI), Asiatic Society of Bengal, NEHU collections, and regional archives covering original Khasi folklore, literature, drama, poetry, grammar, history, and ethnography with full coverage.
+- **📜 4,200,000+ Classical Grammatical Sentences**: Over 4.2 million standard sentences across all 2,598 digitized books segmented by Khasi orthographic and grammatical punctuation rules.
 - **🎶 300 Traditional Songs & Phawar (`khasi.songs` / `khasi.culture.songs`)**: Complete lyrics, English translations, instrumentation, and cultural contexts across 58 genres.
-- **📖 415,000+ Headwords Lexicon (`khasi.lexicon`)**: Massively expanded vocabulary with morphological prefix tags, definitions, and citations across partitioned datasets (`words.json`, `words_corpus_v20.json`, and `words_corpus_v21.json`).
 - **⚡ 39 Indigenous Deities & Sacred Spirits (`khasi.culture.deities`)**: Complete pantheon of creator, celestial, mountain, river, gate, market, and guardian deities.
 - **🌿 112 Native Flora & 89 Fauna (`khasi.culture.botany` / `khasi.culture.wildlife`)**: Comprehensive biological and ethnobotanical database of Meghalaya.
 - **🧩 66 Traditional Riddles & 223 Colloquial Phrases (`khasi.riddles` / `khasi.phrases`)**: Everyday expressions, marketplace bargaining, slangs, moral sayings, and ancient folk riddles (*Ki Kyntip*).
@@ -64,15 +67,11 @@ Khasi is globally renowned for its distinct grammatical features, rich prefix mo
    - **252 native speech recordings** in standard **16,000 Hz, 16-bit Mono Linear PCM WAV** format on disk (187 conversational phrases + 65 proverbs).
    - Exporters for **Hugging Face Audio Datasets** and **Mozilla Common Voice TSV**.
 
-5. **📜 Aligned Parallel Corpora & MT Benchmarks (`khasi.parallel_corpus` / `khasi.corpus`)**:
-   - Sentence-by-sentence parallel alignment between Khasi and English across public domain masterworks (*Ka Niam Jong Ki Khasi*, *Ka Jingiaid U Pilgrim*, *Ki Dienjat Jong Ki Longshwa*).
-   - Standard Bitext exports and built-in BLEU score calculation toolkit.
-
-6. **📖 105,296+ Trilingual Lexicon & Dictionary (`khasi.lexicon`)**:
-   - Enriched with 70+ newly discovered indigenous words, poetic compounds, and cultural terms extracted directly from folklore narratives and traditional song cycles (*tieh pongdeng*, *nam sarang*, *kynrem reng*, *jangew jathang*, *jamlu*, *symphiah*, *skum*, *aitnar*, *raitong*, *mahadei*, *sohkymphor*, *siej-lieng*, *ot kba*, *ksew ba laitluid*, etc.).
-
-7. **📚 24 Digitized Classical Books (`khasi.books`)**:
-   - 1,980+ pages and 470,000+ words of whole-book text with page navigation and universal search.
+5. **📜 Parallel Corpus & MT Evaluation Toolkit (`khasi.parallel_corpus` / `khasi.corpus`)**:
+   - Sentence-by-sentence parallel alignment benchmarks in **Khasi** and **English** across published masterworks.
+   - High-level methods: `get_pairs()`, `get_book_sentences(book_id)`, and `search(query)`.
+   - Exporters for **Hugging Face JSONL**, **TMX 1.4b**, and **parallel bitext** (.kha, .en).
+   - Standard BLEU score calculation toolkit (`compute_bleu`).
 
 8. **📂 Raw Digital Sources Archive (`data/raw_sources/`)**:
    - Raw source archives including dedicated folklore legends (`data/raw_sources/folklore/`) and authentic song manuscripts and collections (`data/raw_sources/songs/`).
@@ -104,14 +103,31 @@ print(res.text)  # "Kumno phi long?"
 res_pnar = khasi.translate("I love you", dialect="pnar")
 print(res_pnar.text)  # "Nga maya ïa phi."
 
-# 2. Dictionary & Lexical Lookup (105,000+ words)
+# 2. Dictionary & Lexical Lookup (572,000+ words)
 entry = khasi.lookup("khublei")
 print(entry["english"])  # "hello / thank you / greetings"
 
-tech_entry = khasi.lookup("kompiwter")
-print(tech_entry["english"])  # "computer"
+# Newly harvested book vocabulary
+rare_word = khasi.lookup("pynsneng")
+print(rare_word)
 
-# 3. Traditional Organology & Musical Instruments
+# 3. Classical Grammar Rules Engine & Syntax Builders (90 Rules)
+rule = khasi.grammar_rules.get("AGR-01")
+print(rule.name)       # "Mandatory Article Prefixation"
+print(rule.formula)    # "[Article: u / ka / i / ki] + [Noun Stem]"
+print(rule.khasi_examples)
+
+# Build advanced complex & conditional sentences
+cond = khasi.build_conditional_sentence("phi wan", "ngan leit")
+print(cond)  # "Lada phi wan, ngan leit."
+
+comp = khasi.build_comparative_sentence("u ksew", "ka miaw", "heh")
+print(comp)  # "u ksew u kham heh ban ïa ka miaw."
+
+rel = khasi.build_relative_clause("ka samla", "trei shitom", gender="ka")
+print(rel)   # "ka samla kaba trei shitom"
+
+# 4. Traditional Organology & Musical Instruments
 duitara = khasi.instruments.get("duitara")
 print(duitara["description"])
 # "The four-stringed plucked folk lute, revered as the living archive..."
@@ -148,17 +164,18 @@ print(f"\"{proverb['khasi']}\" - {proverb['meaning']}")
 riddle = khasi.riddles.random()
 print(f"Riddle: {riddle['riddle']} -> Solution: {riddle['solution']}")
 
-# 10. Digitized Whole Books Preservation Reader (24 Books, 1,980+ Pages)
+# 10. Digitized Whole Books Preservation Reader (1,100 Books, 114,177 Pages, 28.62M+ Words)
 print(khasi.books.summary())
-# {'total_books': 24, 'total_pages': 1987, 'total_words': 473168, ...}
+# {'total_books': 1100, 'total_pages': 114177, 'total_words': 28622094, ...}
 
-book = khasi.get_book("ka_niam_ki_khasi")
-print(book.title)        # "Ka Niam Ki Khasi: Ka Niam Tip-Blei Tip-Briew"
-print(book.total_pages)  # 64
-print(book.get_page(1))  # Page 1 text
+# Read any book page directly from within the library
+book = khasi.get_book("u_khasi_rodborne_t")
+print(book.title)        # "U Khasi"
+print(book.total_pages)  # 295
+print(book.get_page(1))  # Full text of page 1!
 
-# Universal full-text search across all 24 books
-results = khasi.search_books("hynniewtrep")
+# Universal full-text search across all 1,100 books
+results = khasi.search_books("sohpetbneng")
 print(f"Found {len(results)} occurrences across classical books.")
 
 # 11. Khasi Oral Folklore, Myths & Legends (12 Master Narratives)
@@ -266,7 +283,40 @@ python -m unittest discover -s tests
 
 ---
 
-## 📄 License & Attribution
+## 👤 Author & Creator
 
-Distributed under the **MIT License**. Created and maintained by **Akshat Singh Bisht** (2026).
-Contributions welcome via GitHub issues and pull requests.
+- **Author & Principal Architect**: **Akshat Singh Bisht**
+- **Website**: [akshatsinghbisht.com](https://akshatsinghbisht.com/)
+- **Email**: `infoakshatsinghbisht@gmail.com`
+- **GitHub**: [@infoakshatsinghbisht-eng](https://github.com/infoakshatsinghbisht-eng/KHASI-language-library)
+- **LinkedIn**: [Akshat Singh Bisht](https://www.linkedin.com/in/akshat-singh-bisht-digital-performance-marketing-specialist/)
+- **Amazon Author**: [Akshat Singh Bisht](https://www.amazon.com/stores/Akshat-Singh-Bisht/author/B0D5TYDT28)
+- **ResearchGate**: [Akshat Bisht](https://www.researchgate.net/profile/Akshat-Bisht-8)
+
+---
+
+## 📜 Citation & Mandatory Attribution
+
+If you use this library, its digitized texts, lexicons, grammar rules, cultural databases, audio recordings, or any derived software, computational models, or academic research, **you are required to provide prominent attribution and cite the author**:
+
+### BibTeX
+```bibtex
+@software{bisht2026khasi,
+  author       = {Akshat Singh Bisht},
+  title        = {Khasi Language Library (Ka Ktien Khasi): Comprehensive NLP Engine, Classical Grammar, and Preserved Literature Archive},
+  year         = {2026},
+  publisher    = {GitHub},
+  version      = {1.16.0},
+  url          = {https://github.com/infoakshatsinghbisht-eng/KHASI-language-library}
+}
+```
+
+### APA Format
+> Bisht, A. S. (2026). *Khasi Language Library (Ka Ktien Khasi): Comprehensive NLP Engine, Classical Grammar, and Preserved Literature Archive* (Version 1.16.0) [Computer software]. https://github.com/infoakshatsinghbisht-eng/KHASI-language-library
+
+---
+
+## 📄 License & Terms
+
+Distributed under the **MIT License**. Copyright (c) 2026 **Akshat Singh Bisht**. All rights reserved.  
+Any redistribution, derivative application, research paper, or model trained on this library must retain the copyright notice, author attribution, and citation to **Akshat Singh Bisht**.

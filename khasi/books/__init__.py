@@ -4,15 +4,15 @@ Khasi Books & Classical Literature Preservation Module (khasi.books).
 ======================================================================
 
 Provides direct whole-book reading, page navigation, and full-text search
-for 36 foundational Khasi books (2,790+ pages, 768,000+ words).
+for 714 digitized Khasi books (84,370+ pages, 18,890,000+ words).
 
 Usage:
 ------
 >>> import khasi.books as kb
->>> kb.books.summary()
->>> book = kb.get_book("ka_niam_ki_khasi")
+>>> len(kb.list_books())
+714
+>>> book = kb.get_book("u_sier_lapalang")
 >>> book.total_pages
-64
 >>> print(book.get_page(1))
 >>> results = kb.search_books("hynniewtrep")
 """

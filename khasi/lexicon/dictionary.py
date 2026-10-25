@@ -133,6 +133,12 @@ class KhasiDictionary:
                 results.append(item)
         return results
 
+    def __len__(self) -> int:
+        return len(self._words)
+
+    def total_words(self) -> int:
+        return len(self._words)
+
     def all_words(self) -> List[Dict[str, Any]]:
         return list(self._words.values())
 
