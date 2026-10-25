@@ -24,10 +24,10 @@ setup(
         "Bug Tracker": "https://github.com/infoakshatsinghbisht-eng/KHASI-language-library/issues",
     },
     packages=find_packages(exclude=["tests*", "examples*"]),
-    include_package_data=True,
+    include_package_data=False,
     package_data={
         "khasi.lexicon": ["data/*.json", "data/dialects/*.json"],
-        "khasi.culture": ["data/*.json", "data/books/*.json", "data/folklore/*.json", "data/songs/*.json"],
+        "khasi.culture": ["data/*.json", "data/books/books_index.json", "data/folklore/*.json", "data/songs/*.json"],
         "khasi.voice": ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"],
     },
     classifiers=[

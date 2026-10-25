@@ -17,15 +17,64 @@ Key Features:
 
 import json
 import re
+import urllib.request
+import urllib.error
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional, Any, Union
 
 _BOOKS_DATA_DIR = Path(__file__).resolve().parent / "data" / "books"
 _INDEX_PATH = _BOOKS_DATA_DIR / "books_index.json"
+_GITHUB_RAW_BOOKS_BASE = "https://raw.githubusercontent.com/infoakshatsinghbisht-eng/KHASI-language-library/main/khasi/culture/data/books"
 
 _BOOKS_INDEX_CACHE: Optional[List[Dict[str, Any]]] = None
 _BOOK_CACHE: Dict[str, "KhasiBook"] = {}
+
+
+def _get_cache_dir() -> Path:
+    """Return user cache directory for downloaded Khasi book JSON files."""
+    cache = Path.home() / ".cache" / "pykhasi" / "books"
+    try:
+        cache.mkdir(parents=True, exist_ok=True)
+    except Exception:
+        pass
+    return cache
+
+
+def _resolve_book_path(book_id: str, auto_download: bool = True) -> Optional[Path]:
+    """Resolve book file path from local package data, user cache, or online GitHub repository."""
+    # 1. Check local package data directory
+    p_local = _BOOKS_DATA_DIR / f"{book_id}.json"
+    if p_local.exists():
+        return p_local
+
+    # 2. Check user cache directory
+    cache_dir = _get_cache_dir()
+    p_cache = cache_dir / f"{book_id}.json"
+    if p_cache.exists():
+        return p_cache
+
+    if not auto_download:
+        return None
+
+    # 3. Auto-download from official GitHub repository
+    url = f"{_GITHUB_RAW_BOOKS_BASE}/{book_id}.json"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "pykhasi-client/1.16.0"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            content = resp.read()
+
+        # Try saving to local package dir if writable
+        try:
+            p_local.write_bytes(content)
+            return p_local
+        except (PermissionError, OSError):
+            p_cache.write_bytes(content)
+            return p_cache
+    except Exception:
+        return None
+
 
 
 @dataclass
@@ -168,10 +217,12 @@ def list_books() -> List[Dict[str, Any]]:
     return list(_load_index())
 
 
-def get_book(id_or_title: str) -> Optional[KhasiBook]:
+def get_book(id_or_title: str, auto_download: bool = True) -> Optional[KhasiBook]:
     """Retrieve a Khasi book by slug ID or matching title.
     
     Loads and caches the full book content including all individual pages.
+    If the book is not yet present locally, it is automatically fetched
+    from the official GitHub repository and cached for offline use.
     """
     key = id_or_title.strip().lower()
     key_slug = key.replace(" ", "_").replace("-", "_")
@@ -216,9 +267,9 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
     if not matched_id:
         return None
 
-    # Load book file
-    book_file = _BOOKS_DATA_DIR / f"{matched_id}.json"
-    if not book_file.exists():
+    # Load book file from local package data, user cache, or GitHub
+    book_file = _resolve_book_path(matched_id, auto_download=auto_download)
+    if not book_file or not book_file.exists():
         return None
 
     with open(book_file, "r", encoding="utf-8") as f:
@@ -256,8 +307,44 @@ def get_book(id_or_title: str) -> Optional[KhasiBook]:
     return book
 
 
+def download_book(id_or_title: str) -> Optional[KhasiBook]:
+    """Download and cache a Khasi book from the official GitHub repository for offline access."""
+    return get_book(id_or_title, auto_download=True)
+
+
+def download_all_books(max_workers: int = 5, verbose: bool = True) -> int:
+    """Download and cache all 2,598 digitized books from GitHub repository for full offline access.
+    
+    Args:
+        max_workers: Number of concurrent download threads
+        verbose: Print download progress
+        
+    Returns:
+        Total count of successfully cached books.
+    """
+    idx = _load_index()
+    total = len(idx)
+    succeeded = 0
+
+    def _fetch(item):
+        bid = item["id"]
+        res = _resolve_book_path(bid, auto_download=True)
+        return bid, res is not None
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(_fetch, item): item for item in idx}
+        for i, fut in enumerate(as_completed(futures), 1):
+            bid, ok = fut.result()
+            if ok:
+                succeeded += 1
+            if verbose and (i % 100 == 0 or i == total):
+                print(f"[khasi] Downloaded and cached {succeeded}/{i} books ({i*100//total}%)...")
+
+    return succeeded
+
+
 def search_books(query: str, max_results_per_book: int = 5) -> List[Dict[str, Any]]:
-    """Perform full-text search across ALL 714 books and all pages.
+    """Perform full-text search across locally available books and catalog metadata.
     
     Args:
         query: Search string (e.g. 'u hynniewtrep', 'ka hok', 'sohpetbneng')
@@ -268,13 +355,30 @@ def search_books(query: str, max_results_per_book: int = 5) -> List[Dict[str, An
     """
     results = []
     idx = _load_index()
+    q_lower = query.lower()
+
     for item in idx:
-        b = get_book(item["id"])
-        if not b:
-            continue
-        book_hits = b.search(query)
-        if book_hits:
-            results.extend(book_hits[:max_results_per_book])
+        bid = item["id"]
+        book_path = _resolve_book_path(bid, auto_download=False)
+        if book_path and book_path.exists():
+            b = get_book(bid, auto_download=False)
+            if b:
+                book_hits = b.search(query)
+                if book_hits:
+                    results.extend(book_hits[:max_results_per_book])
+        else:
+            if (q_lower in item.get("title", "").lower() or 
+                q_lower in item.get("native_title", "").lower() or
+                q_lower in item.get("author", "").lower() or
+                q_lower in item.get("description", "").lower()):
+                results.append({
+                    "book_id": bid,
+                    "title": item.get("title", ""),
+                    "author": item.get("author", ""),
+                    "page_number": 1,
+                    "match_count": 1,
+                    "snippet": item.get("description", f"Catalog match: {item.get('title')}")[:120]
+                })
     return results
 
 
@@ -342,9 +446,17 @@ class BooksManager:
         """List summary metadata of all books."""
         return list_books()
 
-    def get(self, id_or_title: str) -> Optional[KhasiBook]:
-        """Get full book instance by ID or title."""
-        return get_book(id_or_title)
+    def get(self, id_or_title: str, auto_download: bool = True) -> Optional[KhasiBook]:
+        """Get full book instance by ID or title (auto-downloads if needed)."""
+        return get_book(id_or_title, auto_download=auto_download)
+
+    def download(self, id_or_title: str) -> Optional[KhasiBook]:
+        """Explicitly download and cache a book from GitHub."""
+        return download_book(id_or_title)
+
+    def download_all(self, max_workers: int = 5, verbose: bool = True) -> int:
+        """Download and cache all 2,598 digitized books from GitHub."""
+        return download_all_books(max_workers=max_workers, verbose=verbose)
 
     def read(self, id_or_title: str, page_number: int = 1) -> Optional[str]:
         """Read specific page text from a book."""

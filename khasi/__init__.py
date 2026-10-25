@@ -235,7 +235,8 @@ from .culture import (
     get_pure_khasi_master_text_path,
     get_pure_khasi_master_jsonl_path,
     search_books,
-
+    download_book,
+    download_all_books,
     total_books,
     total_pages,
     total_words,
@@ -403,7 +404,7 @@ __all__ = [
     "list_kinship_terms", "get_kinship_info", "search_kinship", "describe_matrilineal_system",
     "catalogue", "BibliographyCatalogue", "all_works", "by_genre", "by_author", "by_type",
     "search_works", "get_digitized_works", "catalogue_summary",
-    "books", "KhasiBook", "BookPage", "list_books", "get_book", "get_book_full_text", "get_master_compendium_path", "get_master_jsonl_path", "get_pure_khasi_master_text_path", "get_pure_khasi_master_jsonl_path", "search_books", "total_books", "total_pages", "total_words",
+    "books", "KhasiBook", "BookPage", "list_books", "get_book", "download_book", "download_all_books", "get_book_full_text", "get_master_compendium_path", "get_master_jsonl_path", "get_pure_khasi_master_text_path", "get_pure_khasi_master_jsonl_path", "search_books", "total_books", "total_pages", "total_words",
 
     "folklore", "FolkloreStory", "list_stories", "get_story", "search_folklore", "stories_by_category", "total_stories", "FolkloreManager",
     "songs", "Song", "search_songs", "songs_by_category", "total_songs", "SongManager",

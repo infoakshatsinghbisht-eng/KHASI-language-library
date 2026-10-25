@@ -68,6 +68,6 @@ exclude = ["tests*", "examples*"]
 
 [tool.setuptools.package-data]
 "khasi.lexicon" = ["data/*.json", "data/dialects/*.json"]
-"khasi.culture" = ["data/*.json", "data/books/*.json", "data/folklore/*.json", "data/songs/*.json"]
+"khasi.culture" = ["data/*.json", "data/books/books_index.json", "data/folklore/*.json", "data/songs/*.json"]
 "khasi.voice" = ["data/*.json", "data/*.jsonl", "data/audio/*/*.wav"]
-"khasi.corpus" = ["data/*.json", "data/*.jsonl", "data/bitext/*"]
+

@@ -128,7 +128,8 @@ from .books import (
     get_pure_khasi_master_text_path,
     get_pure_khasi_master_jsonl_path,
     search_books,
-
+    download_book,
+    download_all_books,
     total_books,
     total_pages,
     total_words,

@@ -2,3 +2,5 @@ include README.md
 include LICENSE
 include DOCUMENTATION.md
 recursive-include khasi *.py *.json *.jsonl *.wav *.kha *.en *.tmx
+recursive-exclude khasi/culture/data/books *.json
+include khasi/culture/data/books/books_index.json
